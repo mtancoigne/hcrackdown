@@ -1,0 +1,2279 @@
+ment.
+
+     (A)  "W. Fred Brown, AT&T Vice President for
+Advanced Technical Development, testified May 8  at a
+Washington hearing of the National Telecommunications
+and Information Administration (NTIA), regarding
+Bellcore's GARDEN project.  GARDEN (Generalized
+Automatic Remote Distributed Electronic Network)  is a
+telephone-switch programming tool that makes it possible
+to develop new telecom services, including hold-on-hold
+and customized message transfers,  from any keypad
+terminal, within seconds.   The GARDEN prototype
+combines centrex lines with a minicomputer using UNIX
+operating system software."
+
+     (B)  "Crimson Flash 512 of the Centrex Mobsters
+reports:  D00dz, you wouldn't believe this GARDEN
+bullshit Bellcore's just come up with!   Now you don't even
+need a lousy Commodore to reprogram a switch -- just log
+on to GARDEN as a technician, and you can reprogram
+switches right off the keypad in any public phone booth!
+You can give yourself hold-on-hold and customized
+message transfers, and best of all, the thing is run off
+(notoriously insecure)  centrex lines using -- get this --
+standard UNIX software!  Ha ha ha ha!"
+
+     Message (A), couched in typical techno-
+bureaucratese, appears tedious and almost unreadable.
+(A) scarcely seems threatening or menacing.   Message
+(B), on the other hand, is a dreadful thing, prima facie
+evidence of a dire conspiracy, definitely not the kind of
+thing you want your teenager reading.
+
+     The *information,* however, is identical.  It is
+*public*
+information, presented before the federal government in
+an open hearing.  It is not "secret."  It is not
+"proprietary."
+It is not even "confidential."  On the contrary, the
+development of advanced software systems is a matter of
+great public pride to Bellcore.
+
+     However, when Bellcore publicly announces a project
+of this kind, it expects a certain attitude from the public
+--
+something along the lines of  *gosh wow, you guys are
+great, keep that up, whatever it is*  --  certainly not
+cruel
+mimickry, one-upmanship and outrageous speculations
+about possible security holes.
+
+     Now put yourself in the place of a policeman
+confronted by an outraged parent, or telco official, with a
+copy of Version (B).  This well-meaning citizen, to his
+horror, has discovered a local bulletin-board carrying
+outrageous stuff like (B), which his son is examining with a
+deep and unhealthy interest.   If (B) were printed in a book
+or magazine, you, as an American law enforcement officer,
+would know that it would take a hell of a lot of trouble to
+do
+anything about it;  but it doesn't take technical genius to
+recognize that if there's a computer in your area harboring
+stuff like (B), there's going to be trouble.
+
+     In fact, if you ask around, any computer-literate cop
+will tell you straight out that boards with stuff like (B)
+are
+the *source* of trouble.  And the *worst* source of trouble
+on boards are the ringleaders inventing and spreading
+stuff like (B).  If it weren't for these jokers, there
+wouldn't
+*be* any trouble.
+
+     And Legion of Doom were on boards like nobody
+else.  Plovernet.  The Legion of Doom Board.  The Farmers
+of Doom Board.  Metal Shop.  OSUNY.  Blottoland.
+Private Sector.  Atlantis.  Digital Logic.  Hell Phrozen
+Over.
+
+     LoD members also ran their own boards.  "Silver Spy"
+started his own board, "Catch-22,"  considered one of the
+heaviest around.   So did "Mentor," with his "Phoenix
+Project."   When they didn't run boards themselves, they
+showed up on other people's boards, to brag, boast, and
+strut.  And where they themselves didn't go, their philes
+went, carrying evil knowledge and an even more evil
+attitude.
+
+     As early as 1986, the police were under the vague
+impression that *everyone* in the underground was
+Legion of Doom.   LoD was never that large --
+considerably smaller than either "Metal
+Communications" or "The Administration," for instance --
+but LoD got tremendous press.  Especially in *Phrack,*
+which at times read like an LoD fan magazine; and
+*Phrack* was everywhere, especially in the offices of telco
+security.   You couldn't *get* busted as a phone phreak, a
+hacker, or even a lousy codes kid or warez dood, without
+the cops asking if you were LoD.
+
+     This was a difficult charge to deny, as LoD never
+distributed membership badges or laminated ID cards.  If
+they had, they would likely have died out quickly, for
+turnover in their membership was considerable.  LoD was
+less a high-tech street-gang than an ongoing state-of-
+mind.  LoD was the Gang That Refused to Die.   By 1990,
+LoD had *ruled* for ten years, and it seemed *weird* to
+police that they were continually busting people who were
+only sixteen years old.   All these teenage small-timers
+were pleading the tiresome hacker litany  of "just curious,
+no criminal intent."  Somewhere at the center of this
+conspiracy there had to be some serious adult
+masterminds, not this seemingly endless supply of myopic
+suburban white kids with high SATs and funny haircuts.
+
+     There was no question that most any American
+hacker arrested would "know" LoD.  They knew the
+handles of contributors to *LoD Tech Journal,*  and were
+likely to have learned their craft through LoD boards and
+LoD activism.  But they'd never met anyone from LoD.
+Even some of the rotating cadre who were actually and
+formally "in LoD" knew one another only by board-mail
+and pseudonyms.   This was a highly unconventional
+profile for a criminal conspiracy.  Computer networking,
+and the rapid evolution of the digital underground,  made
+the situation very diffuse and confusing.
+
+     Furthermore, a big reputation in the digital
+underground did not coincide with one's willingness to
+commit "crimes."   Instead, reputation was based on
+cleverness and technical mastery.  As a result, it often
+seemed that the *heavier* the hackers were, the *less*
+likely they were to have committed any kind of common,
+easily prosecutable crime.   There were some hackers who
+could really steal.  And there were hackers who could
+really hack.  But the two groups didn't seem to overlap
+much, if at all.   For instance, most people in the
+underground looked up to "Emmanuel Goldstein" of
+*2600* as a hacker demigod.  But Goldstein's publishing
+activities were entirely legal -- Goldstein just printed
+dodgy stuff and talked about politics, he didn't even hack.
+When you came right down to it, Goldstein spent half his
+time complaining that computer security *wasn't strong
+enough* and ought to be drastically improved across the
+board!
+
+     Truly heavy-duty hackers, those with serious
+technical skills who had earned the respect of the
+underground,  never stole money or abused credit cards.
+Sometimes they might abuse phone-codes -- but often,
+they seemed to get all the free phone-time they wanted
+without leaving a trace of any kind.
+
+     The best hackers, the most powerful and technically
+accomplished, were not professional fraudsters.   They
+raided computers habitually, but wouldn't alter anything,
+or damage anything.  They didn't even steal computer
+equipment -- most had day-jobs messing with hardware,
+and could get all the cheap secondhand equipment they
+wanted.   The hottest hackers, unlike the teenage
+wannabes,  weren't snobs about fancy or expensive
+hardware.  Their machines tended to be raw second-hand
+digital hot-rods full of custom add-ons that they'd cobbled
+together out of chickenwire, memory chips and spit.  Some
+were adults, computer software writers and consultants by
+trade, and making quite good livings at it.  Some of them
+*actually worked for the phone company* --  and for those,
+the "hackers" actually found under the skirts of Ma Bell,
+there would be little mercy in 1990.
+
+      It has long been an article of faith in the
+underground that the "best" hackers never get caught.
+They're far too smart, supposedly.  They never get caught
+because they never boast, brag, or strut.   These demigods
+may read underground boards (with a condescending
+smile), but they never say anything there.   The "best"
+hackers, according to legend, are adult computer
+professionals, such as mainframe system administrators,
+who already know the ins and outs of their particular
+brand of security.   Even the "best" hacker can't break in
+to
+just any computer at random: the knowledge of security
+holes is too specialized, varying widely with different
+software and hardware.  But if people are employed to run,
+say, a UNIX mainframe or a VAX/VMS machine, then
+they tend to learn security from the inside out.  Armed
+with this knowledge, they can look into most anybody
+else's UNIX or VMS without much trouble or risk, if they
+want to.   And, according to hacker legend, of course they
+want to, so of course they do.   They just don't make a big
+deal of what they've done.  So nobody ever finds out.
+
+     It is also an article of faith in the underground that
+professional telco people "phreak" like crazed weasels.
+*Of course* they spy on Madonna's phone calls -- I mean,
+*wouldn't you?*  Of course they give themselves free long-
+distance -- why the hell should *they* pay, they're running
+the whole shebang!
+
+     It has, as a third matter, long been an article of
+faith
+that any hacker caught can escape serious punishment if
+he confesses *how he did it.*  Hackers seem to believe
+that governmental agencies and large corporations are
+blundering about in cyberspace like eyeless jellyfish or
+cave salamanders.  They feel that these large but
+pathetically stupid organizations will proffer up genuine
+gratitude, and perhaps even a security post and a big
+salary, to the hot-shot intruder who will deign to reveal to
+them the supreme genius of his modus operandi.
+
+     In the case of longtime LoD member "Control-C,"
+this actually happened, more or less.   Control-C had led
+Michigan Bell a merry chase, and when captured in 1987,
+he turned out to be a bright and apparently physically
+harmless young fanatic, fascinated by phones.   There was
+no chance in hell that Control-C would actually repay the
+enormous and largely theoretical sums in long-distance
+service that he had accumulated from Michigan Bell.   He
+could always be indicted for fraud or computer-intrusion,
+but there seemed little real point in this -- he hadn't
+physically damaged any computer.  He'd just plead guilty,
+and he'd likely get the usual slap-on-the-wrist, and in the
+meantime it would be a big hassle for Michigan Bell just
+to bring up the case.  But if kept on the payroll, he might
+at
+least keep his fellow hackers at bay.
+
+     There were uses for him.  For instance, a contrite
+Control-C was featured on Michigan Bell internal posters,
+sternly warning employees to shred their trash.   He'd
+always gotten most of his best inside info from "trashing" -
+-
+raiding telco dumpsters, for useful data indiscreetly
+thrown away.   He signed these posters, too.  Control-C had
+become something like a Michigan Bell mascot.  And in
+fact, Control-C *did* keep other hackers at bay.  Little
+hackers were quite scared of Control-C and his heavy-duty
+Legion of Doom friends.   And big hackers *were* his
+friends and didn't want to screw up his cushy situation.
+
+     No matter what one might say of LoD, they did stick
+together.   When "Wasp," an apparently genuinely
+malicious New York hacker, began crashing Bellcore
+machines,  Control-C received swift volunteer help from
+"the Mentor" and the Georgia LoD wing  made up of "The
+Prophet," "Urvile," and "Leftist."   Using Mentor's Phoenix
+Project board to coordinate, the Doomsters helped telco
+security to trap Wasp, by luring him into a machine with a
+tap and line-trace installed.  Wasp lost.  LoD won!  And
+my, did they brag.
+
+       Urvile, Prophet and Leftist were well-qualified for
+this activity, probably more so even than the quite
+accomplished Control-C.  The Georgia boys knew all about
+phone switching-stations.  Though relative johnny-come-
+latelies in the Legion of Doom, they were considered some
+of LoD's heaviest guys, into the hairiest systems around.
+They had the good fortune to live in or near Atlanta, home
+of the sleepy and apparently tolerant BellSouth RBOC.
+
+     As RBOC security went, BellSouth were "cake."   US
+West (of Arizona, the Rockies and the Pacific Northwest)
+were tough and aggressive, probably the heaviest RBOC
+around.  Pacific Bell, California's PacBell, were sleek,
+high-
+tech, and longtime veterans of the LA phone-phreak wars.
+NYNEX had the misfortune to run the New York City area,
+and were warily prepared for most anything.   Even
+Michigan Bell, a division of the Ameritech RBOC, at least
+had the elementary sense to hire their own hacker as a
+useful scarecrow.  But BellSouth, even though their
+corporate P.R.  proclaimed them to have "Everything You
+Expect From a Leader," were pathetic.
+
+     When rumor about LoD's mastery of Georgia's
+switching network got around to BellSouth through
+Bellcore and telco security scuttlebutt, they at first
+refused
+to believe it.   If you paid serious attention to every
+rumor
+out and about these hacker kids, you would hear all kinds
+of wacko saucer-nut nonsense:  that the National Security
+Agency monitored all American phone calls, that the CIA
+and DEA tracked traffic on bulletin-boards with word-
+analysis programs, that the Condor could start World
+War III from a payphone.
+
+     If there were hackers into BellSouth switching-
+stations, then how come nothing had happened?  Nothing
+had been hurt.  BellSouth's machines weren't crashing.
+BellSouth wasn't suffering especially badly from fraud.
+BellSouth's customers weren't complaining.  BellSouth
+was headquartered in Atlanta, ambitious metropolis of the
+new high-tech Sunbelt; and BellSouth was upgrading its
+network by leaps and bounds, digitizing the works left right
+and center.   They could hardly be considered sluggish or
+naive.  BellSouth's technical expertise was second to none,
+thank you kindly.
+
+     But then came the Florida business.
+
+     On June 13, 1989, callers to the Palm Beach County
+Probation Department, in Delray Beach, Florida,  found
+themselves involved in a remarkable discussion with a
+phone-sex worker named "Tina" in New York State.
+Somehow, *any* call to this probation office near Miami
+was instantly and magically transported across state lines,
+at no extra charge to the user, to a pornographic phone-
+sex hotline hundreds of miles away!
+
+     This practical joke may seem utterly hilarious at first
+hearing, and indeed there was a good deal of chuckling
+about it in phone phreak circles, including the Autumn
+1989 issue of *2600.*  But for Southern Bell  (the division
+of
+the BellSouth RBOC supplying local service for Florida,
+Georgia, North Carolina and South Carolina),  this was a
+smoking gun.  For the first time ever,  a computer intruder
+had broken into a BellSouth central office switching
+station and re-programmed it!
+
+     Or so BellSouth thought in June 1989.  Actually, LoD
+members had been frolicking harmlessly in BellSouth
+switches since September 1987.  The stunt of June 13 --
+call-forwarding a number through manipulation of a
+switching station -- was child's play for hackers as
+accomplished as the Georgia wing of LoD.  Switching calls
+interstate sounded like a big deal, but it took only four
+lines of code to accomplish this.    An easy, yet more
+discreet, stunt, would be to call-forward another number to
+your own house.  If you were careful and considerate, and
+changed the software back later, then not a soul would
+know.  Except you.  And whoever you had bragged to about
+it.
+
+     As for BellSouth, what they didn't know wouldn't hurt
+them.
+
+     Except now somebody had blown the whole thing
+wide open, and BellSouth knew.
+
+     A now alerted and considerably paranoid BellSouth
+began searching switches right and left for signs of
+impropriety, in that hot summer of 1989.  No fewer than
+forty-two BellSouth employees were put on 12-hour shifts,
+twenty-four hours a day, for two solid months, poring over
+records and monitoring computers for any sign of phony
+access.  These forty-two overworked experts were known as
+BellSouth's  "Intrusion Task Force."
+
+       What the investigators found astounded them.
+Proprietary telco databases had been manipulated:
+phone numbers had been created out of thin air, with no
+users' names and no addresses.  And perhaps worst of all,
+no charges and no records of use.   The new digital
+ReMOB  (Remote Observation)  diagnostic feature had
+been extensively tampered with -- hackers had learned to
+reprogram ReMOB software, so that they could listen in
+on any switch-routed call at their leisure!   They were
+using
+telco property to *spy!*
+
+      The electrifying news went out throughout law
+enforcement in 1989.  It had never really occurred to
+anyone at BellSouth that their prized and brand-new
+digital switching-stations could be *re-programmed.*
+People seemed utterly amazed that anyone could have
+the nerve.   Of course these switching stations were
+"computers," and everybody knew hackers liked to "break
+into computers:"   but telephone people's computers were
+*different* from normal people's computers.
+
+      The exact reason *why* these computers were
+"different" was rather ill-defined.  It certainly wasn't the
+extent of their security.  The security on these BellSouth
+computers was lousy;  the AIMSX computers, for instance,
+didn't even have passwords.   But there was no question
+that BellSouth strongly *felt* that their computers were
+very different indeed.  And if there were some criminals
+out there who had not gotten that message, BellSouth was
+determined to see that message taught.
+
+     After all, a 5ESS switching station was no mere
+bookkeeping system for some local chain of florists.
+Public service depended on these stations.   Public
+*safety* depended on these stations.
+
+     And hackers, lurking in there call-forwarding or
+ReMobbing,  could spy on anybody in the local area!
+They could spy on telco officials!  They could spy on police
+stations!  They could spy on local offices of the Secret
+Service....
+
+     In 1989, electronic cops and hacker-trackers began
+using scrambler-phones and secured lines.  It only made
+sense.  There was no telling who was into those systems.
+Whoever they were, they sounded scary.   This was some
+new level of antisocial daring.  Could be West German
+hackers, in the pay of the KGB.   That too had seemed a
+weird and farfetched notion, until Clifford Stoll had poked
+and prodded a sluggish Washington law-enforcement
+bureaucracy into investigating a computer intrusion that
+turned out to be exactly that -- *hackers, in the pay of the
+KGB!*    Stoll, the  systems manager for an Internet lab in
+Berkeley California, had ended up on the front page of the
+*New York  Times,*  proclaimed a national  hero in the
+first true story of international computer espionage.
+Stoll's counterspy efforts, which he related in a
+bestselling
+book, *The Cuckoo's Egg,*  in 1989, had established the
+credibility of 'hacking' as a possible threat to national
+security.  The United States Secret Service doesn't mess
+around when it suspects a possible action by a foreign
+intelligence apparat.
+
+     The Secret Service scrambler-phones and secured
+lines put a tremendous kink in law enforcement's ability to
+operate freely; to get the word out, cooperate, prevent
+misunderstandings.   Nevertheless, 1989 scarcely seemed
+the time for half-measures.  If the police and Secret
+Service themselves were not operationally secure, then
+how could they reasonably demand measures of security
+from private enterprise?  At least, the inconvenience
+made people aware of the seriousness  of the threat.
+
+     If there was a final spur needed to get the police off
+the dime, it came in the realization that the emergency
+911 system was vulnerable.   The 911 system has its own
+specialized software, but it is run on the same digital
+switching systems as the rest of the telephone network.
+911 is not physically different from normal telephony.  But
+it is certainly culturally  different, because this is the
+area
+of telephonic cyberspace reserved for the police and
+emergency services.
+
+     Your average policeman may not know much about
+hackers or phone-phreaks.  Computer people are weird;
+even computer *cops*  are rather weird; the stuff they do is
+hard to figure out.   But a threat to the 911 system is
+anything but an abstract threat.  If the 911 system goes,
+people can die.
+
+     Imagine being in a car-wreck, staggering to a phone-
+booth, punching 911 and hearing "Tina" pick up the
+phone-sex line somewhere in New York!   The situation's
+no longer comical, somehow.
+
+      And was it possible?  No question.  Hackers had
+attacked 911 systems before.  Phreaks can max-out 911
+systems just by siccing a bunch of computer-modems on
+them in tandem, dialling them over and over until they
+clog.  That's very crude and low-tech, but it's still a
+serious
+business.
+
+     The time had come for action.  It was time to take
+stern measures with the underground.  It was time to start
+picking up the dropped threads, the loose edges, the bits
+of braggadocio here and there; it was time to get on the
+stick and start putting serious casework together.  Hackers
+weren't "invisible."  They *thought*  they were invisible;
+but the truth was, they had just been tolerated too long.
+
+     Under sustained police attention in the summer of
+'89, the digital underground began to unravel as never
+before.
+
+     The first big break in the case came very early on:
+July 1989, the following month.  The perpetrator of the
+"Tina" switch was caught, and confessed.  His name was
+"Fry Guy," a 16-year-old in Indiana.  Fry Guy had been a
+very wicked young man.
+
+     Fry Guy had earned his handle from a stunt involving
+French fries.  Fry Guy had filched the log-in of a local
+MacDonald's manager and had logged-on to the
+MacDonald's mainframe on the Sprint Telenet system.
+Posing as the manager, Fry Guy had altered MacDonald's
+records, and given some teenage hamburger-flipping
+friends of his, generous raises.  He had not been caught.
+
+     Emboldened by success, Fry Guy moved on to credit-
+card abuse.  Fry Guy was quite an accomplished talker;
+with a gift for "social engineering."   If you can do
+"social
+engineering"  -- fast-talk, fake-outs, impersonation,
+conning, scamming -- then card abuse comes easy.
+(Getting away with it in the long run is another question).
+
+     Fry Guy had run across "Urvile" of the Legion of
+Doom on the ALTOS Chat board in Bonn, Germany.
+ALTOS Chat was a sophisticated board, accessible
+through globe-spanning computer networks like BITnet,
+Tymnet, and Telenet.    ALTOS was much frequented by
+members of Germany's  Chaos Computer Club.  Two
+Chaos hackers who hung out on ALTOS, "Jaeger" and
+"Pengo," had been the central villains of Clifford Stoll's
+CUCKOO'S EGG case:  consorting in East Berlin with a
+spymaster from the KGB, and breaking into American
+computers for hire, through the Internet.
+
+     When LoD members learned the story of Jaeger's
+depredations from Stoll's book, they were rather less than
+impressed, technically speaking.  On LoD's own favorite
+board of the moment, "Black Ice," LoD members bragged
+that they themselves could have done all the Chaos break-
+ins in a week flat!  Nevertheless,  LoD were grudgingly
+impressed by the Chaos rep, the sheer hairy-eyed daring
+of hash-smoking anarchist hackers who had rubbed
+shoulders with the fearsome big-boys of international
+Communist espionage.  LoD members sometimes traded
+bits of knowledge with friendly German hackers on ALTOS
+-- phone numbers for vulnerable VAX/VMS computers in
+Georgia, for instance.  Dutch and British phone phreaks,
+and the Australian clique of "Phoenix," "Nom," and
+"Electron," were ALTOS regulars, too.  In underground
+circles, to hang out on ALTOS was considered the sign of
+an elite dude, a sophisticated hacker of the international
+digital jet-set.
+
+     Fry Guy quickly learned how to raid information from
+credit-card consumer-reporting agencies.  He had over a
+hundred stolen credit-card numbers in his notebooks, and
+upwards of a thousand swiped long-distance access codes.
+He knew how to get onto Altos, and how to talk the talk of
+the underground convincingly.  He now wheedled
+knowledge of switching-station tricks from Urvile on the
+ALTOS system.
+
+     Combining these two forms of knowledge enabled
+Fry Guy to bootstrap his way up to a new form of wire-
+fraud.  First, he'd snitched credit card numbers from
+credit-company computers.  The data he copied included
+names, addresses and phone numbers of the random
+card-holders.
+
+     Then Fry Guy, impersonating a card-holder, called up
+Western Union and asked for a cash advance on "his"
+credit card.  Western Union, as a security guarantee,
+would call the customer back, at home, to verify the
+transaction.
+
+     But, just as he had switched the Florida probation
+office to "Tina" in New York,  Fry Guy switched the card-
+holder's number to a local pay-phone.  There he would
+lurk in wait, muddying his trail by routing and re-routing
+the call, through switches as far away as Canada.   When
+the call came through, he would boldly "social-engineer,"
+or con, the Western Union people, pretending to be the
+legitimate card-holder.  Since he'd answered the proper
+phone number, the deception was not very hard.
+Western Union's money was then shipped to a
+confederate of Fry Guy's in his home town in Indiana.
+
+     Fry Guy and his cohort, using LoD techniques, stole
+six thousand dollars from Western Union between
+December 1988 and July 1989.  They also dabbled in
+ordering delivery of stolen goods through card-fraud.  Fry
+Guy was intoxicated with success.  The sixteen-year-old
+fantasized wildly to hacker rivals, boasting that he'd used
+rip-off money to hire  himself a big limousine, and had
+driven out-of-state with a groupie from his favorite heavy-
+metal band, Motley Crue.
+
+     Armed with knowledge, power, and a gratifying
+stream of free money, Fry Guy now took it upon himself to
+call local representatives of Indiana Bell security, to
+brag,
+boast, strut, and utter tormenting warnings that his
+powerful friends in the notorious Legion of Doom could
+crash the national telephone network.  Fry Guy even
+named a date for the scheme:  the Fourth of July, a
+national holiday.
+
+     This egregious example of the begging-for-arrest
+syndrome was shortly followed by Fry Guy's arrest.  After
+the Indiana telephone company figured out who he was,
+the Secret Service had DNRs -- Dialed Number
+Recorders -- installed on his home phone lines.  These
+devices are not taps, and can't record the substance of
+phone calls, but they do record the phone numbers of all
+calls going in and out.   Tracing these numbers showed Fry
+Guy's long-distance code fraud, his extensive ties to pirate
+bulletin boards, and numerous personal calls to his LoD
+friends in Atlanta.   By July 11, 1989, Prophet, Urvile and
+Leftist also had Secret Service DNR "pen registers"
+installed on their own lines.
+
+     The Secret Service showed up in force at Fry Guy's
+house on July 22, 1989, to the horror of his unsuspecting
+parents.  The raiders were led by a special agent from the
+Secret Service's Indianapolis office.   However, the raiders
+were accompanied and advised by Timothy M. Foley of
+the Secret Service's Chicago office (a gentleman about
+whom we will soon be hearing a great deal).
+
+     Following federal computer-crime techniques that
+had been standard since the early 1980s, the Secret
+Service searched the house thoroughly, and seized all of
+Fry Guy's electronic equipment and notebooks.   All Fry
+Guy's equipment went out the door in the custody of the
+Secret Service, which put a swift end to his depredations.
+
+     The USSS interrogated Fry Guy at length.  His case
+was put in the charge of Deborah Daniels, the federal US
+Attorney for the Southern District of Indiana.  Fry Guy was
+charged with eleven counts of computer fraud,
+unauthorized computer access, and wire fraud.   The
+evidence was thorough and irrefutable.  For his part, Fry
+Guy blamed his corruption on the Legion of Doom and
+offered to testify against them.
+
+     Fry Guy insisted that the Legion intended to crash
+the phone system on a national holiday.   And when AT&T
+crashed on Martin Luther King Day, 1990, this lent a
+credence to his claim that genuinely alarmed telco
+security and the Secret Service.
+
+     Fry Guy eventually pled guilty on May 31, 1990.  On
+September 14, he was sentenced to forty-four months'
+probation and  four hundred hours' community service.
+He could have had it much worse; but it made sense to
+prosecutors to take it easy on this teenage minor, while
+zeroing in on the notorious kingpins of the Legion of
+Doom.
+
+     But the case against LoD had nagging flaws.
+Despite the best effort of investigators, it was impossible
+to prove that the Legion had crashed the phone system on
+January 15, because they, in fact, hadn't done so.  The
+investigations of 1989 did show that certain members of
+the Legion of Doom had achieved unprecedented power
+over the telco switching stations, and that they were in
+active conspiracy to obtain more power yet.  Investigators
+were privately convinced that the Legion of Doom
+intended to do awful things with this knowledge, but mere
+evil intent was not enough to put them in jail.
+
+        And although the Atlanta Three -- Prophet, Leftist,
+and especially Urvile -- had taught Fry Guy plenty, they
+were not themselves credit-card fraudsters.  The only
+thing they'd "stolen" was long-distance service -- and since
+they'd done much of that through phone-switch
+manipulation, there was no easy way to judge how much
+they'd "stolen," or whether this practice was even "theft"
+of
+any easily recognizable kind.
+
+       Fry Guy's theft of long-distance codes had cost the
+phone companies plenty.  The theft of long-distance
+service may be a fairly theoretical "loss,"  but it costs
+genuine money and genuine time to delete all those
+stolen codes, and to re-issue new codes to the innocent
+owners of those corrupted codes.  The owners of the codes
+themselves are victimized, and lose time and money and
+peace of mind in the hassle.   And then there were the
+credit-card victims to deal with, too, and Western Union.
+When it came to rip-off, Fry Guy was far more of a thief
+than LoD.  It was only when it came to actual computer
+expertise that Fry Guy was small potatoes.
+
+     The Atlanta Legion thought most "rules" of
+cyberspace were for rodents and losers, but they *did*
+have rules.  *They never crashed anything, and they never
+took money.*   These were rough rules-of-thumb, and
+rather dubious principles when it comes to the ethical
+subtleties of cyberspace, but they enabled the Atlanta
+Three to operate with a relatively clear conscience (though
+never with peace of mind).
+
+     If you didn't hack for money, if you weren't robbing
+people of actual funds -- money in the bank, that is --
+then
+nobody *really* got hurt, in LoD's opinion.  "Theft of
+service" was a bogus issue, and "intellectual property" was
+a bad joke.   But LoD had only elitist contempt for rip-off
+artists, "leechers," thieves.   They considered themselves
+clean.  In their opinion, if you didn't smash-up or crash
+any
+systems  -- (well, not on purpose, anyhow -- accidents can
+happen, just ask Robert Morris)  then it was very unfair to
+call you a "vandal" or a "cracker."  When you were
+hanging out on-line with your "pals" in telco security, you
+could face them down from the higher plane of hacker
+morality.  And you could mock the police from the
+supercilious heights of your hacker's quest for pure
+knowledge.
+
+      But from the point of view of law enforcement and
+telco security, however, Fry Guy was not really dangerous.
+The Atlanta Three *were* dangerous.  It wasn't the crimes
+they were committing, but the *danger,*   the potential
+hazard, the sheer *technical power*  LoD had
+accumulated, that had made the situation untenable.
+
+     Fry Guy was not LoD.  He'd never laid eyes on
+anyone in LoD; his only contacts with them had been
+electronic.  Core members of the Legion of Doom tended
+to meet physically for conventions every year or so, to get
+drunk, give each other the hacker high-sign, send out for
+pizza and ravage hotel suites.  Fry Guy had never done any
+of this.   Deborah Daniels assessed Fry Guy accurately as
+"an LoD wannabe."
+
+     Nevertheless Fry Guy's crimes would be directly
+attributed to LoD in much future police propaganda.  LoD
+would be described as "a closely knit group" involved in
+"numerous illegal activities" including "stealing and
+modifying individual credit histories," and "fraudulently
+obtaining money and property."  Fry Guy did this, but the
+Atlanta Three didn't; they simply weren't into theft, but
+rather intrusion.   This caused a strange kink in the
+prosecution's strategy.  LoD were accused of
+"disseminating information about attacking computers to
+other computer hackers in an effort to shift the focus of
+law enforcement to those other hackers and away from the
+Legion of Doom."
+
+     This last accusation (taken directly from a press
+release by the Chicago Computer Fraud and Abuse Task
+Force) sounds particularly far-fetched.  One might
+conclude at this point that investigators would have been
+well-advised to go ahead and "shift their focus" from the
+"Legion of Doom."   Maybe they *should* concentrate on
+"those other hackers" -- the ones who were actually
+stealing money and physical objects.
+
+     But the Hacker Crackdown of 1990 was not a simple
+policing action.  It wasn't meant just to walk the beat in
+cyberspace -- it was a *crackdown,* a deliberate attempt to
+nail the core of the operation, to send a dire and potent
+message that would settle the hash of the digital
+underground for good.
+
+     By this reasoning, Fry Guy wasn't much more than
+the electronic equivalent of a cheap streetcorner dope
+dealer.  As long as the masterminds of LoD were still
+flagrantly operating, pushing their mountains of illicit
+knowledge right and left, and whipping up enthusiasm for
+blatant lawbreaking, then there would be an *infinite
+supply*  of Fry Guys.
+
+         Because LoD were flagrant, they had left trails
+everywhere, to be picked up by law enforcement in New
+York, Indiana, Florida, Texas, Arizona, Missouri, even
+Australia.  But 1990's war on the Legion of Doom was led
+out of Illinois, by the Chicago Computer Fraud and Abuse
+Task Force.
+
+                         #
+
+
+       The Computer Fraud and Abuse Task Force, led by
+federal prosecutor William J. Cook, had started in 1987
+and had swiftly become one of the most aggressive local
+"dedicated computer-crime units."  Chicago was a natural
+home for such a group.  The world's first computer
+bulletin-board system had been invented in Illinois.  The
+state of Illinois had some of the nation's first and
+sternest
+computer crime laws.   Illinois State Police were markedly
+alert to the possibilities of white-collar crime and
+electronic fraud.
+
+     And William J. Cook in particular was a rising star in
+electronic crime-busting.   He and his fellow federal
+prosecutors at the U.S. Attorney's office in Chicago had a
+tight relation with the Secret Service, especially go-
+getting
+Chicago-based agent Timothy  Foley.  While Cook and his
+Department of Justice colleagues plotted strategy, Foley
+was their man on the street.
+
+     Throughout the 1980s, the federal government had
+given prosecutors an armory of new, untried legal tools
+against computer crime.  Cook and his colleagues were
+pioneers in the use of these new statutes in the real-life
+cut-and-thrust of the federal courtroom.
+
+     On October 2, 1986, the US Senate had passed the
+"Computer Fraud and Abuse Act" unanimously, but there
+were pitifully few convictions under this statute.  Cook's
+group took their name from this statute, since they were
+determined to transform this powerful but rather
+theoretical Act of Congress into a real-life engine of legal
+destruction against computer fraudsters and scofflaws.
+
+     It was not a question of merely discovering crimes,
+investigating them, and then trying and punishing their
+perpetrators.   The Chicago unit, like most everyone else in
+the business, already *knew* who the bad guys were:  the
+Legion of Doom and the writers and editors of *Phrack.*
+The task at hand was to find some legal means of putting
+these characters away.
+
+     This approach might seem a bit dubious, to someone
+not acquainted with the gritty realities of prosecutorial
+work.  But prosecutors don't put people in jail for crimes
+they have committed; they put people in jail for crimes
+they have committed *that can be proved in court.*
+Chicago federal police put Al Capone in prison for
+income-tax fraud.   Chicago is a big town, with a rough-
+and-ready bare-knuckle tradition on both sides of the law.
+
+     Fry Guy had broken the case wide open and alerted
+telco security to the scope of the problem.   But Fry Guy's
+crimes would not put the Atlanta Three behind bars --
+much less the wacko underground journalists of *Phrack.*
+So on July 22, 1989, the same day that Fry Guy was raided
+in Indiana, the Secret Service descended upon the Atlanta
+Three.
+
+     This was likely inevitable.  By the summer of 1989, law
+enforcement were closing in on the Atlanta Three from at
+least six directions at once.   First, there were the leads
+from Fry Guy, which had led to the DNR registers being
+installed on the lines of the Atlanta Three.  The DNR
+evidence alone would have finished them off, sooner or
+later.
+
+     But second, the Atlanta lads were already well-known
+to Control-C and his telco security sponsors.  LoD's
+contacts with telco security had made them overconfident
+and even more boastful than usual; they felt that they had
+powerful friends in high places, and that they were being
+openly tolerated by telco security.  But BellSouth's
+Intrusion Task Force were hot on the trail of LoD and
+sparing no effort or expense.
+
+     The Atlanta Three had also been identified by name
+and listed on the extensive anti-hacker files maintained,
+and retailed for pay, by private security operative John
+Maxfield of Detroit.  Maxfield, who had extensive ties to
+telco security and many informants in the underground,
+was a bete noire of the *Phrack* crowd, and the dislike was
+mutual.
+
+     The Atlanta Three themselves had written articles for
+*Phrack.*  This boastful act could not possibly escape telco
+and law enforcement attention.
+
+     "Knightmare," a high-school age hacker from
+Arizona,  was a close friend and disciple of Atlanta LoD,
+but he had been nabbed by the formidable Arizona
+Organized Crime and Racketeering Unit.   Knightmare
+was on some of LoD's favorite boards -- "Black Ice" in
+particular -- and was privy to their secrets.  And to have
+Gail Thackeray, the Assistant Attorney General of Arizona,
+on one's trail was a dreadful peril for any hacker.
+
+     And perhaps worst of all, Prophet had committed a
+major blunder by passing an illicitly copied BellSouth
+computer-file to Knight Lightning, who had published it in
+*Phrack.*   This, as we will see, was an act of dire
+consequence for almost everyone concerned.
+
+     On July 22, 1989, the Secret Service showed up at the
+Leftist's house, where he lived with his parents.  A massive
+squad of some twenty officers surrounded the building:
+Secret Service, federal marshals, local police, possibly
+BellSouth telco security; it was hard to tell in the crush.
+Leftist's dad, at work in his basement office, first noticed
+a
+muscular stranger in plain clothes crashing through the
+back yard with a drawn pistol.   As more strangers poured
+into the house, Leftist's dad naturally assumed there was
+an armed robbery in progress.
+
+     Like most hacker parents, Leftist's mom and dad had
+only the vaguest notions of what their son had been up to
+all this time.   Leftist had a day-job repairing computer
+hardware.  His obsession with computers seemed a bit
+odd, but harmless enough, and likely to produce a well-
+paying career.  The sudden, overwhelming raid left
+Leftist's parents traumatized.
+
+     The Leftist himself had been out after work with his
+co-workers, surrounding a couple of pitchers of
+margaritas.  As he came trucking on tequila-numbed feet
+up the pavement, toting a bag full of floppy-disks, he
+noticed a large number of unmarked cars parked in his
+driveway.  All the cars sported tiny microwave antennas.
+
+     The Secret Service had knocked the front door off its
+hinges, almost flattening his Mom.
+
+     Inside, Leftist was greeted by Special Agent James
+Cool of the US Secret Service, Atlanta office.  Leftist was
+flabbergasted.  He'd never met a Secret Service agent
+before.   He could not imagine that he'd ever done
+anything worthy of federal attention.  He'd always figured
+that if his activities became intolerable, one of his
+contacts
+in telco security would give him a private phone-call and
+tell him to knock it off.
+
+     But now Leftist was pat-searched for weapons by grim
+professionals, and his bag of floppies was quickly seized.
+He and his parents were all shepherded into separate
+rooms and grilled at length as a score of officers scoured
+their home for anything electronic.
+
+     Leftist was horrified as his treasured IBM AT
+personal computer with its forty-meg hard disk, and his
+recently purchased 80386 IBM-clone with a  whopping
+hundred-meg hard disk, both went swiftly out the door in
+Secret Service custody.  They also seized all his disks, all
+his notebooks, and a tremendous booty in dogeared telco
+documents that Leftist had snitched out of trash
+dumpsters.
+
+     Leftist figured the whole thing for a big
+misunderstanding.  He'd never been into *military*
+computers.  He wasn't a *spy* or a *Communist.*  He  was
+just a good ol' Georgia hacker, and now he just wanted all
+these people out of the house.  But it seemed they
+wouldn't go until he made some kind of statement.
+
+     And so, he levelled with them.
+
+     And that, Leftist said later from his federal prison
+camp in Talladega, Alabama, was a big mistake.
+
+     The Atlanta area was unique, in that it had three
+members of the Legion of Doom who actually occupied
+more or less the same physical  locality.  Unlike the rest
+of
+LoD, who tended to associate by phone and computer,
+Atlanta LoD actually *were* "tightly knit."  It was no real
+surprise that the Secret Service agents apprehending
+Urvile at the computer-labs at Georgia Tech, would
+discover Prophet with him as well.
+
+     Urvile, a 21-year-old Georgia Tech student in polymer
+chemistry, posed quite a puzzling case for law
+enforcement.  Urvile --  also known as "Necron 99," as well
+as other handles, for he tended to change his cover-alias
+about once a month -- was both an accomplished hacker
+and a fanatic simulation-gamer.
+
+     Simulation games are an unusual hobby; but then
+hackers are unusual people, and their favorite pastimes
+tend to be somewhat out of the ordinary.  The best-known
+American simulation game is probably "Dungeons &
+Dragons," a multi-player parlor entertainment played with
+paper, maps, pencils, statistical tables and a variety of
+oddly-shaped dice.  Players pretend to be heroic
+characters exploring a wholly-invented fantasy world.  The
+fantasy worlds of simulation gaming are commonly
+pseudo-medieval, involving swords and sorcery -- spell-
+casting wizards, knights in armor, unicorns and dragons,
+demons and goblins.
+
+     Urvile and his fellow gamers  preferred their
+fantasies highly technological.   They made use of a game
+known as "G.U.R.P.S.,"  the "Generic Universal Role
+Playing System," published by a company called Steve
+Jackson Games (SJG).
+
+     "G.U.R.P.S."  served as a framework for creating  a
+wide variety of artificial fantasy worlds.  Steve Jackson
+Games published  a smorgasboard of books, full of
+detailed information and gaming hints, which were used
+to flesh-out many different fantastic backgrounds for  the
+basic GURPS framework.  Urvile made extensive use of
+two SJG books called *GURPS High-Tech*  and *GURPS
+Special Ops.*
+
+     In the artificial fantasy-world of *GURPS Special
+Ops,*  players entered a modern  fantasy of intrigue and
+international espionage.   On beginning the game, players
+started small and powerless, perhaps as minor-league CIA
+agents or penny-ante arms dealers.   But as players
+persisted through a series of game sessions (game
+sessions generally lasted for hours, over long, elaborate
+campaigns that might be pursued for months on end)
+then they would achieve new skills, new knowledge, new
+power.  They would acquire and hone new abilities, such as
+marksmanship, karate, wiretapping, or Watergate
+burglary.  They could also win various kinds of imaginary
+booty, like Berettas, or martini shakers, or fast cars with
+ejection seats and machine-guns under the headlights.
+
+     As might be imagined from the complexity of these
+games, Urvile's gaming notes were very detailed and
+extensive.  Urvile was a "dungeon-master," inventing
+scenarios for his fellow gamers, giant simulated
+adventure-puzzles for his friends to unravel.   Urvile's
+game notes covered dozens of pages with all sorts of exotic
+lunacy, all about ninja raids on Libya and break-ins on
+encrypted Red Chinese supercomputers.   His notes were
+written on scrap-paper and kept in loose-leaf binders.
+
+     The handiest scrap paper around Urvile's college
+digs were the many pounds of BellSouth printouts and
+documents that he had snitched out of telco dumpsters.
+His notes were written on the back of misappropriated
+telco property.   Worse yet, the gaming notes were
+chaotically interspersed with Urvile's hand-scrawled
+records involving  *actual computer intrusions*  that he
+had committed.
+
+     Not only was it next to impossible to tell Urvile's
+fantasy game-notes from cyberspace "reality," but Urvile
+himself barely made this distinction.  It's no exaggeration
+to say that to Urvile it was *all* a game.   Urvile was very
+bright, highly imaginative, and quite careless of other
+people's notions of propriety.  His connection to "reality"
+was not something to which he paid a great deal of
+attention.
+
+     Hacking was a game for Urvile.  It was an amusement
+he was carrying out, it was something he was doing for fun.
+And  Urvile was an obsessive young man.  He could no
+more stop hacking than he could stop in the middle of a
+jigsaw puzzle, or stop in the middle of reading a Stephen
+Donaldson fantasy trilogy.  (The name "Urvile" came from
+a best-selling Donaldson novel.)
+
+     Urvile's airy, bulletproof attitude seriously annoyed
+his interrogators.   First of all, he didn't consider that
+he'd
+done anything wrong.  There was scarcely a shred of
+honest remorse in him.   On the contrary, he seemed
+privately convinced that his police interrogators were
+operating in a demented fantasy-world all their own.
+Urvile was too polite and well-behaved to say this straight-
+out, but his reactions were askew and disquieting.
+
+     For instance, there was the business about LoD's
+ability to monitor phone-calls to the police and Secret
+Service.  Urvile agreed that this was quite possible, and
+posed no big problem for LoD.  In fact, he and his friends
+had kicked the idea around on the "Black Ice" board,
+much as they had discussed many other nifty notions,
+such as building personal flame-throwers and jury-rigging
+fistfulls of blasting-caps.  They had hundreds of dial-up
+numbers for government agencies that they'd gotten
+through scanning Atlanta phones, or had pulled from
+raided VAX/VMS mainframe computers.
+
+     Basically, they'd never gotten around to listening in
+on the cops because the idea wasn't interesting enough to
+bother with.  Besides, if they'd been monitoring Secret
+Service phone calls, obviously they'd never have been
+caught in the first place.  Right?
+
+     The Secret Service was less than satisfied with this
+rapier-like hacker logic.
+
+     Then there was the issue of crashing the phone
+system.  No problem, Urvile admitted sunnily.   Atlanta
+LoD could have shut down phone service all over Atlanta
+any time they liked.   *Even the 911 service?*   Nothing
+special about that, Urvile explained patiently.   Bring the
+switch to its knees, with say the UNIX "makedir" bug, and
+911 goes down too as a matter of course.  The 911 system
+wasn't very interesting, frankly.   It might be tremendously
+interesting to cops (for odd reasons of their own), but as
+technical challenges went, the 911 service was yawnsville.
+
+     So of course the Atlanta Three could crash service.
+They probably could have crashed service all over
+BellSouth territory, if they'd worked at it for a while.
+But
+Atlanta LoD weren't crashers.   Only losers and rodents
+were crashers.  LoD were *elite.*
+
+       Urvile was privately convinced that sheer technical
+expertise could win him free of any kind of problem.  As
+far as he was concerned, elite status in the digital
+underground had placed him permanently beyond the
+intellectual grasp of cops and straights.  Urvile had a lot
+to
+learn.
+
+     Of the three LoD stalwarts, Prophet was in the most
+direct trouble.  Prophet was a UNIX programming expert
+who burrowed in and out of the Internet as a matter of
+course.   He'd started his hacking career at around age 14,
+meddling with a UNIX mainframe system at the
+University of North Carolina.
+
+     Prophet himself had written the handy Legion of
+Doom file "UNIX Use and Security From the Ground Up."
+UNIX  (pronounced "you-nicks")  is a powerful, flexible
+computer operating-system, for multi-user, multi-tasking
+computers.   In 1969, when UNIX was created in Bell Labs,
+such computers were exclusive to large corporations and
+universities, but today UNIX is run on thousands of
+powerful home machines.  UNIX was particularly well-
+suited to telecommunications programming, and had
+become a standard in the field.   Naturally, UNIX also
+became a standard for the elite hacker and phone phreak.
+
+     Lately, Prophet had not been so active as Leftist and
+Urvile, but Prophet was a recidivist.   In 1986, when he was
+eighteen, Prophet had been convicted of "unauthorized
+access to a computer network" in North Carolina.  He'd
+been discovered breaking into the Southern Bell Data
+Network, a UNIX-based internal telco network supposedly
+closed to the public.  He'd gotten a typical hacker
+sentence:  six months suspended, 120 hours community
+service, and three years' probation.
+
+     After that humiliating bust, Prophet had gotten rid of
+most of his tonnage of illicit phreak and hacker data, and
+had tried to go straight.  He was, after all, still on
+probation.
+But by  the autumn of 1988, the temptations of cyberspace
+had proved too much for young Prophet, and he was
+shoulder-to-shoulder with Urvile and Leftist into some of
+the hairiest systems around.
+
+     In early September 1988, he'd broken into BellSouth's
+centralized automation system, AIMSX or "Advanced
+Information Management System."     AIMSX was an
+internal business network for BellSouth, where telco
+employees stored electronic mail, databases, memos, and
+calendars, and did text processing.   Since AIMSX did not
+have public dial-ups, it was considered utterly invisible to
+the public, and was not well-secured -- it didn't even
+require passwords.   Prophet abused an account known as
+"waa1," the personal account of an unsuspecting telco
+employee.   Disguised as the owner of waa1, Prophet made
+about ten visits to AIMSX.
+
+     Prophet did not damage or delete anything in the
+system.  His presence in AIMSX was harmless and almost
+invisible.  But he could not rest content with that.
+
+     One particular piece of processed text on AIMSX was
+a telco document known as "Bell South Standard Practice
+660-225-104SV Control Office Administration of Enhanced
+911 Services for Special Services and Major Account
+Centers dated March 1988."
+
+     Prophet had not been looking for this document.  It
+was merely one among hundreds of similar documents
+with impenetrable titles.  However, having blundered over
+it in the course of his illicit wanderings through AIMSX, he
+decided to take it with him as a trophy.  It might prove
+very
+useful in some future boasting, bragging, and strutting
+session.   So,  some time in September 1988, Prophet
+ordered the AIMSX mainframe computer to copy this
+document (henceforth called simply  called "the E911
+Document")  and  to transfer this copy to his home
+computer.
+
+     No one noticed that Prophet had done this.  He had
+"stolen" the E911 Document in some sense, but notions of
+property in cyberspace can be tricky.   BellSouth noticed
+nothing wrong, because BellSouth still had their original
+copy.  They had not been "robbed" of the document itself.
+Many people were supposed to copy this document --
+specifically, people who worked for the nineteen BellSouth
+"special services and major account centers," scattered
+throughout the Southeastern United States.  That was
+what it was for, why it was present on a computer network
+in the first place: so that it could be copied and read --
+by
+telco employees.   But now the data had been copied by
+someone who wasn't supposed to look at it.
+
+     Prophet now had his trophy.  But he further decided
+to store yet another copy of the E911 Document on
+another person's computer.  This unwitting person was a
+computer enthusiast named Richard Andrews who lived
+near Joliet, Illinois.  Richard Andrews was a UNIX
+programmer by trade, and ran a powerful UNIX board
+called "Jolnet," in the basement of his house.
+
+     Prophet, using the handle "Robert Johnson," had
+obtained an account on Richard Andrews' computer.  And
+there he stashed the E911 Document, by storing it in his
+own private section of Andrews' computer.
+
+     Why did Prophet do this?  If Prophet had eliminated
+the E911 Document from his own computer, and kept it
+hundreds of miles away, on another machine, under an
+alias, then he might have been fairly safe from discovery
+and prosecution -- although his sneaky action had
+certainly put the unsuspecting Richard Andrews at risk.
+
+     But, like most hackers, Prophet was a pack-rat for
+illicit data.  When it came to the crunch, he could not bear
+to part from his trophy.   When Prophet's place in
+Decatur, Georgia was raided in July 1989, there was the
+E911 Document, a smoking gun.  And there was Prophet in
+the hands of the Secret Service, doing his best to
+"explain."
+
+     Our story now takes us away from the Atlanta Three
+and their raids of the Summer of 1989.  We must leave
+Atlanta Three "cooperating fully" with their numerous
+investigators.  And  all three of them did cooperate, as
+their  Sentencing Memorandum from the US District
+Court of the Northern Division of Georgia explained  --
+just before all three of them were sentenced to various
+federal prisons in November 1990.
+
+     We must now catch up on the other aspects of the
+war on the Legion of Doom.   The war on the Legion was a
+war on a network -- in fact, a network of three networks,
+which intertwined and interrelated in a complex fashion.
+The Legion itself, with Atlanta LoD, and their hanger-on
+Fry Guy, were the first network.  The second network was
+*Phrack* magazine, with its editors and contributors.
+
+     The third  network involved the electronic circle
+around a  hacker known as "Terminus."
+
+     The war against these hacker networks was carried
+out by a law enforcement network.  Atlanta LoD  and Fry
+Guy were pursued by USSS agents and federal
+prosecutors in Atlanta, Indiana, and Chicago.  "Terminus"
+found himself pursued by USSS and  federal prosecutors
+from Baltimore and Chicago.  And the war against Phrack
+was almost entirely a Chicago operation.
+
+     The investigation of Terminus involved a great deal
+of energy, mostly from the Chicago Task Force, but it was
+to be the least-known and least-publicized of the
+Crackdown operations.  Terminus, who lived in Maryland,
+was a UNIX programmer and consultant, fairly well-
+known (under his given name)  in the UNIX community,
+as an acknowledged expert on AT&T minicomputers.
+Terminus idolized AT&T, especially Bellcore, and longed
+for public recognition as a UNIX expert; his highest
+ambition was to work for Bell Labs.
+
+     But Terminus had odd friends and a spotted history.
+Terminus had once been  the subject of an admiring
+interview in *Phrack* (Volume II, Issue 14, Phile 2  --
+dated
+May 1987).   In this article, *Phrack* co-editor Taran King
+described "Terminus" as an electronics engineer,  5'9",
+brown-haired, born in 1959 -- at 28 years old, quite mature
+for a hacker.
+
+     Terminus had once been sysop of a phreak/hack
+underground board called "MetroNet," which ran on an
+Apple II.  Later he'd replaced "MetroNet" with an
+underground board called "MegaNet," specializing in
+IBMs.  In his younger days, Terminus had written one of
+the very first and most elegant code-scanning programs
+for the IBM-PC.  This program had been widely
+distributed in the underground.  Uncounted legions of PC-
+owning  phreaks and hackers had used Terminus's
+scanner  program to rip-off telco codes.  This  feat had not
+escaped the attention of telco security; it hardly could,
+since Terminus's earlier handle, "Terminal Technician,"
+was proudly written right on the program.
+
+     When he became a full-time computer professional
+(specializing in telecommunications programming),  he
+adopted the handle Terminus, meant to indicate that he
+had "reached the final point of being a proficient hacker."
+He'd moved up to the UNIX-based "Netsys" board on an
+AT&T computer, with four phone lines and an impressive
+240 megs of storage.   "Netsys" carried complete issues of
+*Phrack,* and Terminus was quite friendly with its
+publishers, Taran King and Knight Lightning.
+
+     In the early 1980s, Terminus had been a regular on
+Plovernet, Pirate-80, Sherwood Forest and Shadowland, all
+well-known pirate boards, all heavily frequented by the
+Legion of Doom.   As it happened, Terminus was never
+officially "in LoD," because he'd never been given the
+official LoD high-sign and back-slap by Legion maven Lex
+Luthor.   Terminus had never physically met anyone from
+LoD.  But that scarcely mattered much -- the Atlanta
+Three themselves had never been officially vetted by Lex,
+either.
+
+     As far as law enforcement was concerned, the issues
+were clear. Terminus was a full-time, adult computer
+professional with particular skills at AT&T software and
+hardware -- but Terminus reeked of the Legion of Doom
+and the underground.
+
+     On February 1, 1990 -- half a month after the Martin
+Luther King Day Crash --  USSS  agents Tim Foley from
+Chicago, and Jack Lewis from the Baltimore office,
+accompanied by AT&T security officer Jerry Dalton,
+travelled to Middle Town, Maryland.  There they grilled
+Terminus in his home (to the stark terror of his wife and
+small children), and, in their customary fashion, hauled
+his computers out the door.
+
+     The Netsys machine proved to contain a plethora of
+arcane UNIX software -- proprietary source code formally
+owned by AT&T.  Software such as:  UNIX System Five
+Release 3.2; UNIX SV Release 3.1;  UUCP
+communications software; KORN SHELL; RFS; IWB;
+WWB; DWB; the C++ programming language; PMON;
+TOOL CHEST; QUEST; DACT, and S FIND.
+
+     In the long-established piratical tradition of the
+underground,  Terminus had been trading this illicitly-
+copied  software with a small circle of fellow UNIX
+programmers.   Very unwisely, he had stored seven years
+of his electronic mail on his Netsys machine, which
+documented all the friendly arrangements he had made
+with his various colleagues.
+
+     Terminus had not crashed the AT&T phone system
+on January 15.  He was, however, blithely running a not-
+for-profit AT&T software-piracy ring.  This was not an
+activity AT&T found amusing.   AT&T security officer Jerry
+Dalton valued this "stolen" property at over three hundred
+thousand dollars.
+
+     AT&T's entry into the tussle of free enterprise had
+been complicated by the new, vague groundrules of the
+information economy.   Until the break-up of Ma Bell,
+AT&T was forbidden to sell computer hardware or
+software.  Ma Bell was the phone company; Ma Bell was
+not allowed to use the enormous revenue from telephone
+utilities, in order to finance any entry into the computer
+market.
+
+     AT&T nevertheless invented the UNIX operating
+system.   And somehow AT&T managed to make UNIX a
+minor source of income.  Weirdly, UNIX was not sold as
+computer software, but actually retailed under an obscure
+regulatory exemption allowing sales of surplus equipment
+and scrap.  Any bolder attempt to promote or retail UNIX
+would have aroused angry legal opposition from computer
+companies.  Instead, UNIX was licensed to universities, at
+modest rates, where the acids of academic freedom ate
+away steadily at AT&T's proprietary rights.
+
+     Come the breakup, AT&T recognized that UNIX was
+a potential gold-mine.   By now, large chunks of UNIX
+code had been created that were not AT&T's, and were
+being sold by others.  An entire rival UNIX-based
+operating system had arisen in Berkeley, California  (one
+of the world's great founts of ideological hackerdom).
+Today, "hackers" commonly consider "Berkeley UNIX" to
+be technically superior to AT&T's "System V UNIX," but
+AT&T has not allowed mere technical elegance to intrude
+on the real-world business of marketing proprietary
+software.   AT&T has made its own code deliberately
+incompatible with other folks' UNIX, and has written code
+that it can prove is copyrightable, even if that code
+happens to be somewhat awkward -- "kludgey."   AT&T
+UNIX user licenses are serious business agreements,
+replete with very clear copyright statements and non-
+disclosure clauses.
+
+     AT&T has not exactly kept the UNIX cat in the bag,
+but it kept a grip on its scruff with some success.   By the
+rampant, explosive standards of software piracy, AT&T
+UNIX source code is heavily copyrighted, well-guarded,
+well-licensed.   UNIX was traditionally run only on
+mainframe machines, owned by large groups of suit-and-
+tie professionals, rather than on bedroom machines where
+people can get up to easy mischief.
+
+     And AT&T UNIX source code is serious high-level
+programming.   The number of skilled UNIX
+programmers with any actual motive to swipe UNIX
+source code is small.  It's tiny, compared to the tens of
+thousands prepared to rip-off, say, entertaining PC games
+like "Leisure Suit Larry."
+
+     But by 1989, the warez-d00d underground, in the
+persons of Terminus and his friends,  was gnawing at
+AT&T UNIX.  And the property in question was not sold
+for twenty bucks over the counter at the local branch of
+Babbage's or Egghead's;  this was massive, sophisticated,
+multi-line, multi-author corporate code worth tens of
+thousands of dollars.
+
+     It must be recognized at this point that Terminus's
+purported ring of UNIX software pirates had not actually
+made any money from their suspected crimes.  The
+$300,000 dollar figure bandied about for the contents of
+Terminus's computer did not mean that Terminus was in
+actual illicit possession of three hundred thousand of
+AT&T's  dollars.   Terminus was shipping software back
+and forth, privately, person to person, for free.  He was
+not
+making a commercial business of piracy.  He hadn't asked
+for money; he didn't take money.  He lived quite modestly.
+
+     AT&T employees -- as well as freelance UNIX
+consultants, like Terminus -- commonly worked with
+"proprietary" AT&T software, both in the office and at
+home on their private machines.   AT&T rarely sent
+security officers out to comb the hard disks of its
+consultants.   Cheap freelance UNIX  contractors were
+quite useful to AT&T; they didn't have health insurance or
+retirement programs, much less union membership in the
+Communication Workers of America.  They were humble
+digital drudges, wandering with mop and bucket through
+the Great Technological Temple of AT&T; but when the
+Secret Service arrived at their homes, it seemed they were
+eating with company silverware and sleeping on company
+sheets!  Outrageously, they behaved as if the things they
+worked with every day belonged to them!
+
+     And these were no mere hacker teenagers with their
+hands full of trash-paper and their noses pressed to the
+corporate windowpane.  These guys were UNIX wizards,
+not only carrying AT&T data in their machines and their
+heads, but eagerly networking about it, over machines that
+were far more powerful than anything previously
+imagined in private hands.  How do you keep people
+disposable, yet assure their awestruck respect for your
+property?  It was a dilemma.
+
+       Much UNIX code was public-domain, available for
+free.   Much "proprietary" UNIX code had been
+extensively re-written, perhaps altered so much that it
+became an entirely new product -- or perhaps not.
+Intellectual property rights for software developers were,
+and are, extraordinarily complex and confused.   And
+software "piracy," like the private copying of videos, is
+one
+of the most widely practiced "crimes" in the world today.
+
+     The USSS were not experts in UNIX or familiar with
+the customs of its use.   The United States Secret Service,
+considered as a body, did not have one single person in it
+who could program in a UNIX environment -- no, not even
+one.   The Secret Service *were* making extensive use of
+expert help, but the "experts" they had chosen were AT&T
+and Bellcore security officials, the very victims of the
+purported crimes under investigation, the very people
+whose interest in AT&T's  "proprietary" software was most
+pronounced.
+
+     On February 6, 1990, Terminus was arrested by Agent
+Lewis.  Eventually, Terminus would be sent to prison for
+his illicit use of a piece of AT&T software.
+
+     The issue of pirated AT&T software would bubble
+along in the background during the war on the Legion of
+Doom.  Some half-dozen of Terminus's on-line
+acquaintances, including people in Illinois, Texas and
+California, were grilled by the Secret Service in connection
+with the illicit copying of software.   Except for Terminus,
+however, none were charged with a crime.  None of them
+shared his peculiar prominence in the hacker
+underground.
+
+     But that did not meant that these people would, or
+could, stay out of trouble.   The transferral of illicit
+data in
+cyberspace is hazy and ill-defined business, with
+paradoxical dangers for everyone concerned:  hackers,
+signal carriers, board owners,  cops, prosecutors, even
+random passers-by.  Sometimes, well-meant attempts to
+avert trouble  or punish wrongdoing bring more trouble
+than  would simple ignorance, indifference or impropriety.
+
+     Terminus's "Netsys" board was not a common-or-
+garden bulletin board system, though it had most of the
+usual functions of a board.  Netsys was not a stand-alone
+machine, but part of the globe-spanning  "UUCP"
+cooperative network.  The UUCP network uses a set of
+Unix software programs called "Unix-to-Unix Copy," which
+allows Unix systems to throw data to one another at high
+speed through the public telephone network.   UUCP is a
+radically decentralized, not-for-profit network of UNIX
+computers.   There are tens of thousands of these UNIX
+machines.  Some are small, but many are powerful and
+also link to other networks.  UUCP has certain arcane links
+to  major networks such as JANET, EasyNet, BITNET,
+JUNET, VNET, DASnet, PeaceNet and FidoNet, as well as
+the gigantic Internet.  (The so-called "Internet" is not
+actually a network itself, but rather an "internetwork"
+connections standard that allows several globe-spanning
+computer networks to communicate with one another.
+Readers fascinated by the weird and intricate tangles of
+modern computer networks may enjoy John S.
+Quarterman's authoritative 719-page explication, *The
+Matrix,* Digital Press, 1990.)
+
+     A skilled user of Terminus' UNIX machine could
+send and receive electronic mail from almost any major
+computer network in the world.  Netsys was not called a
+"board" per se, but rather a "node."   "Nodes" were larger,
+faster, and more sophisticated than mere "boards," and
+for hackers, to hang out on internationally-connected
+"nodes" was quite the step up from merely hanging out on
+local "boards."
+
+     Terminus's Netsys node in Maryland had a number
+of direct links to other, similar UUCP  nodes, run by
+people who shared his interests and at least something of
+his free-wheeling attitude.   One of these nodes was Jolnet,
+owned by Richard Andrews, who, like Terminus, was an
+independent UNIX consultant.   Jolnet also ran UNIX, and
+could be contacted at high speed by mainframe machines
+from all over the world.  Jolnet was quite a sophisticated
+piece of work, technically speaking, but it was still run by
+an individual, as a private, not-for-profit hobby.   Jolnet
+was
+mostly used by other UNIX programmers -- for mail,
+storage, and access to networks.  Jolnet supplied access
+network access to about two hundred people, as well as a
+local junior college.
+
+     Among its various features and services, Jolnet also
+carried *Phrack* magazine.
+
+     For reasons of his own, Richard Andrews had become
+suspicious of a new user called  "Robert Johnson."  Richard
+Andrews took it upon himself to have a look at what
+"Robert Johnson" was storing in Jolnet.  And Andrews
+found the E911 Document.
+
+     "Robert Johnson" was the Prophet from the Legion of
+Doom, and the E911 Document was illicitly copied data
+from Prophet's raid on the BellSouth computers.
+
+     The E911 Document, a particularly illicit piece of
+digital property, was about to resume its long, complex,
+and disastrous career.
+
+     It struck Andrews as fishy that someone not a
+telephone employee should have a document referring to
+the "Enhanced 911 System."  Besides,  the document itself
+bore an obvious warning.
+
+     "WARNING:  NOT FOR USE OR DISCLOSURE
+OUTSIDE BELLSOUTH OR ANY OF ITS SUBSIDIARIES
+EXCEPT UNDER WRITTEN AGREEMENT."
+
+     These standard nondisclosure tags are often
+appended to all sorts of corporate material.   Telcos as a
+species are particularly notorious for stamping most
+everything in sight as "not for use or disclosure."  Still,
+this
+particular piece of data was  about the 911 System.  That
+sounded bad to  Rich Andrews.
+
+     Andrews was not prepared to ignore this sort of
+trouble.  He thought it would be wise to pass the document
+along to a friend and acquaintance on the UNIX network,
+for consultation.  So, around September 1988, Andrews
+sent yet another copy of the E911 Document electronically
+to an AT&T employee, one Charles Boykin, who ran a
+UNIX-based node called "attctc" in Dallas, Texas.
+
+     "Attctc" was the property of AT&T, and was run from
+AT&T's Customer Technology Center  in Dallas, hence the
+name "attctc."  "Attctc" was better-known as "Killer," the
+name of the machine that the system was running on.
+"Killer" was a hefty, powerful, AT&T 3B2 500 model, a
+multi-user, multi-tasking UNIX platform with 32 meg of
+memory and a mind-boggling 3.2 Gigabytes of storage.
+When  Killer had first arrived in Texas, in 1985, the 3B2
+had been one of AT&T's great white hopes for going head-
+to-head with IBM for the corporate computer-hardware
+market.  "Killer" had been shipped to the Customer
+Technology Center in the Dallas Infomart, essentially a
+high-technology mall, and there it sat, a demonstration
+model.
+
+     Charles Boykin, a veteran AT&T hardware and digital
+communications expert, was a local technical backup man
+for the AT&T 3B2 system.   As a display model in the
+Infomart mall, "Killer" had little to do, and it seemed a
+shame to waste the system's capacity.  So Boykin
+ingeniously wrote some UNIX bulletin-board software for
+"Killer," and plugged the machine in to the local phone
+network.   "Killer's" debut in late 1985 made it the first
+publicly available UNIX site in the state of Texas.  Anyone
+who wanted to play was welcome.
+
+     The machine immediately attracted an electronic
+community.  It joined the UUCP network, and offered
+network links to over eighty other computer sites, all of
+which became dependent on Killer for their links to the
+greater world of cyberspace.   And it wasn't just for the
+big
+guys; personal computer users also stored freeware
+programs for the Amiga, the Apple, the IBM and the
+Macintosh on Killer's vast 3,200 meg archives.  At one
+time, Killer had the largest library of public-domain
+Macintosh software in Texas.
+
+     Eventually, Killer attracted about 1,500 users, all
+busily communicating, uploading and downloading,
+getting mail, gossipping, and linking to arcane and distant
+networks.
+
+       Boykin received no pay for running Killer.  He
+considered it good publicity for the AT&T 3B2 system
+(whose sales were somewhat less than stellar), but he also
+simply enjoyed the vibrant community his skill had
+created.   He gave away the bulletin-board UNIX software
+he had written, free of charge.
+
+     In the UNIX programming community, Charlie
+Boykin had the reputation of a warm, open-hearted, level-
+headed kind of guy.   In 1989, a group of Texan UNIX
+professionals voted Boykin "System Administrator of the
+Year."   He was considered a fellow you could trust for
+good advice.
+
+     In September 1988, without warning, the E911
+Document came plunging into Boykin's life, forwarded by
+Richard Andrews.  Boykin immediately recognized that
+the Document was hot property.   He was not a voice-
+communications man, and knew little about the ins and
+outs of the Baby Bells, but he certainly knew what the 911
+System was, and he was angry to see confidential data
+about it in the hands of a nogoodnik.  This was clearly a
+matter for telco security.  So, on September 21, 1988,
+Boykin made yet *another* copy of the  E911 Document
+and passed this one along to a professional acquaintance
+of his, one Jerome Dalton, from AT&T Corporate
+Information Security.   Jerry Dalton was the very fellow
+who would later raid Terminus's house.
+
+     From AT&T's security division, the E911 Document
+went to Bellcore.
+
+     Bellcore (or BELL COmmunications REsearch)  had
+once been the central laboratory of the Bell System.  Bell
+Labs employees had invented the UNIX operating
+system.  Now Bellcore was a quasi-independent, jointly
+owned company that  acted as the research arm for all
+seven of the Baby Bell RBOCs.   Bellcore was in a good
+position to co-ordinate security technology and
+consultation for the RBOCs, and the gentleman in charge
+of this effort was Henry M. Kluepfel, a veteran of the Bell
+System who had worked there for twenty-four years.
+
+     On October  13, 1988, Dalton passed the E911
+Document to Henry Kluepfel.  Kluepfel, a veteran expert
+witness in telecommunications fraud and computer-fraud
+cases, had certainly seen worse trouble than this.   He
+recognized the document for what it was:  a trophy from a
+hacker break-in.
+
+     However, whatever harm had been done in the
+intrusion was presumably old news.   At this point there
+seemed little to be done.  Kluepfel made a careful note of
+the circumstances and shelved the problem for the time
+being.
+
+     Whole months passed.
+
+     February 1989 arrived.  The Atlanta Three were living
+it up in Bell South's switches, and had not yet met their
+comeuppance.   The Legion was thriving.  So was *Phrack*
+magazine.   A good six months had passed since Prophet's
+AIMSX break-in.  Prophet, as hackers will, grew weary of
+sitting on his laurels.  "Knight Lightning" and "Taran
+King,"  the editors of *Phrack,* were always begging
+Prophet for material they could publish.   Prophet decided
+that the heat must be off by this time, and that he could
+safely brag, boast, and strut.
+
+     So he sent a copy of the E911 Document -- yet
+another one -- from Rich Andrews' Jolnet machine to
+Knight Lightning's  BITnet account at the University of
+Missouri.
+
+     Let's review the fate of the document so far.
+
+     0.  The original E911 Document.  This in the AIMSX
+system on a mainframe computer in Atlanta, available to
+hundreds of people, but all of them, presumably,
+BellSouth employees.   An unknown number of them may
+have their own copies of this document, but they are all
+professionals and all trusted by the phone company.
+
+     1.  Prophet's illicit copy, at home on his own computer
+in Decatur, Georgia.
+
+     2.  Prophet's back-up copy, stored on Rich Andrew's
+Jolnet machine in the basement of Rich Andrews'  house
+near Joliet Illinois.
+
+     3.  Charles Boykin's copy on "Killer" in Dallas, Texas,
+sent by Rich Andrews from Joliet.
+
+     4.  Jerry Dalton's copy at AT&T Corporate
+Information Security in New Jersey, sent from Charles
+Boykin in Dallas.
+
+     5.  Henry Kluepfel's copy at Bellcore security
+headquarters in New Jersey, sent by Dalton.
+
+     6.  Knight Lightning's copy, sent by Prophet from
+Rich Andrews' machine, and now in Columbia, Missouri.
+
+      We can see that the "security" situation of this
+proprietary document, once dug out of AIMSX,  swiftly
+became bizarre.   Without any money changing hands,
+without any particular special effort, this data had been
+reproduced at least six times and had spread itself all over
+the continent.  By far the worst, however, was yet to come.
+
+     In February 1989, Prophet and Knight Lightning
+bargained electronically over the fate of this trophy.
+Prophet wanted to boast, but, at the same time, scarcely
+wanted to be caught.
+
+     For his part, Knight Lightning was eager to publish as
+much of the document as he could manage.   Knight
+Lightning was a fledgling political-science major with a
+particular interest in freedom-of-information issues.  He
+would gladly publish most anything that would reflect
+glory on the prowess of the underground and embarrass
+the telcos.   However, Knight Lightning himself had
+contacts in telco security, and sometimes consulted them
+on material he'd received that might be too dicey for
+publication.
+
+     Prophet and  Knight Lightning decided to edit the
+E911 Document so as  to delete most of its identifying
+traits.   First of all, its large "NOT FOR USE OR
+DISCLOSURE" warning had to go.  Then there were other
+matters.  For instance, it listed the office telephone
+numbers of several BellSouth 911 specialists in Florida.  If
+these phone numbers were published in *Phrack,* the
+BellSouth employees involved would very likely be
+hassled by phone phreaks, which would anger BellSouth
+no end, and pose a definite operational hazard for both
+Prophet and *Phrack.*
+
+     So Knight Lightning cut the Document almost in half,
+removing the phone numbers and some of the touchier
+and more specific information.  He passed it back
+electronically to Prophet;  Prophet was still nervous, so
+Knight Lightning cut a bit more.  They finally agreed that
+it was ready to go, and that it would be published in
+*Phrack* under the pseudonym, "The Eavesdropper."
+
+     And this was done on February 25, 1989.
+
+     The twenty-fourth issue of *Phrack*  featured a chatty
+interview with co-ed phone-phreak "Chanda Leir," three
+articles on BITNET and its links to other computer
+networks,  an article on 800 and 900 numbers by "Unknown
+User,"  "VaxCat's" article on telco basics (slyly entitled
+"Lifting Ma Bell's Veil of Secrecy,)" and the usual "Phrack
+World News."
+
+     The News section, with painful irony, featured an
+extended account of the sentencing of "Shadowhawk,"  an
+eighteen-year-old Chicago hacker who had just been put
+in federal prison by William J. Cook himself.
+
+     And then there were the two articles by "The
+Eavesdropper."   The first was the  edited E911 Document,
+now titled "Control Office Administration Of Enhanced
+911 Services for Special Services and Major Account
+Centers."  Eavesdropper's second article was a glossary of
+terms explaining the blizzard of telco acronyms and
+buzzwords in the E911 Document.
+
+     The hapless document was now distributed, in the
+usual *Phrack* routine, to a good one hundred and fifty
+sites.  Not a hundred and fifty *people,* mind you -- a
+hundred and fifty *sites,* some of these sites linked to
+UNIX nodes or bulletin board systems, which themselves
+had readerships of tens, dozens, even hundreds of people.
+
+     This was February 1989.  Nothing happened
+immediately.  Summer came, and the Atlanta crew were
+raided by the Secret Service.   Fry Guy was apprehended.
+Still nothing whatever happened to *Phrack.* Six more
+issues of *Phrack* came out, 30 in all, more or less on a
+monthly schedule.  Knight Lightning and co-editor Taran
+King went untouched.
+
+     *Phrack* tended to duck and cover whenever the
+heat came down.  During the summer busts of 1987 --
+(hacker busts tended to cluster in summer, perhaps
+because hackers were easier to find at home than in
+college) -- *Phrack* had ceased publication for several
+months, and laid low.   Several LoD hangers-on had been
+arrested, but nothing had happened to the *Phrack*  crew,
+the premiere gossips of the underground.  In 1988,
+*Phrack* had been taken over by a new editor, "Crimson
+Death," a raucous youngster with a taste for anarchy files.
+
+      1989, however, looked like a bounty year for the
+underground.  Knight Lightning and his co-editor Taran
+King took up the reins again, and *Phrack* flourished
+throughout 1989.   Atlanta LoD went down hard in the
+summer of 1989, but *Phrack* rolled merrily on.   Prophet's
+E911 Document seemed unlikely to cause *Phrack* any
+trouble.  By January 1990, it had been available in
+*Phrack* for almost a year.   Kluepfel and Dalton, officers
+of Bellcore and AT&T  security, had possessed the
+document for sixteen months -- in fact, they'd had it even
+before Knight Lightning himself, and had done nothing in
+particular to stop its distribution.  They hadn't even told
+Rich Andrews or Charles Boykin to erase the copies from
+their UNIX nodes, Jolnet and Killer.
+
+     But then came the monster Martin Luther King Day
+Crash of January 15, 1990.
+
+     A flat three days later, on January 18,  four agents
+showed up at Knight Lightning's fraternity house.   One
+was Timothy Foley, the second Barbara Golden, both of
+them Secret Service agents from the Chicago office.   Also
+along was a University of Missouri security officer, and
+Reed Newlin, a security man from Southwestern Bell, the
+RBOC having jurisdiction over Missouri.
+
+     Foley accused Knight Lightning of causing the
+nationwide crash of the phone system.
+
+     Knight Lightning was aghast at this allegation.   On
+the face of it, the suspicion was not entirely implausible -
+-
+though Knight Lightning knew that he himself hadn't
+done it.   Plenty of hot-dog hackers had bragged that they
+could crash the phone system, however.  "Shadowhawk,"
+for instance, the Chicago hacker whom William Cook had
+recently put in jail, had several times  boasted on boards
+that he could "shut down AT&T's public switched
+network."
+
+      And now this event, or something that looked just
+like it, had actually taken place.  The Crash had lit a fire
+under the Chicago Task Force.  And the former fence-
+sitters at Bellcore and AT&T were now ready to roll.  The
+consensus among telco security -- already horrified by the
+skill of the BellSouth intruders  -- was that the digital
+underground was out of hand.  LoD and *Phrack* must go.
+
+     And in publishing Prophet's E911 Document,
+*Phrack* had provided law enforcement with what
+appeared to be a powerful legal weapon.
+
+     Foley confronted Knight Lightning about the  E911
+Document.
+
+     Knight Lightning was cowed.  He immediately began
+"cooperating fully" in the usual tradition of the digital
+underground.
+
+     He gave Foley a complete run of *Phrack,*printed
+out in a set of three-ring binders.   He handed over his
+electronic mailing list of *Phrack* subscribers. Knight
+Lightning was grilled for four hours by Foley and his
+cohorts.  Knight Lightning admitted that Prophet had
+passed him the E911 Document, and he admitted that he
+had known it was stolen booty from a hacker raid on a
+telephone company.  Knight Lightning signed a statement
+to this effect, and agreed, in writing, to cooperate with
+investigators.
+
+     Next day -- January 19, 1990, a Friday  -- the Secret
+Service returned with a search warrant, and thoroughly
+searched Knight Lightning's upstairs room in the
+fraternity house.   They took all his floppy disks, though,
+interestingly, they left Knight Lightning in possession of
+both his computer and his modem.  (The computer had no
+hard disk, and in Foley's judgement was not a store of
+evidence.)   But this was a very minor bright spot among
+Knight Lightning's rapidly multiplying troubles.  By this
+time, Knight Lightning was in plenty of hot water, not only
+with federal police, prosecutors, telco investigators, and
+university security, but with the elders of his own campus
+fraternity, who were outraged to think that they had been
+unwittingly harboring a federal computer-criminal.
+
+     On Monday, Knight Lightning was summoned to
+Chicago, where he was further grilled by Foley and USSS
+veteran agent Barbara Golden, this time with an attorney
+present.  And on Tuesday, he was formally indicted by a
+federal grand jury.
+
+     The trial of Knight Lightning, which occurred on July
+24-27, 1990, was the crucial show-trial of the Hacker
+Crackdown.  We will examine the trial at some length in
+Part Four of this book.
+
+     In the meantime, we must continue our dogged
+pursuit of the E911 Document.
+
+     It must have been clear by January 1990 that the E911
+Document, in the form *Phrack* had published it back in
+February 1989, had gone off at the speed of light in at
+least
+a hundred and fifty different directions.   To attempt to
+put
+this electronic genie back in the bottle was flatly
+impossible.
+
+     And yet, the E911 Document was *still* stolen
+property, formally and legally speaking.  Any electronic
+transference of this document, by anyone unauthorized to
+have it, could be interpreted as an act of wire fraud.
+Interstate transfer of stolen property, including electronic
+property, was a federal crime.
+
+     The Chicago Computer Fraud and Abuse Task Force
+had been assured that the E911 Document was worth a
+hefty sum of money.  In fact, they had a precise estimate
+of its worth from BellSouth security personnel:  $79,449.
+A
+sum of this scale seemed to warrant vigorous prosecution.
+Even if the damage could not be undone, at least this large
+sum offered a good legal pretext for stern punishment of
+the thieves.   It seemed likely to impress judges and
+juries.
+And it could be used in court to mop up the Legion of
+Doom.
+
+     The Atlanta crowd was already in the bag, by the time
+the Chicago Task Force had gotten around to *Phrack.*
+But the Legion was a hydra-headed thing.   In late 89, a
+brand-new Legion of Doom board, "Phoenix Project," had
+gone up in Austin, Texas.  Phoenix Project was sysoped by
+no less a man than the Mentor himself, ably assisted by
+University of Texas student and hardened Doomster "Erik
+Bloodaxe."
+
+     As we have seen from his *Phrack* manifesto, the
+Mentor was a hacker zealot who regarded computer
+intrusion as something close to a moral duty.  Phoenix
+Project  was an ambitious effort, intended to revive the
+digital underground to what Mentor considered the full
+flower of the early 80s.  The Phoenix board would also
+boldly bring elite hackers face-to-face with the telco
+"opposition."  On "Phoenix," America's cleverest hackers
+would supposedly shame the telco squareheads out of
+their stick-in-the-mud attitudes, and perhaps convince
+them that the Legion of Doom elite were really an all-right
+crew.  The  premiere of "Phoenix Project" was heavily
+trumpeted by *Phrack,* and "Phoenix Project" carried a
+complete run of *Phrack* issues, including the E911
+Document as *Phrack* had published it.
+
+     Phoenix Project was only one of many -- possibly
+hundreds -- of nodes and boards all over America that
+were in guilty possession of the E911 Document.  But
+Phoenix was an outright, unashamed Legion of Doom
+board.  Under Mentor's guidance, it was flaunting itself in
+the face of telco security personnel. Worse yet, it was
+actively trying to *win them over* as sympathizers for the
+digital underground elite.   "Phoenix" had no cards or
+codes on it.  Its hacker elite considered Phoenix at least
+technically legal.   But Phoenix was a corrupting influence,
+where hacker anarchy was eating away like digital acid at
+the underbelly of corporate propriety.
+
+     The Chicago Computer Fraud and Abuse Task Force
+now prepared to descend upon Austin, Texas.
+
+     Oddly, not one but *two* trails of the Task Force's
+investigation led toward Austin.  The city of Austin, like
+Atlanta, had made itself a bulwark of the Sunbelt's
+Information Age, with a strong university research
+presence, and a number of cutting-edge electronics
+companies, including Motorola, Dell, CompuAdd, IBM,
+Sematech and MCC.
+
+     Where computing machinery went, hackers
+generally followed.  Austin boasted not only "Phoenix
+Project," currently LoD's most flagrant underground
+board, but a number of UNIX  nodes.
+
+     One of these nodes was "Elephant," run by a UNIX
+consultant named Robert Izenberg.  Izenberg, in search of
+a relaxed Southern lifestyle and a lowered cost-of-living,
+had recently migrated to Austin from New Jersey.  In New
+Jersey, Izenberg had worked for an independent
+contracting company, programming UNIX code for AT&T
+itself.  "Terminus" had been a frequent user on Izenberg's
+privately owned Elephant node.
+
+     Having interviewed Terminus and examined the
+records on Netsys, the Chicago Task Force were now
+convinced that they had discovered an underground gang
+of UNIX software pirates, who were demonstrably guilty of
+interstate trafficking in illicitly copied  AT&T source
+code.
+Izenberg was swept into the dragnet around Terminus, the
+self-proclaimed ultimate UNIX hacker.
+
+     Izenberg, in Austin, had settled down into a UNIX job
+with a Texan branch of IBM.  Izenberg was no longer
+working as a contractor for AT&T, but he had friends in
+New Jersey, and he still logged on to AT&T UNIX
+computers back in New Jersey, more or less whenever it
+pleased him.  Izenberg's activities appeared highly
+suspicious to the Task Force.  Izenberg might well be
+breaking into AT&T computers, swiping AT&T software,
+and passing it to  Terminus and other possible
+confederates, through the UNIX node network.  And this
+data was worth, not merely $79,499, but hundreds of
+thousands of dollars!
+
+     On February 21, 1990, Robert Izenberg arrived home
+from work at IBM to find that all the computers had
+mysteriously vanished from his Austin apartment.
+Naturally he assumed that he had been robbed.  His
+"Elephant" node, his other machines, his notebooks, his
+disks, his tapes, all gone!  However, nothing much else
+seemed disturbed -- the place had not been ransacked.
+
+     The puzzle becaming much stranger some five
+minutes later.   Austin U. S. Secret Service Agent Al Soliz,
+accompanied by University of Texas campus-security
+officer Larry Coutorie and the ubiquitous Tim Foley, made
+their appearance at Izenberg's door.  They were in plain
+clothes: slacks, polo shirts.  They came in, and Tim Foley
+accused Izenberg of belonging to the Legion of Doom.
+
+     Izenberg told them that he had never heard of the
+"Legion of Doom."  And what about a certain stolen E911
+Document, that posed a direct threat to the police
+emergency lines?   Izenberg claimed that he'd never
+heard of that, either.
+
+     His interrogators found this difficult to believe.
+Didn't he know Terminus?
+
+     Who?
+
+     They gave him Terminus's real name.  Oh yes, said
+Izenberg.  He knew *that* guy all right -- he was leading
+discussions on the Internet about AT&T computers,
+especially the AT&T 3B2.
+
+     AT&T had thrust this machine into the marketplace,
+but, like many of AT&T's ambitious attempts to enter the
+computing arena, the 3B2 project had something less than
+a glittering success.   Izenberg himself had been a
+contractor for the division of AT&T that supported the 3B2.
+The entire division had been shut down.
+
+       Nowadays, the cheapest and quickest way to get
+help with this fractious piece of machinery was to join one
+of Terminus's discussion groups on the Internet, where
+friendly and knowledgeable hackers would help you for
+free.  Naturally the remarks within this group were less
+than flattering about the Death Star....  was *that* the
+problem?
+
+     Foley told Izenberg that Terminus had been
+acquiring hot software through his, Izenberg's, machine.
+
+     Izenberg shrugged this off.   A good eight megabytes
+of data flowed through his UUCP site every day.   UUCP
+nodes spewed data like fire hoses.  Elephant had been
+directly linked to Netsys -- not surprising, since Terminus
+was a 3B2 expert and Izenberg had been a 3B2 contractor.
+Izenberg was also linked to "attctc" and the University of
+Texas.   Terminus was a well-known UNIX expert, and
+might have been up to all manner of hijinks on Elephant.
+Nothing Izenberg could do about that.  That was
+physically impossible.  Needle in a haystack.
+
+      In a four-hour grilling, Foley urged Izenberg to come
+clean and admit that he was in conspiracy with Terminus,
+and a member of the Legion of Doom.
+
+     Izenberg denied this.  He was no weirdo teenage
+hacker -- he was thirty-two years old, and didn't even have
+a "handle."  Izenberg was a former TV technician and
+electronics specialist who had drifted into UNIX
+consulting as a full-grown adult.   Izenberg had never met
+Terminus, physically.  He'd once bought a cheap high-
+speed modem from him, though.
+
+     Foley told him that this modem (a Telenet T2500
+which ran at 19.2 kilobaud, and which had just gone out
+Izenberg's door in Secret Service custody)  was likely hot
+property.  Izenberg was taken aback to hear this; but then
+again, most of Izenberg's equipment, like that of most
+freelance professionals in the industry, was discounted,
+passed hand-to-hand through various kinds of barter and
+gray-market.   There was no proof that the modem was
+stolen, and even if it was, Izenberg hardly saw how that
+gave them the right to take every electronic item in his
+house.
+
+      Still, if the United States Secret Service figured
+they
+needed his computer for national security reasons -- or
+whatever -- then Izenberg would not kick.  He figured he
+would somehow make the sacrifice of his twenty thousand
+dollars' worth of professional equipment, in the spirit of
+full cooperation and good citizenship.
+
+     Robert Izenberg was not arrested.  Izenberg was not
+charged with any crime.  His UUCP node -- full of some
+140 megabytes of the files, mail, and data of himself and
+his dozen or so entirely innocent users --  went out the
+door
+as "evidence."  Along with the disks and tapes, Izenberg
+had lost about 800 megabytes of data.
+
+     Six months would pass before Izenberg decided to
+phone the Secret Service and ask how the case was going.
+That was the first time that Robert Izenberg would ever
+hear the name of William Cook.  As of January 1992, a full
+two years after the seizure, Izenberg, still not charged
+with
+any crime, would be struggling through the morass of the
+courts, in hope of recovering his thousands of dollars'
+worth of seized equipment.
+
+     In the meantime, the Izenberg case received
+absolutely no press coverage.   The Secret Service had
+walked into an Austin home, removed a UNIX bulletin-
+board system, and met with no operational difficulties
+whatsoever.
+
+     Except that word of a crackdown had percolated
+through the Legion of Doom.   "The Mentor" voluntarily
+shut down "The Phoenix Project."  It seemed a pity,
+especially as telco security employees had, in fact, shown
+up on Phoenix, just as he had hoped -- along with the usual
+motley crowd of LoD heavies, hangers-on, phreaks,
+hackers and wannabes.  There was "Sandy" Sandquist
+from US SPRINT security, and some guy named Henry
+Kluepfel, from Bellcore itself!  Kluepfel had been trading
+friendly banter with hackers on Phoenix since January
+30th (two weeks after the Martin Luther King Day Crash).
+The presence of such a stellar telco official seemed quite
+the coup for Phoenix Project.
+
+     Still, Mentor could judge the climate.  Atlanta in
+ruins, *Phrack* in deep trouble, something weird going on
+with UNIX nodes -- discretion was advisable.  Phoenix
+Project went off-line.
+
+     Kluepfel, of course, had been monitoring this LoD
+bulletin board for his own purposes -- and those of the
+Chicago unit.   As far back as June 1987, Kluepfel had
+logged on to a Texas underground board called "Phreak
+Klass 2600."  There he'd discovered an Chicago youngster
+named "Shadowhawk," strutting and boasting about rifling
+AT&T computer files, and bragging of his ambitions to
+riddle AT&T's Bellcore computers with trojan horse
+programs.  Kluepfel had passed the news to Cook in
+Chicago, Shadowhawk's computers had gone out the door
+in Secret Service custody, and Shadowhawk himself had
+gone to jail.
+
+     Now it was Phoenix Project's turn.   Phoenix Project
+postured about "legality" and "merely intellectual
+interest," but it reeked of the underground.  It had
+*Phrack* on it.  It had the E911 Document.  It had a lot of
+dicey talk about breaking into systems, including some
+bold and reckless stuff about a supposed "decryption
+service" that Mentor and friends were planning to run, to
+help crack encrypted passwords off of hacked systems.
+
+     Mentor was an adult.   There was a  bulletin board at
+his place of work, as well.  Kleupfel logged onto this
+board,
+too, and discovered it to be called "Illuminati."  It was
+run
+by some company called Steve Jackson Games.
+
+     On  March 1, 1990, the Austin crackdown went into
+high gear.
+
+     On the morning of March 1 -- a Thursday -- 21-year-
+old University of Texas student "Erik Bloodaxe," co-sysop
+of Phoenix Project and an avowed member of the Legion
+of Doom, was wakened by a police revolver levelled at his
+head.
+
+     Bloodaxe watched, jittery, as Secret Service agents
+appropriated his 300 baud terminal and, rifling his files,
+discovered his treasured source-code for Robert Morris's
+notorious Internet Worm.  But Bloodaxe, a wily operator,
+had suspected that something of the like might be
+coming.  All his best equipment had been hidden away
+elsewhere.  The raiders took everything electronic,
+however, including his telephone.  They were stymied by
+his hefty arcade-style Pac-Man game, and left it in place,
+as it was simply too heavy to move.
+
+     Bloodaxe was not arrested.   He was not charged with
+any crime.  A good two years later, the police still had
+what
+they had taken from him, however.
+
+     The Mentor was less wary.  The dawn raid rousted
+him and his wife from bed in their underwear, and six
+Secret Service agents, accompanied by an Austin
+policeman and  Henry Kluepfel himself, made a rich haul.
+Off went the works, into the agents' white Chevrolet
+minivan:  an IBM PC-AT clone with 4 meg of RAM and a
+120-meg hard disk; a Hewlett-Packard LaserJet II printer;
+a completely legitimate and highly expensive SCO-Xenix
+286 operating system; Pagemaker disks and
+documentation; and the Microsoft Word word-processing
+program.  Mentor's wife had her incomplete academic
+thesis stored on the hard-disk; that went, too, and so did
+the couple's telephone.  As of two years later, all this
+property remained in police custody.
+
+     Mentor remained under guard in his apartment as
+agents prepared to raid Steve Jackson Games.  The fact
+that this was a business headquarters and not a private
+residence did not deter the agents.  It was still very
+early;
+no one was at work yet.  The agents prepared to break
+down the door, but Mentor, eavesdropping on the Secret
+Service walkie-talkie traffic, begged them not to do it, and
+offered his key to the building.
+
+     The exact details of the next events are unclear.  The
+agents would not let anyone else into the building.  Their
+search warrant, when produced, was unsigned.
+Apparently they breakfasted from the local
+"Whataburger," as the litter from hamburgers was later
+found inside.  They also extensively sampled a bag of
+jellybeans kept by an SJG employee.  Someone tore a
+"Dukakis for President" sticker from the wall.
+
+     SJG employees, diligently showing up for the day's
+work, were met at the door and briefly questioned by U.S.
+Secret Service agents.  The employees watched in
+astonishment as agents wielding crowbars and
+screwdrivers emerged with captive machines.  They
+attacked outdoor storage units with boltcutters.  The
+agents wore blue nylon windbreakers with "SECRET
+SERVICE" stencilled across the back, with running-shoes
+and jeans.
+
+     Jackson's company lost three computers, several
+hard-disks, hundred of floppy disks, two monitors, three
+modems, a laser printer, various powercords, cables, and
+adapters (and, oddly, a small bag of screws, bolts and
+nuts).   The seizure of Illuminati BBS deprived SJG of all
+the programs, text files, and private e-mail on the board.
+The loss of two other SJG computers was a severe blow as
+well, since it caused the loss of electronically stored
+contracts, financial projections, address directories,
+mailing lists, personnel files, business correspondence,
+and, not least, the drafts of forthcoming games and
+gaming books.
+
+     No one at Steve Jackson Games was arrested.  No
+one was accused of any crime.   No charges were filed.
+Everything appropriated was officially kept as "evidence"
+of crimes never specified.
+
+     After the *Phrack* show-trial, the Steve Jackson
+Games scandal was the most bizarre and aggravating
+incident of the Hacker Crackdown of 1990.   This raid by
+the Chicago Task Force on a science-fiction gaming
+publisher was to rouse a swarming host of civil liberties
+issues, and gave rise to an enduring controversy that was
+still re-complicating itself, and growing in the scope of
+its
+implications, a full two years later.
+
+     The pursuit of the E911 Document stopped with the
+Steve Jackson Games raid.   As we have seen, there were
+hundreds, perhaps thousands of computer users in
+America with the E911 Document in their possession.
+Theoretically, Chicago had a perfect legal right to raid any
+of these people, and could have legally seized the
+machines of anybody who subscribed to *Phrack.*
+However, there was no copy of the E911 Document on
+Jackson's Illuminati board.   And there the Chicago raiders
+stopped dead; they have not raided anyone since.
+
+     It might be assumed that Rich Andrews and Charlie
+Boykin, who had brought the E911 Document to the
+attention of telco security, might be spared any official
+suspicion.  B

@@ -1,0 +1,2367 @@
+ut as we have seen, the willingness to
+"cooperate fully" offers little, if any, assurance against
+federal anti-hacker prosecution.
+
+     Richard Andrews found himself in deep trouble,
+thanks to the E911 Document.  Andrews lived in Illinois,
+the native stomping grounds of the Chicago Task Force.
+On February 3 and 6, both his home and his place of work
+were raided by USSS.  His machines went out the door,
+too, and he was grilled at length (though not arrested).
+Andrews proved to be in purportedly guilty possession of:
+UNIX SVR 3.2; UNIX SVR 3.1; UUCP; PMON; WWB;
+IWB; DWB; NROFF; KORN SHELL '88; C++; and
+QUEST, among other items.   Andrews had received this
+proprietary code -- which AT&T officially valued at well
+over $250,000 -- through the UNIX network, much of it
+supplied to him as a personal favor by Terminus.  Perhaps
+worse yet, Andrews admitted to returning the favor, by
+passing Terminus a copy of AT&T proprietary STARLAN
+source code.
+
+      Even Charles Boykin, himself an AT&T employee,
+entered some very hot water.   By 1990, he'd almost
+forgotten about the E911 problem he'd reported in
+September 88; in fact, since that date, he'd passed two
+more security alerts to Jerry Dalton, concerning matters
+that Boykin considered far worse than the E911
+Document.
+
+     But by 1990, year of the crackdown,  AT&T Corporate
+Information Security was fed up with "Killer."   This
+machine offered no  direct income to AT&T, and was
+providing aid and comfort to a cloud of suspicious yokels
+from outside the company, some of them actively
+malicious toward AT&T, its property, and its corporate
+interests.   Whatever goodwill and publicity had been won
+among Killer's 1,500 devoted users was considered no
+longer worth the security risk.  On February 20, 1990,
+Jerry
+Dalton arrived in Dallas and simply unplugged the phone
+jacks, to the puzzled alarm of Killer's many Texan users.
+Killer went permanently off-line, with the loss of vast
+archives of programs and huge quantities of electronic
+mail; it was never restored to service.   AT&T showed no
+particular regard for the "property" of these 1,500 people.
+Whatever "property" the users had been storing on
+AT&T's computer simply vanished completely.
+
+     Boykin, who had himself reported the E911 problem,
+now found himself under a cloud of suspicion.  In a weird
+private-security replay of the Secret Service seizures,
+Boykin's own home was visited by AT&T Security and his
+own machines were carried out the door.
+
+     However, there were marked special features in the
+Boykin case.   Boykin's disks and his personal computers
+were swiftly examined by his corporate employers and
+returned politely in just two days -- (unlike Secret Service
+seizures, which commonly take months or years).   Boykin
+was not charged with any crime or wrongdoing, and he
+kept his job with AT&T (though he did retire from AT&T in
+September 1991, at the age of 52).
+
+     It's interesting to note that the US Secret Service
+somehow failed to seize Boykin's "Killer" node and carry
+AT&T's own computer out the door.   Nor did they raid
+Boykin's home.  They seemed perfectly willing to take the
+word of AT&T Security that AT&T's employee, and AT&T's
+"Killer" node, were free of hacker contraband and on the
+up-and-up.
+
+     It's digital water-under-the-bridge at this point, as
+Killer's 3,200 megabytes of Texan electronic community
+were erased in 1990, and "Killer" itself was shipped out of
+the state.
+
+     But the experiences of Andrews and Boykin, and the
+users of their systems, remained side issues.   They did not
+begin to assume the social, political, and legal importance
+that gathered, slowly but inexorably, around the issue of
+the raid on Steve Jackson Games.
+
+                         #
+
+     We must now turn our attention to Steve Jackson
+Games itself, and explain what SJG was, what it really did,
+and how it had managed to attract this particularly odd
+and virulent kind of trouble.  The reader may recall that
+this is not the first but the second time that the company
+has appeared in this narrative; a Steve Jackson game
+called GURPS was a favorite pastime of Atlanta hacker
+Urvile, and Urvile's science-fictional gaming notes had
+been mixed up promiscuously with notes about his actual
+computer intrusions.
+
+     First, Steve Jackson Games, Inc., was *not* a
+publisher of "computer games."  SJG published
+"simulation games," parlor games that were played on
+paper, with pencils, and dice, and printed guidebooks full
+of rules and statistics tables.  There were no computers
+involved in the games themselves.   When you bought a
+Steve Jackson Game, you did not receive any software
+disks.  What you got was a plastic bag with some
+cardboard game tokens, maybe a few maps or a deck of
+cards.  Most of their products were books.
+
+     However, computers *were* deeply involved in the
+Steve Jackson Games business.  Like almost all modern
+publishers, Steve Jackson and his fifteen employees used
+computers to write text, to keep accounts, and to run the
+business generally.  They also used a computer to run
+their official bulletin board system for Steve Jackson
+Games, a board called Illuminati.  On Illuminati,
+simulation gamers who happened to own computers and
+modems could associate, trade mail, debate the theory
+and practice of gaming, and keep up with the company's
+news and its product announcements.
+
+     Illuminati was a modestly popular board, run on a
+small computer with limited storage,  only one phone-line,
+and no ties to large-scale computer networks.   It did,
+however, have hundreds of users, many of them dedicated
+gamers willing to call from out-of-state.
+
+     Illuminati was *not* an "underground" board.  It did
+not feature hints on computer intrusion, or "anarchy files,"
+or illicitly posted credit card numbers, or long-distance
+access codes.  Some of Illuminati's users, however, were
+members of the Legion of Doom.    And so was one of
+Steve Jackson's senior employees -- the Mentor.   The
+Mentor wrote for *Phrack,* and also ran an underground
+board, Phoenix Project -- but the Mentor was not a
+computer professional.  The Mentor was the managing
+editor of Steve Jackson Games and a professional game
+designer by trade.   These LoD members did not use
+Illuminati to help their *hacking* activities.  They used it
+to help their *game-playing* activities -- and they were
+even more dedicated to simulation gaming than they were
+to hacking.
+
+     "Illuminati" got its name from a card-game that Steve
+Jackson himself, the company's founder and sole owner,
+had invented.  This multi-player card-game was one of Mr
+Jackson's best-known, most successful, most technically
+innovative products.   "Illuminati" was a game of
+paranoiac conspiracy in which various antisocial cults
+warred covertly to dominate the world.   "Illuminati" was
+hilarious, and great fun to play, involving flying saucers,
+the CIA, the KGB, the phone companies, the Ku Klux
+Klan, the South American Nazis, the cocaine cartels, the
+Boy Scouts, and dozens of other splinter groups from the
+twisted depths of Mr. Jackson's professionally fervid
+imagination.  For the uninitiated, any public discussion of
+the "Illuminati" card-game sounded, by turns, utterly
+menacing or completely insane.
+
+     And then there was SJG's "Car Wars," in which
+souped-up armored hot-rods with rocket-launchers and
+heavy machine-guns did battle on the American highways
+of the future.   The lively Car Wars discussion on the
+Illuminati board featured many meticulous, painstaking
+discussions of the effects of grenades, land-mines,
+flamethrowers and napalm.  It sounded like hacker
+anarchy files run amuck.
+
+     Mr Jackson and his co-workers earned their daily
+bread by supplying people with make-believe adventures
+and weird ideas.  The more far-out, the better.
+
+     Simulation gaming is an unusual pastime, but
+gamers have not generally had to beg the permission of
+the Secret Service to exist.  Wargames and role-playing
+adventures are an old and honored pastime, much
+favored by professional military strategists.   Once little-
+known, these games are now played by hundreds of
+thousands of enthusiasts throughout North America,
+Europe and Japan.  Gaming-books, once restricted to
+hobby outlets, now commonly appear in chain-stores like
+B. Dalton's and Waldenbooks, and sell vigorously.
+
+     Steve Jackson Games, Inc., of Austin, Texas, was a
+games company of the middle rank.  In 1989, SJG grossed
+about a million dollars.   Jackson himself had a good
+reputation in his industry as a talented and innovative
+designer of rather unconventional games, but his
+company was something less than a titan of the field --
+certainly not like the multimillion-dollar TSR Inc., or
+Britain's gigantic "Games Workshop."
+
+     SJG's Austin headquarters was a modest two-story
+brick office-suite, cluttered with phones, photocopiers, fax
+machines and computers. It bustled with semi-organized
+activity and was littered with glossy promotional brochures
+and dog-eared science-fiction novels.  Attached to the
+offices was a large tin-roofed warehouse piled twenty feet
+high with cardboard boxes of games and books.   Despite
+the weird imaginings that went on within it, the SJG
+headquarters was quite a quotidian, everyday sort of place.
+It looked like what it was:  a publishers' digs.
+
+     Both "Car Wars" and "Illuminati" were well-known,
+popular games.  But the mainstay of the Jackson
+organization was their Generic Universal Role-Playing
+System, "G.U.R.P.S."   The GURPS system was considered
+solid and well-designed, an asset for players.  But perhaps
+the most popular feature of the GURPS system was that it
+allowed gaming-masters to design scenarios that closely
+resembled well-known books, movies, and other works of
+fantasy.  Jackson had  licensed and adapted works from
+many science fiction and fantasy authors.  There was
+*GURPS Conan,* *GURPS Riverworld,* *GURPS
+Horseclans,* *GURPS Witch World,*  names eminently
+familiar to science-fiction readers.  And there was *GURPS
+Special Ops,*  from the world of espionage fantasy and
+unconventional warfare.
+
+     And then there was *GURPS Cyberpunk.*
+
+     "Cyberpunk" was a term given to certain science
+fiction writers who had entered the genre in the 1980s.
+"Cyberpunk," as the label implies, had two general
+distinguishing features.  First, its writers had a
+compelling
+interest in information technology, an interest closely akin
+to science fiction's earlier fascination with space travel.
+And second, these writers  were "punks," with all the
+distinguishing features that that implies:  Bohemian
+artiness, youth run wild, an air of deliberate rebellion,
+funny clothes and hair, odd politics, a fondness for
+abrasive rock and roll; in a word, trouble.
+
+     The "cyberpunk" SF writers were a small group of
+mostly college-educated white middle-class litterateurs,
+scattered through the US and Canada.  Only one, Rudy
+Rucker, a professor of computer science in Silicon Valley,
+could rank with even the humblest computer hacker.   But,
+except for Professor Rucker, the "cyberpunk" authors were
+not programmers or hardware experts; they considered
+themselves artists (as, indeed, did Professor Rucker).
+However, these writers all owned computers, and took an
+intense and public interest in the social ramifications of
+the information industry.
+
+     The cyberpunks had a strong following among the
+global generation that had grown up in a world of
+computers, multinational networks, and  cable television.
+Their outlook was considered somewhat morbid, cynical,
+and dark, but then again, so was the outlook of their
+generational peers.  As that generation matured and
+increased in strength and influence, so did the
+cyberpunks.   As science-fiction writers went, they were
+doing fairly well for themselves.  By the late 1980s, their
+work had attracted attention from gaming companies,
+including Steve Jackson Games, which was planning a
+cyberpunk simulation for the flourishing GURPS gaming-
+system.
+
+     The time seemed ripe for such a product, which had
+already been proven in the marketplace.  The first games-
+company out of the gate, with a product boldly called
+"Cyberpunk" in defiance of possible infringement-of-
+copyright suits, had been an upstart group called R.
+Talsorian.  Talsorian's Cyberpunk was a fairly decent
+game, but the mechanics of the simulation system left a
+lot to be desired.  Commercially, however, the game did
+very well.
+
+     The next cyberpunk game had been the even more
+successful *Shadowrun* by FASA Corporation.  The
+mechanics of this game were fine, but the scenario was
+rendered moronic by  sappy fantasy elements like elves,
+trolls, wizards, and  dragons -- all highly ideologically-
+incorrect, according to the hard-edged, high-tech
+standards of cyberpunk science fiction.
+
+     Other game designers were champing at the bit.
+Prominent among them was the Mentor, a gentleman
+who, like most of his friends in the Legion of Doom, was
+quite the cyberpunk devotee.  Mentor reasoned that the
+time had come for a *real* cyberpunk gaming-book -- one
+that the princes of computer-mischief in the Legion of
+Doom could play without laughing themselves sick.  This
+book, *GURPS Cyberpunk,*  would reek of culturally on-
+line authenticity.
+
+       Mentor was particularly well-qualified for this task.
+Naturally, he knew far more about computer-intrusion
+and digital skullduggery than any previously published
+cyberpunk author.  Not only that, but he was good at his
+work.   A vivid imagination, combined with an instinctive
+feeling for the working of systems and, especially, the
+loopholes within them, are excellent qualities for a
+professional game designer.
+
+     By March 1st, *GURPS Cyberpunk* was almost
+complete, ready to print and ship.  Steve Jackson expected
+vigorous sales for this item, which, he hoped, would keep
+the company financially afloat for several months.
+*GURPS Cyberpunk,*  like the other GURPS "modules,"
+was not a "game" like a Monopoly set, but a *book:*  a
+bound paperback book the size of a glossy magazine, with
+a slick color cover, and pages full of text, illustrations,
+tables and footnotes.   It was advertised as a game, and
+was used as an aid to game-playing,  but it was a book, with
+an ISBN number, published in Texas, copyrighted, and
+sold in bookstores.
+
+     And now, that book, stored on a computer, had gone
+out the door in the custody of the Secret Service.
+
+     The day after the raid, Steve Jackson visited the local
+Secret Service headquarters with a lawyer in tow.  There he
+confronted Tim Foley (still in Austin at that time) and
+demanded his book back.   But there was trouble.
+*GURPS Cyberpunk,*  alleged a Secret Service agent to
+astonished businessman Steve Jackson, was "a manual for
+computer crime."
+
+     "It's science fiction," Jackson said.
+
+     "No, this is real."  This statement was repeated
+several times, by several agents.  Jackson's ominously
+accurate game had passed from pure, obscure, small-
+scale fantasy into the impure, highly publicized, large-
+scale fantasy of the Hacker Crackdown.
+
+     No mention was made of the real reason for the
+search.  According to their search warrant, the raiders had
+expected to find the E911 Document stored on Jackson's
+bulletin board system.   But that warrant was sealed; a
+procedure that most law enforcement agencies will use
+only when lives are demonstrably in danger.   The raiders'
+true motives were not discovered until the Jackson search-
+warrant was unsealed by his lawyers, many months later.
+The Secret Service, and the Chicago Computer Fraud and
+Abuse Task Force, said absolutely nothing to Steve
+Jackson about any threat to the police 911 System.   They
+said nothing about the Atlanta Three, nothing about
+*Phrack* or Knight Lightning, nothing about Terminus.
+
+     Jackson was left to believe that his computers had
+been seized because he intended to publish a science
+fiction book that law enforcement considered too
+dangerous to see print.
+
+     This misconception was repeated again and again,
+for months, to an ever-widening public audience.  It was
+not the truth of the case; but as months passed, and this
+misconception was publicly printed again and again, it
+became one of the few publicly known "facts" about the
+mysterious Hacker Crackdown.   The Secret Service had
+seized a computer to stop the publication of a cyberpunk
+science fiction book.
+
+     The second section of this book, "The Digital
+Underground," is almost finished now.  We have become
+acquainted with all the major figures of this case who
+actually belong to the underground milieu of computer
+intrusion.   We have some idea of their history, their
+motives, their general modus operandi.  We now know, I
+hope, who they are, where they came from, and more or
+less what they want.  In the next section of this book, "Law
+and Order," we will leave this milieu and directly enter the
+world of America's computer-crime police.
+
+     At this point, however, I have another figure to
+introduce:  myself.
+
+     My name is Bruce Sterling.   I live in Austin, Texas,
+where I am a science fiction writer by trade:  specifically,
+a
+*cyberpunk* science fiction writer.
+
+     Like my "cyberpunk" colleagues in the U.S. and
+Canada, I've never been entirely happy with this literary
+label -- especially after it became a synonym for computer
+criminal.  But I did once edit a book of stories by my
+colleagues, called  *MIRRORSHADES:  the Cyberpunk
+Anthology,*  and I've long been a writer of literary-
+critical
+cyberpunk manifestos.   I am not a "hacker" of any
+description, though I do have readers in the digital
+underground.
+
+     When the Steve Jackson Games seizure occurred, I
+naturally took an intense interest.  If "cyberpunk" books
+were being banned by federal police in my own home
+town, I reasonably wondered whether I myself might be
+next.  Would my computer be seized by the Secret
+Service?  At the time, I was in possession of an aging Apple
+IIe without so much as a hard disk.  If I were to be raided
+as an author of computer-crime manuals, the loss of my
+feeble word-processor would likely provoke more snickers
+than sympathy.
+
+     I'd known Steve Jackson for many years.   We knew
+one another as colleagues, for we frequented the same
+local science-fiction conventions.  I'd played Jackson
+games, and recognized his cleverness; but he certainly
+had never struck me as a potential mastermind of
+computer crime.
+
+     I also knew a little about computer bulletin-board
+systems.  In the mid-1980s I had taken an active role in an
+Austin board called "SMOF-BBS," one of the first boards
+dedicated to science fiction.  I had a modem, and on
+occasion I'd logged on to Illuminati, which always looked
+entertainly wacky, but certainly harmless enough.
+
+     At the time of the Jackson seizure, I had no
+experience whatsoever with underground boards.   But I
+knew that no one on Illuminati talked about breaking into
+systems illegally, or about robbing phone companies.
+Illuminati didn't even offer pirated computer games.
+Steve Jackson, like many creative artists,  was markedly
+touchy about theft of intellectual property.
+
+     It seemed to me that Jackson was either seriously
+suspected of some crime -- in which case, he would be
+charged soon, and would have his day in court -- or else he
+was innocent, in which case the Secret Service would
+quickly return his equipment, and everyone would have a
+good laugh.  I rather expected the good laugh.  The
+situation was not without its comic side.  The raid, known
+as the "Cyberpunk Bust" in the science fiction community,
+was winning a great deal of free national publicity both for
+Jackson himself and the "cyberpunk" science fiction
+writers generally.
+
+     Besides, science fiction people are used to being
+misinterpreted.  Science fiction is a colorful,
+disreputable,
+slipshod occupation, full of unlikely oddballs, which, of
+course, is why we like it.   Weirdness can be an
+occupational hazard in our field.  People who wear
+Halloween costumes are sometimes mistaken for
+monsters.
+
+     Once upon a time -- back in 1939, in New York City --
+science fiction and the U.S. Secret Service collided in a
+comic case of mistaken identity.  This weird incident
+involved a literary group quite famous in science fiction,
+known as "the Futurians," whose membership included
+such future genre greats as Isaac Asimov, Frederik Pohl,
+and Damon Knight.  The Futurians were every bit as
+offbeat and wacky as any of their spiritual descendants,
+including the cyberpunks, and were given to communal
+living, spontaneous group renditions of light opera, and
+midnight fencing exhibitions on the lawn.  The Futurians
+didn't have bulletin board systems, but they did have the
+technological equivalent in 1939 -- mimeographs and a
+private printing press.   These were in steady use,
+producing a stream of science-fiction fan magazines,
+literary manifestos, and weird articles, which were picked
+up in ink-sticky bundles by a succession of strange, gangly,
+spotty young men in fedoras and overcoats.
+
+     The neighbors grew alarmed at the antics of the
+Futurians and reported them to the Secret Service as
+suspected counterfeiters.   In the winter of 1939, a squad
+of
+USSS agents with drawn guns burst into "Futurian House,"
+prepared to confiscate the forged currency and illicit
+printing presses.  There they discovered a slumbering
+science fiction fan named George Hahn, a guest of the
+Futurian commune who had just arrived in New York.
+George Hahn managed to explain himself and his group,
+and the Secret Service agents left the Futurians in peace
+henceforth.  (Alas, Hahn died in 1991, just before I had
+discovered this astonishing historical parallel, and just
+before I could interview him for this book.)
+
+     But the Jackson case did not come to a swift and
+comic end.   No quick answers came his way, or mine;  no
+swift reassurances that all was right in the digital world,
+that matters were well in hand after all.   Quite the
+opposite.   In my alternate role as a sometime pop-science
+journalist, I interviewed  Jackson and his staff for an
+article
+in a British magazine.   The strange details of the raid
+left
+me more concerned than ever.   Without its computers,
+the company had been financially and operationally
+crippled.   Half the SJG workforce, a group of entirely
+innocent people, had been sorrowfully fired, deprived of
+their livelihoods by the seizure.  It began to dawn on me
+that authors -- American writers -- might well have their
+computers seized, under sealed warrants, without any
+criminal charge; and that, as Steve Jackson had
+discovered, there was no immediate recourse for this.
+This was no joke; this wasn't science fiction; this was
+real.
+
+     I determined to put science fiction aside until I had
+discovered what had happened and where this trouble
+had come from.  It was time to enter the purportedly real
+world of electronic free expression and computer crime.
+Hence, this book.  Hence, the world of the telcos;  and the
+world of the digital underground; and next, the world of
+the police.
+
+
+        PART THREE:  LAW AND ORDER
+
+
+     Of the various anti-hacker activities of 1990,
+"Operation Sundevil" had by far the highest public
+profile.   The sweeping, nationwide computer
+seizures of May 8, 1990 were unprecedented in
+scope and highly, if rather selectively, publicized.
+
+     Unlike the efforts of the Chicago Computer
+Fraud and Abuse Task Force,  "Operation Sundevil"
+was not intended to combat "hacking" in the sense
+of computer intrusion or sophisticated raids on telco
+switching stations.  Nor did it have anything to do
+with hacker misdeeds with AT&T's software, or with
+Southern Bell's proprietary documents.
+
+     Instead, "Operation Sundevil" was a crackdown
+on those traditional scourges of the digital
+underground:  credit-card theft and telephone code
+abuse.   The ambitious activities out of Chicago, and
+the somewhat lesser-known but  vigorous anti-
+hacker actions of the New York State Police in 1990,
+were never a part of "Operation Sundevil" per se,
+which was based in Arizona.
+
+     Nevertheless, after the spectacular May 8 raids,
+the public, misled by  police secrecy, hacker panic,
+and a puzzled national press-corps, conflated all
+aspects of the nationwide crackdown in 1990 under
+the blanket term "Operation Sundevil."  "Sundevil" is
+still the best-known synonym for the crackdown of
+1990.  But the Arizona organizers of "Sundevil" did
+not really deserve this reputation -- any more, for
+instance, than all hackers deserve a reputation as
+"hackers."
+
+     There was some justice in this confused
+perception, though.  For one thing, the confusion
+was abetted by the Washington office of the Secret
+Service, who responded to Freedom of Information
+Act requests on "Operation Sundevil" by referring
+investigators to the publicly known cases of Knight
+Lightning and the Atlanta Three.  And "Sundevil"
+was certainly the largest aspect of the Crackdown,
+the most deliberate and the best-organized.  As a
+crackdown on electronic fraud, "Sundevil" lacked
+the frantic pace of the war on the Legion of Doom;
+on the contrary, Sundevil's targets were picked out
+with cool deliberation over an elaborate
+investigation lasting two full years.
+
+     And once again the targets were bulletin board
+systems.
+
+     Boards can be powerful aids to organized fraud.
+Underground boards carry lively, extensive,
+detailed, and often quite flagrant "discussions" of
+lawbreaking techniques and lawbreaking activities.
+"Discussing" crime in the abstract, or "discussing"
+the particulars of criminal cases, is not illegal -- but
+there are stern state and federal laws against
+coldbloodedly conspiring in groups in order to
+commit crimes.
+
+     In the eyes of police, people who actively
+conspire to break the law are not regarded as
+"clubs," "debating salons," "users' groups," or "free
+speech advocates."   Rather, such people tend to
+find themselves formally indicted by prosecutors as
+"gangs," "racketeers," "corrupt organizations" and
+"organized crime figures."
+
+     What's more, the illicit data contained on
+outlaw boards goes well beyond mere acts of speech
+and/or possible criminal conspiracy.  As we have
+seen, it was common practice in the digital
+underground to post purloined telephone codes on
+boards, for any phreak or hacker who cared to abuse
+them.  Is posting digital booty of this sort supposed
+to be protected by the First Amendment?  Hardly --
+though the issue, like most issues in cyberspace, is
+not entirely resolved.   Some theorists argue that to
+merely *recite* a number publicly is not illegal --
+only its *use* is illegal.   But anti-hacker police point
+out that magazines and newspapers (more
+traditional forms of free expression) never publish
+stolen telephone codes (even though this might well
+raise their circulation).
+
+     Stolen credit card numbers, being riskier and
+more valuable, were less often publicly posted on
+boards -- but there is no question that some
+underground boards carried "carding" traffic,
+generally exchanged through private mail.
+
+     Underground boards also carried handy
+programs for "scanning" telephone codes and
+raiding credit card companies, as well as the usual
+obnoxious galaxy of pirated software, cracked
+passwords, blue-box schematics, intrusion manuals,
+anarchy files, porn files, and so forth.
+
+     But besides their nuisance potential for the
+spread of illicit knowledge, bulletin boards have
+another vitally interesting aspect for the professional
+investigator.  Bulletin boards are cram-full of
+*evidence.*  All that busy trading of electronic mail,
+all those hacker boasts, brags and struts,  even the
+stolen codes and cards, can be neat, electronic, real-
+time recordings of criminal activity.
+
+     As an investigator, when you seize a pirate
+board, you have scored a coup as effective as
+tapping phones or intercepting mail.  However, you
+have not actually tapped a phone or intercepted a
+letter.   The rules of evidence regarding phone-taps
+and mail interceptions are old, stern and well-
+understood by police, prosecutors and defense
+attorneys alike.  The rules of evidence regarding
+boards are new, waffling, and understood by nobody
+at all.
+
+     Sundevil was the largest crackdown on boards in
+world history.  On May 7, 8, and 9, 1990, about forty-
+two computer systems were seized.  Of those forty-
+two computers, about twenty-five actually were
+running boards.  (The vagueness of this estimate is
+attributable to the vagueness of (a) what a
+"computer system" is, and (b) what it actually means
+to "run a board" with one -- or with two computers, or
+with three.)
+
+     About twenty-five boards vanished into police
+custody in May 1990.   As we have seen, there are an
+estimated 30,000 boards in America today.  If we
+assume that one board in a hundred is up to no good
+with codes and cards (which rather flatters the
+honesty of the board-using community), then that
+would leave 2,975 outlaw boards untouched by
+Sundevil.  Sundevil seized about one tenth of one
+percent of all computer bulletin boards in America.
+Seen objectively, this is something less than a
+comprehensive assault.   In 1990, Sundevil's
+organizers -- the team at the Phoenix Secret Service
+office, and the Arizona Attorney General's office --
+had a list of at least *three hundred* boards that
+they considered fully deserving of search and
+seizure warrants.   The twenty-five boards actually
+seized were merely among the most obvious and
+egregious of this much larger list of candidates.   All
+these boards had been examined beforehand --
+either by informants, who had passed printouts to
+the Secret Service, or by Secret Service agents
+themselves, who not only come equipped with
+modems but know how to use them.
+
+     There were a number of motives for Sundevil.
+First, it offered a chance to get ahead of the curve on
+wire-fraud crimes.  Tracking back credit-card ripoffs
+to their perpetrators can be appallingly difficult.  If
+these miscreants have any kind of electronic
+sophistication, they can snarl their tracks through
+the phone network into a mind-boggling,
+untraceable mess, while still managing to "reach out
+and rob someone."  Boards, however, full of brags
+and boasts, codes and cards, offer evidence in the
+handy congealed form.
+
+     Seizures themselves -- the mere physical
+removal of machines -- tends to take the pressure
+off.  During Sundevil, a large number of code kids,
+warez d00dz, and credit card thieves would be
+deprived of those boards -- their  means of
+community and conspiracy -- in one swift blow.  As
+for the sysops themselves (commonly among the
+boldest offenders) they would be directly stripped of
+their computer equipment, and rendered digitally
+mute and blind.
+
+     And this aspect of Sundevil was carried out with
+great success.   Sundevil seems to have been a
+complete tactical surprise -- unlike the fragmentary
+and continuing seizures of the war on the Legion of
+Doom, Sundevil was precisely timed and utterly
+overwhelming.    At least forty "computers" were
+seized during May 7, 8 and 9, 1990, in Cincinnati,
+Detroit, Los Angeles, Miami, Newark, Phoenix,
+Tucson, Richmond, San Diego, San Jose, Pittsburgh
+and San Francisco.   Some cities saw multiple raids,
+such as the five separate raids in the New York City
+environs.  Plano, Texas (essentially a suburb of the
+Dallas/Fort Worth metroplex, and a hub of the
+telecommunications industry)  saw four computer
+seizures.  Chicago, ever in the forefront, saw its own
+local Sundevil raid, briskly carried out by Secret
+Service agents Timothy Foley and Barbara Golden.
+
+     Many of these raids occurred, not in the cities
+proper, but in associated white-middle class suburbs
+-- places like Mount Lebanon, Pennsylvania and
+Clark Lake, Michigan.   There were a few raids on
+offices; most took place in people's homes, the
+classic hacker basements and bedrooms.
+
+     The Sundevil raids were searches and seizures,
+not a group of mass arrests.  There were only four
+arrests during Sundevil.  "Tony the Trashman," a
+longtime teenage bete noire of the Arizona
+Racketeering unit, was arrested in Tucson on May 9.
+"Dr. Ripco," sysop of an outlaw board with the
+misfortune to exist in Chicago itself, was also
+arrested  -- on illegal weapons charges.   Local units
+also arrested a 19-year-old female phone phreak
+named "Electra" in Pennsylvania,  and a male
+juvenile in California.  Federal agents however were
+not seeking arrests, but computers.
+
+     Hackers are generally not indicted (if at all)
+until the evidence in their seized computers is
+evaluated -- a process that can take weeks, months --
+even years.    When hackers are arrested on the
+spot, it's generally an arrest for other reasons.  Drugs
+and/or illegal weapons show up in a good third of
+anti-hacker computer seizures (though not during
+Sundevil).
+
+     That scofflaw teenage hackers (or their parents)
+should have marijuana in their homes is probably
+not a shocking revelation, but the surprisingly
+common presence of illegal firearms in hacker dens
+is a bit disquieting.   A Personal Computer can be a
+great equalizer for the techno-cowboy -- much like
+that more traditional American "Great Equalizer,"
+the Personal Sixgun.   Maybe it's not all that
+surprising that some guy obsessed with power
+through illicit technology would also have a few illicit
+high-velocity-impact devices around.  An element of
+the digital underground particularly dotes on those
+"anarchy philes,"  and this element tends to shade
+into the crackpot milieu of survivalists, gun-nuts,
+anarcho-leftists and the ultra-libertarian right-wing.
+
+     This is not to say that hacker raids to date have
+uncovered any major crack-dens or illegal arsenals;
+but Secret Service agents do not regard "hackers" as
+"just kids."   They regard hackers as unpredictable
+people, bright and slippery.   It doesn't help matters
+that the hacker himself has been "hiding behind his
+keyboard" all this time.   Commonly, police have no
+idea what he looks like.  This makes him an
+unknown quantity, someone best treated with
+proper caution.
+
+     To date, no hacker has come out shooting,
+though they do sometimes brag on boards that they
+will do just that.  Threats of this sort are taken
+seriously.   Secret Service hacker raids tend to be
+swift, comprehensive, well-manned (even over-
+manned);  and agents generally burst through every
+door in the home at once, sometimes with drawn
+guns.  Any potential resistance is swiftly quelled.
+Hacker raids are usually raids on people's homes.
+It can be a very dangerous business to raid an
+American home; people can panic when strangers
+invade their sanctum.   Statistically speaking, the
+most dangerous thing a policeman can do is to enter
+someone's home.  (The second most dangerous
+thing is to stop a car in traffic.)  People have guns in
+their homes.   More cops are hurt in homes than are
+ever hurt in biker bars or massage parlors.
+
+     But in any case, no one was hurt during
+Sundevil, or indeed during any part of the Hacker
+Crackdown.
+
+     Nor were there any allegations of any physical
+mistreatment of a suspect.   Guns were pointed,
+interrogations were sharp and prolonged; but no one
+in 1990 claimed any act of brutality by any
+crackdown raider.
+
+     In addition to the forty or so computers,
+Sundevil reaped floppy disks in particularly great
+abundance -- an estimated 23,000 of them, which
+naturally included every manner of illegitimate
+data:  pirated games, stolen codes, hot credit card
+numbers, the complete text and software of entire
+pirate bulletin-boards.  These floppy disks, which
+remain in police custody today, offer a gigantic,
+almost embarrassingly rich source of possible
+criminal indictments.  These 23,000 floppy disks also
+include a thus-far unknown quantity of legitimate
+computer games, legitimate software,  purportedly
+"private" mail from boards, business records, and
+personal correspondence of all kinds.
+
+     Standard computer-crime search warrants lay
+great emphasis on seizing written documents as well
+as computers -- specifically including photocopies,
+computer printouts, telephone bills, address books,
+logs, notes, memoranda and correspondence.  In
+practice, this has meant that diaries, gaming
+magazines, software documentation, nonfiction
+books on hacking and computer security,
+sometimes even science fiction novels, have all
+vanished out the door in police custody.   A wide
+variety of electronic items have been known to
+vanish as well, including telephones, televisions,
+answering machines, Sony Walkmans, desktop
+printers, compact disks, and audiotapes.
+
+     No fewer than 150 members of the Secret
+Service were sent into the field during Sundevil.
+They were commonly accompanied by squads of
+local and/or state police.   Most of these officers --
+especially  the locals -- had never been on an anti-
+hacker raid before.  (This was one good reason, in
+fact, why so many of them were invited along in the
+first place.)   Also, the presence of a uniformed
+police officer assures the raidees that the people
+entering their homes are, in fact, police.   Secret
+Service agents wear plain clothes.  So do the telco
+security experts who commonly accompany the
+Secret Service on raids (and who make no particular
+effort to identify themselves as mere employees of
+telephone companies).
+
+     A typical hacker raid goes something like this.
+First, police storm in rapidly, through every
+entrance, with overwhelming force, in the
+assumption that this tactic will keep casualties to a
+minimum.  Second, possible suspects are
+immediately removed from the vicinity of any and
+all computer systems, so that they will have no
+chance to purge or destroy computer evidence.
+Suspects are herded into a room without computers,
+commonly the living room,  and kept under guard --
+not *armed* guard, for the guns are swiftly
+holstered, but under guard nevertheless.   They are
+presented with the search warrant and warned that
+anything they say may be held against them.
+Commonly they have a great deal to say, especially
+if they are unsuspecting parents.
+
+     Somewhere in the house is the "hot spot" -- a
+computer tied to a phone line (possibly several
+computers and several phones).   Commonly it's a
+teenager's bedroom, but it can be anywhere in the
+house; there may be several such rooms.   This "hot
+spot" is put in charge of a two-agent team, the
+"finder" and the "recorder."   The "finder" is
+computer-trained, commonly the case agent who
+has actually obtained the search warrant from a
+judge.   He or she understands what is being sought,
+and actually carries out the seizures: unplugs
+machines, opens drawers, desks, files, floppy-disk
+containers, etc.   The "recorder" photographs all the
+equipment, just as it stands -- especially the tangle
+of wired connections in the back, which can
+otherwise be a real nightmare to restore.  The
+recorder will also commonly photograph every room
+in the house, lest some wily criminal claim that the
+police had robbed him during the search.   Some
+recorders carry videocams or tape recorders;
+however, it's more common for the recorder to
+simply take written notes.  Objects are described
+and numbered as the finder seizes them, generally
+on standard preprinted police inventory forms.
+
+     Even Secret Service agents were not, and are
+not, expert computer users.  They have not made,
+and do not make, judgements on the fly about
+potential threats posed by various forms of
+equipment.   They may exercise discretion; they may
+leave Dad his computer, for instance, but they don't
+*have* to.   Standard computer-crime search
+warrants, which date back to the early 80s, use a
+sweeping language that targets computers,  most
+anything attached to a computer, most anything
+used to operate a computer -- most anything that
+remotely resembles a computer -- plus most any
+and all written documents surrounding it.
+Computer-crime investigators have strongly urged
+agents to seize the works.
+
+     In this sense, Operation Sundevil appears to
+have been a complete success.  Boards went down
+all over America, and were shipped en masse to the
+computer investigation lab of the Secret Service, in
+Washington DC, along with the 23,000 floppy disks
+and unknown quantities of printed material.
+
+     But the seizure of twenty-five boards, and the
+multi-megabyte mountains of possibly useful
+evidence contained in these boards (and in their
+owners' other computers, also out the door), were far
+from the only motives for Operation Sundevil.   An
+unprecedented action of great ambition and size,
+Sundevil's motives can only be described as
+political.   It was a public-relations effort, meant to
+pass certain messages, meant to make certain
+situations clear:  both in the mind of the general
+public, and in the minds of various constituencies of
+the electronic community.
+
+      First  -- and this motivation was vital -- a
+"message" would be sent from law enforcement to
+the digital underground.   This very message was
+recited in so many words by Garry M. Jenkins, the
+Assistant Director of the US Secret Service, at the
+Sundevil press conference in Phoenix on May 9,
+1990, immediately after the raids.   In brief, hackers
+were mistaken in their foolish belief that they could
+hide behind the "relative anonymity of their
+computer terminals."  On the contrary, they should
+fully understand that state and federal cops were
+actively patrolling the beat in cyberspace -- that they
+were on the watch everywhere, even in those sleazy
+and secretive dens of cybernetic vice, the
+underground boards.
+
+     This is not an unusual message for police to
+publicly convey to crooks.   The message is a
+standard message; only the context is new.
+
+     In this respect,  the Sundevil raids were the
+digital equivalent of the standard vice-squad
+crackdown on massage parlors, porno bookstores,
+head-shops,  or floating crap-games.  There may be
+few or no arrests in a raid of this sort; no convictions,
+no trials, no interrogations.   In cases of this sort,
+police may well walk out the door with many pounds
+of sleazy magazines, X-rated videotapes, sex toys,
+gambling equipment, baggies of marijuana....
+
+     Of course, if something truly horrendous is
+discovered by the raiders, there will be arrests and
+prosecutions.   Far more likely, however, there will
+simply be a brief but sharp disruption of the closed
+and secretive world of the nogoodniks.  There will be
+"street hassle."  "Heat."  "Deterrence."  And, of
+course, the immediate loss of the seized goods.  It is
+very unlikely that any of this seized material will ever
+be returned.   Whether charged or not, whether
+convicted or not, the perpetrators will almost surely
+lack the nerve ever to ask for this stuff to be given
+back.
+
+     Arrests and trials -- putting people in jail -- may
+involve all kinds of formal legalities; but dealing with
+the justice system is far from the only task of police.
+Police do not simply arrest people.  They don't
+simply put people in jail.   That is not how the police
+perceive their jobs.  Police "protect and serve."
+Police "keep the peace," they "keep public order."
+Like other forms of public relations, keeping public
+order is not an exact science.  Keeping public order
+is something of an art-form.
+
+     If a group of tough-looking teenage hoodlums
+was loitering on a street-corner, no one would be
+surprised to see a street-cop arrive and sternly order
+them to "break it up."   On the contrary, the surprise
+would come if one of these ne'er-do-wells stepped
+briskly into a phone-booth, called a civil rights
+lawyer, and instituted a civil suit in defense of his
+Constitutional rights of free speech and free
+assembly.  But  something much  along this line was
+one of the many anomolous outcomes of the Hacker
+Crackdown.
+
+     Sundevil also carried useful "messages" for
+other constituents of the electronic community.
+These messages may not have been read aloud
+from the Phoenix podium in front of the press corps,
+but there was little mistaking their meaning.  There
+was a message of reassurance for the primary
+victims of coding and carding:  the telcos, and the
+credit companies.  Sundevil was greeted with joy by
+the security officers of the electronic business
+community.   After years of high-tech harassment
+and spiralling revenue losses, their complaints of
+rampant outlawry were being taken seriously by law
+enforcement.  No more head-scratching or
+dismissive shrugs; no more feeble excuses about
+"lack of computer-trained officers" or the low priority
+of "victimless" white-collar telecommunication
+crimes.
+
+     Computer-crime experts have long believed
+that computer-related offenses are drastically
+under-reported.   They regard this as a major open
+scandal of their field.  Some victims are reluctant to
+come forth, because they believe that police and
+prosecutors are not computer-literate, and can and
+will do nothing.  Others are embarrassed by their
+vulnerabilities, and will take strong measures to
+avoid any publicity; this is especially true of banks,
+who fear a loss of investor confidence should an
+embezzlement-case or wire-fraud surface.   And
+some victims are so helplessly confused by their own
+high technology that they never even realize that a
+crime has occurred -- even when they have been
+fleeced to the bone.
+
+     The results of this situation can be dire.
+Criminals escape apprehension and punishment.
+The computer-crime units that do exist, can't get
+work.   The true scope of computer-crime:  its size, its
+real nature, the scope of its threats, and the legal
+remedies for it -- all remain obscured.
+
+     Another problem is very little publicized, but it
+is a cause of genuine concern.  Where there is
+persistent crime, but no effective police protection,
+then vigilantism can result.   Telcos, banks, credit
+companies, the major corporations who maintain
+extensive computer networks vulnerable to hacking
+-- these organizations are powerful, wealthy, and
+politically influential.   They are disinclined to be
+pushed around by crooks (or by most anyone else,
+for that matter).  They often maintain well-organized
+private security forces, commonly run by
+experienced veterans of military and police units,
+who have left public service for the greener pastures
+of the private sector.   For police, the corporate
+security manager can be a powerful ally; but if this
+gentleman finds no allies in the police, and the
+pressure is on from his board-of-directors, he may
+quietly take certain matters into his own hands.
+
+     Nor is there any lack of disposable hired-help in
+the corporate security business.  Private security
+agencies -- the 'security business' generally -- grew
+explosively in the 1980s.  Today there are spooky
+gumshoed armies of "security consultants," "rent-a-
+cops," "private eyes,"  "outside experts" --  every
+manner of shady operator who retails in "results"
+and discretion.   Or course, many of these
+gentlemen and ladies may be  paragons of
+professional and moral rectitude.  But as anyone
+who has read a hard-boiled detective novel knows,
+police tend to be less than fond of this sort of
+private-sector competition.
+
+     Companies in search of computer-security have
+even been known to hire hackers.   Police shudder at
+this prospect.
+
+     Police treasure good relations with the business
+community.   Rarely will you see a policeman so
+indiscreet as to  allege publicly that some major
+employer in his state or city has succumbed to
+paranoia and gone off the rails.  Nevertheless, police
+-- and computer police in particular -- are aware of
+this possibility.   Computer-crime police can and do
+spend up to half of their business hours just doing
+public relations:  seminars, "dog and pony shows,"
+sometimes with parents' groups or computer users,
+but generally with their core audience: the likely
+victims of hacking crimes.  These, of course, are
+telcos, credit card companies and large computer-
+equipped corporations.   The police strongly urge
+these people, as good citizens, to report offenses and
+press criminal charges; they pass the message that
+there is someone in authority who cares,
+understands, and, best of all, will take useful action
+should a computer-crime occur.
+
+     But reassuring talk is cheap.  Sundevil offered
+action.
+
+     The final message of Sundevil was intended for
+internal consumption by law enforcement.  Sundevil
+was offered as proof that the community of
+American computer-crime police  had come of age.
+Sundevil was proof that enormous things like
+Sundevil itself could now be accomplished.
+Sundevil was proof that the Secret Service and its
+local law-enforcement allies could act like a well-
+oiled machine -- (despite the hampering use of
+those scrambled phones).   It was also proof that the
+Arizona Organized Crime and Racketeering Unit  --
+the sparkplug of Sundevil -- ranked with the best in
+the world in ambition, organization, and sheer
+conceptual daring.
+
+     And, as a final fillip, Sundevil was a message
+from the Secret Service to their longtime rivals in the
+Federal Bureau of Investigation.  By Congressional
+fiat, both USSS and FBI formally share jurisdiction
+over federal computer-crimebusting activities.
+Neither of these groups has ever been remotely
+happy with this muddled situation.  It seems to
+suggest that Congress cannot make up its mind as to
+which of these groups is better qualified.   And there
+is scarcely a G-man or a Special Agent anywhere
+without a very firm opinion on that topic.
+
+                         #
+
+           For the neophyte, one of the most puzzling
+aspects of the crackdown on hackers is why the
+United States Secret Service has anything at all to do
+with this matter.
+
+     The Secret Service is best known for its primary
+public role:  its agents protect the President of the
+United States.  They also guard the President's
+family, the Vice President and his family, former
+Presidents, and Presidential candidates.   They
+sometimes guard foreign dignitaries who are visiting
+the United States, especially foreign heads of state,
+and have been known to accompany American
+officials on diplomatic missions overseas.
+
+     Special Agents of the Secret Service don't wear
+uniforms, but the Secret Service also has two
+uniformed police agencies.  There's the former
+White House Police  (now known as the Secret
+Service Uniformed Division, since they currently
+guard foreign embassies in Washington, as well as
+the White House itself).  And there's the uniformed
+Treasury Police Force.
+
+     The Secret Service has been charged by
+Congress with a number of little-known duties.
+They guard the precious metals in Treasury vaults.
+They guard the most valuable historical documents
+of the United States:  originals of the Constitution,
+the Declaration of Independence, Lincoln's Second
+Inaugural Address, an American-owned copy of the
+Magna Carta, and so forth.   Once they were
+assigned to guard the Mona Lisa, on her American
+tour in the 1960s.
+
+     The entire Secret Service is a division of the
+Treasury Department.   Secret Service Special
+Agents (there are about 1,900 of them)  are
+bodyguards for the President et al, but they all work
+for the Treasury.  And the Treasury (through its
+divisions of the U.S. Mint and the Bureau of
+Engraving and Printing) prints the nation's money.
+
+     As Treasury police, the Secret Service guards
+the nation's currency; it is the only federal law
+enforcement agency with direct jurisdiction over
+counterfeiting and forgery.  It analyzes documents
+for authenticity, and its fight against  fake cash is still
+quite lively (especially since the skilled
+counterfeiters of Medellin, Columbia have gotten
+into the act).   Government checks, bonds, and other
+obligations, which exist in untold millions and are
+worth untold billions, are common targets for
+forgery, which the Secret Service also battles.   It
+even handles forgery of postage stamps.
+
+     But cash is fading in importance today as
+money has become electronic.  As necessity
+beckoned, the Secret Service moved from fighting
+the counterfeiting of paper currency and the forging
+of checks, to the protection of funds transferred by
+wire.
+
+     From wire-fraud, it was a simple skip-and-jump
+to what is formally known as "access device fraud."
+Congress granted the Secret Service the authority to
+investigate "access device fraud"  under Title 18 of
+the United States Code (U.S.C.  Section 1029).
+
+     The term "access device" seems intuitively
+simple.  It's some kind of high-tech gizmo you use to
+get money with.  It makes good sense to put this sort
+of thing in the charge of counterfeiting and wire-
+fraud experts.
+
+     However, in Section 1029, the term "access
+device" is very generously defined.  An access device
+is: "any card, plate, code, account number, or other
+means of account access that can be used, alone or
+in conjunction with another access device, to obtain
+money, goods, services, or any other thing of value,
+or that can be used to initiate a transfer of funds."
+
+     "Access device" can therefore be construed to
+include credit cards themselves (a popular forgery
+item nowadays).  It also includes credit card account
+*numbers,* those standards of the digital
+underground.   The same goes for telephone charge
+cards (an increasingly popular item with telcos, who
+are tired of being robbed of pocket change by
+phone-booth thieves).   And also telephone access
+*codes,* those *other* standards of the digital
+underground.  (Stolen telephone codes may not
+"obtain money," but they certainly do obtain
+valuable "services," which is specifically forbidden
+by Section 1029.)
+
+     We can now see that Section 1029 already pits
+the United States Secret Service directly against the
+digital underground, without any mention at all of
+the word "computer."
+
+     Standard phreaking devices, like "blue boxes,"
+used to steal phone service from old-fashioned
+mechanical switches, are unquestionably
+"counterfeit access devices."   Thanks to Sec.1029, it
+is not only illegal to *use* counterfeit access devices,
+but it is even illegal to *build* them.   "Producing,"
+"designing" "duplicating" or "assembling" blue
+boxes are all federal crimes today, and if you do this,
+the Secret Service has been charged by Congress to
+come after you.
+
+     Automatic Teller Machines, which replicated all
+over America during the 1980s, are definitely "access
+devices," too, and an attempt to tamper with their
+punch-in codes and plastic bank cards falls directly
+under Sec. 1029.
+
+     Section 1029 is remarkably elastic.  Suppose you
+find a computer password in somebody's trash.  That
+password might be a "code" -- it's certainly a "means
+of account access."  Now suppose you log on to a
+computer and copy some software for yourself.
+You've certainly obtained "service" (computer
+service)  and a "thing of value" (the software).
+Suppose you tell a dozen friends about your swiped
+password, and let them use it, too.  Now you're
+"trafficking in unauthorized access devices."  And
+when the Prophet, a member of the Legion of Doom,
+passed a stolen telephone company document to
+Knight Lightning at *Phrack* magazine, they were
+both charged under Sec. 1029!
+
+     There are two limitations on Section 1029.  First,
+the offense must "affect interstate or foreign
+commerce" in order to become a matter of federal
+jurisdiction.  The term "affecting commerce" is not
+well defined; but you may take it as a given that the
+Secret Service can take an interest if you've done
+most anything that happens to cross a state line.
+State and local police can be touchy about their
+jurisdictions, and can sometimes be mulish when
+the feds show up.   But when it comes to computer-
+crime, the local police are pathetically grateful for
+federal help -- in fact they complain that they can't
+get enough of it.   If you're stealing long-distance
+service, you're almost certainly crossing state lines,
+and you're definitely "affecting the interstate
+commerce" of the telcos.  And if you're abusing
+credit cards by ordering stuff out of glossy catalogs
+from, say, Vermont, you're in for it.
+
+     The second limitation is money.  As a rule, the
+feds don't pursue penny-ante offenders.  Federal
+judges will dismiss cases that appear to waste their
+time.  Federal crimes must be serious;  Section 1029
+specifies a minimum loss of a thousand dollars.
+
+     We now come to the very next section of Title
+18, which is Section 1030, "Fraud and related activity
+in connection with computers."  This statute gives
+the Secret Service direct jurisdiction over acts of
+computer intrusion.  On the face of it, the Secret
+Service would now seem to command the field.
+Section 1030, however, is nowhere near so ductile as
+Section 1029.
+
+     The first annoyance is Section 1030(d), which
+reads:
+
+     "(d) The United States Secret Service shall, *in
+addition to any other agency having such authority,*
+have the authority to investigate offenses under this
+section.  Such authority of the United States Secret
+Service shall be exercised in accordance with an
+agreement which shall be entered into by the
+Secretary  of the Treasury *and the Attorney
+General.*"   (Author's  italics.)
+
+     The Secretary of the Treasury is the titular head
+of the Secret Service, while the Attorney General is
+in charge of the FBI.  In Section (d), Congress
+shrugged off responsibility for the computer-crime
+turf-battle between the Service and the Bureau, and
+made them fight it out all by themselves.  The result
+was a rather dire one for the Secret Service, for the
+FBI ended up with exclusive jurisdiction over
+computer break-ins having to do with national
+security, foreign espionage, federally insured banks,
+and U.S. military bases, while retaining joint
+jurisdiction over all the other computer intrusions.
+Essentially, when it comes to Section 1030, the FBI
+not only gets the real glamor stuff for itself, but can
+peer over the shoulder of the Secret Service and
+barge in to meddle whenever it suits them.
+
+     The second problem has to do with the dicey
+term "Federal interest computer."  Section 1030(a)(2)
+makes it illegal to "access a computer without
+authorization" if that computer belongs to a
+financial institution or an issuer of credit cards
+(fraud cases, in other words).   Congress was quite
+willing to give the Secret Service jurisdiction over
+money-transferring computers, but Congress balked
+at letting them investigate any and all computer
+intrusions.   Instead, the USSS had to settle for the
+money machines and the "Federal interest
+computers."   A "Federal interest computer" is a
+computer which the government itself owns, or is
+using.  Large networks of interstate computers,
+linked over state lines, are also considered to be of
+"Federal interest."   (This notion of "Federal interest"
+is legally rather foggy and has never been clearly
+defined in the courts.  The Secret Service has never
+yet had its hand slapped for investigating computer
+break-ins that were *not* of "Federal interest," but
+conceivably someday this might happen.)
+
+     So the Secret Service's authority over
+"unauthorized access" to computers covers a lot of
+territory, but by no means the whole ball of
+cyberspatial wax.   If you are, for instance, a *local*
+computer retailer, or the owner of a *local* bulletin
+board system, then a malicious *local* intruder can
+break in, crash your system, trash your files and
+scatter viruses, and the U.S.  Secret Service cannot
+do a single thing about it.
+
+     At least, it can't do anything *directly.*   But the
+Secret Service will do plenty to help the local people
+who can.
+
+     The FBI may have dealt itself an ace off the
+bottom of the deck when it comes to Section 1030;
+but that's not the whole story; that's not the street.
+What's Congress thinks is one thing, and Congress
+has been known to change its mind.  The *real* turf-
+struggle is out there in the streets where it's
+happening.    If you're a local street-cop with a
+computer problem, the Secret Service wants you to
+know where you can find the real expertise.  While
+the Bureau crowd are off having their favorite shoes
+polished -- (wing-tips) -- and making derisive fun of
+the Service's favorite shoes -- ("pansy-ass tassels") --
+the tassel-toting Secret Service has a crew of ready-
+and-able  hacker-trackers installed in the capital of
+every state in the Union.   Need advice?  They'll give
+you advice, or at least point you in the right
+direction.  Need training?  They can see to that, too.
+
+     If you're a local cop and you call in the FBI, the
+FBI (as is widely and slanderously rumored)  will
+order you around like a coolie, take all the credit for
+your busts, and mop up every possible scrap of
+reflected glory.  The Secret Service, on the other
+hand, doesn't brag a lot.  They're the quiet types.
+*Very* quiet.  Very cool.  Efficient.  High-tech.
+Mirrorshades, icy stares, radio ear-plugs, an Uzi
+machine-pistol tucked somewhere in that well-cut
+jacket.  American samurai, sworn to give their lives
+to protect our President.  "The granite agents."
+Trained in martial arts, absolutely fearless.  Every
+single one of 'em has a top-secret security clearance.
+Something goes a little wrong, you're not gonna hear
+any whining and moaning and political buck-
+passing out of these guys.
+
+     The facade of the granite agent is not, of course,
+the reality.  Secret Service agents are human beings.
+And the real glory in Service work is not in battling
+computer crime -- not yet, anyway -- but in
+protecting the President.  The real glamour of Secret
+Service work is in the White House Detail.   If you're
+at the President's side, then the kids and the wife see
+you on television; you rub shoulders with the most
+powerful people in the world.   That's the real heart
+of Service work, the number one priority.  More than
+one computer investigation has stopped dead in the
+water when Service agents vanished at the
+President's need.
+
+     There's romance in the work of the Service.  The
+intimate access to circles of great power;  the esprit-
+de-corps of a highly trained and disciplined elite; the
+high responsibility of defending the Chief Executive;
+the fulfillment of a patriotic duty.   And as police
+work goes, the pay's not bad.  But there's squalor in
+Service work, too.  You may get spat upon by
+protesters howling abuse -- and if they get violent, if
+they get too close, sometimes you have to knock one
+of them down -- discreetly.
+
+     The real squalor in Service work is drudgery
+such as "the quarterlies," traipsing out four times a
+year, year in, year out, to interview the various
+pathetic wretches, many of them in prisons and
+asylums, who have seen fit to threaten the
+President's life.   And then there's the grinding stress
+of searching  all those faces in the endless bustling
+crowds, looking for hatred, looking for psychosis,
+looking for the tight, nervous face of an Arthur
+Bremer, a Squeaky Fromme, a Lee Harvey Oswald.
+It's watching all those grasping, waving hands for
+sudden movements, while your ears strain at your
+radio headphone for the long-rehearsed cry of
+"Gun!"
+
+     It's poring, in grinding detail, over the
+biographies of every rotten loser who ever shot at a
+President.  It's the unsung work of the Protective
+Research Section, who study scrawled, anonymous
+death threats with all the meticulous tools of anti-
+forgery techniques.
+
+     And it's maintaining the hefty computerized
+files on anyone who ever threatened the President's
+life.  Civil libertarians have become increasingly
+concerned at the Government's use of computer
+files to track American citizens -- but the Secret
+Service file of potential Presidential assassins, which
+has upward of twenty thousand names, rarely
+causes a peep of protest.  If you *ever* state that you
+intend to kill the President, the Secret Service will
+want to know and record who you are, where you are,
+what you are, and what you're up to.   If you're a
+serious threat -- if you're officially considered "of
+protective interest" -- then the Secret Service may
+well keep tabs on you for the rest of your natural life.
+
+     Protecting the President has first call on all the
+Service's resources.  But there's a lot more to the
+Service's traditions and history than standing guard
+outside the Oval Office.
+
+     The Secret Service is the nation's oldest general
+federal law-enforcement agency.   Compared to the
+Secret Service, the FBI are new-hires and the CIA
+are temps.  The Secret Service was founded 'way
+back in 1865, at the suggestion of Hugh McCulloch,
+Abraham Lincoln's Secretary of the Treasury.
+McCulloch wanted a specialized Treasury police to
+combat counterfeiting.  Abraham Lincoln agreed
+that this seemed a good idea, and, with a terrible
+irony, Abraham Lincoln was shot that very night by
+John Wilkes Booth.
+
+     The Secret Service originally had nothing to do
+with protecting Presidents.  They didn't take this on
+as a regular assignment until after the Garfield
+assassination in 1881.   And they didn't get any
+Congressional money for it until President McKinley
+was shot in 1901.   The Service was originally
+designed for one purpose: destroying counterfeiters.
+
+                         #
+
+     There are interesting parallels between the
+Service's nineteenth-century entry into
+counterfeiting, and America's twentieth-century
+entry into computer-crime.
+
+     In 1865, America's paper currency was a terrible
+muddle.  Security was drastically bad.  Currency was
+printed on the spot by local banks in literally
+hundreds of different designs.  No one really knew
+what the heck a dollar bill was supposed to look like.
+Bogus bills passed easily.  If some joker told you that
+a one-dollar bill from the Railroad Bank of Lowell,
+Massachusetts had a woman leaning on a shield,
+with a locomotive, a cornucopia, a compass, various
+agricultural implements, a railroad bridge, and
+some factories, then you pretty much had to take his
+word for it.  (And in fact he was telling the truth!)
+
+       *Sixteen hundred* local American banks
+designed and printed their own paper currency, and
+there were no general standards for security.  Like a
+badly guarded node in a computer network, badly
+designed bills were easy to fake, and  posed a
+security hazard for the entire monetary system.
+
+     No one knew the exact extent of the threat to
+the currency.  There were panicked estimates that as
+much as a third of the entire national currency was
+faked.  Counterfeiters -- known as "boodlers" in the
+underground slang of the time -- were  mostly
+technically skilled printers who had gone to the bad.
+Many had once worked printing legitimate currency.
+Boodlers operated in rings and gangs.   Technical
+experts engraved the bogus plates -- commonly in
+basements in New York City.  Smooth confidence
+men passed large wads of high-quality, high-
+denomination fakes, including the really
+sophisticated stuff --  government bonds, stock
+certificates, and railway shares.  Cheaper, botched
+fakes were sold or sharewared to low-level gangs of
+boodler wannabes.  (The really cheesy lowlife
+boodlers merely upgraded real bills by altering face
+values, changing ones to fives, tens to hundreds, and
+so on.)
+
+     The techniques of boodling were little-known
+and regarded with a certain awe by the mid-
+nineteenth-century  public.  The ability to
+manipulate the system for rip-off seemed
+diabolically clever.  As the skill and daring of the
+boodlers increased, the situation became
+intolerable.  The federal government stepped in,
+and began offering its own federal currency, which
+was printed in fancy green ink, but only on the back -
+- the original "greenbacks."  And at first, the
+improved security of the well-designed, well-printed
+federal greenbacks seemed to solve the problem;
+but then the counterfeiters caught on.  Within a few
+years things were worse than ever:  a *centralized*
+system where *all* security was bad!
+
+     The local police were helpless.  The
+Government tried offering blood money to potential
+informants, but this met with little success.  Banks,
+plagued by boodling, gave up hope of police help
+and hired private security men instead.  Merchants
+and bankers queued up by the thousands to buy
+privately-printed manuals on currency security, slim
+little books like Laban Heath's  *Infallible
+Government Counterfeit Detector.*  The back of the
+book offered Laban Heath's patent microscope for
+five bucks.
+
+     Then the Secret Service entered the picture.
+The first agents were a rough and ready crew.   Their
+chief was one William P. Wood, a former guerilla in
+the Mexican War who'd won a reputation busting
+contractor fraudsters for the War Department
+during the Civil War.   Wood, who was also Keeper
+of the Capital Prison, had a sideline as a
+counterfeiting expert, bagging boodlers for the
+federal bounty money.
+
+     Wood was named Chief of the new Secret
+Service in July 1865.  There were only ten  Secret
+Service agents in all:  Wood himself, a handful
+who'd worked for him in the War Department, and a
+few former private investigators -- counterfeiting
+experts -- whom Wood had won over to public
+service.   (The Secret Service of 1865 was much the
+size of the Chicago Computer Fraud Task Force or
+the Arizona Racketeering Unit of 1990.)  These ten
+"Operatives" had an additional twenty or so
+"Assistant Operatives" and "Informants."   Besides
+salary and per diem, each Secret Service employee
+received a whopping twenty-five dollars for each
+boodler he captured.
+
+     Wood himself publicly estimated that at least
+*half* of America's currency was counterfeit, a
+perhaps pardonable perception.   Within a year the
+Secret Service had arrested over 200 counterfeiters.
+They busted about two hundred boodlers a year for
+four years straight.
+
+     Wood attributed his success to travelling fast
+and light, hitting the bad-guys hard, and avoiding
+bureaucratic baggage.  "Because my raids were
+made without military escort and I did not ask the
+assistance of state officers, I surprised the
+professional counterfeiter."
+
+     Wood's social message to the once-impudent
+boodlers bore an eerie ring of Sundevil:  "It was also
+my purpose to convince such characters that it
+would no longer be healthy for them to ply their
+vocation without being handled roughly, a fact they
+soon discovered."
+
+     William P. Wood, the Secret Service's guerilla
+pioneer, did not end well.  He succumbed to the lure
+of aiming for the really big score.  The notorious
+Brockway Gang of New York City,  headed by
+William E. Brockway, the "King of the
+Counterfeiters," had forged a number of
+government bonds.  They'd passed these brilliant
+fakes on the prestigious Wall Street investment firm
+of Jay Cooke and Company.  The Cooke firm were
+frantic and offered a huge reward for the forgers'
+plates.
+
+     Laboring diligently, Wood confiscated the
+plates (though not Mr. Brockway) and claimed the
+reward.  But the Cooke company treacherously
+reneged.   Wood got involved in a down-and-dirty
+lawsuit with the Cooke capitalists.   Wood's boss,
+Secretary of the Treasury McCulloch, felt that
+Wood's demands for money and glory were
+unseemly, and even when the reward money finally
+came through, McCulloch refused to pay Wood
+anything.   Wood found himself mired in a
+seemingly endless round of federal suits and
+Congressional lobbying.
+
+     Wood never got his money.  And he lost his job
+to boot.  He resigned in 1869.
+
+     Wood's agents suffered, too.  On May 12, 1869,
+the second Chief of the Secret Service took over, and
+almost immediately fired most of Wood's pioneer
+Secret Service agents:   Operatives, Assistants and
+Informants alike.  The practice of receiving $25 per
+crook was abolished.   And the Secret Service began
+the long, uncertain process of thorough
+professionalization.
+
+     Wood ended badly.  He must have felt stabbed
+in the back.  In fact his entire organization was
+mangled.
+
+     On the other hand, William P. Wood *was* the
+first head of the Secret Service.  William Wood was
+the pioneer.  People still honor his name.  Who
+remembers the name of the *second* head of the
+Secret Service?
+
+     As for William Brockway (also known as
+"Colonel Spencer"), he was finally arrested by the
+Secret Service in 1880.  He did five years in prison,
+got out, and was still boodling at the age of seventy-
+four.
+
+                    #
+
+     Anyone with an interest in  Operation Sundevil -
+- or in American computer-crime generally -- could
+scarcely miss the presence of Gail Thackeray,
+Assistant Attorney General of the State of Arizona.
+Computer-crime training manuals often cited
+Thackeray's group and her work;  she was the
+highest-ranking state official to specialize in
+computer-related offenses.   Her name had been on
+the Sundevil press release (though modestly ranked
+well after the local federal prosecuting attorney and
+the head of the Phoenix Secret Service office).
+
+     As public commentary, and controversy, began
+to mount about the Hacker Crackdown, this
+Arizonan state official began to take a higher and
+higher public profile.  Though uttering almost
+nothing specific about the Sundevil operation itself,
+she coined some of the most striking soundbites of
+the growing propaganda war:  "Agents are operating
+in good faith, and I don't think you can say that for
+the hacker community," was one.  Another was the
+memorable "I am not a mad dog prosecutor"
+(*Houston Chronicle,*  Sept 2, 1990.)  In the
+meantime, the Secret Service maintained its usual
+extreme discretion; the Chicago Unit, smarting from
+the backlash of the Steve Jackson scandal, had gone
+completely to earth.
+
+     As I collated my growing pile of newspaper
+clippings, Gail Thackeray ranked as a comparative
+fount of public knowledge on police operations.
+
+     I decided that I  had to get to know Gail
+Thackeray.   I wrote to her at the Arizona Attorney
+General's Office.   Not only did she kindly reply to
+me, but, to my astonishment, she knew very well
+what "cyberpunk" science fiction was.
+
+     Shortly after this, Gail Thackeray lost her job.
+And I temporarily misplaced my own career as a
+science-fiction writer, to become a full-time
+computer-crime journalist.   In early March, 1991, I
+flew to Phoenix, Arizona, to interview Gail Thackeray
+for my book on the hacker crackdown.
+
+                         #
+
+     "Credit cards didn't used to cost anything to
+get," says Gail Thackeray.  "Now they cost forty
+bucks -- and that's all just to cover the costs from
+*rip-off artists.*"
+
+     Electronic nuisance criminals are parasites.
+One by one they're not much harm, no big deal.  But
+they never come just one by one. They come in
+swarms, heaps, legions, sometimes whole
+subcultures.  And they bite.  Every time we buy a
+credit card today, we lose a little financial vitality to a
+particular species of bloodsucker.
+
+     What, in her expert opinion, are the worst forms
+of electronic crime, I ask, consulting my notes.  Is it --
+credit card fraud?  Breaking into ATM bank
+machines?  Phone-phreaking?  Computer
+intrusions?  Software viruses?  Access-code theft?
+Records tampering?  Software piracy?  Pornographic
+bulletin boards? Satellite TV piracy?  Theft of cable
+service?   It's a long list.  By the time I reach the end
+of it I feel rather depressed.
+
+     "Oh no," says Gail Thackeray, leaning forward
+over the table, her whole body gone stiff with
+energetic indignation, "the biggest damage is
+telephone fraud.  Fake sweepstakes, fake charities.
+Boiler-room con operations.  You could pay off the
+national debt with what these guys steal....  They
+target old people, they get hold of credit ratings and
+demographics, they rip off the old and the weak."
+The words come tumbling out of her.
+
+     It's low-tech stuff, your everyday boiler-room
+fraud.  Grifters, conning people out of money over
+the phone, have been around for decades.  This is
+where the word "phony" came from!
+
+     It's just that it's so much *easier* now, horribly
+facilitated by advances in technology and the
+byzantine structure of the modern phone system.
+The same professional fraudsters do it over and
+over, Thackeray tells me, they hide behind dense
+onion-shells of fake companies.... fake holding
+corporations nine or ten layers deep, registered all
+over the map.  They get a phone installed under a
+false name in an empty safe-house.  And then they
+call-forward everything out of that phone to yet
+another phone,  a phone that may even be in
+another *state.*  And they don't even pay the
+charges on their phones; after a month or so, they
+just split.  Set up somewhere else in another
+Podunkville with the same seedy crew of veteran
+phone-crooks.  They buy or steal commercial credit
+card reports, slap them on the PC, have a program
+pick out people over sixty-five  who pay a lot to
+charities.  A whole subculture living off this,
+merciless folks on the con.
+
+     "The 'light-bulbs for the blind' people,"
+Thackeray muses, with a special loathing.  "There's
+just no end to them."
+
+     We're sitting in a downtown diner in Phoenix,
+Arizona.  It's a tough town, Phoenix.  A state capital
+seeing some hard times.  Even to a Texan like
+myself, Arizona state politics seem rather baroque.
+There was, and remains, endless trouble over the
+Martin Luther King holiday, the sort of stiff-necked,
+foot-shooting incident for which Arizona politics
+seem famous.  There was Evan Mecham, the
+eccentric Republican millionaire governor who was
+impeached, after reducing state government to a
+ludicrous shambles.  Then there was the national
+Keating scandal, involving Arizona savings and
+loans, in which both  of Arizona's  U.S. senators,
+DeConcini and McCain, played sadly prominent
+roles.
+
+     And the very latest is the bizarre AzScam case,
+in which state legislators were videotaped, eagerly
+taking cash from an informant of the Phoenix city
+police department, who was posing as a Vegas
+mobster.
+
+     "Oh," says Thackeray cheerfully.  "These people
+are amateurs here, they thought they were finally
+getting to play with the big boys.  They don't have the
+least idea how to take a bribe!  It's not institutional
+corruption.  It's not  like back in Philly."
+
+     Gail Thackeray was a former prosecutor in
+Philadelphia.  Now she's a former assistant attorney
+general of the State of Arizona.  Since  moving to
+Arizona in 1986, she had worked under the aegis of
+Steve Twist,  her boss in the Attorney General's
+office.  Steve Twist wrote Arizona's pioneering
+computer crime laws and naturally took an interest
+in seeing them enforced. It was a snug niche, and
+Thackeray's Organized Crime and Racketeering
+Unit won a national reputation for ambition and
+technical knowledgeability....  Until the latest
+election in Arizona.  Thackeray's boss ran for the top
+job, and lost.  The victor, the new Attorney General,
+apparently went to some pains to eliminate the
+bureaucratic traces of his rival, including his pet
+group -- Thackeray's group.   Twelve people got their
+walking papers.
+
+     Now Thackeray's painstakingly assembled
+computer lab sits gathering dust somewhere in the
+glass-and-concrete Attorney General's HQ on 1275
+Washington Street.  Her computer-crime books, her
+painstakingly garnered back issues of phreak and
+hacker zines, all bought at her own expense -- are
+piled in boxes somewhere.  The State of Arizona is
+simply not particularly interested in electronic
+racketeering at the moment.
+
+     At the moment of our interview, Gail Thackeray,
+officially unemployed, is working out of the county
+sheriff's office, living on her savings, and prosecuting
+several cases -- working 60-hour weeks, just as always
+-- for no pay at all.  "I'm trying to train people," she
+mutters.
+
+     Half her life seems to be spent training people -
+- merely pointing out, to the naive and incredulous
+(such as myself) that this stuff is *actually going on
+out there.*  It's a small world, computer crime.  A
+young world.   Gail Thackeray, a trim blonde Baby-
+Boomer who favors Grand Canyon white-water
+rafting to kill some slow time, is one of the world's
+most senior, most veteran "hacker-trackers."   Her
+mentor was Donn Parker,  the California think-tank
+theorist who got it all started 'way back in the mid-
+70s, the "grandfather of the field,"  "the great bald
+eagle of computer crime."
+
+     And what she has learned, Gail Thackeray
+teaches.  Endlessly. Tirelessly.  To anybody.  To
+Secret Service agents and state police, at the Glynco,
+Georgia federal training center.  To local police, on
+"roadshows" with her slide projector and notebook.
+To corporate security personnel.  To journalists.  To
+parents.
+
+      Even *crooks* look to Gail Thackeray for advice.
+Phone-phreaks call her at the office.  They know very
+well who she is.  They pump her for information on
+what the cops are up to, how much they know.
+Sometimes whole *crowds* of phone phreaks,
+hanging out on illegal conference calls, will call Gail
+Thackeray up.  They taunt her.  And, as always, they
+boast.  Phone-phreaks, real stone phone-phreaks,
+simply *cannot shut up.*  They natter on for hours.
+
+     Left to themselves, they mostly talk about the
+intricacies of ripping-off phones; it's about as
+interesting as listening to hot-rodders talk about
+suspension and distributor-caps.  They also gossip
+cruelly about each other.  And when talking to Gail
+Thackeray, they incriminate themselves.   "I have
+tapes," Thackeray says coolly.
+
+     Phone phreaks just talk like crazy.  "Dial-Tone"
+out in Alabama has been known to spend half-an-
+hour simply reading stolen phone-codes aloud into
+voice-mail answering machines.  Hundreds,
+thousands of numbers, recited in a monotone,
+without a break -- an eerie phenomenon.  When
+arrested, it's a rare phone phreak who doesn't
+inform at endless length on everybody he knows.
+
+     Hackers are no better.  What other group of
+criminals, she asks rhetorically, publishes
+newsletters and holds conventions?   She seems
+deeply nettled by the sheer brazenness of this
+behavior, though to an outsider, this activity might
+make one wonder whether hackers should be
+considered "criminals" at all.  Skateboarders have
+magazines, and they trespass a lot.  Hot rod people
+have magazines and they break speed limits and
+sometimes kill people....
+
+     I ask her whether it would be any loss to society
+if phone phreaking and computer hacking, as
+hobbies, simply dried up and blew away, so that
+nobody ever did it again.
+
+     She seems surprised.  "No," she says swiftly.
+"Maybe a little... in the old days... the MIT stuff...  But
+there's a lot of wonderful, legal stuff you can do with
+computers now, you don't have to break into
+somebody else's just to learn.  You don't have that
+excuse. You can learn all you like."
+
+     Did you ever hack into a system? I ask.
+
+     The trainees do it at Glynco.  Just to
+demonstrate system vulnerabilities.  She's cool to
+the notion.  Genuinely indifferent.
+
+     "What kind of computer do you have?"
+
+     "A Compaq 286LE," she mutters.
+
+     "What kind do you *wish* you had?"
+
+     At this question, the unmistakable light of true
+hackerdom flares in Gail Thackeray's eyes.  She
+becomes tense, animated, the words pour out:  "An
+Amiga 2000 with an IBM card and Mac emulation!
+The most common hacker machines are Amigas
+and Commodores.  And Apples."  If she had the
+Amiga, she enthuses, she could run a whole galaxy
+of seized computer-evidence disks on one
+convenient multifunctional machine.  A cheap one,
+too.  Not like the old Attorney General lab, where
+they had an ancient CP/M machine, assorted
+Amiga flavors and Apple flavors, a couple IBMS, all
+the utility software... but no Commodores.  The
+workstations down at the Attorney General's are
+Wang dedicated word-processors.  Lame machines
+tied in to an office net --  though at least they get on-
+line to the Lexis and Westlaw legal data services.
+
+     I don't say anything.  I recognize the syndrome,
+though.  This computer-fever has been running
+through segments of our society for years now.  It's a
+strange kind of lust: K-hunger, Meg-hunger; but it's
+a shared disease; it can kill parties dead, as
+conversation spirals into the deepest and most
+deviant recesses of software releases and expensive
+peripherals....  The mark of the hacker beast.  I have
+it too.  The whole "electronic community," whatever
+the hell that is, has it.  Gail Thackeray has it.  Gail
+Thackeray is a hacker cop.   My immediate reaction
+is a strong rush of indignant pity:  *why doesn't
+somebody buy this woman her Amiga?!*   It's not
+like she's asking for a Cray X-MP supercomputer
+mainframe; an Amiga's a sweet little  cookie-box
+thing.  We're losing zillions in organized fraud;
+prosecuting and defending a single hacker case in
+court can cost a hundred grand easy.  How come
+nobody can come up with four lousy grand so this
+woman can do her job?  For a hundred grand we
+could buy every computer cop in America an Amiga.
+There aren't that many of 'em.
+
+     Computers.  The lust, the hunger, for
+computers.  The loyalty they inspire, the intense
+sense of possessiveness.   The culture they have
+bred.  I myself am sitting in  downtown Phoenix,
+Arizona because it suddenly occurred to me that the
+police might -- just *might* -- come and take away
+my computer.  The prospect of this, the mere
+*implied threat,*  was unbearable.  It literally
+changed my life.  It was changing the lives of many
+others.  Eventually it would change everybody's life.
+
+     Gail Thackeray was one of the top computer-
+crime people in America.  And I was just some
+novelist, and yet I had a better computer than hers.
+*Practically everybody I knew*  had a better
+computer than Gail Thackeray and her feeble
+laptop 286.  It was like sending the sheriff in to clean
+up Dodge City and arming her with a slingshot cut
+from an old rubber tire.
+
+     But then again, you don't need a howitzer to
+enforce the law.  You can do a lot just with a badge.
+With a badge alone, you can basically wreak havoc,
+take a terrible vengeance on wrongdoers.  Ninety
+percent of "computer crime investigation" is just
+"crime investigation:" names, places, dossiers,
+modus operandi, search warrants, victims,
+complainants, informants...
+
+     What will computer crime look like in ten
+years?  Will it get better?  Did "Sundevil" send 'em
+reeling back in confusion?
+
+     It'll be like it is now,  only worse, she tells me
+with perfect conviction.  Still there in the
+background, ticking along, changing with the times:
+the criminal underworld.  It'll be like drugs are.  Like
+our problems with alcohol.  All the cops and laws in
+the world never solved our problems with alcohol.  If
+there's something people want, a certain percentage
+of them are just going to take it.  Fifteen percent of
+the populace will never steal.  Fifteen percent will
+steal most anything not nailed down.  The battle is
+for the hearts and minds of the remaining seventy
+percent.
+
+     And criminals catch on fast.  If there's not "too
+steep a learning curve" -- if it doesn't require a
+baffling amount of expertise and practice -- then
+criminals are often some of the first through the gate
+of a new technology.  Especially if it helps them to
+hide.  They have tons of cash, criminals.  The new
+communications tech -- like pagers, cellular phones,
+faxes, Federal Express -- were pioneered by rich
+corporate people, and by criminals.  In the early
+years of pagers and beepers, dope dealers were so
+enthralled this technology that owing a beeper was
+practically prima facie evidence of cocaine dealing.
+CB radio exploded when the speed limit hit 55 and
+breaking the highway law became a national
+pastime.  Dope dealers send cash by  Federal
+Express, despite, or perhaps *because of,* the
+warnings in FedEx offices that tell you never to try
+this.  Fed Ex uses X-rays and dogs on their mail, to
+stop drug shipments.  That doesn't work very well.
+
+     Drug dealers went wild over cellular phones.
+There are simple methods of faking ID on cellular
+phones, making the location of the call mobile, free
+of charge, and effectively untraceable.  Now
+victimized cellular companies routinely bring in vast
+toll-lists of calls to Colombia and Pakistan.
+
+     Judge Greene's fragmentation of the phone
+company is driving law enforcement nuts.  Four
+thousand telecommunications companies.  Fraud
+skyrocketing.  Every temptation in the world
+available with a phone and a credit card number.
+Criminals untraceable.  A galaxy of "new neat rotten
+things to do."
+
+      If there were one thing Thackeray would like to
+have, it would be an effective legal end-run through
+this new fragmentation minefield.
+
+       It would be a new form of electronic search
+warrant, an "electronic letter of marque" to be issued
+by a judge.  It would create a new category of
+"electronic emergency."   Like a wiretap, its use
+would be rare, but it would cut across state lines and
+force swift cooperation from all concerned.  Cellular,
+phone, laser, computer network, PBXes, AT&T, Baby
+Bells, long-distance entrepreneurs, packet radio.
+Some document, some mighty court-order, that
+could slice through four thousand separate forms of
+corporate red-tape, and get her at once to the source
+of calls, the source of email threats and viruses, the
+sources of bomb threats, kidnapping threats.  "From
+now on," she says, "the Lindberg baby will always
+die."
+
+     Something that would make the Net sit still, if
+only for a moment.  Something that would get her up
+to speed.  Seven league boots.  That's what she really
+needs.  "Those guys move in nanoseconds and I'm
+on the Pony Express."
+
+     And then, too, there's the  coming international
+angle.  Electronic crime has never been easy to
+localize, to tie to a physical jurisdiction.  And phone-
+phreaks and hackers loathe boundaries, they jump
+them whenever they can.  The English.  The Dutch.
+And the Germans, especially the ubiquitous Chaos
+Computer Club.  The Australians.  They've all
+learned phone-phreaking from America.  It's a
+growth mischief industry.  The multinational
+networks are global, but governments and the police
+simply aren't.  Neither are the laws.  Or the legal
+frameworks for citizen protection.
+
+     One language is global, though -- English.
+Phone phreaks speak English; it's their native
+tongue even if they're Germans.  English may have
+started in England but now it's the Net language; it
+might as well be called "CNNese."
+
+     Asians just aren't much into phone phreaking.
+They're the world masters at organized software
+piracy.  The French aren't into phone-phreaking
+either.  The French are into computerized industrial
+espionage.
+
+     In the old days of the MIT righteous
+hackerdom, crashing systems didn't hurt anybody.
+Not all that much, anyway.  Not permanently.  Now
+the players are more venal.  Now the consequences
+are worse.  Hacking will begin killing people soon.
+Already there are methods of stacking calls onto 911
+systems, annoying the police, and possibly causing
+the death of some poor soul calling in with a genuine
+emergency.  Hackers in Amtrak computers, or air-
+traffic control computers, will kill somebody
+someday.  Maybe a lot of people.  Gail Thackeray
+expects it.
+
+     And the viruses are getting nastier.  The "Scud"
+virus is the latest one out.  It wipes hard-disks.
+
+     According to Thackeray, the idea that phone-
+phreaks are Robin Hoods is a fraud.  They don't
+deserve this repute.   Basically, they pick on the
+weak.  AT&T now protects itself with the fearsome
+ANI (Automatic Number Identification) trace
+capability.  When AT&T wised up and tightened
+security generally, the phreaks drifted into the Baby
+Bells.  The Baby Bells lashed out in 1989 and 1990, so
+the phreaks switched to smaller long-distance
+entrepreneurs.  Today, they are moving into locally
+owned PBXes and voice-mail systems, which are full
+of security holes, dreadfully easy to hack.  These
+victims aren't the moneybags Sheriff of Nottingham
+or Bad King John, but small groups of innocent
+people who find it hard to protect themselves, and
+who really suffer from these depredations.  Phone
+phreaks pick on the weak.  They do it for power.  If it
+were legal, they wouldn't do it.  They don't want
+service, or knowledge, they want the thrill of power-
+tripping.   There's plenty of knowledge or service
+around, if you're willing to pay.  Phone phreaks don't
+pay, they steal.  It's because it is illegal that it feels
+like power, that it gratifies their vanity.
+
+     I leave Gail Thackeray with a handshake at the
+door of her office building -- a vast International-
+Style office building downtown.  The Sheriff's office is
+renting part of it.  I get the vague impression that
+quite a lot of the building is empty -- real estate
+crash.
+
+     In a Phoenix sports apparel store, in a downtown
+mall, I meet the "Sun Devil" himself.  He is the
+cartoon mascot of Arizona State University, whose
+football stadium, "Sundevil," is near the local Secret
+Service HQ -- hence the name Operation Sundevil.
+The Sun Devil himself is named "Sparky."  Sparky
+the Sun Devil is maroon and bright yellow, the
+school colors.  Sparky brandishes a three-tined
+yellow pitchfork.  He has a small mustache, pointed
+ears, a barbed tail, and is dashing forward jabbing
+the air with the pitchfork, with an expression of
+devilish glee.
+
+     Phoenix was the home of Operation Sundevil.
+The Legion of Doom ran a hacker bulletin board
+called "The Phoenix Project."  An Australian hacker
+named "Phoenix"  once burrowed through the
+Internet to attack Cliff Stoll, then bragged and
+boasted about it to *The New York Times.*  This net
+of coincidence is both odd and meaningless.
+
+     The headquarters of the Arizona Attorney
+General, Gail Thackeray's former workplace, is on
+1275 Washington Avenue.  Many of the downtown
+streets in Phoenix are named after prominent
+American presidents:  Washington, Jefferson,
+Madison....
+
+     After dark, all the employees go home to their
+suburbs.  Washington, Jefferson and Madison --
+what would be the Phoenix inner city, if there were
+an inner city in this sprawling automobile-bred town
+--  become the haunts of transients and derelicts.
+The homeless. The sidewalks along Washington are
+lined with orange trees.  Ripe fallen fruit lies
+scattered like croquet balls on the sidewalks and
+gutters.  No one seems to be eating them.  I try a
+fresh one.  It tastes unbearably bitter.
+
+          The Attorney General's office, built in 1981
+during the Babbitt administration,  is a long low two-
+story building of white cement and wall-sized sheets
+of curtain-glass.  Behind each glass wall is a lawyer's
+office, quite open and visible to anyone strolling by.
+Across the street is a dour government building
+labelled simply ECONOMIC SECURITY, something
+that has not been in great supply in the American
+Southwest lately.
+
+     The offices  are about twelve feet square.  They
+feature tall wooden cases full of red-spined
+lawbooks; Wang computer monitors; telephones;
+Post-it notes galore.  Also framed law diplomas and a
+general excess of bad Western landscape art.  Ansel
+Adams photos are a big favorite, perhaps to
+compensate for the dismal specter of the parking-
+lot, two acres of striped black asphalt, which features
+gravel landscaping and some sickly-looking barrel
+cacti.
+
+     It has grown dark.  Gail Thackeray has told me
+that the people who work late here, are afraid of
+muggings in the parking lot.  It seems cruelly ironic
+that a woman tracing electronic racketeers across
+the interstate labyrinth of Cyberspace should fear
+an assault by a homeless derelict in the parking lot
+of her own workplace.
+
+     Perhaps this is less than coincidence.  Perhaps
+these two seemingly disparate worlds are somehow
+generating one another.  The poor and
+disenfranchised take to the streets, while the rich
+and computer-equipped, safe in their bedrooms,
+chatter over their modems.  Quite often the derelicts
+kick the glass out and break in to the lawyers' offices,
+if they see something they need or want badly
+enough.
+
+     I cross  the parking lot to the street behind the
+Attorney General's office.  A pair of young tramps
+are bedding down on flattened sheets of cardboard,
+under an alcove stretching over the sidewalk.  One
+tramp wears a glitter-covered T-shirt reading
+"CALIFORNIA" in Coca-Cola cursive.  His nose and
+cheeks look chafed and swollen; they glisten with
+what seems to be Vaseline.  The other tramp has a
+ragged long-sleeved shirt and lank brown hair
+parted in the middle. They both wear blue jeans
+coated in grime.  They are both drunk.
+
+     "You guys crash here a lot?" I ask them.
+
+     They look at me warily.  I am wearing black
+jeans, a black pinstriped suit jacket and a black silk
+tie.  I have odd shoes and a funny haircut.
+
+     "It's our first time here," says the red-nosed
+tramp unconvincingly. There is a lot of cardboard
+stacked here.  More than any two people could use.
+
+     "We usually stay at the Vinnie's down the
+street," says the brown-haired tramp, puffing a
+Marlboro with a meditative air, as he sprawls with his
+head on a blue nylon backpack.  "The Saint
+Vincent's."
+
+     "You know who works in that building over
+there?"  I ask, pointing.
+
+     The brown-haired tramp shrugs.  "Some kind of
+attorneys, it says."
+
+`    We urge one another to take it easy.  I give
+them five bucks.
+
+     A block down the street I meet a vigorous
+workman who is wheeling along some kind of
+industrial trolley; it has what appears to be a tank of
+propane on it.
+
+      We make eye contact.  We nod politely.  I walk
+past him.  "Hey!  Excuse me sir!" he says.
+
+     "Yes?" I say, stopping and turning.
+
+     "Have you seen," the guy says rapidly, "a black
+guy, about 6'7", scars on both his cheeks like this --"
+he gestures --  "wears a black baseball cap on
+backwards, wandering around here anyplace?"
+
+     "Sounds like I don't much *want* to meet him," I
+say.
+
+     "He took my wallet," says my new acquaintance.
+"Took it this morning.  Y'know, some people would
+be *scared* of a guy like that.  But I'm not scared.
+I'm from Chicago.  I'm gonna hunt him down.  We
+do things like that in Chicago."
+
+     "Yeah?"
+
+     "I went to the cops and now he's got an APB out
+on his ass," he says with satisfaction.  "You run into
+him, you let me know."
+
+     "Okay," I say.  "What is your name, sir?"
+
+     "Stanley...."
+
+     "And how can I reach you?"
+
+     "Oh," Stanley says, in the same rapid voice, "you
+don't have to reach, uh, me.  You can just call the
+cops.  Go straight to the cops." He reaches into a
+pocket and pulls out a greasy piece of pasteboard.
+"See, here's my report on him."
+
+     I look.  The "report," the size of an index card, is
+labelled PRO-ACT:  Phoenix Residents Opposing
+Active Crime Threat.... or is it  Organized Against
+Crime Threat?  In the darkening street it's hard to
+read.  Some kind of vigilante group?  Neighborhood
+watch?  I feel very puzzled.
+
+     "Are you a police officer, sir?"
+
+     He smiles, seems very pleased by the question.
+
+     "No," he says.
+
+`    "But you are a 'Phoenix Resident?'"
+
+     "Would you believe a homeless person,"
+Stanley says.
+
+     "Really?  But what's with the..."   For the first
+time I take a close look at Stanley's trolley.  It's a
+rubber-wheeled thing of industrial metal, but the
+device I had mistaken for a tank of propane is in fact
+a water-cooler.  Stanley also has an Army duffel-bag,
+stuffed tight as a sausage with clothing or perhaps a
+tent, and, at the base of his trolley, a cardboard box
+and a battered leather briefcase.
+
+     "I see," I say, quite at a loss.  For the first time I
+notice that Stanley has a wallet.  He has not lost his
+wallet at all.  It is in his back pocket and chained to
+his belt.  It's not a new wallet.  It seems to have seen
+a lot of wear.
+
+     "Well, you know how it is, brother," says Stanley.
+Now that I know that he is homeless -- *a possible
+threat* --  my entire perception of him has changed
+in an instant.   His speech, which once seemed just
+bright and enthusiastic, now seems to have a
+dangerous tang of mania.  "I have to do this!" he
+assures me.  "Track this guy down... It's a thing I do...
+you know... to keep myself together!"  He smiles,
+nods, lifts his trolley by its decaying rubber
+handgrips.
+
+     "Gotta work together, y'know, "  Stanley booms,
+his face alight with cheerfulness, "the police can't do
+everything!"
+
+     The gentlemen I met in my stroll in downtown
+Phoenix are the only computer illiterates in this
+book.  To regard them as irrelevant, however, would
+be a grave mistake.
+
+     As computerization spreads across society, the
+populace at large is subjected to wave after wave of
+future shock.  But, as a necessary converse, the
+"computer community" itself is subjected to wave
+after wave of incoming computer illiterates.   How
+will those currently enjoying America's digital
+bounty regard, and treat, all this teeming refuse
+yearning to breathe free?  Will the electronic
+frontier be another Land of Opportunity -- or an
+armed and monitored enclave, where the
+disenfranchised snuggle on their cardboard at the
+locked doors of our houses of justice?
+
+     Some people just don't get along with
+computers.  They can't read.  They can't type.  They
+just don't have it in their heads to master arcane
+instructions in wirebound manuals.   Somewhere,
+the process of computerization of the populace will
+reach a limit.  Some people -- quite decent people
+maybe, who might have thrived in any other
+situation -- will be left irretrievably outside the
+bounds.   What's to be done with these people, in
+the bright new shiny electroworld?  How will they be
+regarded, by the mouse-whizzing masters of
+cyberspace?  With contempt?  Indifference?  Fear?
+
+     In retrospect, it astonishes me to realize how
+quickly poor Stanley became a  perceived threat.
+Surprise and fear are closely allied feelings.  And the
+world of computing is full of surprises.
+
+     I met one character in the streets of Phoenix
+whose role in those book is supremely and directly
+relevant.  That personage was Stanley's giant
+thieving scarred phantom.  This phantasm is
+everywhere in this book.  He is the specter haunting
+cyberspace.
+
+     Sometimes he's a maniac vandal ready to
+smash the phone system for no sane reason at all.
+Sometimes he's a fascist fed, coldly programming
+his mighty mainframes to destroy our Bill of Rights.
+Sometimes he's a telco bureaucrat, covertly
+conspiring to register all modems in the service of
+an Orwellian surveillance regime.   Mostly, though,
+this fearsome phantom is a "hacker."   He's st

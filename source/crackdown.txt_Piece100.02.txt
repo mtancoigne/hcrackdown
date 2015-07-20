@@ -1,0 +1,2233 @@
+lmination of both human and mechanical
+failure."   (This time, however, AT&T offered no discount
+on later calls.  Unkind critics suggested that AT&T were
+worried about setting any precedent for refunding the
+financial losses caused by telephone crashes.)
+
+     Industry journals asked  publicly if AT&T was "asleep
+at the switch."   The telephone network, America's
+purported marvel of high-tech reliability,  had gone down
+three times in 18 months.  *Fortune* magazine listed the
+Crash of September 17 among the "Biggest Business
+Goofs of 1991,"  cruelly parodying AT&T's ad campaign in
+an article entitled "AT&T Wants You Back (Safely On the
+Ground, God Willing)."
+
+     Why had those New York switching systems simply
+run out of power?  Because no human being had attended
+to the alarm system.  Why did the alarm systems blare
+automatically, without any human being noticing?
+Because the three telco technicians who *should* have
+been listening were absent from their stations in the
+power-room, on another floor of the building -- attending a
+training class.  A training class about the alarm systems
+for
+the power room!
+
+     "Crashing the System" was no longer
+"unprecedented" by late 1991.   On the contrary, it no
+longer even seemed an oddity.   By 1991, it was clear that
+all the policemen in the world could no longer "protect"
+the phone system from crashes.   By far the worst crashes
+the system had ever had, had been inflicted, by the
+system, upon *itself.*  And this time nobody was making
+cocksure statements that this was an anomaly, something
+that would never happen again.   By 1991 the System's
+defenders had met their nebulous Enemy, and the Enemy
+was -- the System.
+
+
+        PART TWO:  THE DIGITAL UNDERGROUND
+
+
+     The date was May 9, 1990.  The Pope was touring
+Mexico City.   Hustlers from the Medellin Cartel were
+trying to buy black-market Stinger missiles in Florida.  On
+the comics page, Doonesbury character Andy was dying of
+AIDS.   And then.... a highly unusual item whose novelty
+and calculated rhetoric won it headscratching attention in
+newspapers all over America.
+
+     The US Attorney's office in Phoenix, Arizona, had
+issued a press release announcing a nationwide law
+enforcement crackdown against "illegal computer hacking
+activities."  The sweep was officially known as "Operation
+Sundevil."
+
+     Eight paragraphs in the press release gave the bare
+facts:  twenty-seven search warrants carried out on May 8,
+with three arrests, and a hundred and fifty agents on the
+prowl in "twelve" cities across America.   (Different counts
+in local press reports yielded "thirteen," "fourteen," and
+"sixteen" cities.)   Officials estimated that criminal
+losses
+of revenue to telephone companies "may run into millions
+of dollars."   Credit for the Sundevil investigations was
+taken by the US Secret Service, Assistant US Attorney Tim
+Holtzen of Phoenix, and the Assistant Attorney General of
+Arizona,  Gail Thackeray.
+
+       The prepared remarks of Garry M. Jenkins,
+appearing in a U.S. Department of Justice press release,
+were of particular interest.  Mr. Jenkins was the Assistant
+Director of the US Secret Service, and the highest-ranking
+federal official to take any direct public role in  the
+hacker
+crackdown of 1990.
+
+      "Today, the Secret Service is sending a clear message
+to those computer hackers who have decided to violate
+the laws of this nation in the mistaken belief that they can
+successfully avoid detection by hiding behind the relative
+anonymity of their computer terminals.(...)
+     "Underground groups have been formed for the
+purpose of exchanging information relevant to their
+criminal activities.  These groups often communicate with
+each other through message systems between computers
+called 'bulletin boards.'
+     "Our experience shows that many computer hacker
+suspects are no longer misguided teenagers,
+mischievously playing games with their computers in their
+bedrooms.  Some are now high tech computer operators
+using computers to engage in unlawful conduct."
+
+     Who were these "underground groups" and "high-
+tech operators?"  Where had they come from?  What did
+they want?  Who *were*   they?  Were they
+"mischievous?"  Were they dangerous?  How had
+"misguided teenagers" managed to alarm the United
+States Secret Service?  And just how widespread was this
+sort of thing?
+
+     Of all the major players in the Hacker Crackdown:
+the phone companies, law enforcement, the civil
+libertarians, and the "hackers" themselves -- the "hackers"
+are by far the most mysterious, by far the hardest to
+understand, by far the *weirdest.*
+
+      Not only are "hackers"  novel in their activities, but
+they come in a variety of odd subcultures, with a variety of
+languages, motives and values.
+
+     The earliest proto-hackers were probably those
+unsung mischievous telegraph boys who were summarily
+fired by the Bell Company in 1878.
+
+     Legitimate "hackers," those computer enthusiasts
+who are independent-minded but law-abiding, generally
+trace their spiritual ancestry to  elite technical
+universities,
+especially M.I.T. and Stanford, in the 1960s.
+
+     But the genuine roots of the modern hacker
+*underground* can probably be traced most successfully
+to a now much-obscured hippie anarchist movement
+known as the Yippies.   The  Yippies, who took their name
+from the largely fictional "Youth International Party,"
+carried out a loud and lively policy of surrealistic
+subversion and outrageous political mischief.  Their basic
+tenets were flagrant sexual promiscuity, open and copious
+drug use, the political overthrow of any powermonger over
+thirty years of age, and an immediate end to the war in
+Vietnam, by any means necessary, including the psychic
+levitation of the Pentagon.
+
+     The two most visible Yippies were Abbie Hoffman
+and Jerry Rubin.  Rubin eventually  became a Wall Street
+broker.  Hoffman, ardently sought by federal authorities,
+went into hiding for seven years, in Mexico, France, and
+the United States.   While on the lam, Hoffman continued
+to write and publish, with help from sympathizers in the
+American anarcho-leftist underground.   Mostly, Hoffman
+survived through false ID and odd jobs.  Eventually he
+underwent facial plastic surgery and adopted an entirely
+new identity as one "Barry Freed."   After surrendering
+himself to authorities in 1980, Hoffman  spent a year in
+prison on a cocaine conviction.
+
+     Hoffman's worldview grew much darker as the glory
+days of the 1960s faded.  In 1989, he purportedly
+committed suicide, under odd and, to some, rather
+suspicious circumstances.
+
+     Abbie Hoffman is said to have caused the Federal
+Bureau of Investigation to amass the single largest
+investigation file ever opened on an individual American
+citizen.  (If this is true, it is still questionable whether
+the
+FBI regarded Abbie Hoffman a serious public threat  --
+quite possibly, his file was enormous simply because
+Hoffman left colorful legendry wherever he went).   He
+was a gifted publicist, who regarded electronic media as
+both playground and weapon.  He actively enjoyed
+manipulating network TV and other gullible, image-
+hungry media,  with various weird lies, mindboggling
+rumors, impersonation scams, and other sinister
+distortions, all absolutely guaranteed to upset cops,
+Presidential candidates, and federal judges.    Hoffman's
+most famous work was a book self-reflexively known as
+*Steal This Book,* which publicized a number of methods
+by which young, penniless hippie agitators might live off
+the fat of a system supported by humorless drones.  *Steal
+This Book,* whose title urged readers to damage the very
+means of distribution which had put it into their hands,
+might be described as a spiritual ancestor of a computer
+virus.
+
+     Hoffman, like many a later conspirator, made
+extensive use of pay-phones for his agitation work -- in his
+case, generally through the use of cheap brass washers as
+coin-slugs.
+
+     During the Vietnam War, there was a federal surtax
+imposed on telephone service; Hoffman and his cohorts
+could, and did,  argue that in systematically stealing
+phone service they were engaging in civil disobedience:
+virtuously denying tax funds to an illegal and immoral war.
+
+      But this thin veil of decency was soon dropped
+entirely.  Ripping-off the System  found its own
+justification in deep alienation and a basic outlaw
+contempt for  conventional bourgeois values.  Ingenious,
+vaguely politicized varieties of rip-off, which might be
+described as "anarchy by convenience," became very
+popular in Yippie circles, and because rip-off was so
+useful, it was to survive the Yippie movement itself.
+
+     In the early 1970s, it required fairly limited
+expertise
+and ingenuity to cheat payphones, to divert "free"
+electricity and gas service, or to rob vending machines and
+parking meters for handy pocket change.   It also required
+a conspiracy to spread this knowledge, and the gall and
+nerve actually to commit petty theft, but the Yippies had
+these qualifications in plenty.  In June 1971, Abbie
+Hoffman and a telephone enthusiast sarcastically known
+as "Al Bell"  began publishing a newsletter called *Youth
+International Party Line.*  This newsletter was dedicated
+to collating and spreading Yippie rip-off techniques,
+especially of phones, to the joy of the freewheeling
+underground and the insensate rage of all straight people.
+
+     As a political tactic, phone-service theft ensured that
+Yippie advocates would always have ready access to the
+long-distance telephone as a medium, despite the Yippies'
+chronic lack of organization, discipline, money, or even a
+steady home address.
+
+     *Party Line* was run out of Greenwich Village for a
+couple of years, then "Al Bell" more or less defected from
+the faltering ranks of Yippiedom, changing the
+newsletter's name to *TAP* or *Technical Assistance
+Program.*  After the Vietnam War ended, the steam
+began leaking rapidly out of American radical dissent.
+But  by this time, "Bell" and his dozen or so core
+contributors  had the bit between their teeth, and had
+begun to derive tremendous gut-level satisfaction from
+the sensation of pure *technical power.*
+
+     *TAP* articles, once highly politicized, became
+pitilessly jargonized and technical, in homage or parody to
+the Bell System's own technical documents, which *TAP*
+studied closely, gutted, and reproduced without
+permission.   The *TAP* elite revelled in gloating
+possession of the specialized knowledge necessary to beat
+the system.
+
+        "Al Bell" dropped out of the game by the late 70s,
+and "Tom Edison" took over; TAP  readers (some 1400 of
+them, all told) now began to show more interest in telex
+switches and the growing phenomenon of computer
+systems.
+
+     In 1983, "Tom Edison" had his computer stolen and
+his house set on fire by an arsonist.  This was an
+eventually
+mortal blow to *TAP* (though the legendary name was to
+be resurrected in 1990 by a young Kentuckian computer-
+outlaw named "Predat0r.")
+
+                         #
+
+
+     Ever since telephones began to make money, there
+have been people willing to rob and defraud phone
+companies.   The legions of petty phone thieves vastly
+outnumber those "phone phreaks" who  "explore the
+system" for the sake of the intellectual challenge.   The
+New York metropolitan area  (long in the vanguard of
+American crime) claims over 150,000 physical attacks on
+pay telephones every year!  Studied carefully, a modern
+payphone reveals itself as a little fortress, carefully
+designed and redesigned over generations,  to resist coin-
+slugs, zaps of electricity, chunks of coin-shaped ice,
+prybars, magnets, lockpicks, blasting caps.  Public pay-
+phones must survive in a world of unfriendly, greedy
+people,  and a modern payphone is as exquisitely evolved
+as a cactus.
+
+     Because the phone network pre-dates the computer
+network, the scofflaws known as "phone phreaks" pre-date
+the scofflaws known as "computer hackers."   In practice,
+today, the line between "phreaking" and "hacking" is very
+blurred, just as the distinction between telephones and
+computers has blurred.  The phone system has been
+digitized, and computers have learned to "talk" over
+phone-lines.   What's worse -- and this was the point of the
+Mr. Jenkins of the Secret Service -- some hackers have
+learned to steal, and some thieves have learned to hack.
+
+     Despite the blurring, one can still draw a few useful
+behavioral distinctions between "phreaks" and "hackers."
+Hackers are intensely interested in the "system" per se,
+and enjoy relating to machines.  "Phreaks" are more
+social,  manipulating the system in a rough-and-ready
+fashion in order to get through to other human beings,
+fast, cheap and under the table.
+
+     Phone phreaks love nothing so much as "bridges,"
+illegal conference calls of ten or twelve chatting
+conspirators, seaboard to seaboard, lasting for many hours
+-- and running, of course, on somebody else's tab,
+preferably a large corporation's.
+
+     As phone-phreak conferences wear on, people drop
+out (or simply leave the phone off the hook, while they
+sashay off to work or school or babysitting), and new
+people are phoned up and invited to join in, from some
+other continent, if possible.  Technical trivia, boasts,
+brags,
+lies, head-trip deceptions, weird rumors, and cruel gossip
+are all freely exchanged.
+
+     The lowest rung of phone-phreaking is the theft of
+telephone access codes.   Charging a phone call to
+somebody else's stolen number is, of course, a pig-easy
+way of stealing phone service, requiring practically no
+technical expertise.  This practice has been very
+widespread, especially among lonely people without much
+money who are far from home.  Code theft has flourished
+especially in college dorms, military bases, and,
+notoriously, among roadies for rock bands.   Of late, code
+theft has spread very rapidly among Third Worlders in the
+US, who pile up enormous unpaid long-distance bills to
+the Caribbean, South America, and Pakistan.
+
+     The simplest way to steal phone-codes is simply to
+look over a victim's shoulder as he punches-in his own
+code-number on a public payphone.  This technique is
+known as "shoulder-surfing," and is especially common in
+airports, bus terminals, and train stations.  The code is
+then sold by the thief for a few dollars.  The buyer abusing
+the code has no computer expertise, but calls his Mom in
+New York,  Kingston or Caracas and runs up a huge bill
+with impunity.  The losses from this primitive phreaking
+activity are far, far greater than the monetary losses
+caused by computer-intruding hackers.
+
+     In the mid-to-late 1980s, until the introduction of
+sterner telco security measures, *computerized* code
+theft worked like a charm, and was virtually omnipresent
+throughout the digital underground, among phreaks and
+hackers alike.   This was accomplished through
+programming one's computer to try random code
+numbers over the telephone until one of them worked.
+Simple programs to do this were widely available in the
+underground; a computer running all night was likely to
+come up with a dozen or so useful hits.  This could be
+repeated week after week until one had a large library of
+stolen codes.
+
+     Nowadays, the computerized dialling of hundreds of
+numbers can be detected within hours and swiftly traced.
+If a stolen code is repeatedly abused, this too can be
+detected within a few hours.  But for years in the 1980s,
+the
+publication of stolen codes was a kind of elementary
+etiquette for fledgling hackers.   The simplest way to
+establish your bona-fides as a raider was to steal a code
+through repeated random dialling and offer it to the
+"community" for use.   Codes could be both stolen, and
+used, simply and easily from the safety of one's own
+bedroom, with very little fear of detection or punishment.
+
+     Before computers and their phone-line modems
+entered American homes in gigantic numbers, phone
+phreaks had their own special telecommunications
+hardware gadget, the famous "blue box."  This fraud
+device (now rendered increasingly useless by the digital
+evolution of the phone system) could trick switching
+systems into granting free access to long-distance lines.
+It
+did this by mimicking the system's own signal, a tone of
+2600 hertz.
+
+     Steven Jobs and Steve Wozniak, the founders of
+Apple Computer, Inc., once dabbled in selling blue-boxes
+in college dorms in California.  For many, in the early days
+of phreaking, blue-boxing was scarcely perceived as
+"theft," but rather as a fun (if sneaky) way to use excess
+phone capacity harmlessly.  After all, the long-distance
+lines were *just sitting there*....   Whom did it hurt,
+really?
+If you're not *damaging* the system, and  you're not
+*using up any tangible resource,* and if nobody *finds
+out* what you did, then what real harm have you done?
+What exactly *have* you "stolen," anyway?   If a tree falls
+in the forest and nobody hears it, how much is the noise
+worth?  Even now this remains a rather dicey question.
+
+     Blue-boxing was no joke to the phone companies,
+however.  Indeed, when *Ramparts* magazine, a radical
+publication in California, printed the wiring schematics
+necessary to create a  mute box in June 1972, the
+magazine was seized by police and Pacific Bell phone-
+company officials.   The mute box, a blue-box variant,
+allowed its user to receive long-distance calls free of
+charge to the caller.  This device was closely described in
+a
+*Ramparts* article wryly titled "Regulating the Phone
+Company In Your Home."  Publication of this article was
+held to be in violation of Californian State Penal Code
+section 502.7, which outlaws ownership of wire-fraud
+devices and the selling of "plans or instructions for any
+instrument, apparatus, or device intended to avoid
+telephone toll charges."
+
+     Issues of *Ramparts* were recalled or seized on the
+newsstands, and the resultant loss of income helped put
+the magazine out of business.  This was an ominous
+precedent for free-expression issues, but the telco's
+crushing of a radical-fringe magazine passed without
+serious challenge at the time.  Even in the freewheeling
+California 1970s, it was widely felt that there was
+something sacrosanct about what the phone company
+knew; that the telco had a legal and moral right to protect
+itself by shutting off the flow of such illicit information.
+Most telco information was so "specialized" that it would
+scarcely be understood by any honest member of the
+public.   If not published, it would not be missed.   To
+print
+such material did not seem part of the legitimate role of a
+free press.
+
+     In 1990 there would be a similar telco-inspired attack
+on the electronic phreak/hacking "magazine" *Phrack.*
+The *Phrack* legal case became a central issue in the
+Hacker Crackdown, and gave rise to great controversy.
+*Phrack* would also be shut down, for a  time, at least, but
+this time both the telcos and their law-enforcement allies
+would pay a much larger price for their actions.  The
+*Phrack* case will be examined in detail, later.
+
+     Phone-phreaking as a social practice is still very
+much alive at this moment.  Today, phone-phreaking is
+thriving much more vigorously than the better-known and
+worse-feared practice of "computer hacking."  New forms
+of phreaking are spreading rapidly, following new
+vulnerabilities in sophisticated phone services.
+
+     Cellular phones are especially vulnerable; their chips
+can be re-programmed to present a false caller ID and
+avoid billing.   Doing so also avoids police tapping, making
+cellular-phone abuse a favorite among drug-dealers.
+"Call-sell operations" using pirate cellular phones can, and
+have, been run right out of the backs of cars, which move
+from "cell" to "cell" in the local phone system, retailing
+stolen long-distance service, like some kind of demented
+electronic version of the neighborhood ice-cream truck.
+
+      Private branch-exchange phone systems in large
+corporations can be penetrated; phreaks dial-up a local
+company, enter its internal phone-system, hack it, then
+use the company's own PBX system to dial back out over
+the public network, causing the company to be stuck with
+the resulting long-distance bill.  This technique is known
+as "diverting."  "Diverting"  can be very costly, especially
+because phreaks tend to travel in packs and never stop
+talking.   Perhaps the worst by-product of this "PBX fraud"
+is that victim companies and telcos have sued one another
+over the financial responsibility for the stolen calls, thus
+enriching not only shabby phreaks but well-paid lawyers.
+
+        "Voice-mail systems" can also be abused; phreaks
+can seize their own sections of these sophisticated
+electronic answering machines, and use them for trading
+codes or knowledge of illegal techniques.   Voice-mail
+abuse does not hurt the company directly, but finding
+supposedly empty slots in your company's answering
+machine all crammed with phreaks eagerly chattering
+and hey-duding one another in impenetrable jargon can
+cause sensations of almost mystical repulsion and dread.
+
+        Worse yet, phreaks have sometimes been known to
+react truculently to attempts to "clean up" the voice-mail
+system.  Rather than humbly acquiescing to being thrown
+out of their playground, they may very well call up the
+company officials at work (or at home) and loudly demand
+free voice-mail addresses of their very own.  Such bullying
+is taken very seriously by spooked victims.
+
+     Acts of phreak revenge against straight people are
+rare, but voice-mail systems are especially tempting and
+vulnerable, and an infestation of angry phreaks in one's
+voice-mail system is no joke.  They can erase legitimate
+messages; or spy on private messages; or harass users with
+recorded taunts and  obscenities.   They've even been
+known to seize control of voice-mail security, and lock out
+legitimate users, or even shut down the system entirely.
+
+     Cellular phone-calls, cordless phones, and ship-to-
+shore telephony can all be monitored by various forms of
+radio; this kind of "passive monitoring" is spreading
+explosively today.  Technically eavesdropping on other
+people's cordless and cellular phone-calls is the fastest-
+growing area in phreaking today.   This practice strongly
+appeals to the lust for power and conveys gratifying
+sensations of technical superiority over the eavesdropping
+victim.  Monitoring is rife with all manner of tempting evil
+mischief.  Simple prurient snooping is by far the most
+common activity.   But credit-card numbers unwarily
+spoken over the phone can be recorded, stolen and used.
+And tapping people's phone-calls (whether through active
+telephone taps or passive radio monitors) does lend itself
+conveniently to activities like blackmail, industrial
+espionage, and political dirty tricks.
+
+     It should be repeated that telecommunications
+fraud,  the theft of phone service,  causes vastly greater
+monetary losses than the practice of entering into
+computers by stealth.   Hackers are mostly young
+suburban American white males, and exist in their
+hundreds -- but "phreaks" come from both sexes and from
+many nationalities, ages and ethnic backgrounds, and are
+flourishing in the thousands.
+
+                         #
+
+     The term "hacker" has had an unfortunate history.
+This book, *The Hacker Crackdown,* has little to say about
+"hacking" in its finer, original sense.  The term  can
+signify
+the free-wheeling intellectual exploration of the highest
+and deepest potential of computer systems.   Hacking can
+describe  the determination to make access to computers
+and information as free and open as possible.  Hacking
+can involve the heartfelt conviction that beauty can be
+found in computers, that the fine aesthetic in a perfect
+program can liberate the mind and spirit.  This is
+"hacking" as it was defined in Steven Levy's much-praised
+history of the pioneer computer milieu, *Hackers,*
+published in 1984.
+
+     Hackers of all kinds are absolutely soaked through
+with heroic anti-bureaucratic sentiment.  Hackers long for
+recognition as a praiseworthy cultural archetype, the
+postmodern electronic equivalent of the cowboy and
+mountain man.   Whether  they deserve such a reputation
+is something for history to decide.  But many hackers --
+including those outlaw hackers who are computer
+intruders, and whose activities are defined as criminal --
+actually attempt to *live up to* this techno-cowboy
+reputation.   And given that electronics and
+telecommunications are still largely unexplored
+territories, there is simply *no telling* what hackers might
+uncover.
+
+     For some people, this freedom is the very breath of
+oxygen, the inventive spontaneity that makes life worth
+living  and that flings open doors to marvellous possibility
+and individual empowerment.  But for many people -- and
+increasingly so -- the hacker is an ominous figure, a smart-
+aleck sociopath ready to burst out of his basement
+wilderness and savage other people's lives for his own
+anarchical convenience.
+
+     Any form of power without responsibility, without
+direct and formal checks and balances, is frightening to
+people -- and reasonably so.  It should be frankly admitted
+that hackers *are* frightening, and that the basis of this
+fear is not irrational.
+
+     Fear of hackers goes well beyond the fear of merely
+criminal activity.
+
+     Subversion and manipulation of the phone system is
+an act with disturbing political overtones.  In America,
+computers and telephones are potent symbols of
+organized authority and the technocratic business elite.
+
+     But there is an element in American culture that has
+always strongly rebelled  against these symbols; rebelled
+against all large industrial computers and all phone
+companies.    A certain anarchical tinge deep in the
+American soul delights in causing confusion and pain to
+all bureaucracies, including technological ones.
+
+     There is sometimes malice and vandalism in this
+attitude, but it is a deep and cherished part of the
+American national character.  The outlaw, the rebel, the
+rugged individual, the pioneer, the sturdy Jeffersonian
+yeoman, the private citizen resisting interference in his
+pursuit of happiness --  these are figures that all
+Americans recognize, and that many will strongly applaud
+and defend.
+
+     Many scrupulously law-abiding citizens today do
+cutting-edge work with electronics -- work that has already
+had tremendous social influence and will have much
+more in years to come.    In all truth, these talented,
+hardworking, law-abiding, mature, adult people are far
+more disturbing  to the peace and order of the current
+status quo  than any scofflaw group of romantic teenage
+punk kids.  These law-abiding hackers  have the power,
+ability, and willingness to influence other people's lives
+quite unpredictably.  They have means, motive, and
+opportunity to meddle drastically with the American social
+order.    When corralled into governments, universities, or
+large multinational companies, and forced to follow
+rulebooks and wear suits and ties, they at least have some
+conventional halters on their freedom of action.  But when
+loosed alone, or in small groups, and fired by imagination
+and the entrepreneurial spirit, they can move mountains -
+- causing landslides that will likely crash directly into
+your
+office and living room.
+
+     These people, as a class, instinctively recognize that
+a
+public, politicized attack on hackers will eventually spread
+to them -- that the term "hacker,"  once demonized, might
+be used to knock their hands off the levers of power and
+choke them out of existence.  There are hackers today who
+fiercely and publicly resist any besmirching of the noble
+title of hacker.   Naturally and understandably, they
+deeply resent the attack on their values implicit in using
+the word "hacker" as a synonym for computer-criminal.
+
+     This book, sadly but in my opinion unavoidably,
+rather adds to the degradation of the term.  It concerns
+itself mostly with "hacking" in its commonest latter-day
+definition, i.e., intruding into computer systems by stealth
+and without permission.
+
+     The term "hacking" is used routinely today  by
+almost all law enforcement officials with any professional
+interest in computer fraud  and abuse.   American police
+describe almost any crime committed with, by, through, or
+against a computer as hacking.
+
+     Most importantly, "hacker" is what computer-
+intruders choose to call *themselves.*  Nobody who
+"hacks" into systems willingly describes himself (rarely,
+herself) as a "computer intruder," "computer trespasser,"
+"cracker," "wormer," "darkside hacker" or "high tech street
+gangster."   Several other demeaning terms have been
+invented  in the hope that the press and public will leave
+the original sense of the word alone.   But few people
+actually use these terms.  (I exempt the term "cyberpunk,"
+which a few hackers and law enforcement people actually
+do use.  The term "cyberpunk" is drawn from literary
+criticism and has some odd  and unlikely resonances, but,
+like hacker, cyberpunk too has become a criminal
+pejorative today.)
+
+     In any case, breaking into computer systems was
+hardly alien to the original hacker tradition.   The first
+tottering systems of the 1960s  required fairly extensive
+internal surgery merely to function day-by-day.   Their
+users "invaded" the deepest, most arcane recesses of their
+operating software almost as a matter of routine.
+"Computer security" in these early, primitive systems was
+at best an afterthought.  What security there was, was
+entirely physical, for it was assumed that anyone allowed
+near this expensive, arcane hardware would be a fully
+qualified professional expert.
+
+     In a campus environment, though, this meant that
+grad students, teaching assistants, undergraduates, and
+eventually, all manner of dropouts and hangers-on ended
+up accessing and often running the works.
+
+     Universities, even modern universities, are not in the
+business of maintaining security over information.  On the
+contrary, universities, as institutions, pre-date the
+"information economy" by many centuries and are not-
+for-profit cultural entities, whose reason for existence
+(purportedly) is to discover truth, codify it through
+techniques of scholarship, and then teach it.   Universities
+are meant to *pass the torch of civilization,* not just
+download data into student skulls, and the values of the
+academic community are strongly at odds with those of all
+would-be information empires.   Teachers at all levels,
+from kindergarten up, have proven to be shameless and
+persistent software and data pirates.   Universities do not
+merely "leak information" but vigorously broadcast free
+thought.
+
+     This clash of values has been fraught with
+controversy.  Many hackers of the 1960s remember their
+professional apprenticeship as a long guerilla war against
+the uptight mainframe-computer "information
+priesthood."  These computer-hungry youngsters had to
+struggle hard for access to computing power, and many of
+them were not above certain, er, shortcuts.   But, over the
+years,  this practice freed computing from the sterile
+reserve of lab-coated technocrats and was largely
+responsible for the explosive growth of computing in
+general society -- especially *personal* computing.
+
+       Access to technical power acted like catnip on
+certain of these youngsters.  Most of the basic techniques
+of computer intrusion: password cracking, trapdoors,
+backdoors, trojan horses --  were invented in college
+environments in the 1960s, in the early days of network
+computing.   Some off-the-cuff experience at computer
+intrusion was to be in the informal resume of most
+"hackers" and many future industry giants.   Outside of the
+tiny cult of computer enthusiasts, few people thought
+much about  the implications of "breaking into"
+computers.  This sort of activity had not yet been
+publicized, much less criminalized.
+
+     In the 1960s, definitions of "property" and "privacy"
+had not yet been extended to cyberspace.  Computers
+were not yet indispensable to society.  There were no vast
+databanks of vulnerable, proprietary information stored in
+computers, which might be accessed, copied without
+permission, erased, altered, or sabotaged.   The stakes
+were low in the early days -- but they grew every year,
+exponentially, as computers themselves grew.
+
+     By the 1990s, commercial and political pressures had
+become overwhelming, and they broke the social
+boundaries of the hacking subculture.   Hacking had
+become too important to be left to the  hackers.   Society
+was now forced to tackle the intangible nature of
+cyberspace-as-property, cyberspace as privately-owned
+unreal-estate.   In the  new, severe, responsible, high-
+stakes context of the "Information Society" of the 1990s,
+"hacking" was called into question.
+
+     What did it mean to break into a computer without
+permission and use its computational power, or look
+around inside its files without hurting anything?  What
+were computer-intruding hackers, anyway -- how should
+society, and the law,  best define their actions?    Were
+they just *browsers,* harmless intellectual explorers?
+Were they *voyeurs,* snoops, invaders of privacy?  Should
+they be sternly treated as potential *agents of espionage,*
+or perhaps as *industrial spies?* Or were they best
+defined as *trespassers,* a very common teenage
+misdemeanor?  Was hacking  *theft of service?*  (After
+all, intruders were getting someone else's computer to
+carry out their orders, without permission and without
+paying).   Was hacking *fraud?*  Maybe it was best
+described as *impersonation.*  The commonest mode of
+computer intrusion was (and is) to swipe or snoop
+somebody else's password, and then enter the computer
+in the guise of another person -- who is commonly stuck
+with the blame and the bills.
+
+     Perhaps a medical metaphor was better -- hackers
+should be defined as "sick," as *computer addicts* unable
+to control their irresponsible, compulsive behavior.
+
+     But these weighty assessments meant little to the
+people who were actually being judged.   From inside the
+underground world of hacking itself,  all these perceptions
+seem quaint, wrongheaded, stupid, or meaningless.   The
+most important self-perception of underground hackers --
+from the 1960s, right through to the present day --  is that
+they are an *elite.*  The day-to-day struggle in the
+underground is not over sociological definitions -- who
+cares? -- but for power, knowledge, and  status among
+one's peers.
+
+     When you are a hacker, it is your own inner
+conviction of your elite status that enables you to break,
+or
+let us say "transcend," the rules.   It is not that *all*
+rules go
+by the board.   The rules habitually broken  by hackers are
+*unimportant* rules -- the rules of dopey greedhead telco
+bureaucrats and pig-ignorant government pests.
+
+     Hackers have their *own* rules,  which separate
+behavior which is cool and elite, from behavior which is
+rodentlike, stupid and losing.   These "rules," however, are
+mostly unwritten and  enforced by peer pressure and
+tribal feeling.   Like all rules that depend on the unspoken
+conviction that everybody else is a good old boy, these
+rules are ripe for abuse.  The mechanisms of hacker peer-
+pressure, "teletrials" and ostracism, are rarely used and
+rarely work.  Back-stabbing slander, threats, and
+electronic harassment are also freely employed in down-
+and-dirty intrahacker feuds, but this rarely forces a rival
+out of the scene entirely.  The only real solution for the
+problem of an utterly losing, treacherous and rodentlike
+hacker is to *turn him in to the police.*   Unlike the Mafia
+or Medellin Cartel, the hacker elite cannot simply execute
+the bigmouths, creeps and troublemakers among their
+ranks, so they turn one another in with astonishing
+frequency.
+
+     There is no tradition of silence or *omerta* in the
+hacker underworld.     Hackers can be shy, even reclusive,
+but when they do talk, hackers tend to brag, boast and
+strut.   Almost everything hackers do is *invisible;* if
+they
+don't brag, boast, and strut about it, then *nobody will
+ever
+know.*  If you don't have something to brag, boast, and
+strut about, then nobody in the underground will
+recognize you and favor you with vital cooperation and
+respect.
+
+     The way to win a solid reputation in the underground
+is by telling other hackers things that could only have
+been learned by exceptional cunning and stealth.
+Forbidden knowledge, therefore, is the basic currency of
+the digital underground, like seashells among Trobriand
+Islanders.   Hackers hoard this knowledge, and dwell upon
+it obsessively, and refine it, and bargain with it, and talk
+and talk about it.
+
+     Many hackers even suffer from a strange obsession
+to *teach* -- to spread the ethos and the knowledge of the
+digital underground.  They'll do this even when it gains
+them no particular advantage and presents a grave
+personal risk.
+
+      And when that risk catches up with them, they will go
+right on teaching and preaching -- to a new audience this
+time, their interrogators from law enforcement.   Almost
+every hacker arrested tells everything he knows --  all
+about his friends, his mentors, his disciples -- legends,
+threats, horror stories, dire rumors, gossip,
+hallucinations.
+This is, of course, convenient for law enforcement -- except
+when law enforcement begins to believe hacker legendry.
+
+     Phone phreaks are unique among criminals in their
+willingness to call up law enforcement officials -- in the
+office, at their homes -- and give them an extended piece
+of their mind.  It is hard not to interpret this as *begging
+for arrest,* and in fact it is an act of incredible
+foolhardiness.  Police are naturally nettled by these acts
+of
+chutzpah and will go well out of their way to bust these
+flaunting idiots.   But it can also be interpreted as a
+product of a world-view so elitist, so closed and hermetic,
+that electronic police are simply  not perceived as
+"police,"
+but rather as *enemy phone phreaks* who should be
+scolded into behaving "decently."
+
+     Hackers at their most grandiloquent perceive
+themselves as the elite pioneers of a new electronic world.
+Attempts to make them obey the democratically
+established laws of contemporary American society are
+seen as repression and persecution.   After all, they argue,
+if Alexander Graham Bell had gone along with the rules of
+the Western Union telegraph company, there would have
+been no telephones.  If Jobs and Wozniak had believed
+that IBM was the be-all and end-all, there would have
+been no personal computers.  If Benjamin Franklin and
+Thomas Jefferson had tried to "work within the system"
+there would have been no United States.
+
+     Not only do hackers privately believe this as an
+article of faith, but they have been known to write ardent
+manifestos about it.  Here are some revealing excerpts
+from an especially vivid hacker manifesto:  "The Techno-
+Revolution" by  "Dr. Crash,"  which appeared in electronic
+form in *Phrack* Volume 1, Issue 6, Phile 3.
+
+
+     "To fully explain the true motives behind hacking, we
+must first take a quick look into the past.  In the 1960s, a
+group of MIT students built the first modern computer
+system.  This wild, rebellious group of young men were the
+first to bear the name 'hackers.'  The systems that they
+developed were intended to be used to solve world
+problems and to benefit all of mankind.
+     "As we can see, this has not been the case.  The
+computer system has been solely in the hands of big
+businesses and the government.  The wonderful device
+meant to enrich life has become a weapon which
+dehumanizes people.  To the government and large
+businesses, people are no more than disk space, and the
+government doesn't use computers to arrange aid for the
+poor, but to control nuclear death weapons.  The average
+American can only have access to a small microcomputer
+which is worth only a fraction of what they pay for it.  The
+businesses keep the true state-of-the-art equipment away
+from the people behind a steel wall of incredibly high
+prices and bureaucracy.  It is because of this state of
+affairs that hacking was born.(...)
+     "Of course, the government doesn't want the
+monopoly of technology broken, so they have outlawed
+hacking and arrest anyone who is caught.(...) The phone
+company is another example of technology abused and
+kept from people with high prices.(...)
+     "Hackers often find that their existing equipment,
+due to the monopoly tactics of computer companies, is
+inefficient for their purposes.  Due to the exorbitantly
+high
+prices, it is impossible to legally purchase the necessary
+equipment.  This need has given still another segment of
+the fight:  Credit Carding.  Carding is a way of obtaining
+the necessary goods without paying for them.  It is again
+due to the companies' stupidity that Carding is so easy,
+and shows that the world's businesses are in the hands of
+those with considerably less technical know-how than we,
+the hackers. (...)
+     "Hacking must continue.  We must train newcomers
+to the art of hacking.(....)  And whatever you do, continue
+the fight.  Whether you know it or not, if you are a hacker,
+you are a revolutionary.  Don't worry, you're on the right
+side."
+
+     The  defense of "carding" is rare.  Most hackers
+regard credit-card theft as "poison" to the underground, a
+sleazy and immoral effort that, worse yet, is hard to get
+away with.   Nevertheless, manifestos advocating credit-
+card theft, the deliberate crashing of computer systems,
+and even acts of violent physical destruction such as
+vandalism and arson do exist in the underground.  These
+boasts and threats are taken quite seriously by the police.
+And not every hacker is an abstract, Platonic computer-
+nerd.  Some few are quite experienced at picking locks,
+robbing phone-trucks, and breaking and entering
+buildings.
+
+     Hackers  vary in their degree of hatred for authority
+and the violence of their rhetoric.  But, at a bottom line,
+they are scofflaws.  They don't regard the current rules of
+electronic behavior as respectable efforts to preserve law
+and order and protect public safety.  They regard these
+laws as immoral efforts by soulless corporations to protect
+their profit margins and to crush dissidents.   "Stupid"
+people, including police, businessmen, politicians, and
+journalists, simply have no right to judge the actions of
+those possessed of genius, techno-revolutionary
+intentions, and technical expertise.
+
+                    #
+
+     Hackers are generally teenagers and college kids not
+engaged in earning a living.   They often come from fairly
+well-to-do middle-class backgrounds, and are markedly
+anti-materialistic (except, that is, when it comes to
+computer equipment).   Anyone motivated by greed for
+mere money (as opposed to the greed for power,
+knowledge and status)  is swiftly written-off as a narrow-
+minded breadhead whose interests can only be corrupt
+and contemptible.   Having grown up in the 1970s and
+1980s, the young Bohemians of the digital underground
+regard straight society as awash in plutocratic corruption,
+where everyone from the President down is for sale and
+whoever has the gold makes the rules.
+
+     Interestingly, there's a funhouse-mirror image of this
+attitude on the other side of the conflict.  The police are
+also one of the most markedly anti-materialistic groups in
+American society, motivated not by mere money but by
+ideals of service, justice, esprit-de-corps, and, of course,
+their own brand of specialized knowledge and power.
+Remarkably, the propaganda war between cops and
+hackers has always involved angry allegations that the
+other side is trying to make a sleazy buck.  Hackers
+consistently sneer that anti-phreak prosecutors are
+angling for cushy jobs as telco lawyers and that computer-
+crime police are aiming to cash in later as well-paid
+computer-security consultants in the private sector.
+
+     For their part, police publicly conflate all hacking
+crimes with robbing payphones with crowbars.  Allegations
+of "monetary losses" from computer intrusion are
+notoriously inflated.  The act of illicitly copying a
+document from a computer is morally equated with
+directly robbing a company of, say, half a million dollars.
+The teenage computer intruder in possession of this
+"proprietary"  document has certainly not sold it for such a
+sum, would likely have little idea how to sell it at all,
+and
+quite probably doesn't even understand what he has.  He
+has not made a cent in profit from his felony but is still
+morally equated with a thief who has robbed the church
+poorbox and lit out for Brazil.
+
+     Police want to believe that all hackers are thieves.
+It
+is a tortuous and almost unbearable act for the American
+justice system to put people in jail because they want to
+learn things which are forbidden for them to know.   In an
+American context, almost any pretext for punishment is
+better than jailing people to protect certain restricted
+kinds of information.  Nevertheless, *policing
+information* is part and parcel of the struggle against
+hackers.
+
+     This dilemma is well exemplified by the remarkable
+activities of "Emmanuel Goldstein," editor and publisher
+of a print magazine known as *2600: The Hacker
+Quarterly.*  Goldstein was an English major at Long
+Island's State University of New York in the '70s, when he
+became involved with the local college radio station.  His
+growing interest in electronics caused him to drift into
+Yippie *TAP* circles and thus into the digital
+underground, where he became a self-described techno-
+rat.  His magazine publishes techniques of computer
+intrusion and telephone "exploration" as well as gloating
+exposes of telco misdeeds and governmental failings.
+
+     Goldstein lives quietly and very privately in a large,
+crumbling Victorian mansion in Setauket, New York.   The
+seaside house is decorated with telco decals, chunks of
+driftwood, and the basic bric-a-brac of a hippie crash-pad.
+He is unmarried, mildly unkempt, and survives mostly on
+TV dinners and turkey-stuffing eaten straight out of the
+bag.   Goldstein is a man of considerable charm and
+fluency, with a brief, disarming smile and the kind of
+pitiless, stubborn, thoroughly recidivist integrity that
+America's electronic police find genuinely alarming.
+
+     Goldstein took his nom-de-plume, or "handle," from a
+character in Orwell's *1984,*  which may be taken,
+correctly, as a symptom of the gravity of his sociopolitical
+worldview.   He is not himself a practicing computer
+intruder, though he vigorously abets these actions,
+especially when they are pursued against large
+corporations or governmental agencies.   Nor is he a thief,
+for he loudly scorns mere theft of phone service, in favor
+of
+'exploring and manipulating the system.'  He is probably
+best described and understood as a *dissident.*
+
+      Weirdly, Goldstein is living in modern America
+under conditions very similar to those of former East
+European intellectual dissidents.  In other words, he
+flagrantly espouses a value-system that is deeply and
+irrevocably opposed to the system of those in power and
+the police.  The values in *2600* are generally expressed in
+terms that are ironic, sarcastic, paradoxical, or just
+downright confused.  But there's no mistaking their
+radically anti-authoritarian tenor.  *2600* holds that
+technical power and specialized knowledge, of any kind
+obtainable, belong by right in the hands of those
+individuals brave and bold enough to discover them -- by
+whatever means necessary.  Devices, laws, or systems that
+forbid access, and the free spread of knowledge, are
+provocations that any free and self-respecting hacker
+should relentlessly attack.  The "privacy" of governments,
+corporations and other soulless technocratic organizations
+should never be protected at the expense of the liberty
+and free initiative of the individual techno-rat.
+
+     However, in our contemporary workaday world,  both
+governments and corporations are very anxious indeed to
+police information which is secret, proprietary, restricted,
+confidential, copyrighted, patented, hazardous, illegal,
+unethical, embarrassing, or otherwise sensitive.   This
+makes Goldstein persona non grata, and his philosophy a
+threat.
+
+     Very little about the conditions of Goldstein's daily
+life would astonish, say, Vaclav Havel.  (We may note in
+passing that President Havel once had his word-processor
+confiscated by the Czechoslovak police.)   Goldstein lives
+by *samizdat,* acting semi-openly as a data-center for the
+underground, while challenging the powers-that-be to
+abide by their own stated rules:  freedom of speech and
+the First Amendment.
+
+     Goldstein thoroughly looks and acts the part of
+techno-rat, with shoulder-length ringlets and a piratical
+black fisherman's-cap set at a rakish angle.  He often
+shows up like Banquo's ghost at meetings of computer
+professionals, where he listens quietly, half-smiling and
+taking thorough notes.
+
+     Computer professionals generally meet publicly,  and
+find it very difficult to rid themselves of Goldstein and
+his
+ilk  without extralegal and unconstitutional actions.
+Sympathizers, many of them quite respectable people
+with responsible jobs, admire Goldstein's attitude and
+surreptitiously pass him information.  An unknown but
+presumably large proportion of Goldstein's  2,000-plus
+readership are telco security personnel and police, who
+are forced to subscribe to *2600*  to stay abreast of new
+developments in hacking.  They thus find themselves
+*paying this guy's rent* while grinding their teeth in
+anguish, a situation that would have delighted Abbie
+Hoffman (one of Goldstein's few idols).
+
+     Goldstein is probably the best-known public
+representative of the hacker underground today, and
+certainly the best-hated.  Police regard him as a Fagin, a
+corrupter of youth, and speak of him with untempered
+loathing.  He is quite an accomplished gadfly.
+
+     After the  Martin Luther King Day Crash of 1990,
+Goldstein, for instance, adeptly rubbed salt into the wound
+in the pages of *2600.*   "Yeah, it was fun for the phone
+phreaks as we watched the network crumble," he admitted
+cheerfully.   "But it was also an ominous sign of what's to
+come...  Some AT&T people, aided by well-meaning but
+ignorant media, were spreading the notion that many
+companies had the same software and therefore could
+face the same problem someday.  Wrong.  This was
+entirely an AT&T software deficiency.  Of course, other
+companies could face entirely *different* software
+problems.  But then, so too could AT&T."
+
+     After a technical discussion of the system's failings,
+the Long Island techno-rat went on to offer thoughtful
+criticism to the gigantic multinational's hundreds of
+professionally qualified engineers.  "What we don't know
+is how a major force in communications like AT&T could
+be so sloppy.  What happened to backups?  Sure,
+computer systems go down all the time, but people
+making phone calls are not the same as people logging on
+to computers.  We must make that distinction.  It's not
+acceptable for the phone system or any other essential
+service to 'go down.'  If we continue to trust technology
+without understanding it, we can look forward to many
+variations on this theme.
+     "AT&T owes it to its customers to be prepared to
+*instantly* switch to another network if something strange
+and unpredictable starts occurring.  The news here isn't so
+much the failure of a computer program, but the failure of
+AT&T's entire structure."
+
+     The very idea of this.... this *person*....  offering
+"advice" about "AT&T's entire structure" is more than
+some people can easily bear.   How dare this near-criminal
+dictate what is or isn't "acceptable" behavior from AT&T?
+Especially when he's publishing, in the very same issue,
+detailed schematic diagrams for creating various
+switching-network signalling tones unavailable to the
+public.
+
+      "See what happens when you drop a 'silver box' tone
+or two down your local exchange or through different long
+distance service carriers," advises *2600* contributor "Mr.
+Upsetter" in "How To Build a Signal Box."  "If you
+experiment systematically and keep good records, you will
+surely discover something interesting."
+
+     This is, of course, the scientific method, generally
+regarded as a praiseworthy activity and one of the flowers
+of modern civilization.   One can indeed learn a great deal
+with this sort of structured intellectual activity.   Telco
+employees regard this mode of "exploration" as akin to
+flinging sticks of dynamite into their pond to see what
+lives
+on the bottom.
+
+     *2600* has been published consistently since 1984.  It
+has also run a bulletin board computer system, printed
+*2600* T-shirts, taken fax calls...  The Spring 1991 issue
+has
+an interesting announcement on page 45:  "We just
+discovered an extra set of wires attached to our fax line
+and heading up the pole.  (They've since been clipped.)
+Your faxes to us and to anyone else could be monitored."
+
+      In the worldview of *2600,* the tiny band of techno-
+rat brothers (rarely, sisters) are a beseiged vanguard of
+the
+truly free and honest.   The rest of the world is a
+maelstrom
+of corporate crime and high-level governmental
+corruption, occasionally tempered with well-meaning
+ignorance.   To read a few issues in a row is to enter a
+nightmare akin to Solzhenitsyn's, somewhat tempered by
+the fact that *2600* is often extremely funny.
+
+     Goldstein did not become a target of the Hacker
+Crackdown, though he protested loudly, eloquently, and
+publicly about it, and it added considerably to his fame.
+It
+was not that he is not regarded as dangerous, because he
+is so regarded.  Goldstein has had brushes with the law in
+the past:  in 1985, a *2600* bulletin board computer was
+seized by the FBI, and some software on it was formally
+declared "a burglary tool in the form of a computer
+program."  But Goldstein escaped direct repression in
+1990, because his magazine is printed on paper, and
+recognized as subject to Constitutional freedom of the
+press protection.  As was seen in the *Ramparts* case, this
+is far from an absolute guarantee.  Still, as a practical
+matter, shutting down *2600* by court-order would create
+so much legal hassle that it is simply unfeasible, at least
+for the present.   Throughout 1990, both Goldstein and his
+magazine were peevishly thriving.
+
+     Instead, the Crackdown of 1990 would concern itself
+with the computerized version of forbidden data.  The
+crackdown itself, first and foremost, was about *bulletin
+board systems.*  Bulletin Board Systems, most often
+known by the ugly and un-pluralizable acronym "BBS," are
+the life-blood of the digital underground.  Boards were
+also central to law enforcement's tactics and strategy in
+the Hacker Crackdown.
+
+     A "bulletin board system" can be formally defined as
+a computer which serves as an information and message-
+passing center for users dialing-up over the phone-lines
+through the use of  modems.   A "modem," or modulator-
+demodulator, is a device which translates the digital
+impulses of computers into audible analog telephone
+signals, and vice versa.   Modems connect computers to
+phones and thus to each other.
+
+     Large-scale mainframe computers have been
+connected since the 1960s, but *personal* computers, run
+by individuals out of their homes, were first networked in
+the late 1970s.   The "board" created by Ward Christensen
+and Randy Suess in February 1978, in Chicago, Illinois, is
+generally regarded as the first personal-computer bulletin
+board system worthy of the name.
+
+     Boards run on many different machines, employing
+many different kinds of software.  Early boards were crude
+and buggy, and their managers, known as "system
+operators" or "sysops," were hard-working technical
+experts who wrote their own software.  But like most
+everything else in the world of electronics, boards became
+faster, cheaper, better-designed, and generally far more
+sophisticated throughout the 1980s.  They also moved
+swiftly out of the hands of pioneers and into those of the
+general public.   By 1985 there were something in the
+neighborhood of 4,000 boards in America.  By 1990 it was
+calculated, vaguely, that there were about 30,000 boards in
+the US, with uncounted thousands overseas.
+
+     Computer bulletin boards are unregulated
+enterprises.  Running a board is a rough-and-ready, catch-
+as-catch-can proposition.   Basically,  anybody with a
+computer, modem, software and a phone-line can start a
+board.   With second-hand equipment and public-domain
+free software, the price of a board might be quite small --
+less than it would take to publish a magazine or even a
+decent pamphlet.   Entrepreneurs eagerly sell bulletin-
+board software, and will coach nontechnical amateur
+sysops in its use.
+
+     Boards are not "presses."  They are not magazines, or
+libraries, or phones, or CB radios, or traditional cork
+bulletin boards down at the local laundry, though they
+have some passing resemblance to those earlier media.
+Boards are a new medium -- they may even be a *large
+number* of new media.
+
+     Consider these unique characteristics:  boards are
+cheap, yet they  can have a national, even global reach.
+Boards can be contacted from anywhere in the global
+telephone network, at *no cost* to the person running the
+board -- the caller pays the phone bill, and if the caller
+is
+local, the call is free.  Boards do not involve an editorial
+elite addressing a mass audience.   The "sysop" of a board
+is not an exclusive publisher or writer -- he is managing an
+electronic salon, where individuals can address the
+general public,  play the part of the general public, and
+also  exchange private mail with other individuals.  And
+the "conversation" on boards, though fluid, rapid, and
+highly interactive, is not spoken, but written.  It is also
+relatively anonymous, sometimes completely so.
+
+     And because boards are cheap and ubiquitous,
+regulations and licensing requirements would likely be
+practically unenforceable.  It would almost be easier to
+"regulate"  "inspect" and "license" the content of private
+mail -- probably more so, since the mail system is
+operated by the federal government.  Boards are run by
+individuals, independently, entirely at their own whim.
+
+     For the sysop, the cost of operation is not the primary
+limiting factor.  Once the investment in a computer and
+modem has been made, the only steady cost is the charge
+for maintaining a phone line (or several phone lines).   The
+primary limits for sysops are time and energy.  Boards
+require upkeep.  New users are generally "validated" --
+they must be issued individual passwords, and called at
+home by voice-phone, so that their identity can be
+verified.  Obnoxious users, who exist in plenty, must be
+chided or purged.  Proliferating messages must be deleted
+when they grow old, so that the capacity of the system is
+not overwhelmed.  And software programs (if such things
+are kept on the board)  must be examined for possible
+computer viruses.   If there is a financial charge to use
+the
+board (increasingly common, especially in larger and
+fancier systems) then accounts must be kept, and users
+must be billed.  And if the board crashes -- a very common
+occurrence -- then repairs must be made.
+
+     Boards can be distinguished by the amount of effort
+spent in regulating them.  First, we have the completely
+open board, whose sysop is off chugging brews and
+watching re-runs while his users generally degenerate
+over time into peevish anarchy and eventual silence.
+Second comes the supervised board, where the sysop
+breaks in every once in a while to tidy up, calm brawls,
+issue announcements, and rid the community of  dolts
+and troublemakers.   Third is the heavily supervised
+board,  which sternly urges adult and responsible behavior
+and swiftly edits any message considered offensive,
+impertinent, illegal or irrelevant.  And last comes the
+completely  edited "electronic publication,"  which is
+presented to a silent audience which is not allowed to
+respond directly in any way.
+
+     Boards can also be grouped by their degree of
+anonymity.  There is the completely anonymous board,
+where everyone uses pseudonyms -- "handles" -- and even
+the sysop is unaware of the user's true identity.  The sysop
+himself is likely pseudonymous on a board of this type.
+Second, and rather more common, is the board where the
+sysop knows (or thinks he knows) the true names and
+addresses of all users, but the users don't know one
+another's names and may not know his.  Third is the board
+where everyone has to use real names, and roleplaying
+and pseudonymous posturing are forbidden.
+
+     Boards can be grouped by their immediacy.  "Chat-
+lines" are boards linking several users together over
+several different phone-lines simultaneously, so that
+people exchange messages at the very moment that they
+type.  (Many large boards feature "chat" capabilities along
+with other services.)   Less immediate boards, perhaps
+with a single phoneline, store messages serially, one at a
+time.  And some boards are only open for business in
+daylight hours or on weekends, which greatly slows
+response.  A *network* of boards, such as "FidoNet," can
+carry electronic mail from board to board, continent to
+continent, across huge distances -- but at a relative
+snail's
+pace, so that a message can take several days to reach its
+target audience and elicit a reply.
+
+     Boards can be grouped by their degree of
+community.  Some boards emphasize the exchange of
+private, person-to-person electronic mail.   Others
+emphasize public postings and may even purge people
+who "lurk," merely reading posts but refusing to openly
+participate.  Some boards are intimate and neighborly.
+Others are frosty and highly technical.  Some are little
+more than storage dumps for software, where users
+"download" and "upload" programs, but interact among
+themselves little if at all.
+
+     Boards can be grouped by their ease of access.  Some
+boards are entirely public.  Others are private and
+restricted only to personal friends of the sysop.   Some
+boards divide users by status.   On these boards, some
+users, especially beginners, strangers or children, will be
+restricted to general topics, and perhaps forbidden to post.
+Favored users, though, are granted the ability to post as
+they please, and to stay "on-line" as long as they like,
+even
+to the disadvantage of other people trying to call in.  High-
+status users can be given access to hidden areas in the
+board, such as off-color topics, private discussions, and/or
+valuable software.  Favored users may even become
+"remote sysops" with the power to take remote control of
+the board through their own home computers.  Quite
+often "remote sysops" end up doing all the work and
+taking formal control of the enterprise, despite the fact
+that it's physically located in someone else's house.
+Sometimes several "co-sysops" share power.
+
+     And boards can also be grouped by size.  Massive,
+nationwide commercial networks, such as CompuServe,
+Delphi, GEnie and Prodigy, are run on mainframe
+computers and are generally not considered "boards,"
+though they share many of their characteristics, such as
+electronic mail, discussion topics, libraries of software,
+and
+persistent and growing problems with civil-liberties issues.
+Some private boards have as many as thirty phone-lines
+and quite sophisticated hardware.   And then there are
+tiny boards.
+
+     Boards vary in popularity.  Some boards are huge and
+crowded, where users must claw their way in against a
+constant busy-signal.  Others are huge and empty -- there
+are few things sadder than a formerly flourishing board
+where no one posts any longer, and the dead
+conversations of vanished users lie about gathering digital
+dust.  Some boards are tiny and intimate, their telephone
+numbers intentionally kept confidential so that only a
+small number can log on.
+
+     And some boards are *underground.*
+
+     Boards can be mysterious entities.  The activities of
+their users can be hard to differentiate from conspiracy.
+Sometimes they *are* conspiracies.  Boards have
+harbored, or have been accused of harboring, all manner
+of fringe groups, and have abetted, or been accused of
+abetting, every manner of frowned-upon, sleazy, radical,
+and criminal activity.   There are Satanist boards.  Nazi
+boards.  Pornographic boards.  Pedophile boards.  Drug-
+dealing boards.  Anarchist boards.  Communist boards.
+Gay and Lesbian boards (these exist in great profusion,
+many of them quite lively with well-established histories).
+Religious cult boards.  Evangelical boards.  Witchcraft
+boards, hippie boards, punk boards, skateboarder boards.
+Boards for UFO believers.   There may well be boards for
+serial killers, airline terrorists and professional
+assassins.
+There is simply no way to tell.   Boards spring up,
+flourish,
+and disappear in large numbers, in most every corner of
+the developed world.  Even apparently innocuous public
+boards can, and sometimes do, harbor secret areas known
+only to a few.  And even on the vast, public, commercial
+services, private mail is very private -- and quite possibly
+criminal.
+
+     Boards cover most every topic imaginable and some
+that are hard to imagine.  They cover a vast spectrum of
+social activity.   However, all board users do have
+something in common:  their possession of computers and
+phones.  Naturally, computers and phones are primary
+topics of conversation on almost every board.
+
+     And hackers and phone phreaks, those utter
+devotees of computers and phones, live by boards.  They
+swarm by boards.  They are bred by boards.  By the late
+1980s, phone-phreak groups and hacker groups, united by
+boards, had proliferated fantastically.
+
+     As evidence, here is a list of hacker groups compiled
+by the editors of *Phrack* on August 8, 1988.
+
+     The Administration.  Advanced Telecommunications,
+Inc.  ALIAS.  American Tone Travelers.  Anarchy Inc.
+Apple Mafia.  The Association. Atlantic Pirates Guild.
+
+     Bad Ass Mother Fuckers.  Bellcore.  Bell Shock Force.
+Black Bag.
+
+     Camorra.  C&M Productions.  Catholics Anonymous.
+Chaos Computer Club.  Chief Executive Officers.  Circle
+Of Death.  Circle Of Deneb.  Club X.  Coalition of Hi-Tech
+Pirates.  Coast-To-Coast.  Corrupt Computing.  Cult Of The
+Dead Cow.  Custom Retaliations.
+
+     Damage Inc.  D&B Communications. The Dange
+Gang.  Dec Hunters.  Digital Gang.  DPAK.
+
+      Eastern Alliance. The Elite Hackers Guild.  Elite
+Phreakers and Hackers Club.  The Elite Society Of
+America.  EPG.  Executives Of Crime. Extasyy Elite.
+
+      Fargo 4A.  Farmers Of Doom.  The Federation.  Feds
+R Us.  First Class. Five O.  Five Star.   Force Hackers.
+The
+414s.
+
+      Hack-A-Trip.  Hackers Of America.   High Mountain
+Hackers.  High Society.  The Hitchhikers.
+
+     IBM Syndicate.  The Ice Pirates.   Imperial Warlords.
+Inner Circle. Inner Circle II.  Insanity Inc.  International
+Computer Underground Bandits.
+
+      Justice League of America.
+
+      Kaos Inc.  Knights Of Shadow.  Knights Of The
+Round Table.
+
+      League Of Adepts.  Legion Of Doom.  Legion Of
+Hackers.  Lords Of Chaos.  Lunatic Labs, Unlimited.
+
+     Master Hackers.  MAD!  The Marauders.  MD/PhD.
+Metal Communications, Inc.  MetalliBashers, Inc.  MBI.
+Metro Communications.  Midwest Pirates Guild.
+
+     NASA Elite.  The NATO Association.  Neon Knights.
+Nihilist Order.     Order Of The Rose.  OSS.
+
+     Pacific Pirates Guild.  Phantom Access Associates.
+PHido PHreaks. The Phirm.  Phlash.  PhoneLine
+Phantoms.  Phone Phreakers Of America. Phortune 500.
+Phreak Hack Delinquents.  Phreak Hack Destroyers.
+Phreakers, Hackers, And Laundromat Employees Gang
+(PHALSE Gang).  Phreaks Against Geeks.  Phreaks
+Against Phreaks Against Geeks.  Phreaks and Hackers of
+America.  Phreaks Anonymous World Wide.  Project
+Genesis.  The Punk Mafia.
+
+     The Racketeers.  Red Dawn Text Files.  Roscoe Gang.
+
+     SABRE.  Secret Circle of Pirates.  Secret Service.  707
+Club.  Shadow Brotherhood.  Sharp Inc.  65C02 Elite.
+Spectral Force. Star League.  Stowaways.   Strata-Crackers.
+
+     Team Hackers '86.  Team Hackers '87.
+TeleComputist Newsletter Staff.  Tribunal Of Knowledge.
+Triple Entente.  Turn Over And Die Syndrome (TOADS).
+300 Club.  1200 Club.  2300 Club.  2600 Club.  2601 Club.
+2AF.
+
+     The United Soft WareZ Force.  United Technical
+Underground.
+
+     Ware Brigade.  The Warelords.  WASP.
+
+     Contemplating this list is  an impressive, almost
+humbling business.   As a cultural artifact, the thing
+approaches poetry.
+
+     Underground groups -- subcultures -- can be
+distinguished from independent cultures by their  habit of
+referring constantly to the parent society.  Undergrounds
+by their nature constantly  must maintain a membrane of
+differentiation.   Funny/distinctive clothes and hair,
+specialized jargon, specialized ghettoized areas in cities,
+different hours of rising, working, sleeping....  The
+digital
+underground, which specializes in information, relies very
+heavily on language to distinguish itself.   As can be seen
+from this list, they make heavy use of parody and
+mockery.   It's revealing to see who they choose to mock.
+
+     First,  large corporations.  We have the Phortune 500,
+The Chief Executive Officers,  Bellcore,  IBM Syndicate,
+SABRE (a computerized reservation service maintained
+by airlines).  The common use of "Inc." is telling -- none
+of
+these groups are actual corporations, but take clear
+delight in mimicking them.
+
+     Second,  governments and police.  NASA Elite, NATO
+Association.  "Feds R Us" and "Secret Service" are fine bits
+of fleering boldness.  OSS -- the Office of Strategic
+Services
+was the forerunner of the CIA.
+
+     Third, criminals.  Using stigmatizing pejoratives as a
+perverse badge of honor is a time-honored tactic for
+subcultures:   punks, gangs, delinquents, mafias, pirates,
+bandits, racketeers.
+
+     Specialized orthography, especially the use of "ph"
+for "f" and "z" for the plural "s," are instant recognition
+symbols.  So is the use of the numeral "0" for the letter
+"O"
+-- computer-software orthography generally features a
+slash through the zero, making the distinction obvious.
+
+     Some terms are poetically descriptive of computer
+intrusion:  the Stowaways,  the Hitchhikers, the PhoneLine
+Phantoms, Coast-to-Coast.  Others are simple bravado
+and vainglorious puffery.  (Note the insistent use of the
+terms "elite" and "master.")  Some terms are
+blasphemous, some obscene, others merely cryptic --
+anything to puzzle, offend, confuse, and keep the straights
+at bay.
+
+     Many hacker groups further re-encrypt their names
+by the use of acronyms:  United Technical Underground
+becomes UTU, Farmers of Doom become FoD,  the
+United SoftWareZ Force becomes, at its own insistence,
+"TuSwF," and woe to the ignorant rodent who capitalizes
+the wrong letters.
+
+     It should be further recognized that the members of
+these groups are themselves pseudonymous.  If you did, in
+fact, run across the "PhoneLine Phantoms," you would find
+them to consist of  "Carrier Culprit,"  "The Executioner,"
+"Black Majik,"  "Egyptian Lover,"  "Solid State," and  "Mr
+Icom."  "Carrier Culprit" will likely be referred to by his
+friends as "CC," as in, "I got these dialups from CC of
+PLP."
+
+     It's quite possible that this entire list refers to as
+few
+as a thousand people.   It is not a complete list of
+underground groups -- there has never been such a list,
+and there never will be.   Groups rise, flourish, decline,
+share membership, maintain a cloud of wannabes and
+casual hangers-on.  People pass in and out, are ostracized,
+get bored, are busted by police, or are cornered by telco
+security and presented with huge bills.  Many
+"underground groups" are software pirates, "warez d00dz,"
+who might break copy protection and pirate programs, but
+likely wouldn't dare to intrude on a computer-system.
+
+     It is hard to estimate the true population of the
+digital
+underground.  There is constant turnover.  Most hackers
+start young, come and go, then drop out at age 22 -- the
+age of college graduation.  And a large majority of
+"hackers" access pirate boards, adopt a handle,  swipe
+software and perhaps abuse a phone-code or two, while
+never actually joining the elite.
+
+     Some professional informants, who make it their
+business to retail knowledge of the underground to
+paymasters in private corporate security, have estimated
+the hacker population at as high as fifty thousand.   This
+is
+likely highly inflated, unless one counts every single
+teenage software pirate  and petty phone-booth thief.  My
+best guess is about 5,000 people.   Of these, I would guess
+that as few as a hundred are truly "elite"  -- active
+computer intruders, skilled enough to penetrate
+sophisticated systems and truly to worry corporate security
+and law enforcement.
+
+     Another interesting speculation is whether this group
+is growing or not.  Young teenage hackers are often
+convinced that hackers exist in vast swarms and will soon
+dominate the cybernetic universe.  Older and wiser
+veterans, perhaps as wizened as 24 or 25 years old, are
+convinced that the glory days are long gone, that the cops
+have the underground's number now, and that kids these
+days are dirt-stupid and just want to play Nintendo.
+
+     My own assessment is that computer intrusion, as a
+non-profit act of intellectual exploration and mastery, is
+in
+slow decline, at least in the United States; but that
+electronic fraud, especially telecommunication crime, is
+growing by leaps and bounds.
+
+     One might find a useful parallel to the digital
+underground in  the drug  underground.   There was a
+time, now much-obscured by historical revisionism, when
+Bohemians freely shared joints at concerts, and hip, small-
+scale marijuana dealers might turn people on just for the
+sake of enjoying a long stoned conversation about the
+Doors and Allen Ginsberg.  Now drugs are increasingly
+verboten, except in a high-stakes, highly-criminal world of
+highly addictive drugs.  Over years of disenchantment and
+police harassment, a vaguely ideological, free-wheeling
+drug underground has relinquished the business of drug-
+dealing to a  far more savage criminal hard-core.   This is
+not a pleasant prospect to contemplate, but the analogy is
+fairly compelling.
+
+     What does an underground board look like?   What
+distinguishes it from a standard board?  It isn't
+necessarily
+the conversation -- hackers often talk about common
+board topics, such as hardware, software, sex, science
+fiction, current events, politics, movies, personal gossip.
+Underground boards can best be distinguished by their
+files, or "philes,"  pre-composed texts which teach the
+techniques and ethos of the underground.   These are
+prized reservoirs of forbidden knowledge.  Some are
+anonymous, but most proudly bear the handle of the
+"hacker" who has created them, and his group affiliation, if
+he has one.
+
+     Here is a partial table-of-contents of philes from an
+underground board, somewhere in the heart of middle
+America, circa 1991.  The descriptions are mostly self-
+explanatory.
+
+
+BANKAMER.ZIP    5406 06-11-91  Hacking Bank America
+CHHACK.ZIP      4481 06-11-91  Chilton Hacking
+CITIBANK.ZIP    4118 06-11-91  Hacking Citibank
+CREDIMTC.ZIP    3241 06-11-91  Hacking Mtc Credit
+Company
+DIGEST.ZIP      5159 06-11-91  Hackers Digest
+HACK.ZIP       14031 06-11-91  How To Hack
+HACKBAS.ZIP     5073 06-11-91  Basics Of Hacking
+HACKDICT.ZIP   42774 06-11-91  Hackers Dictionary
+HACKER.ZIP     57938 06-11-91  Hacker Info
+HACKERME.ZIP    3148 06-11-91  Hackers Manual
+HACKHAND.ZIP    4814 06-11-91  Hackers Handbook
+HACKTHES.ZIP   48290 06-11-91  Hackers Thesis
+HACKVMS.ZIP     4696 06-11-91  Hacking Vms Systems
+MCDON.ZIP       3830 06-11-91  Hacking Macdonalds
+(Home Of The Archs)
+P500UNIX.ZIP   15525 06-11-91  Phortune 500 Guide To
+Unix
+RADHACK.ZIP     8411 06-11-91  Radio Hacking
+TAOTRASH.DOC    4096 12-25-89  Suggestions For
+Trashing
+TECHHACK.ZIP    5063 06-11-91  Technical Hacking
+
+
+The files above are do-it-yourself manuals about
+computer intrusion.  The above is only a small section of a
+much larger library of hacking and phreaking techniques
+and history.  We now move into a different and perhaps
+surprising area.
+
+                              +------------+
+                              |Anarchy|
+                              +------------+
+
+ANARC.ZIP       3641 06-11-91  Anarchy Files
+ANARCHST.ZIP   63703 06-11-91  Anarchist Book
+ANARCHY.ZIP     2076 06-11-91  Anarchy At Home
+ANARCHY3.ZIP    6982 06-11-91  Anarchy No 3
+ANARCTOY.ZIP    2361 06-11-91  Anarchy Toys
+ANTIMODM.ZIP    2877 06-11-91  Anti-modem Weapons
+ATOM.ZIP        4494 06-11-91  How To Make An Atom
+Bomb
+BARBITUA.ZIP    3982 06-11-91  Barbiturate Formula
+BLCKPWDR.ZIP    2810 06-11-91  Black Powder Formulas
+BOMB.ZIP        3765 06-11-91  How To Make Bombs
+BOOM.ZIP        2036 06-11-91  Things That Go Boom
+CHLORINE.ZIP    1926 06-11-91  Chlorine Bomb
+COOKBOOK.ZIP    1500 06-11-91  Anarchy Cook Book
+DESTROY.ZIP     3947 06-11-91  Destroy Stuff
+DUSTBOMB.ZIP    2576 06-11-91  Dust Bomb
+ELECTERR.ZIP    3230 06-11-91  Electronic Terror
+EXPLOS1.ZIP     2598 06-11-91  Explosives 1
+EXPLOSIV.ZIP   18051 06-11-91  More Explosives
+EZSTEAL.ZIP     4521 06-11-91  Ez-stealing
+FLAME.ZIP       2240 06-11-91  Flame Thrower
+FLASHLT.ZIP     2533 06-11-91  Flashlight Bomb
+FMBUG.ZIP       2906 06-11-91  How To Make An Fm Bug
+OMEEXPL.ZIP    2139 06-11-91  Home Explosives
+HOW2BRK.ZIP     3332 06-11-91  How To Break In
+LETTER.ZIP      2990 06-11-91  Letter Bomb
+LOCK.ZIP        2199 06-11-91  How To Pick Locks
+MRSHIN.ZIP      3991 06-11-91  Briefcase Locks
+NAPALM.ZIP      3563 06-11-91  Napalm At Home
+NITRO.ZIP       3158 06-11-91  Fun With Nitro
+PARAMIL.ZIP     2962 06-11-91  Paramilitary Info
+PICKING.ZIP     3398 06-11-91  Picking Locks
+PIPEBOMB.ZIP    2137 06-11-91  Pipe Bomb
+POTASS.ZIP      3987 06-11-91  Formulas With Potassium
+PRANK.TXT      11074 08-03-90  More Pranks To Pull On
+Idiots!
+REVENGE.ZIP     4447 06-11-91  Revenge Tactics
+ROCKET.ZIP      2590 06-11-91  Rockets For Fun
+SMUGGLE.ZIP     3385 06-11-91  How To Smuggle
+
+     *Holy Cow!*  The damned thing is full of stuff about
+bombs!
+
+     What are we to make of this?
+
+     First, it should be acknowledged that spreading
+knowledge about demolitions to teenagers is a highly and
+deliberately antisocial act.   It is not, however, illegal.
+
+     Second, it should be recognized that most of these
+philes were in fact *written* by teenagers.  Most adult
+American males who can remember their teenage years
+will recognize that the notion of building a flamethrower in
+your garage is an incredibly neat-o idea.  *Actually*
+building a flamethrower in your garage, however, is
+fraught with discouraging difficulty.  Stuffing gunpowder
+into a booby-trapped flashlight, so as to blow the arm off
+your high-school vice-principal, can be a thing of dark
+beauty to contemplate.   Actually committing assault by
+explosives  will earn you the sustained attention of the
+federal Bureau of Alcohol, Tobacco and Firearms.
+
+     Some people, however, will actually try these plans.  A
+determinedly murderous American teenager can
+probably buy or steal a handgun far more easily than he
+can brew fake "napalm" in the kitchen sink.  Nevertheless,
+if temptation is spread before people a certain number
+will succumb, and a small minority will actually attempt
+these stunts.  A large minority of that small minority will
+either fail or, quite likely, maim themselves, since these
+"philes" have not been checked for accuracy, are not the
+product of professional experience, and are often highly
+fanciful.  But the gloating menace of these philes is not to
+be entirely dismissed.
+
+     Hackers may not be "serious" about bombing; if they
+were, we would hear far more about exploding flashlights,
+homemade bazookas, and gym teachers poisoned by
+chlorine and potassium.  However, hackers are *very*
+serious about forbidden knowledge.  They are possessed
+not merely by curiosity, but by a positive *lust to know.*
+The desire to know what others don't is scarcely new.  But
+the *intensity* of this desire, as manifested by these young
+technophilic denizens of the Information Age, may in fact
+*be* new, and may represent some basic shift in social
+values -- a harbinger of what the world may come to, as
+society lays more and more value on the possession,
+assimilation and retailing of *information* as a basic
+commodity of daily life.
+
+     There have always been young men with obsessive
+interests in these topics.  Never before, however, have they
+been able to network so extensively and easily, and to
+propagandize their interests with impunity to random
+passers-by.   High-school teachers will recognize that
+there's always one in a crowd, but when the one in a crowd
+escapes control by jumping into the phone-lines, and
+becomes a hundred such kids all together on a board,
+then trouble is brewing visibly.  The urge of authority to
+*do something,*  even something drastic, is hard to resist.
+And in 1990, authority did something.  In fact authority did
+a great deal.
+
+                    #
+
+     The process by which boards create hackers goes
+something like this.  A youngster becomes interested in
+computers -- usually, computer games.  He hears from
+friends that "bulletin boards" exist where games can be
+obtained for free.  (Many computer games are "freeware,"
+not copyrighted -- invented simply for the love of it and
+given away to the public; some of these games are quite
+good.)  He bugs his parents for a modem, or quite often,
+uses his parents' modem.
+
+      The world of boards suddenly opens up.  Computer
+games can be quite expensive, real budget-breakers for a
+kid, but pirated games, stripped of copy protection,  are
+cheap or free.  They are also illegal, but it is very rare,
+almost unheard of, for a small-scale software pirate to be
+prosecuted.  Once "cracked" of its copy protection, the
+program, being digital data, becomes infinitely
+reproducible.  Even the instructions to the game, any
+manuals that accompany it, can be reproduced as text
+files, or photocopied from legitimate sets.  Other users  on
+boards can give many useful hints in game-playing tactics.
+And a youngster with an infinite supply of free computer
+games can certainly cut quite a swath among his modem-
+less friends.
+
+     And boards are pseudonymous.  No one need know
+that you're fourteen years old -- with a little practice at
+subterfuge, you can talk to adults about adult things, and
+be accepted and taken seriously!  You can even pretend to
+be a girl, or an old man, or anybody you can imagine.  If
+you find this kind of deception gratifying, there is ample
+opportunity to hone your ability on boards.
+
+     But local boards can grow stale.  And almost every
+board maintains a list of phone-numbers to other boards,
+some in distant, tempting, exotic locales.   Who knows
+what they're up to, in Oregon or Alaska or Florida or
+California?  It's very easy to find out -- just  order the
+modem to call through its software -- nothing to this, just
+typing on a keyboard, the same thing you would do for
+most any computer game.   The machine reacts swiftly
+and in a few seconds you are talking to a bunch of
+interesting people on another seaboard.
+
+     And yet the *bills* for this trivial action can be
+staggering!  Just by going tippety-tap with your fingers,
+you
+may have saddled your parents with four hundred bucks
+in long-distance charges, and gotten chewed out but good.
+That hardly seems fair.
+
+     How horrifying to have made friends in another state
+and to be deprived of their company -- and their software -
+-  just because telephone companies demand absurd
+amounts of money!   How painful, to be restricted to
+boards in one's own *area code* --   what the heck is an
+"area code" anyway, and what makes it so special?   A few
+grumbles, complaints, and innocent questions of this sort
+will often elicit a sympathetic reply from another board
+user  --  someone with some stolen codes to hand.  You
+dither a while,  knowing this isn't quite right, then you
+make up your mind to try them anyhow -- *and they work!*
+Suddenly you're doing something even your parents can't
+do.  Six months ago you were just some kid -- now, you're
+the Crimson Flash of Area Code 512!   You're bad -- you're
+nationwide!
+
+     Maybe you'll stop at a few abused codes.  Maybe
+you'll decide that boards aren't all that interesting after
+all,
+that it's wrong, not worth the risk  -- but maybe you won't.
+The next step is to pick up your own repeat-dialling
+program --  to learn to generate your own stolen codes.
+(This was dead easy five years ago, much harder to get
+away with nowadays, but not yet impossible.)   And these
+dialling programs are not complex or intimidating -- some
+are as small as twenty lines of software.
+
+     Now, you too can share codes.   You can trade codes
+to learn other techniques.   If you're smart enough to catch
+on, and obsessive enough to want to bother,  and ruthless
+enough to start seriously bending rules, then you'll get
+better, fast.  You start to develop a rep.  You  move up to
+a
+heavier class of board -- a board with a bad attitude, the
+kind of board that naive dopes like your classmates and
+your former self have never even heard of!  You pick up
+the jargon of phreaking and hacking from the board.   You
+read a few of those anarchy philes -- and man, you never
+realized you could be a real *outlaw* without ever leaving
+your bedroom.
+
+     You still play other computer games, but now you
+have a new and bigger game.   This one will bring you a
+different kind of status than destroying even eight zillion
+lousy space invaders.
+
+     Hacking is perceived by hackers as a "game."  This is
+not an entirely unreasonable or sociopathic perception.
+You can win or lose at hacking, succeed or fail, but it
+never
+feels "real."  It's not simply that imaginative youngsters
+sometimes have a hard time telling "make-believe" from
+"real life."  Cyberspace is *not real!*  "Real" things are
+physical objects like trees and  shoes and cars.  Hacking
+takes place on a screen.   Words aren't physical, numbers
+(even telephone numbers and credit card numbers)
+aren't physical.  Sticks and stones may break my bones,
+but data will never hurt me.  Computers *simulate* reality,
+like computer games that simulate tank battles or
+dogfights or spaceships.   Simulations are just make-
+believe, and the stuff in computers is *not real.*
+
+     Consider this:  if "hacking" is supposed to be so
+serious and real-life and  dangerous, then how come
+*nine-year-old kids* have computers and modems?  You
+wouldn't give a nine year old his own car, or his own rifle,
+or
+his own chainsaw -- those things are "real."
+
+     People underground are perfectly aware that the
+"game" is frowned upon by the powers that be.   Word gets
+around about busts in the underground.   Publicizing busts
+is one of the primary functions of pirate boards,  but they
+also promulgate an attitude about them, and their own
+idiosyncratic ideas of justice.   The users of underground
+boards won't complain if some guy is busted for crashing
+systems, spreading viruses, or stealing money by wire-
+fraud.   They may shake their heads with a sneaky grin, but
+they won't openly defend these practices.   But when a kid
+is charged with some theoretical amount of theft:
+$233,846.14, for instance, because he sneaked into a
+computer and copied something, and kept it in his house
+on a floppy disk -- this is regarded as a sign of near-
+insanity from prosecutors, a sign that they've drastically
+mistaken the immaterial game of computing for their real
+and boring everyday world of fatcat corporate money.
+
+     It's as if big companies and their suck-up lawyers
+think that computing belongs to them, and they can retail
+it with price stickers, as if it were boxes of laundry soap!
+But pricing "information"  is like trying to price air or
+price
+dreams.  Well, anybody on a pirate board knows that
+computing can be, and ought to be, *free.*  Pirate boards
+are little independent worlds in cyberspace, and they don't
+belong to anybody but the underground.   Underground
+boards aren't "brought to you by Procter & Gamble."
+
+     To log on to an underground board can mean to
+experience liberation, to enter a world where, for once,
+money isn't everything and adults don't have all the
+answers.
+
+     Let's sample another vivid hacker manifesto.  Here
+are some excerpts from "The Conscience of a Hacker," by
+"The Mentor," from *Phrack* Volume One, Issue 7, Phile
+3.
+
+     "I made a discovery today.  I found a computer.  Wait
+a second, this is cool.  It does what I want it to.  If it
+makes a
+mistake, it's because I screwed it up.  Not because it
+doesn't like me.(...)
+     "And then it happened... a door opened to a world...
+rushing through the phone line like heroin through an
+addict's veins, an electronic pulse is sent out, a refuge
+from day-to-day incompetencies is sought... a board is
+found.   'This is it...  this is where I belong...'
+     "I know everyone here... even if I've never met them,
+never talked to them, may never hear from them again... I
+know you all...(...)
+     "This is our world now....  the world of the electron
+and
+the switch, the beauty of the baud.  We make use of a
+service already existing without paying for what could be
+dirt-cheap if it wasn't run by profiteering gluttons, and
+you
+call us criminals.  We explore... and you call us criminals.
+We seek after knowledge... and you call us criminals.  We
+exist without skin color, without nationality, without
+religious bias... and you call us criminals.  You build
+atomic
+bombs, you wage wars, you murder, cheat and lie to us and
+try to make us believe that it's for our own good, yet we're
+the criminals.
+     "Yes, I am a criminal.  My crime is that of curiosity.
+My crime is that of judging people by what they say and
+think, not what they look like.  My crime is that of
+outsmarting you, something that you will never forgive me
+for."
+
+                         #
+
+     There have been underground boards almost as long
+as there have been boards.  One of the first was 8BBS,
+which became a stronghold of the West Coast phone-
+phreak elite.   After going on-line in March 1980, 8BBS
+sponsored "Susan Thunder," and "Tuc,"  and, most
+notoriously, "the Condor."  "The Condor"  bore the singular
+distinction of becoming the most vilified American phreak
+and hacker ever.   Angry underground associates, fed up
+with Condor's peevish behavior, turned him in to police,
+along with a heaping double-helping of  outrageous
+hacker legendry.  As a result, Condor was kept in solitary
+confinement for seven months,  for fear that he might start
+World War Three by triggering missile silos from the
+prison payphone.  (Having served his time, Condor is now
+walking around loose;  WWIII has thus far conspicuously
+failed to occur.)
+
+     The sysop of 8BBS was an ardent free-speech
+enthusiast who simply felt that *any* attempt to restrict
+the expression of his users was unconstitutional and
+immoral.   Swarms of the technically curious entered 8BBS
+and emerged as phreaks and hackers, until, in 1982, a
+friendly 8BBS alumnus passed the sysop a new modem
+which had been purchased by credit-card fraud.  Police
+took this opportunity to seize the entire board and remove
+what they considered an attractive nuisance.
+
+     Plovernet was a powerful East Coast pirate board that
+operated in both New York and Florida.  Owned and
+operated by teenage hacker "Quasi Moto,"  Plovernet
+attracted five hundred eager users in 1983.  "Emmanuel
+Goldstein" was one-time co-sysop of Plovernet, along with
+"Lex Luthor,"  founder of the "Legion of Doom" group.
+Plovernet  bore the signal honor of being the original
+home of the "Legion of Doom," about which the reader will
+be hearing a great deal, soon.
+
+     "Pirate-80," or "P-80," run by a sysop known as "Scan-
+Man," got into the game very early in Charleston, and
+continued steadily for years.  P-80 flourished so flagrantly
+that even its most hardened users became nervous, and
+some slanderously speculated that "Scan Man" must have
+ties to corporate security, a charge he vigorously denied.
+
+     "414 Private" was the home board for the first *group*
+to attract conspicuous trouble, the teenage "414 Gang,"
+whose intrusions into Sloan-Kettering Cancer Center and
+Los Alamos military computers were to be a nine-days-
+wonder in 1982.
+
+     At about this time, the first software piracy boards
+began to open up, trading cracked games for the Atari 800
+and the Commodore C64.   Naturally these boards were
+heavily frequented by teenagers.  And with the 1983
+release of the hacker-thriller movie *War Games,* the
+scene exploded.   It seemed that every kid in America had
+demanded and  gotten a modem for Christmas.  Most of
+these dabbler wannabes put their modems in the attic
+after a few weeks, and most of the remainder minded their
+P's and Q's and stayed well out of hot water.  But some
+stubborn and talented diehards had this hacker kid in
+*War Games* figured for a happening dude.   They simply
+could not rest until they had contacted the underground --
+or, failing that, created their own.
+
+     In the mid-80s, underground boards sprang up like
+digital fungi.  ShadowSpawn Elite.  Sherwood Forest I, II,
+and III. Digital Logic Data Service in Florida, sysoped by
+no less a man than "Digital Logic" himself; Lex Luthor of
+the Legion of Doom was prominent on this board, since it
+was in his area code.  Lex's own board,  "Legion of Doom,"
+started in 1984.  The Neon Knights ran a network of Apple-
+hacker boards: Neon Knights North, South, East and
+West.   Free World II was run by "Major Havoc."  Lunatic
+Labs is still in operation as of this writing.   Dr. Ripco
+in
+Chicago, an anything-goes anarchist board with an
+extensive and raucous history, was seized by Secret
+Service agents in 1990 on Sundevil day, but up again
+almost immediately, with new machines and scarcely
+diminished  vigor.
+
+     The St. Louis scene was not to rank with major centers
+of American hacking such as New York and L.A.  But St.
+Louis did rejoice in possession of "Knight Lightning" and
+"Taran King,"  two of the foremost *journalists* native to
+the underground.   Missouri boards like Metal Shop,
+Metal Shop Private, Metal Shop Brewery, may not have
+been the heaviest boards around in terms of illicit
+expertise.  But they became boards where hackers could
+exchange social gossip and try to figure out what the heck
+was going on nationally -- and internationally.   Gossip
+from Metal Shop was put into the form of news files, then
+assembled into a general electronic publication, *Phrack,*
+a portmanteau title coined from "phreak" and "hack."  The
+*Phrack* editors were as obsessively curious about other
+hackers as hackers were about machines.
+
+     *Phrack,* being free of charge and lively reading,
+began to circulate throughout the underground.   As Taran
+King and Knight Lightning left high school for college,
+*Phrack* began to appear on mainframe machines linked
+to BITNET, and, through BITNET to the "Internet,"  that
+loose but extremely potent not-for-profit network where
+academic, governmental and corporate machines trade
+data through the UNIX TCP/IP protocol.   (The "Internet
+Worm"  of  November 2-3,1988, created by Cornell grad
+student Robert Morris,  was to be the largest and best-
+publicized computer-intrusion scandal to date.  Morris
+claimed that his ingenious "worm" program was meant to
+harmlessly explore the Internet, but due to bad
+programming, the Worm replicated out of control and
+crashed some six thousand Internet computers.   Smaller-
+scale and less ambitious Internet hacking was a standard
+for the underground elite.)
+
+     Most any underground board not hopelessly lame
+and out-of-it would feature a complete run of *Phrack* --
+and, possibly, the lesser-known standards of the
+underground:  the *Legion of Doom Technical Journal,*
+the obscene and raucous *Cult of the Dead Cow*  files,
+*P/HUN*  magazine,  *Pirate,*  the *Syndicate Reports,*
+and perhaps the highly anarcho-political *Activist Times
+Incorporated.*
+
+     Possession of *Phrack*  on one's board was prima
+facie evidence of a bad attitude.   *Phrack* was seemingly
+everywhere, aiding, abetting, and spreading the
+underground ethos.  And this did not escape the attention
+of corporate security or the police.
+
+      We now come to the touchy subject of police and
+boards.  Police, do, in fact, own boards.   In 1989, there
+were
+police-sponsored boards in California, Colorado, Florida,
+Georgia, Idaho, Michigan, Missouri, Texas, and Virginia:
+boards such as "Crime Bytes,"  "Crimestoppers,"  "All
+Points" and "Bullet-N-Board."   Police officers, as private
+computer enthusiasts, ran their own boards in Arizona,
+California, Colorado, Connecticut, Florida, Missouri,
+Maryland, New Mexico, North Carolina, Ohio, Tennessee
+and Texas.   Police boards have often proved helpful in
+community relations.  Sometimes crimes are reported on
+police boards.
+
+     Sometimes crimes are *committed*  on police
+boards.  This has sometimes happened by accident, as
+naive hackers blunder onto police boards and blithely
+begin offering telephone codes.  Far more often, however,
+it occurs through the now almost-traditional use of "sting
+boards."  The first police sting-boards were established in
+1985:  "Underground Tunnel" in Austin, Texas, whose
+sysop Sgt. Robert Ansley called himself "Pluto" -- "The
+Phone Company" in Phoenix, Arizona, run by Ken
+MacLeod of the Maricopa County Sheriff's office -- and
+Sgt. Dan Pasquale's board in Fremont, California.   Sysops
+posed as hackers, and swiftly garnered coteries of ardent
+users, who posted codes and loaded pirate software with
+abandon, and came to a sticky end.
+
+     Sting boards, like other boards, are cheap to operate,
+very cheap by the standards of undercover police
+operations.  Once accepted by the local underground,
+sysops will likely be invited into other pirate boards,
+where
+they can compile more dossiers.  And when the sting is
+announced and the worst offenders arrested, the publicity
+is generally  gratifying.  The resultant paranoia in the
+underground -- perhaps more justly described as a
+"deterrence effect" -- tends to quell local lawbreaking for
+quite a while.
+
+     Obviously police do not have to beat the underbrush
+for hackers.  On the contrary, they can go trolling for
+them.
+Those caught can be grilled.  Some become useful
+informants.  They can lead the way to pirate boards all
+across the country.
+
+     And boards all across the country showed the sticky
+fingerprints of *Phrack,* and of that loudest and most
+flagrant of all underground groups, the "Legion of Doom."
+
+     The term "Legion of Doom" came from comic books.
+The Legion of Doom, a conspiracy of costumed super-
+villains headed by the chrome-domed criminal ultra-
+mastermind Lex Luthor, gave Superman a lot of four-color
+graphic trouble for a number of decades.   Of course,
+Superman, that exemplar of Truth, Justice, and the
+American Way, always won in the long run.   This didn't
+matter to the hacker Doomsters -- "Legion of Doom" was
+not some thunderous and evil Satanic reference, it was not
+meant to be taken seriously.  "Legion of Doom" came
+from funny-books and was supposed to be funny.
+
+     "Legion of Doom" did have a good mouthfilling ring
+to it, though.  It sounded really cool.  Other groups, such
+as
+the "Farmers of Doom," closely allied to LoD, recognized
+this grandiloquent quality, and made fun of it.  There was
+even a hacker group called "Justice League of America,"
+named after Superman's club of true-blue crimefighting
+superheros.
+
+     But they didn't last; the Legion did.
+
+     The original Legion of Doom, hanging out on Quasi
+Moto's Plovernet board, were phone phreaks.   They
+weren't much into computers.   "Lex Luthor" himself (who
+was under eighteen when he formed the Legion)  was a
+COSMOS expert, COSMOS being the "Central System for
+Mainframe Operations," a telco internal computer
+network.   Lex would eventually become quite a dab hand
+at breaking into IBM mainframes, but although everyone
+liked Lex and admired his attitude, he was not considered
+a truly accomplished computer intruder.  Nor was he the
+"mastermind" of the Legion of Doom --  LoD were never
+big on formal leadership.  As a regular on Plovernet and
+sysop of his "Legion of Doom BBS,"  Lex was the Legion's
+cheerleader and recruiting officer.
+
+     Legion of Doom began on the ruins of an earlier
+phreak group, The Knights of Shadow.  Later, LoD was to
+subsume the personnel of the hacker group "Tribunal of
+Knowledge."  People came and went constantly in LoD;
+groups split up or formed offshoots.
+
+     Early on, the LoD phreaks befriended a few
+computer-intrusion enthusiasts, who became the
+associated "Legion of Hackers."  Then the two groups
+conflated into the "Legion of Doom/Hackers,"  or LoD/H.
+When the original "hacker" wing, Messrs. "Compu-
+Phreak" and "Phucked Agent 04," found other matters to
+occupy their time, the extra "/H" slowly atrophied out of
+the name;  but by this time the phreak wing, Messrs.  Lex
+Luthor, "Blue Archer," "Gary Seven," "Kerrang Khan,"
+"Master of Impact," "Silver Spy," "The Marauder," and
+"The Videosmith," had picked up a plethora of intrusion
+expertise and had become a force to be reckoned with.
+
+     LoD members seemed to have an instinctive
+understanding that the way to real power in the
+underground lay through covert publicity.   LoD were
+flagrant.  Not only was it one of the earliest groups, but
+the
+members took pains to widely distribute their illicit
+knowledge.   Some LoD members, like "The Mentor," were
+close to evangelical about it.   *Legion of Doom Technical
+Journal*  began to show up on boards throughout the
+underground.
+
+     *LoD Technical Journal* was named in cruel parody
+of the ancient and honored *AT&T Technical Journal.*
+The material in these two publications was quite similar --
+much of it, adopted from public journals and discussions
+in the telco community.  And yet, the predatory attitude of
+LoD made even its most innocuous data seem deeply
+sinister; an outrage; a clear and present danger.
+
+     To see why this should be, let's consider the following
+(invented) paragraphs, as a kind of thought experi

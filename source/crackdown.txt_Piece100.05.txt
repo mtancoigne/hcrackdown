@@ -1,0 +1,2418 @@
+range,
+he doesn't belong, he's not authorized, he doesn't
+smell right, he's not keeping his proper place, he's
+not one of us.  The focus of fear is the hacker, for
+much the same reasons that Stanley's fancied
+assailant is black.
+
+     Stanley's demon can't go away, because he
+doesn't exist.  Despite singleminded and
+tremendous effort, he can't be arrested, sued, jailed,
+or fired.  The only constructive way to do *anything*
+about him is to learn more about Stanley himself.
+This learning process may be repellent, it may be
+ugly, it may involve grave elements of paranoiac
+confusion, but it's necessary.  Knowing Stanley
+requires something more than class-crossing
+condescension.  It requires more than steely legal
+objectivity.  It requires  human compassion and
+sympathy.
+
+     To know Stanley is to know his demon.  If you
+know the other guy's demon, then maybe you'll
+come to know some of your own.   You'll be able to
+separate reality from illusion.   And then you won't
+do your cause, and yourself, more harm than good.
+Like poor damned Stanley from Chicago did.
+
+                         #
+
+     The Federal Computer Investigations
+Committee (FCIC) is the most important and
+influential organization in the realm of American
+computer-crime.  Since the police of other countries
+have largely taken their computer-crime cues from
+American methods, the FCIC might well be called
+the most important computer crime group in the
+world.
+
+     It is also, by federal standards, an organization
+of great unorthodoxy.  State and local investigators
+mix with federal agents.   Lawyers, financial auditors
+and computer-security programmers trade notes
+with street cops.  Industry vendors and telco security
+people show up to explain their gadgetry and plead
+for protection and justice.   Private investigators,
+think-tank experts and industry pundits throw in
+their two cents' worth.   The FCIC is the antithesis of
+a formal bureaucracy.
+
+     Members of the FCIC are obscurely proud of
+this fact; they recognize their group as aberrant,  but
+are entirely convinced that this, for them, outright
+*weird* behavior is nevertheless *absolutely
+necessary* to get their jobs done.
+
+     FCIC regulars  -- from the Secret Service, the
+FBI, the IRS, the Department of Labor, the offices of
+federal attorneys, state police, the Air Force, from
+military intelligence --  often attend meetings, held
+hither and thither across the country,  at their own
+expense.  The FCIC doesn't get grants.  It doesn't
+charge membership fees.  It doesn't have a boss.  It
+has no headquarters -- just a mail drop in
+Washington DC, at the Fraud Division of the Secret
+Service.  It doesn't have a budget.  It doesn't have
+schedules.  It meets three times a year -- sort of.
+Sometimes it issues publications, but the FCIC has
+no regular publisher,  no treasurer, not even a
+secretary.   There are no minutes of FCIC  meetings.
+Non-federal people are considered "non-voting
+members,"  but there's not much in the way of
+elections.  There are no badges, lapel pins or
+certificates of membership.   Everyone is on a first-
+name basis.   There are about forty of them.  Nobody
+knows how many, exactly.  People come, people go --
+sometimes people "go" formally but still hang
+around anyway.  Nobody has ever exactly figured
+out what "membership" of this "Committee"
+actually entails.
+
+     Strange as this may seem to some, to anyone
+familiar with the social world of computing, the
+"organization" of the FCIC is very recognizable.
+
+      For years now, economists and management
+theorists have speculated that the tidal wave of the
+information revolution would destroy rigid,
+pyramidal bureaucracies, where everything is top-
+down and centrally controlled.   Highly trained
+"employees" would take on much greater autonomy,
+being self-starting, and self-motivating,  moving
+from place to place, task to task, with great speed
+and fluidity.  "Ad-hocracy" would rule, with groups of
+people spontaneously knitting together across
+organizational lines, tackling the problem at hand,
+applying intense computer-aided expertise to it, and
+then vanishing whence they came.
+
+     This is more or less what has actually happened
+in the world of federal computer investigation.  With
+the conspicuous exception of the phone companies,
+which are after all over a hundred years old,
+practically *every* organization that plays any
+important role in this book functions just like the
+FCIC.    The Chicago Task Force, the Arizona
+Racketeering Unit, the Legion of Doom, the Phrack
+crowd, the Electronic Frontier Foundation -- they
+*all* look and act like "tiger teams" or "user's
+groups."  They are all electronic ad-hocracies
+leaping up spontaneously to attempt to meet a
+need.
+
+      Some are police.  Some are, by strict definition,
+criminals.  Some are political interest-groups.   But
+every single group has that same quality of apparent
+spontaneity -- "Hey, gang!  My uncle's got a barn --
+let's put on a show!"
+
+     Every one of these groups is embarrassed by
+this "amateurism," and, for the sake of their public
+image in a world of non-computer people,  they all
+attempt to look as stern and formal and impressive
+as possible.    These electronic frontier-dwellers
+resemble groups of nineteenth-century pioneers
+hankering after the respectability of statehood.
+There are however,  two crucial differences in the
+historical experience of these "pioneers" of the
+nineteeth and twenty-first centuries.
+
+       First, powerful information technology *does*
+play into the hands of small, fluid, loosely organized
+groups.  There have always been "pioneers,"
+"hobbyists," "amateurs," "dilettantes," "volunteers,"
+"movements," "users' groups" and "blue-ribbon
+panels of experts" around.   But a group of this kind -
+- when technically equipped to ship huge amounts
+of specialized information, at lightning speed, to its
+members, to government, and to the press -- is
+simply a different kind of animal.   It's like the
+difference between an eel and an electric eel.
+
+     The second crucial change is that American
+society is currently in a state  approaching
+permanent technological revolution.  In the world of
+computers particularly,  it is practically impossible to
+*ever* stop being a  "pioneer," unless you either
+drop dead or deliberately jump off the bus.  The
+scene has never slowed down enough to become
+well-institutionalized.  And after twenty, thirty, forty
+years the "computer revolution" continues to spread,
+to permeate new corners of society.   Anything that
+really works is already obsolete.
+
+     If you spend your entire working life as a
+"pioneer," the word "pioneer" begins to lose its
+meaning.  Your way of life looks less and less like an
+introduction to "something else" more stable and
+organized,  and more and more like *just the way
+things are.*   A "permanent revolution" is really a
+contradiction in terms.  If "turmoil"  lasts long
+enough, it simply becomes *a new kind of society*  --
+still the same game of history, but new players, new
+rules.
+
+     Apply this to the world of late twentieth-century
+law enforcement, and the implications are  novel
+and puzzling indeed.  Any bureaucratic rulebook
+you write about computer-crime will be flawed when
+you write it, and almost an antique by the time it
+sees print.   The fluidity and fast reactions of the
+FCIC give them a great advantage in this regard,
+which explains their success.  Even with the best will
+in the world (which it does not, in fact, possess) it is
+impossible for an organization the size of the U.S.
+Federal Bureau of Investigation to get up to speed
+on the theory and practice of computer crime.   If
+they tried to train all their agents to do this, it would
+be *suicidal,*  as they would *never be able to do
+anything else.*
+
+      The FBI does try to train its agents in the basics
+of electronic crime, at their base in Quantico,
+Virginia.   And the Secret Service, along with many
+other law enforcement groups, runs quite successful
+and well-attended training courses on wire fraud,
+business crime, and computer intrusion  at the
+Federal Law Enforcement Training Center (FLETC,
+pronounced "fletsy") in Glynco, Georgia.   But the
+best efforts of these bureaucracies does not remove
+the absolute need for a "cutting-edge mess" like the
+FCIC.
+
+     For you see -- the members of FCIC *are* the
+trainers of the rest of law enforcement.  Practically
+and literally speaking, they are the Glynco
+computer-crime faculty by another name.  If the
+FCIC went over a cliff on a bus, the U.S. law
+enforcement community would be rendered deaf
+dumb and blind in the world of computer crime, and
+would swiftly feel a desperate need to reinvent them.
+And this is no time to go starting from scratch.
+
+     On June 11, 1991, I once again arrived in
+Phoenix, Arizona, for the latest meeting of the
+Federal Computer Investigations Committee.  This
+was more or less the twentieth meeting of this stellar
+group.   The count was uncertain, since nobody
+could figure out whether to include the meetings of
+"the Colluquy," which is what the FCIC was called in
+the mid-1980s before it had even managed to obtain
+the dignity of its own acronym.
+
+     Since my last visit to Arizona, in May, the local
+AzScam bribery scandal had resolved itself in a
+general muddle of humiliation.  The Phoenix chief of
+police, whose agents had videotaped nine state
+legislators up to no good, had resigned his office in a
+tussle with the Phoenix city council over the
+propriety of his undercover operations.
+
+     The Phoenix Chief could now join Gail
+Thackeray and eleven of her closest associates in
+the shared experience of politically motivated
+unemployment.   As of June, resignations were still
+continuing at the Arizona Attorney General's office,
+which could be interpreted as either a New Broom
+Sweeping Clean or a Night of the Long Knives Part
+II, depending on your point of view.
+
+     The meeting of FCIC was held at the Scottsdale
+Hilton Resort. Scottsdale is a wealthy suburb of
+Phoenix, known as "Scottsdull" to scoffing local
+trendies, but well-equipped with posh shopping-
+malls and manicured lawns, while conspicuously
+undersupplied with homeless derelicts.   The
+Scottsdale Hilton Resort was a sprawling hotel in
+postmodern  crypto-Southwestern style.  It featured
+a "mission bell tower" plated in turquoise tile and
+vaguely resembling a Saudi minaret.
+
+     Inside it was all barbarically striped Santa Fe
+Style decor.   There was a health spa downstairs and
+a large oddly-shaped pool in the patio.  A poolside
+umbrella-stand offered Ben and Jerry's politically
+correct Peace Pops.
+
+     I registered as a member of FCIC, attaining a
+handy discount rate, then went in search of the Feds.
+Sure enough, at the back of the hotel grounds came
+the unmistakable sound of Gail Thackeray holding
+forth.
+
+     Since I had also attended the Computers
+Freedom and Privacy conference (about which more
+later), this was the second time I had seen
+Thackeray in a group of her law enforcement
+colleagues.   Once again I was struck by how simply
+pleased they seemed to see her.   It was natural that
+she'd get *some* attention, as Gail was one of two
+women in a group of some thirty men; but there was
+a lot more to it than that.
+
+     Gail Thackeray personifies the social glue of the
+FCIC.  They could give a damn about her losing her
+job with the Attorney General.  They were sorry
+about it, of course, but hell, they'd all lost jobs.   If
+they were the kind of guys who liked steady  boring
+jobs, they would never have gotten into computer
+work in the first place.
+
+     I wandered into her circle and was immediately
+introduced to five strangers.  The conditions of my
+visit at FCIC were reviewed.  I would not quote
+anyone directly.  I would not tie opinions expressed
+to the agencies of the attendees.  I would not (a
+purely hypothetical example) report the
+conversation of a guy from the Secret Service talking
+quite civilly to  a guy from the FBI, as these two
+agencies *never*  talk to each other, and the IRS
+(also present, also hypothetical) *never talks to
+anybody.*
+
+     Worse yet, I was forbidden to attend the first
+conference.  And I didn't.  I have no idea what the
+FCIC was up to behind closed doors that afternoon.
+I rather suspect that they were engaging in a frank
+and thorough confession of their errors, goof-ups
+and blunders, as this has been a feature of every
+FCIC meeting since their legendary Memphis beer-
+bust of 1986.  Perhaps the single greatest attraction
+of FCIC is that it is a place where you can go, let your
+hair down, and completely level with people who
+actually comprehend what you are talking about.
+Not only do they understand you, but they *really
+pay attention,*  they are *grateful for your insights,*
+and they *forgive you,*  which in nine cases out of
+ten is something even your boss can't do, because as
+soon as you start talking "ROM," "BBS," or "T-1
+trunk," his eyes glaze over.
+
+     I had nothing much to do that afternoon.  The
+FCIC were beavering away in their  conference
+room.  Doors were firmly closed, windows too dark to
+peer through.  I wondered what a real hacker, a
+computer intruder, would do at a meeting like this.
+
+     The answer came at once.  He would "trash" the
+place.  Not reduce the place to trash  in some orgy of
+vandalism; that's not the use of the term in the
+hacker milieu.  No, he would quietly *empty the
+trash baskets* and silently raid any valuable data
+indiscreetly thrown away.
+
+     Journalists have been known to do this.
+(Journalists hunting information have been known
+to do almost every single unethical thing that
+hackers have ever done.  They also throw in a few
+awful techniques all their own.)  The legality of
+'trashing' is somewhat dubious but it is not in fact
+flagrantly illegal.   It was, however, absurd to
+contemplate trashing the FCIC.  These people knew
+all about trashing.   I wouldn't last fifteen seconds.
+
+     The idea sounded interesting, though.   I'd been
+hearing a lot about the practice lately.  On the spur
+of the moment, I decided I would try trashing the
+office *across the hall*  from the FCIC, an area
+which had nothing to do with the investigators.
+
+     The office was tiny; six chairs, a table....
+Nevertheless, it was open, so I dug around in its
+plastic trash can.
+
+     To my utter astonishment, I came up with the
+torn scraps of a SPRINT long-distance phone bill.
+More digging produced a bank statement and the
+scraps of a hand-written letter, along with gum,
+cigarette ashes, candy wrappers and a day-old-issue
+of USA TODAY.
+
+     The trash went back in its receptacle while the
+scraps of data went into  my travel bag.  I detoured
+through the hotel souvenir shop for some Scotch
+tape and went up to my room.
+
+     Coincidence or not, it was quite true.  Some poor
+soul had, in fact, thrown a SPRINT bill into the
+hotel's trash.   Date May 1991, total amount due:
+$252.36.  Not a business phone, either, but a
+residential bill, in the name of someone called
+Evelyn (not her real name).  Evelyn's records showed
+a ## PAST DUE BILL ##!   Here was her nine-digit
+account ID.    Here was a stern computer-printed
+warning:
+
+ "TREAT YOUR FONCARD AS YOU WOULD ANY
+CREDIT CARD.  TO SECURE AGAINST FRAUD,
+NEVER GIVE YOUR FONCARD NUMBER OVER
+THE PHONE UNLESS YOU INITIATED THE
+CALL.  IF YOU RECEIVE SUSPICIOUS CALLS
+PLEASE NOTIFY CUSTOMER SERVICE
+IMMEDIATELY!"
+
+     I examined my watch.  Still plenty of time left for
+the FCIC to carry on.  I sorted out the scraps of
+Evelyn's SPRINT bill and re-assembled them with
+fresh Scotch tape.  Here was her ten-digit
+FONCARD number.   Didn't seem to have the ID
+number necessary to cause real fraud trouble.
+
+     I did, however, have Evelyn's home phone
+number.  And the phone numbers for a whole crowd
+of Evelyn's long-distance friends and acquaintances.
+In San Diego, Folsom, Redondo, Las Vegas, La Jolla,
+Topeka, and Northampton Massachusetts.  Even
+somebody in Australia!
+
+     I examined other documents.  Here was a bank
+statement.  It was Evelyn's IRA account down at a
+bank in San Mateo California (total balance
+$1877.20).  Here was a charge-card bill for $382.64.
+She was paying it off bit by bit.
+
+     Driven by motives that were completely
+unethical and prurient, I now examined the
+handwritten notes.  They had been torn fairly
+thoroughly, so much so that it took me almost an
+entire five minutes to reassemble them.
+
+     They were drafts of a love letter.  They had been
+written on the lined stationery of Evelyn's employer,
+a biomedical company.  Probably written at work
+when she should have been doing something else.
+
+     "Dear Bob," (not his real name)  "I guess in
+everyone's life there comes a time when hard
+decisions have to be made, and this is a difficult one
+for me -- very upsetting.  Since you haven't called
+me, and I don't understand why, I can only surmise
+it's because you don't want to.  I thought I would
+have heard from you Friday.  I did have a few
+unusual problems with my phone and possibly you
+tried, I hope so.
+     "Robert, you asked me to 'let go'..."
+
+     The first note ended.  *Unusual problems with
+her phone?*  I looked swiftly at the next note.
+
+     "Bob, not hearing from you for the whole
+weekend has left me very perplexed..."
+
+      Next draft.
+
+     "Dear Bob, there is so much I don't understand
+right now, and I wish I did.  I wish I could talk to you,
+but for some unknown reason you have elected not
+to call -- this is so difficult for me to understand..."
+
+     She tried again.
+
+     "Bob, Since I have always held you in such high
+esteem, I had every hope that we could remain good
+friends, but now one essential ingredient is missing -
+- respect.  Your ability to discard people when their
+purpose is served is appalling to me.  The kindest
+thing you could do for me now is to leave me alone.
+You are no longer welcome in my heart or home..."
+
+     Try again.
+
+     "Bob, I wrote a very factual note to you to say
+how much respect I had lost for you, by the way you
+treat people, me in particular, so uncaring and cold.
+The kindest thing you can do for me is to leave me
+alone entirely, as you are no longer welcome in my
+heart or home. I would appreciate it if you could
+retire your debt to me as soon as possible -- I wish no
+link to you in any way.  Sincerely, Evelyn."
+
+     Good heavens, I thought, the bastard actually
+owes her money!  I turned to the next page.
+
+     "Bob:  very simple.  GOODBYE!  No more mind
+games -- no more fascination -- no more coldness --
+no more respect for you!  It's over -- Finis.  Evie"
+
+     There were two versions of the final brushoff
+letter, but they read about the same.  Maybe she
+hadn't sent it.  The final item in my illicit and
+shameful booty was an envelope addressed to "Bob"
+at his home address, but it had no stamp on it and it
+hadn't been mailed.
+
+     Maybe she'd just been blowing off steam
+because her rascal boyfriend had neglected to call
+her one weekend.   Big deal.  Maybe they'd kissed
+and made up, maybe she and Bob were down at
+Pop's Chocolate Shop now, sharing a malted.  Sure.
+
+     Easy to find out.  All I had to do was call Evelyn
+up.  With a half-clever story and enough brass-
+plated gall I could probably trick the truth out of her.
+Phone-phreaks and hackers deceive people over the
+phone all the time.  It's called "social engineering."
+Social engineering is a very common practice in the
+underground, and almost magically effective.
+Human beings are almost always the weakest link in
+computer security.  The simplest way to learn Things
+You Are Not Meant To Know is simply to call up
+and exploit the knowledgeable people.   With social
+engineering, you use the bits of specialized
+knowledge you already have as a key, to manipulate
+people into believing that you are legitimate.  You
+can then coax, flatter, or frighten them into revealing
+almost anything you want to know.  Deceiving
+people (especially over the phone) is easy and fun.
+Exploiting their gullibility is very gratifying; it makes
+you feel very superior to them.
+
+     If I'd been a  malicious hacker on a trashing
+raid, I would now have Evelyn very much in my
+power.  Given all this inside  data, it wouldn't take
+much effort at all to invent a convincing lie.  If I were
+ruthless enough, and jaded enough, and clever
+enough, this momentary indiscretion of hers --
+maybe committed in tears, who knows -- could cause
+her a whole world of confusion and grief.
+
+     I didn't even have to have a *malicious*  motive.
+Maybe I'd be "on her side," and call up Bob instead,
+and anonymously threaten to break both his
+kneecaps if he didn't take Evelyn out for a steak
+dinner pronto.   It was still profoundly *none of my
+business.*   To have gotten this knowledge at all was
+a sordid act and to use it would be to inflict a sordid
+injury.
+
+     To do all these awful things would require
+exactly zero high-tech expertise.  All it would take
+was the willingness to do it and a certain amount of
+bent imagination.
+
+     I went back downstairs. The hard-working FCIC,
+who had labored forty-five minutes over their
+schedule, were through for the day, and adjourned
+to the hotel bar.  We all had a beer.
+
+      I had a chat with a guy about "Isis," or rather
+IACIS, the International Association of Computer
+Investigation Specialists.  They're into "computer
+forensics,"  the techniques of picking computer-
+systems apart without destroying vital evidence.
+IACIS, currently run out of Oregon, is comprised of
+investigators in the U.S., Canada, Taiwan and
+Ireland.  "Taiwan and Ireland?"  I said.  Are *Taiwan*
+and *Ireland*  really in the forefront of this stuff?
+Well not exactly, my informant admitted.  They just
+happen to have been the first ones to have caught
+on by word of mouth.  Still, the international angle
+counts, because this is obviously an international
+problem.  Phone-lines go everywhere.
+
+     There was a Mountie here from the Royal
+Canadian Mounted Police.  He seemed to be having
+quite a good time.   Nobody had flung this Canadian
+out because he might pose a foreign security risk.
+These are cyberspace cops.  They still worry a lot
+about "jurisdictions," but mere geography is the
+least of their troubles.
+
+     NASA had failed to show.  NASA suffers a lot
+from computer intrusions, in particular from
+Australian raiders and a well-trumpeted Chaos
+Computer Club case,  and in 1990 there was a brief
+press flurry when it was revealed that one of NASA's
+Houston branch-exchanges had been systematically
+ripped off by a gang of phone-phreaks.   But the
+NASA guys had had their funding cut.  They were
+stripping everything.
+
+     Air Force OSI, its Office of Special
+Investigations, is the *only*  federal entity dedicated
+full-time to computer security.  They'd been
+expected to show up in force, but some of them had
+cancelled -- a Pentagon budget pinch.
+
+     As the empties piled up, the guys began joshing
+around and telling war-stories.  "These are cops,"
+Thackeray said tolerantly.  "If they're not talking
+shop they talk about women and beer."
+
+     I heard the story about the guy who, asked for "a
+copy" of a computer disk, *photocopied the label on
+it.*  He put the floppy disk onto the glass plate of a
+photocopier.  The blast of static when the copier
+worked  completely erased all the real information
+on the disk.
+
+     Some other poor souls threw a whole bag of
+confiscated diskettes into the squad-car trunk next
+to the police radio.  The powerful radio signal
+blasted them, too.
+
+      We heard a bit about Dave Geneson, the first
+computer prosecutor, a mainframe-runner in Dade
+County, turned lawyer.   Dave Geneson was one guy
+who had hit the ground running, a signal virtue in
+making the transition to computer-crime.  It was
+generally agreed that it was easier to learn the world
+of computers first, then police or prosecutorial work.
+You could take certain computer people and train
+'em to successful police work -- but of course they
+had to have the *cop mentality.*  They had to have
+street smarts.  Patience.  Persistence.  And
+discretion.   You've got to make sure they're not hot-
+shots, show-offs,  "cowboys."
+
+     Most of the folks in the bar had backgrounds in
+military intelligence, or drugs, or homicide.  It was
+rudely opined that "military intelligence" was a
+contradiction in terms, while even the grisly world of
+homicide was considered cleaner than drug
+enforcement.  One guy had been 'way undercover
+doing dope-work in Europe for four years straight.
+"I'm almost recovered now," he said deadpan, with
+the acid black humor that is pure cop.  "Hey, now I
+can say *fucker*  without putting *mother*  in front
+of it."
+
+     "In the cop world," another guy said earnestly,
+"everything is good and bad, black and white.  In the
+computer world everything is gray."
+
+     One guy -- a founder of the FCIC, who'd been
+with the group since it was just the Colluquy --
+described his own introduction to the field.  He'd
+been a Washington DC homicide guy called in on a
+"hacker" case.  From the word "hacker," he naturally
+assumed he was on the trail of a knife-wielding
+marauder, and went to the computer center
+expecting blood and a body.  When he finally
+figured out what was happening there (after loudly
+demanding, in vain, that the programmers "speak
+English"),  he called headquarters and told them he
+was clueless about computers.  They told him
+nobody else knew diddly either, and to get the hell
+back to work.
+
+     So, he said, he had proceeded by comparisons.
+By analogy.  By metaphor.  "Somebody broke in to
+your computer, huh?"  Breaking and entering; I can
+understand that.  How'd he get in?  "Over the phone-
+lines."  Harassing phone-calls, I can understand
+that!  What we need here is a tap and a trace!
+
+     It worked.  It was better than nothing.   And it
+worked a lot faster when he got hold of another cop
+who'd done something similar.  And then the two of
+them got another, and another, and pretty soon the
+Colluquy was a happening thing.  It helped a lot that
+everybody seemed to know Carlton Fitzpatrick, the
+data-processing trainer in Glynco.
+
+     The ice broke big-time in Memphis in '86.  The
+Colluquy had attracted a bunch of new guys -- Secret
+Service, FBI, military, other feds, heavy guys.
+Nobody wanted to tell anybody anything.  They
+suspected that if word got back to the home office
+they'd all be fired.  They passed an uncomfortably
+guarded afternoon.
+
+     The formalities got them nowhere.  But after the
+formal session was over, the organizers brought in a
+case of beer.  As soon as the participants knocked it
+off with the bureaucratic ranks and turf-fighting,
+everything changed.  "I bared my soul," one veteran
+reminisced proudly.  By nightfall they were building
+pyramids of empty beer-cans and doing everything
+but composing a team fight song.
+
+     FCIC were not the only computer-crime people
+around.  There was DATTA (District Attorneys'
+Technology Theft Association),  though they mostly
+specialized in chip theft, intellectual property, and
+black-market cases.  There was HTCIA  (High Tech
+Computer Investigators Association), also out in
+Silicon Valley, a year older than FCIC and featuring
+brilliant people like Donald Ingraham.  There was
+LEETAC (Law Enforcement Electronic Technology
+Assistance Committee)  in Florida, and computer-
+crime units in Illinois and Maryland and Texas and
+Ohio and Colorado and Pennsylvania.   But these
+were local groups.  FCIC were the first to really
+network nationally and on a federal level.
+
+     FCIC people live on the phone lines.  Not on
+bulletin board systems -- they know very well what
+boards are, and they know that  boards aren't secure.
+Everyone in the FCIC has a voice-phone bill like you
+wouldn't believe.  FCIC people have been tight with
+the telco people for a long time.  Telephone
+cyberspace is their native habitat.
+
+     FCIC has three basic sub-tribes:  the trainers,
+the security people, and the investigators.  That's
+why it's called an "Investigations Committee" with
+no mention of the term "computer-crime" -- the
+dreaded "C-word."   FCIC, officially, is "an
+association of agencies rather than individuals;"
+unofficially, this field is small enough that the
+influence of individuals and individual expertise is
+paramount.  Attendance is by invitation only, and
+most everyone in FCIC considers himself a prophet
+without honor in his own house.
+
+     Again and again I heard this,  with different
+terms but identical sentiments.  "I'd been sitting in
+the wilderness talking to myself."  "I was totally
+isolated."  "I was desperate."  "FCIC is the best thing
+there is about computer crime in America."   "FCIC
+is what really works."  "This is where you hear real
+people telling you what's really happening out there,
+not just lawyers picking nits."  "We taught each
+other everything we knew."
+
+     The sincerity of these statements convinces me
+that this is true.  FCIC is the real thing and it is
+invaluable.  It's also very sharply at odds with the
+rest of the traditions and power structure in
+American law enforcement.   There probably  hasn't
+been anything around as loose and go-getting as the
+FCIC since the start of the U.S. Secret Service in the
+1860s.   FCIC people are living like twenty-first-
+century people in a twentieth-century environment,
+and while there's a great deal to be said for that,
+there's also a great deal to be said against it, and
+those against it happen to control the budgets.
+
+     I listened to two FCIC guys from Jersey compare
+life histories.  One of them had been a biker in a
+fairly heavy-duty gang in the 1960s.  "Oh, did you
+know so-and-so?" said the other guy from Jersey.
+"Big guy, heavyset?"
+
+     "Yeah, I knew him."
+
+     "Yeah, he was one of ours.  He was our plant in
+the gang."
+
+     "Really?  Wow!  Yeah, I knew him.  Helluva guy."
+
+     Thackeray reminisced at length about being
+tear-gassed blind in the November 1969  antiwar
+protests in Washington Circle, covering them for
+her college paper.  "Oh yeah, I was there," said
+another cop.  "Glad to hear that tear gas hit
+somethin'.  Haw haw haw."  He'd been so blind
+himself, he confessed, that later that day he'd
+arrested a small tree.
+
+     FCIC are an odd group, sifted out by
+coincidence and necessity, and turned into a new
+kind of cop.   There are a lot of specialized cops in
+the world -- your bunco guys, your drug guys, your
+tax guys, but the only group that matches FCIC for
+sheer isolation are probably the child-pornography
+people.  Because they both deal with conspirators
+who are desperate to exchange forbidden data and
+also desperate to hide; and because nobody else in
+law enforcement even wants to hear about it.
+
+     FCIC people tend to change jobs a lot.  They
+tend not to get the equipment and training they
+want and need.  And they tend to get sued quite
+often.
+
+     As the night wore on and a band set up in the
+bar, the talk grew darker.  Nothing ever gets done in
+government, someone opined, until there's a
+*disaster.*  Computing disasters are awful, but
+there's no denying that they greatly  help the
+credibility of FCIC people.  The Internet Worm, for
+instance.  "For years we'd been warning about that --
+but it's nothing compared to what's coming."  They
+expect horrors, these people.  They know that
+nothing will really get done until there is a horror.
+
+                         #
+
+     Next day we heard an extensive briefing from a
+guy who'd been a computer cop, gotten into hot
+water with an Arizona city council, and now installed
+computer networks for a living (at a considerable
+rise in pay).  He talked about pulling fiber-optic
+networks apart.
+
+     Even a single computer, with enough
+peripherals, is a literal "network" -- a bunch of
+machines all cabled together, generally with a
+complexity that puts stereo units to shame.   FCIC
+people invent and publicize  methods of seizing
+computers and maintaining their evidence.   Simple
+things, sometimes, but vital rules of thumb for street
+cops, who nowadays often stumble across a busy
+computer in the midst of a drug investigation or a
+white-collar bust.  For instance:  Photograph the
+system before you touch it.  Label the ends of all the
+cables before you detach anything.  "Park" the heads
+on the disk drives before you move them.  Get the
+diskettes.  Don't put the diskettes in magnetic fields.
+Don't write on diskettes with ballpoint pens.  Get the
+manuals.  Get the printouts.  Get the handwritten
+notes.  Copy data before you look at it, and then
+examine the copy instead of the original.
+
+     Now our lecturer distributed copied diagrams of
+a typical LAN or "Local Area Network", which
+happened to be out of Connecticut.  *One hundred
+and fifty-nine*  desktop computers, each with its own
+peripherals.  Three "file servers."  Five "star
+couplers" each with thirty-two ports.  One sixteen-
+port coupler off in the corner office.   All these
+machines talking to each other, distributing
+electronic mail, distributing software, distributing,
+quite possibly, criminal evidence.  All linked by high-
+capacity fiber-optic cable.  A bad guy -- cops talk a
+lot about "bad guys"  -- might be lurking on PC #47
+or #123 and distributing his ill doings onto some
+dupe's "personal"  machine in another office -- or
+another floor -- or, quite possibly, two or three miles
+away!   Or,  conceivably, the evidence might be
+"data-striped" -- split up into meaningless slivers
+stored, one by one, on a whole crowd of different disk
+drives.
+
+     The lecturer challenged us for solutions.  I for
+one was utterly clueless.  As far as I could figure, the
+Cossacks were at the gate; there were probably more
+disks in this single building than were seized during
+the entirety of Operation Sundevil.
+
+     "Inside informant," somebody said.  Right.
+There's always the human angle, something easy to
+forget when contemplating the arcane recesses of
+high technology.  Cops are skilled at getting people
+to talk, and computer people, given a chair and
+some sustained attention, will talk about their
+computers till their throats go raw.  There's a case on
+record of a single question -- "How'd you do it?" --
+eliciting a forty-five-minute videotaped confession
+from a computer criminal who not only completely
+incriminated himself but drew helpful diagrams.
+
+     Computer people talk.  Hackers *brag.*   Phone-
+phreaks talk *pathologically*  -- why else are they
+stealing phone-codes, if not to natter for ten hours
+straight to their friends on an opposite seaboard?
+Computer-literate people do in fact possess an
+arsenal of nifty gadgets and techniques that would
+allow them to conceal all kinds of exotic
+skullduggery, and if they could only *shut up*  about
+it, they could probably get away with all manner of
+amazing information-crimes.   But that's just not how
+it works -- or at least, that's not how it's worked *so
+far.*
+
+     Most every phone-phreak ever busted has
+swiftly implicated his mentors, his disciples, and his
+friends.  Most every white-collar computer-criminal,
+smugly convinced that his clever scheme is
+bulletproof,  swiftly learns otherwise when, for the
+first time in his life, an actual no-kidding policeman
+leans over, grabs the front of his shirt, looks him
+right in the eye and says:  "All right, *asshole* --  you
+and me are going downtown!"   All the hardware in
+the world will not insulate your nerves from these
+actual real-life sensations of terror and guilt.
+
+     Cops know ways to get from point A to point Z
+without thumbing through every letter in some
+smart-ass bad-guy's  alphabet.  Cops know how to
+cut to the chase.  Cops know a lot of things other
+people don't know.
+
+     Hackers know a lot of things other people don't
+know, too.  Hackers know, for instance, how to sneak
+into your computer through the phone-lines.  But
+cops  can show up *right on your doorstep*  and
+carry off *you*  and your computer in separate steel
+boxes.   A cop interested in hackers can grab them
+and grill them.  A hacker interested in cops has to
+depend on hearsay, underground legends, and what
+cops are willing to publicly reveal.  And the Secret
+Service didn't get named "the *Secret*  Service"
+because they blab a lot.
+
+     Some people, our lecturer informed us, were
+under the mistaken impression that it was
+"impossible" to tap a fiber-optic line.  Well, he
+announced, he and his son had just whipped up a
+fiber-optic tap in his workshop at home.  He passed
+it around the audience, along with a circuit-covered
+LAN plug-in card so we'd all recognize one if we saw
+it on a case.  We all had a look.
+
+     The tap was a classic "Goofy Prototype" -- a
+thumb-length rounded metal cylinder with a pair of
+plastic brackets on it.  From one end dangled three
+thin black cables, each of which ended in a tiny
+black plastic cap.   When you plucked the safety-cap
+off the end of a cable,  you could see the glass fiber  -
+- no thicker than a pinhole.
+
+       Our lecturer informed us that the metal
+cylinder was a "wavelength division multiplexer."
+Apparently, what one did was to cut the fiber-optic
+cable, insert two of the legs into the cut to complete
+the network again, and then read any passing data
+on the line by hooking up the third leg to some kind
+of monitor.  Sounded simple enough.  I wondered
+why nobody had thought of it before.  I also
+wondered whether this guy's son back at the
+workshop had any teenage friends.
+
+     We had a break.  The guy sitting next to me was
+wearing a giveaway baseball cap advertising the Uzi
+submachine gun.  We had a desultory chat about
+the merits of Uzis.  Long a favorite of the Secret
+Service, it seems Uzis went out of fashion with the
+advent of the Persian Gulf War, our Arab allies
+taking some offense at Americans toting Israeli
+weapons.  Besides, I was informed by another
+expert, Uzis jam.  The equivalent weapon of choice
+today is the Heckler & Koch, manufactured in
+Germany.
+
+       The guy with the Uzi cap was a forensic
+photographer.  He also did a lot of photographic
+surveillance work in computer crime cases.   He
+used to, that is, until the firings in Phoenix.  He was
+now a private investigator and, with his wife, ran a
+photography salon specializing in weddings and
+portrait photos.  At -- one must repeat -- a
+considerable rise in income.
+
+     He was still FCIC.  If you were FCIC, and you
+needed to talk to an expert about forensic
+photography, well, there he was, willing and able.  If
+he hadn't shown up, people would have missed him.
+
+     Our lecturer had raised the point that
+preliminary investigation of a computer system is
+vital before any seizure is undertaken.  It's vital to
+understand how many machines are in there, what
+kinds there are, what kind of operating system they
+use,  how many people use them, where the actual
+data itself is stored.  To simply barge into an office
+demanding "all the computers" is a recipe for swift
+disaster.
+
+     This entails some discreet inquiries beforehand.
+In fact, what it entails is basically undercover work.
+An intelligence operation.   *Spying,*  not to put too
+fine a point on it.
+
+     In a chat after the lecture, I asked an attendee
+whether "trashing" might work.
+
+     I received a swift briefing on the theory and
+practice of "trash covers."  Police "trash covers," like
+"mail covers" or like wiretaps, require the agreement
+of a judge.  This obtained, the "trashing" work of cops
+is just like that of hackers, only more so and much
+better organized.  So much so, I was informed, that
+mobsters in Phoenix make extensive use of locked
+garbage cans picked up by a specialty high-security
+trash company.
+
+     In one case, a tiger team of Arizona cops had
+trashed a local residence for four months.  Every
+week they showed up on the municipal garbage
+truck, disguised as garbagemen, and carried the
+contents of the suspect cans off to a shade tree,
+where they combed through the garbage -- a messy
+task, especially considering that one of the
+occupants was undergoing kidney dialysis.  All
+useful documents were cleaned, dried and
+examined.  A discarded typewriter-ribbon was an
+especially valuable source of data, as its long one-
+strike ribbon of film contained the contents of every
+letter mailed out of the house.  The letters were
+neatly retyped by a police secretary equipped with a
+large desk-mounted magnifying glass.
+
+     There is something weirdly disquieting about
+the whole subject of "trashing" -- an unsuspected
+and indeed rather disgusting mode of deep personal
+vulnerability.  Things that we pass by every day, that
+we take utterly for granted, can be exploited with so
+little work.   Once discovered, the knowledge of these
+vulnerabilities tend to spread.
+
+     Take the lowly subject of *manhole covers.*  The
+humble manhole cover reproduces many of the
+dilemmas of computer-security in miniature.
+Manhole covers are, of course, technological
+artifacts, access-points to our buried urban
+infrastructure.  To the vast majority of us, manhole
+covers are invisible.  They are also vulnerable.  For
+many years now, the Secret Service has made a
+point of caulking manhole covers along all routes of
+the Presidential motorcade.   This is, of course, to
+deter terrorists from leaping out of underground
+ambush or, more likely, planting remote-control car-
+smashing bombs beneath the street.
+
+     Lately, manhole covers have seen more and
+more criminal exploitation, especially in New York
+City.  Recently, a telco in New York City discovered
+that a cable television service had been sneaking
+into telco manholes and installing cable service
+alongside the phone-lines -- *without paying
+royalties.*   New York companies have also suffered
+a general plague of (a) underground copper cable
+theft; (b) dumping of garbage, including toxic waste,
+and (c) hasty dumping of murder victims.
+
+     Industry complaints reached the ears of an
+innovative New England industrial-security
+company, and the result was a new product known
+as "the Intimidator," a thick titanium-steel bolt with
+a precisely machined head that requires a special
+device to unscrew.  All these "keys" have registered
+serial numbers kept on file with the manufacturer.
+There are now some thousands of these
+"Intimidator" bolts being sunk into American
+pavements wherever our President passes, like
+some macabre parody of strewn roses.   They are
+also spreading as fast as steel dandelions around US
+military bases and many centers of private industry.
+
+     Quite likely it has never occurred to you to  peer
+under a manhole cover, perhaps climb down and
+walk around down there with a flashlight, just to see
+what it's like.  Formally speaking, this might be
+trespassing, but if you didn't hurt anything, and
+didn't make an absolute habit of it, nobody would
+really care.  The freedom to sneak under manholes
+was likely a freedom you never intended to exercise.
+
+     You now are rather less likely to have that
+freedom at all.  You may never even have missed it
+until you read about it here, but if you're in New
+York City it's gone, and elsewhere it's likely going.
+This is one of the things that crime, and the reaction
+to crime,  does to us.
+
+     The tenor of the meeting now changed as the
+Electronic Frontier Foundation arrived.  The EFF,
+whose personnel and history will be examined in
+detail in the next chapter, are a pioneering civil
+liberties group who arose in direct response to the
+Hacker Crackdown of 1990.
+
+     Now Mitchell Kapor, the Foundation's
+president, and Michael Godwin, its chief attorney,
+were confronting federal law enforcement *mano a
+mano* for the first time ever.  Ever alert to the
+manifold uses of publicity, Mitch Kapor and Mike
+Godwin had brought their own journalist in tow:
+Robert Draper, from Austin, whose recent well-
+received book about ROLLING STONE magazine
+was still on the stands.  Draper was on assignment
+for TEXAS MONTHLY.
+
+     The Steve Jackson/EFF civil lawsuit against the
+Chicago Computer Fraud and Abuse Task Force was
+a matter of considerable regional interest in Texas.
+There were now two Austinite journalists here on the
+case.  In fact, counting Godwin (a former Austinite
+and former journalist) there were three of us.  Lunch
+was like Old Home Week.
+
+     Later, I took Draper up to my hotel room.  We
+had a long frank talk about the case, networking
+earnestly like a miniature freelance-journo version
+of the FCIC:  privately confessing the numerous
+blunders of journalists covering the story, and trying
+hard to figure out who was who and what the hell was
+really going on out there.  I showed Draper
+everything I had dug out of the Hilton trashcan.  We
+pondered the ethics of "trashing" for a while, and
+agreed that they were dismal.  We also agreed that
+finding a SPRINT bill on your first time out was a
+heck of a coincidence.
+
+     First I'd "trashed" -- and now, mere hours later,
+I'd bragged to someone else.   Having entered the
+lifestyle of hackerdom, I was now, unsurprisingly,
+following  its logic.  Having discovered something
+remarkable through a surreptitious action, I of
+course *had*  to "brag," and to drag the passing
+Draper into my iniquities.  I felt I needed a witness.
+Otherwise nobody would have believed what I'd
+discovered....
+
+     Back at the meeting, Thackeray cordially, if
+rather tentatively, introduced Kapor and Godwin to
+her colleagues.  Papers were distributed.  Kapor took
+center stage.  The brilliant Bostonian high-tech
+entrepreneur, normally the hawk in his own
+administration and quite an effective public
+speaker, seemed visibly nervous, and frankly
+admitted as much.   He began by saying he
+consided computer-intrusion to be morally wrong,
+and that the EFF was not a "hacker defense fund,"
+despite what had appeared in print.    Kapor chatted
+a bit about the basic motivations of his group,
+emphasizing their good faith and willingness to
+listen and seek common ground with law
+enforcement -- when, er,  possible.
+
+      Then, at Godwin's urging, Kapor suddenly
+remarked that EFF's own Internet machine had
+been "hacked" recently, and that EFF did not
+consider this incident amusing.
+
+     After this surprising confession, things began to
+loosen up quite rapidly.  Soon Kapor was fielding
+questions, parrying objections, challenging
+definitions, and juggling paradigms with something
+akin to his usual gusto.
+
+     Kapor seemed to score quite an effect with his
+shrewd and skeptical analysis of the merits of telco
+"Caller-ID" services.  (On this topic, FCIC and EFF
+have never been at loggerheads, and have no
+particular established earthworks to defend.)
+Caller-ID has generally been promoted as a privacy
+service for consumers, a presentation Kapor
+described as a "smokescreen,"  the real point of
+Caller-ID being to *allow corporate customers to
+build extensive commercial databases  on
+everybody who phones or faxes them.*  Clearly, few
+people in the room had considered this possibility,
+except perhaps for two late-arrivals from  US WEST
+RBOC security, who chuckled nervously.
+
+     Mike Godwin then made an extensive
+presentation on "Civil Liberties Implications of
+Computer Searches and Seizures."  Now, at last, we
+were getting to the real nitty-gritty here, real political
+horse-trading.  The audience listened with close
+attention, angry mutters rising occasionally:  "He's
+trying to teach us our jobs!"  "We've been thinking
+about this for years!  We think about these issues
+every day!"  "If I didn't seize the works, I'd be sued by
+the guy's victims!"   "I'm violating the law if I leave
+ten thousand disks full of illegal *pirated software*
+and *stolen codes!*"   "It's our job to make sure
+people don't trash the Constitution -- we're the
+*defenders*  of the Constitution!"  "We seize stuff
+when we know it will be forfeited anyway as
+restitution for the victim!"
+
+     "If it's forfeitable, then don't get a search
+warrant, get a forfeiture warrant,"  Godwin suggested
+coolly.  He further remarked that most suspects in
+computer crime don't *want*  to see their computers
+vanish out the door, headed God knew where, for
+who knows how long.  They might not mind a search,
+even an extensive search, but they want their
+machines searched on-site.
+
+     "Are they gonna feed us?"  somebody asked
+sourly.
+
+     "How about if you take copies of the data?"
+Godwin parried.
+
+     "That'll never stand up in court."
+
+     "Okay, you make copies, give *them*  the
+copies, and take the originals."
+
+     Hmmm.
+
+     Godwin championed bulletin-board systems as
+repositories of First Amendment protected free
+speech.  He complained that federal computer-
+crime training manuals gave boards a bad press,
+suggesting that they are hotbeds of crime haunted
+by pedophiles and crooks, whereas the vast majority
+of the nation's thousands of boards are completely
+innocuous, and nowhere near so romantically
+suspicious.
+
+       People who run boards violently resent it when
+their systems are seized, and their dozens (or
+hundreds) of users look on in abject horror.   Their
+rights of free expression are cut short.  Their right to
+associate with other people is infringed.  And their
+privacy is violated as their private electronic mail
+becomes police property.
+
+     Not a soul spoke up to defend the practice of
+seizing boards.   The issue passed in chastened
+silence.   Legal principles aside -- (and those
+principles cannot be settled without laws passed or
+court precedents) -- seizing bulletin boards has
+become public-relations poison for American
+computer police.
+
+     And anyway, it's not entirely necessary.  If you're
+a cop, you can get 'most everything you need from a
+pirate board, just by using an inside informant.
+Plenty of vigilantes -- well, *concerned citizens* --
+will inform police the moment they see a pirate
+board hit their area  (and will tell the police all about
+it, in such technical detail, actually, that you kinda
+wish they'd shut up).   They will happily supply police
+with extensive downloads or printouts.  It's
+*impossible* to keep this fluid electronic
+information out of the hands of police.
+
+     Some people in the electronic community
+become enraged at the prospect of cops
+"monitoring" bulletin boards.   This does have
+touchy aspects, as Secret Service people in
+particular examine bulletin boards with some
+regularity.    But to expect electronic police to be
+deaf dumb and blind in regard to this particular
+medium rather flies in the face of common sense.
+Police watch television, listen to radio, read
+newspapers and magazines; why should the new
+medium of boards be different?   Cops can exercise
+the same access to electronic information as
+everybody else.   As we have seen, quite a few
+computer police maintain *their own*  bulletin
+boards, including anti-hacker "sting" boards, which
+have generally proven quite effective.
+
+     As a final clincher, their Mountie friends in
+Canada (and colleagues in Ireland and Taiwan)
+don't have First Amendment or American
+constitutional restrictions, but they do have phone
+lines, and can call any bulletin board in America
+whenever they please.  The same technological
+determinants that play into the hands of hackers,
+phone phreaks and software pirates can play into
+the hands of police.  "Technological determinants"
+don't have *any*  human allegiances.  They're not
+black or white, or Establishment or Underground, or
+pro-or-anti anything.
+
+     Godwin  complained at length about what he
+called "the Clever Hobbyist hypothesis"  -- the
+assumption that the "hacker" you're busting is
+clearly a technical genius, and must therefore by
+searched with extreme thoroughness.  So:  from the
+law's point of view, why risk missing anything?  Take
+the works.  Take the guy's computer.  Take his books.
+Take his notebooks.  Take the electronic drafts of his
+love letters. Take his Walkman.  Take his wife's
+computer.  Take his dad's computer.  Take his kid
+sister's computer.   Take his employer's computer.
+Take his compact disks -- they *might* be CD-ROM
+disks, cunningly disguised as pop music.  Take his
+laser printer -- he might have hidden something
+vital in the printer's 5meg of memory.  Take his
+software manuals and hardware documentation.
+Take his science-fiction novels and his simulation-
+gaming books.  Take his Nintendo Game-Boy and
+his Pac-Man arcade game.  Take his answering
+machine, take his telephone out of the wall.  Take
+anything remotely suspicious.
+
+     Godwin pointed out that most "hackers" are not,
+in fact, clever genius hobbyists.  Quite a few are
+crooks and grifters who don't have much in the way
+of technical sophistication; just some rule-of-thumb
+rip-off techniques.  The same goes for most fifteen-
+year-olds who've downloaded a code-scanning
+program from a pirate board.   There's no real need
+to seize everything in sight.  It doesn't require an
+entire computer system and ten thousand disks to
+prove a case in court.
+
+     What if the computer is the instrumentality of a
+crime? someone demanded.
+
+     Godwin admitted quietly that the doctrine of
+seizing the instrumentality of a crime was pretty well
+established in the American legal system.
+
+     The meeting broke up.  Godwin and Kapor had
+to leave.  Kapor was testifying next morning before
+the Massachusetts Department Of Public Utility,
+about ISDN narrowband wide-area networking.
+
+     As soon as they were gone, Thackeray seemed
+elated.   She had taken a great risk with this.  Her
+colleagues had not, in fact, torn Kapor and Godwin's
+heads off.  She was very proud of them, and told
+them so.
+
+     "Did you hear what Godwin said about
+*instrumentality of a crime?*"  she exulted, to
+nobody in particular.  "Wow, that means *Mitch isn't
+going to sue me.*"
+
+                         #
+
+     America's computer police are an interesting
+group.  As a social phenomenon they are far more
+interesting, and far more important, than teenage
+phone phreaks and computer hackers.  First, they're
+older and wiser; not dizzy hobbyists with leaky
+morals, but  seasoned adult professionals with all the
+responsibilities of public service.  And, unlike
+hackers, they possess not merely *technical* power
+alone, but heavy-duty legal and social authority.
+
+     And, very interestingly, they are just as much at
+sea in cyberspace as everyone else.  They are not
+happy about this.  Police are authoritarian by nature,
+and prefer to obey rules and precedents.   (Even
+those police who secretly enjoy a fast ride in rough
+territory will soberly disclaim any "cowboy" attitude.)
+But in cyberspace there *are*  no rules and
+precedents.  They are groundbreaking pioneers,
+Cyberspace Rangers, whether they like it or not.
+
+     In my opinion, any teenager enthralled by
+computers, fascinated by the ins and outs of
+computer security, and attracted by the lure of
+specialized forms of knowledge and power, would do
+well to forget all about "hacking" and set his (or her)
+sights on becoming a fed.   Feds can trump hackers
+at almost every single thing hackers do, including
+gathering intelligence, undercover disguise,
+trashing, phone-tapping,  building dossiers,
+networking, and infiltrating computer systems --
+*criminal* computer systems.   Secret Service agents
+know more about phreaking, coding and carding
+than most phreaks can find out in years, and when it
+comes to viruses, break-ins, software bombs and
+trojan horses, Feds have direct access to red-hot
+confidential information that is only vague rumor in
+the underground.
+
+     And if it's an impressive public rep you're after,
+there are few people in the world who can be so
+chillingly impressive as a well-trained, well-armed
+United States Secret Service agent.
+
+      Of course, a few personal sacrifices are
+necessary in order to obtain that power and
+knowledge.  First, you'll have the galling discipline of
+belonging to a large organization;  but the world of
+computer crime is still so small, and so amazingly
+fast-moving, that it will remain spectacularly fluid for
+years to come.   The second sacrifice is that you'll
+have to give up ripping people off.  This is not a great
+loss.  Abstaining from the use of illegal drugs, also
+necessary, will be a boon to your health.
+
+     A career in computer security is not a bad
+choice for a young man or woman today.  The field
+will almost certainly expand drastically in years to
+come.  If you are a teenager today, by the time you
+become a professional, the pioneers you have read
+about in this book will be the grand old men and
+women of the field, swamped by their many
+disciples and successors.   Of course, some of them,
+like William P. Wood of the 1865 Secret Service,
+may well be mangled in the whirring machinery of
+legal controversy; but by the time you enter the
+computer-crime field, it may have stabilized
+somewhat, while remaining entertainingly
+challenging.
+
+     But you can't just have a badge.  You have to win
+it.  First, there's the federal law enforcement
+training.  And it's hard -- it's a challenge.  A real
+challenge -- not for wimps and rodents.
+
+     Every Secret Service agent must complete
+gruelling courses at the Federal Law Enforcement
+Training Center.  (In fact, Secret Service agents are
+periodically re-trained during their entire careers.)
+
+     In order to get a glimpse of what this might be
+like, I myself travelled to FLETC.
+
+                         #
+
+     The Federal Law Enforcement Training Center
+is a 1500-acre facility on Georgia's Atlantic coast.   It's
+a milieu of marshgrass, seabirds,  damp, clinging
+sea-breezes, palmettos, mosquitos, and bats.   Until
+1974, it was a  Navy Air Base, and still features a
+working runway, and some WWII vintage
+blockhouses and officers' quarters.  The Center has
+since benefitted by a forty-million-dollar retrofit, but
+there's still enough forest and swamp on the facility
+for the Border Patrol to put in tracking practice.
+
+     As a town, "Glynco" scarcely exists.  The nearest
+real town is Brunswick, a few miles down Highway 17,
+where I stayed at the aptly named Marshview
+Holiday Inn.   I had Sunday dinner at a seafood
+restaurant called "Jinright's," where I feasted on
+deep-fried alligator tail.  This local favorite was a
+heaped basket of bite-sized chunks of white, tender,
+almost fluffy reptile meat, steaming in a peppered
+batter crust.  Alligator makes a culinary experience
+that's hard to forget, especially when liberally basted
+with homemade cocktail sauce from a Jinright
+squeeze-bottle.
+
+     The crowded clientele were tourists, fishermen,
+local black folks in their Sunday best, and white
+Georgian locals who all seemed to bear an uncanny
+resemblance to Georgia humorist Lewis Grizzard.
+
+     The 2,400 students from 75 federal agencies who
+make up the FLETC population scarcely seem to
+make a dent in the low-key local scene.   The
+students look like tourists, and the teachers seem to
+have taken on much of the relaxed air of the Deep
+South.   My host was Mr. Carlton Fitzpatrick, the
+Program Coordinator of the Financial Fraud
+Institute.  Carlton Fitzpatrick is a mustached, sinewy,
+well-tanned Alabama native somewhere near his
+late forties, with a fondness for chewing tobacco,
+powerful computers, and salty, down-home homilies.
+We'd met before, at FCIC in Arizona.
+
+     The Financial Fraud Institute is one of the nine
+divisions at FLETC. Besides Financial Fraud, there's
+Driver & Marine, Firearms, and Physical Training.
+These are specialized pursuits.  There are also five
+general training divisions:  Basic Training,
+Operations, Enforcement Techniques, Legal
+Division, and Behavioral Science.
+
+     Somewhere in this curriculum is everything
+necessary to turn green college graduates into
+federal agents.  First they're given ID cards. Then
+they get the rather miserable-looking blue coveralls
+known as "smurf suits."  The trainees are assigned a
+barracks and a cafeteria, and immediately set on
+FLETC's bone-grinding physical training routine.
+Besides the obligatory  daily jogging -- (the trainers
+run up danger flags beside the track when the
+humidity rises high enough to threaten heat stroke) -
+- there's the Nautilus machines, the martial arts, the
+survival skills....
+
+     The eighteen federal agencies who maintain on-
+site academies at FLETC employ a wide variety of
+specialized law enforcement units, some of them
+rather arcane.   There's Border Patrol, IRS Criminal
+Investigation Division, Park Service, Fish and
+Wildlife, Customs, Immigration, Secret Service and
+the Treasury's uniformed subdivisions....  If you're a
+federal cop and you don't work for the FBI, you train
+at FLETC.   This includes people as apparently
+obscure as the agents of the Railroad Retirement
+Board Inspector General.  Or the Tennessee Valley
+Authority Police, who are in fact federal police
+officers, and can and do arrest criminals on the
+federal property of the Tennessee Valley Authority.
+
+     And then there are the computer-crime people.
+All sorts, all backgrounds.  Mr. Fitzpatrick  is not
+jealous of his specialized knowledge.   Cops all over,
+in every branch of service, may feel a need to learn
+what he can teach.   Backgrounds don't matter
+much.  Fitzpatrick himself  was originally a Border
+Patrol veteran, then became a Border Patrol
+instructor at FLETC.  His Spanish is still fluent -- but
+he found himself strangely fascinated when the first
+computers showed up at the Training Center.
+Fitzpatrick did have a background in electrical
+engineering, and though he never considered
+himself a computer hacker, he somehow found
+himself writing useful little programs for this new
+and promising gizmo.
+
+     He began looking into the general subject of
+computers and crime, reading Donn Parker's books
+and articles, keeping an ear cocked for war stories,
+useful insights from the field, the up-and-coming
+people of the local computer-crime and high-
+technology units....  Soon he got a reputation around
+FLETC as the resident "computer expert," and that
+reputation alone brought him more exposure, more
+experience -- until one day he looked around, and
+sure enough he *was*  a federal computer-crime
+expert.
+
+     In fact, this unassuming, genial man may be
+*the*  federal computer-crime expert.   There are
+plenty of very good computer people, and plenty of
+very good federal investigators, but the area where
+these worlds of expertise overlap is very slim.  And
+Carlton Fitzpatrick has been right at the center of
+that since 1985, the first year of the Colluquy, a group
+which owes much to his influence.
+
+     He seems quite at home in his modest,
+acoustic-tiled office, with its Ansel Adams-style
+Western photographic art, a gold-framed Senior
+Instructor Certificate, and a towering bookcase
+crammed with three-ring binders with ominous titles
+such as *Datapro Reports on Information Security*
+and *CFCA Telecom Security '90.*
+
+      The phone rings every ten minutes; colleagues
+show up at the door to chat about new developments
+in locksmithing or to shake their heads over the
+latest dismal developments in the BCCI global
+banking scandal.
+
+     Carlton Fitzpatrick is a fount of computer-crime
+war-stories, related in an acerbic drawl.  He tells me
+the colorful tale of a hacker caught in California
+some years back.   He'd been raiding systems,
+typing code without a detectable break, for twenty,
+twenty-four, thirty-six hours straight.  Not just logged
+on -- *typing.*   Investigators were baffled.  Nobody
+could do that.  Didn't he have to go to the bathroom?
+Was it some kind of automatic keyboard-whacking
+device that could actually type code?
+
+     A raid on the suspect's home revealed a
+situation of astonishing squalor.  The hacker turned
+out to be a Pakistani computer-science student who
+had flunked out of a California university.  He'd
+gone completely underground as an illegal
+electronic immigrant,  and was selling stolen phone-
+service to stay alive.  The place was not merely
+messy and dirty, but in a state of psychotic disorder.
+Powered by some weird mix of culture shock,
+computer addiction, and amphetamines, the
+suspect had in fact been sitting in front of his
+computer for a day and a half straight, with snacks
+and drugs at hand on the edge of his desk and a
+chamber-pot under his chair.
+
+     Word about stuff like this gets around in the
+hacker-tracker community.
+
+     Carlton Fitzpatrick takes me for a guided tour
+by car around the FLETC grounds.   One of our first
+sights is the biggest indoor firing range in the world.
+There are federal trainees in there, Fitzpatrick
+assures me politely, blasting away with a wide variety
+of automatic weapons: Uzis, Glocks, AK-47s....   He's
+willing to take me inside.   I tell him I'm sure that's
+really interesting, but I'd rather see his computers.
+Carlton Fitzpatrick seems quite surprised and
+pleased.  I'm apparently the first journalist he's ever
+seen who has turned down the shooting gallery in
+favor of microchips.
+
+     Our next stop is a favorite with touring
+Congressmen:  the three-mile long FLETC driving
+range.  Here trainees of the Driver & Marine
+Division are taught high-speed pursuit skills, setting
+and breaking road-blocks, diplomatic security
+driving for VIP limousines....  A favorite FLETC
+pastime is to strap a passing Senator into the
+passenger seat beside a Driver & Marine trainer, hit
+a hundred miles an hour, then take it right into "the
+skid-pan," a section of greased track  where two tons
+of Detroit iron can whip and spin like a hockey puck.
+
+     Cars don't fare well at FLETC.   First they're
+rifled again and again for search practice.  Then they
+do  25,000 miles of high-speed pursuit training; they
+get about seventy miles per set of steel-belted
+radials.   Then it's off to the skid pan, where
+sometimes they roll and tumble headlong in the
+grease.   When they're sufficiently grease-stained,
+dented, and creaky, they're sent to the roadblock
+unit, where they're battered without pity.  And finally
+then they're sacrificed to the Bureau of Alcohol,
+Tobacco and Firearms, whose trainees learn the ins
+and outs of car-bomb work by blowing them into
+smoking wreckage.
+
+     There's a railroad box-car on the FLETC
+grounds, and a large grounded boat, and a propless
+plane; all training-grounds for searches.   The plane
+sits forlornly on a patch of weedy tarmac next to an
+eerie blockhouse known as the "ninja compound,"
+where anti-terrorism specialists practice hostage
+rescues.  As I gaze on this creepy paragon of modern
+low-intensity warfare, my nerves are jangled by a
+sudden staccato outburst of automatic weapons fire,
+somewhere in the woods to my right.  "Nine-
+millimeter," Fitzpatrick judges calmly.
+
+     Even the eldritch ninja compound pales
+somewhat compared to the truly surreal area known
+as "the raid-houses."   This is a street lined on both
+sides with nondescript concrete-block houses with
+flat pebbled roofs.  They were once officers' quarters.
+Now they are training grounds.   The first one to our
+left, Fitzpatrick tells me, has been specially adapted
+for computer search-and-seizure practice.  Inside it
+has been wired for video from top to bottom, with
+eighteen pan-and-tilt remotely controlled
+videocams mounted on walls and in corners.  Every
+movement of the trainee agent is recorded live by
+teachers, for later taped analysis.  Wasted
+movements, hesitations, possibly lethal tactical
+mistakes -- all are gone over in detail.
+
+     Perhaps the weirdest single aspect of this
+building is its front door, scarred and scuffed all
+along the bottom, from the repeated impact, day
+after day, of federal shoe-leather.
+
+     Down at the far end of the row of raid-houses
+some people are practicing a murder.   We drive by
+slowly as some very young and rather nervous-
+looking federal trainees interview a heavyset bald
+man on the raid-house lawn.  Dealing with murder
+takes a lot of practice; first you have to learn to
+control your own instinctive disgust and panic,  then
+you have to learn to control the reactions of a nerve-
+shredded crowd of civilians, some of whom may
+have just lost a loved one, some of whom may be
+murderers -- quite possibly both at once.
+
+     A dummy plays the corpse.  The roles of the
+bereaved, the morbidly curious, and the homicidal
+are played, for pay, by local Georgians:  waitresses,
+musicians, most anybody who needs to moonlight
+and can learn a script.   These people, some of whom
+are FLETC regulars year after year, must surely have
+one of the strangest jobs in the world.
+
+     Something about the scene:  "normal" people in
+a weird situation, standing around talking in bright
+Georgia sunshine, unsuccessfully pretending that
+something dreadful has gone on, while a dummy lies
+inside on faked bloodstains....  While behind this
+weird masquerade, like a nested set of Russian dolls,
+are grim future realities of real death, real violence,
+real murders of real people, that these young agents
+will really investigate, many times during their
+careers....  Over and over....  Will those anticipated
+murders look like this, feel like this -- not as "real" as
+these amateur actors are trying to make it seem, but
+both as "real," and as numbingly unreal, as watching
+fake people standing around on a fake lawn?
+Something about this scene unhinges me.  It seems
+nightmarish to me,  Kafkaesque.   I simply don't
+know how to take it; my head is turned around; I
+don't know whether to laugh, cry, or just shudder.
+
+     When the tour is over, Carlton Fitzpatrick and I
+talk about computers.  For the first time cyberspace
+seems like quite a comfortable place.  It seems very
+real to me suddenly, a place where I know what I'm
+talking about, a place I'm used to.   It's real.  "Real."
+Whatever.
+
+     Carlton Fitzpatrick is the only person I've met in
+cyberspace circles who is happy with his present
+equipment.  He's got a 5 Meg RAM PC with a 112
+meg hard disk; a 660 meg's on the way.  He's got a
+Compaq 386 desktop, and a Zenith 386 laptop with
+120 meg.  Down the hall is a NEC Multi-Sync 2A with
+a CD-ROM drive and a 9600 baud modem with four
+com-lines.  There's a training minicomputer, and a
+10-meg local mini just for the Center, and a lab-full
+of student PC clones and half-a-dozen Macs or so.
+There's a Data General MV 2500 with 8 meg on
+board and a 370 meg disk.
+
+     Fitzpatrick plans to run a UNIX board on the
+Data General when he's finished beta-testing the
+software for it, which he wrote himself.  It'll have E-
+mail features, massive files on all manner of
+computer-crime and investigation procedures, and
+will follow the computer-security specifics of the
+Department of Defense "Orange Book."  He thinks
+it will be the biggest BBS in the federal government.
+
+      Will it have *Phrack* on it?  I ask wryly.
+
+     Sure, he tells me.  *Phrack,* *TAP,*  *Computer
+Underground Digest,* all that stuff.  With  proper
+disclaimers, of course.
+
+     I ask him if he plans to be the sysop.  Running a
+system that size is very time-consuming, and
+Fitzpatrick teaches two three-hour courses every
+day.
+
+     No, he says seriously,  FLETC has to get its
+money worth out of the instructors.  He thinks he
+can get a local volunteer to do it, a high-school
+student.
+
+     He says a bit more, something I think about an
+Eagle Scout law-enforcement liaison program, but
+my mind has rocketed off in disbelief.
+
+     "You're going to put a *teenager* in charge of a
+federal security BBS?"  I'm speechless.  It hasn't
+escaped my notice that the FLETC Financial Fraud
+Institute is the *ultimate* hacker-trashing target;
+there is stuff in here, stuff of such utter and
+consummate cool by every standard of the digital
+underground.... I imagine the hackers of my
+acquaintance, fainting dead-away from forbidden-
+knowledge greed-fits, at the mere prospect of
+cracking the superultra top-secret computers used
+to train the Secret Service in computer-crime....
+
+     "Uhm, Carlton," I babble, "I'm sure he's a really
+nice kid and all, but that's a terrible temptation to
+set in front of somebody who's, you know, into
+computers and just starting out..."
+
+     "Yeah," he says, "that did occur to me."  For the
+first time I begin to suspect that he's pulling my leg.
+
+     He seems proudest when he shows me an
+ongoing project called JICC, Joint Intelligence
+Control Council.  It's based on the services provided
+by EPIC, the El Paso Intelligence Center, which
+supplies data and intelligence to the Drug
+Enforcement Administration, the Customs Service,
+the Coast Guard, and the state police of the four
+southern border states.  Certain EPIC files can now
+be accessed by drug-enforcement police of Central
+America, South America and the Caribbean, who
+can also trade information among themselves.
+Using a telecom program called "White Hat,"
+written by two brothers named Lopez from the
+Dominican Republic, police can now network
+internationally on inexpensive PCs.   Carlton
+Fitzpatrick is teaching a class of drug-war agents
+from the Third World, and he's very proud of their
+progress.   Perhaps soon the sophisticated
+smuggling networks of the Medellin Cartel will be
+matched by a sophisticated computer network of the
+Medellin Cartel's sworn enemies.   They'll track
+boats, track contraband, track the international
+drug-lords who now leap over borders with great
+ease, defeating the police through the clever use of
+fragmented national jurisdictions.
+
+     JICC and EPIC must remain beyond the scope
+of this book.   They seem to me to be very large
+topics fraught with complications that I am not fit to
+judge.   I do know, however, that the international,
+computer-assisted networking of police, across
+national boundaries, is something that Carlton
+Fitzpatrick considers very important, a harbinger of
+a desirable future.  I also know that networks by their
+nature ignore physical boundaries.  And I also know
+that where you put communications you put a
+community, and that when those communities
+become self-aware they will fight to preserve
+themselves and to expand their influence.   I make
+no judgements whether this is good or bad.  It's just
+cyberspace; it's just the way things are.
+
+     I asked Carlton Fitzpatrick what advice he
+would have for a twenty-year-old who wanted to
+shine someday in the world of electronic law
+enforcement.
+
+     He told me that the number one rule was
+simply not to be scared of computers.   You don't
+need to be an obsessive "computer weenie," but you
+mustn't be buffaloed just because some machine
+looks fancy.  The advantages computers give smart
+crooks are matched by the advantages they give
+smart cops.  Cops in the future will have to enforce
+the law "with their heads, not their holsters."   Today
+you can make good cases without ever leaving your
+office.  In the future, cops who resist the computer
+revolution will never get far beyond walking a beat.
+
+     I asked Carlton Fitzpatrick if he had some single
+message for the public; some single thing that he
+would most like the American public to know about
+his work.
+
+     He thought about it while.  "Yes," he said finally.
+"*Tell* me the rules, and I'll *teach* those rules!"  He
+looked me straight in the eye.  "I do the best that I
+can."
+
+
+        PART FOUR:  THE CIVIL LIBERTARIANS
+
+
+     The story of the Hacker Crackdown, as we have
+followed it thus far, has been technological, subcultural,
+criminal and legal.  The story of the Civil Libertarians,
+though it partakes of all those other aspects, is profoundly
+and thoroughly *political.*
+
+      In 1990, the obscure, long-simmering struggle over
+the ownership and nature of cyberspace became loudly
+and irretrievably public.  People from some of the oddest
+corners of American society suddenly found themselves
+public figures.   Some of these people found this situation
+much more than they had ever bargained for.  They
+backpedalled, and tried to retreat back to the mandarin
+obscurity of their cozy subcultural niches.   This was
+generally to prove a mistake.
+
+     But the civil libertarians seized the day in 1990.
+They
+found themselves organizing, propagandizing, podium-
+pounding, persuading, touring, negotiating, posing for
+publicity photos, submitting to interviews, squinting in the
+limelight as they tried a tentative, but growingly
+sophisticated, buck-and-wing upon the public stage.
+
+     It's not hard to see why the civil libertarians should
+have this competitive advantage.
+
+     The  hackers  of the digital underground are an
+hermetic elite.  They find it hard to make any remotely
+convincing case for their actions in front of the general
+public.   Actually, hackers roundly despise the "ignorant"
+public, and have never trusted the judgement of "the
+system."  Hackers do propagandize, but only among
+themselves, mostly in giddy, badly spelled manifestos of
+class warfare, youth rebellion or naive techie utopianism.
+Hackers must strut and boast in order to establish and
+preserve their underground reputations.  But if they speak
+out too loudly and publicly, they will break the fragile
+surface-tension of the underground, and they will be
+harrassed or arrested.   Over the longer term, most
+hackers stumble, get busted, get betrayed, or simply give
+up.   As a political force, the digital underground is
+hamstrung.
+
+     The telcos, for their part, are an ivory tower under
+protracted seige.  They have plenty of money with which to
+push their calculated public image, but they waste much
+energy and goodwill attacking one another with
+slanderous and demeaning ad campaigns.   The telcos
+have suffered at the hands of politicians, and, like hackers,
+they don't trust the public's judgement.  And this distrust
+may be well-founded.  Should the general public of the
+high-tech 1990s come to understand its own best interests
+in telecommunications, that might well pose a grave
+threat to the specialized technical power and authority
+that the telcos have relished for over a century.   The
+telcos do have strong advantages: loyal employees, specialized
+expertise,  influence in the halls of power, tactical allies
+in law enforcement, and unbelievably vast amounts of
+money.  But politically speaking, they lack genuine
+grassroots support; they simply don't seem to have many
+friends.
+
+     Cops know a lot of things other people don't know.
+But cops willingly reveal only those aspects of their
+knowledge that they feel will meet their institutional
+purposes and further public order.   Cops have respect,
+they have responsibilities, they have power in the streets
+and even power in the home, but cops don't do
+particularly well in limelight.   When pressed, they will
+step out in the public gaze to threaten bad-guys, or to
+cajole prominent citizens, or perhaps to sternly lecture the
+naive and misguided.   But then they go back within their
+time-honored fortress of the station-house, the courtroom
+and the rule-book.
+
+     The electronic civil libertarians, however, have
+proven to be born political animals.   They seemed to
+grasp very early on the postmodern truism that
+communication is power.   Publicity is power.  Soundbites
+are power.  The ability to shove one's issue onto the public
+agenda -- and *keep it there* -- is power.  Fame is power.
+Simple personal fluency and eloquence can be power, if
+you can somehow catch the public's eye and ear.
+
+     The civil libertarians had no monopoly on "technical
+power" -- though they all owned computers, most were not
+particularly advanced computer experts.  They had a good
+deal of money, but nowhere near the earthshaking wealth
+and the galaxy of resources possessed by telcos or federal
+agencies.   They had no ability to arrest people.   They
+carried out no phreak and hacker covert dirty-tricks.
+
+     But they really knew how to network.
+
+     Unlike the other groups in this book, the civil
+libertarians have operated very much in the open, more or
+less right in the public hurly-burly.  They have lectured
+audiences galore and talked to countless journalists, and
+have learned to refine their spiels.   They've kept the
+cameras clicking, kept those faxes humming, swapped
+that email, run those photocopiers on overtime, licked
+envelopes and spent small fortunes on airfare and long-
+distance.  In an information society, this open, overt,
+obvious activity has proven to be a profound advantage.
+
+     In 1990, the civil libertarians of cyberspace
+assembled out of nowhere in particular, at warp speed.
+This "group" (actually, a networking gaggle of interested
+parties which scarcely deserves even that loose term)  has
+almost nothing in the way of formal organization.   Those
+formal civil libertarian organizations which did take an
+interest in cyberspace issues, mainly the Computer
+Professionals for Social Responsibility and the American
+Civil Liberties Union, were carried along by events in 1990,
+and acted mostly as adjuncts, underwriters or launching-
+pads.
+
+     The civil libertarians nevertheless enjoyed the
+greatest success of any of the groups in the Crackdown of
+1990.  At this writing, their future looks rosy and the
+political initiative is firmly in their hands.   This should
+be kept in mind as we study the highly unlikely lives and
+lifestyles of the people who actually made this happen.
+
+                    #
+
+     In June 1989, Apple Computer, Inc., of Cupertino,
+California, had a problem.   Someone had illicitly copied a
+small piece of Apple's proprietary software, software which
+controlled an internal chip driving the Macintosh screen
+display.   This Color QuickDraw source code was a closely
+guarded piece of Apple's intellectual property.  Only
+trusted Apple insiders were supposed to possess it.
+
+     But the "NuPrometheus League" wanted things
+otherwise.  This person (or persons) made several illicit
+copies of this source code, perhaps as many as two dozen.
+He (or she, or they)  then put those illicit floppy disks
+into envelopes and mailed them to people all over America:
+people in the computer industry who were associated with,
+but not directly employed by, Apple Computer.
+
+     The NuPrometheus caper was a complex, highly
+ideological, and very hacker-like crime.  Prometheus, it
+will be recalled, stole the fire of the Gods and gave this
+potent gift to the general ranks of downtrodden mankind.
+A similar god-in-the-manger attitude was implied for the
+corporate elite of Apple Computer, while the "Nu"
+Prometheus had himself cast in the role of rebel demigod.
+The illicitly copied data was given away for free.
+
+     The  new Prometheus, whoever he was, escaped the
+fate of the ancient Greek Prometheus, who was chained to
+a rock for centuries by the vengeful gods while an eagle
+tore and ate his liver.   On the other hand, NuPrometheus
+chickened out somewhat by comparison with his role
+model.  The small chunk of Color QuickDraw code he had
+filched and replicated was more or less useless to Apple's
+industrial rivals (or, in fact, to anyone else).   Instead
+of giving fire to mankind, it was more as if NuPrometheus
+had photocopied the schematics for part of a Bic lighter.
+The act was not a genuine work of industrial espionage.  It
+was best interpreted as a symbolic, deliberate slap in the
+face for the Apple corporate heirarchy.
+
+     Apple's internal struggles were well-known in the
+industry.  Apple's founders, Jobs and Wozniak, had both
+taken their leave long since.  Their raucous core of senior
+employees had been a barnstorming crew of 1960s
+Californians, many of them markedly less than happy with
+the new button-down multimillion dollar regime at Apple.
+Many of the programmers and developers who had
+invented the Macintosh model in the early 1980s had also
+taken their leave of the company.  It was they, not the
+current masters of Apple's corporate fate, who had
+invented the stolen Color QuickDraw code.  The
+NuPrometheus stunt was well-calculated to wound
+company morale.
+
+     Apple called the FBI.  The Bureau takes an interest in
+high-profile intellectual-property theft cases, industrial
+espionage and theft of trade secrets.   These were likely
+the right people to call, and rumor has it that the entities
+responsible were in fact discovered by the FBI, and then
+quietly squelched by Apple management.  NuPrometheus
+was never publicly charged with a crime, or prosecuted, or
+jailed.  But there were no further illicit releases of
+Macintosh internal software.  Eventually the painful issue
+of NuPrometheus was allowed to fade.
+
+     In the meantime, however, a large number of puzzled
+bystanders found themselves entertaining surprise guests
+from the FBI.
+
+     One of these people was John Perry Barlow.    Barlow
+is a most unusual man, difficult to describe in
+conventional terms.   He is perhaps best known as a
+songwriter for the Grateful Dead, for he composed lyrics
+for "Hell in a Bucket,"  "Picasso Moon,"  "Mexicali Blues,"
+"I Need a Miracle," and many more; he has been writing
+for the band since 1970.
+
+     Before we tackle the vexing question as to why a rock
+lyricist should be interviewed by the FBI in a computer-
+crime case, it might be well to say a word or two about the
+Grateful Dead.   The Grateful Dead are perhaps the most
+successful and long-lasting of the numerous cultural
+emanations from the Haight-Ashbury district of San
+Francisco, in the glory days of Movement politics and
+lysergic transcendance.   The Grateful Dead are a nexus, a
+veritable whirlwind, of  applique decals, psychedelic vans,
+tie-dyed T-shirts, earth-color denim, frenzied dancing and
+open and unashamed drug use.  The symbols, and the
+realities, of Californian freak power surround the Grateful
+Dead like knotted macrame.
+
+     The Grateful Dead and their thousands of Deadhead
+devotees are radical Bohemians.   This much is widely
+understood.   Exactly what this implies in the 1990s is
+rather more problematic.
+
+     The Grateful Dead are among the world's most
+popular and wealthy entertainers: number 20,  according
+to *Forbes* magazine, right between M.C. Hammer and
+Sean Connery.  In 1990, this jeans-clad group of purported
+raffish outcasts earned seventeen million dollars.  They
+have been earning sums much along this line for quite
+some time now.
+
+     And while the Dead are not investment bankers or
+three-piece-suit tax specialists -- they are, in point of
+fact,
+hippie musicians -- this money has not been squandered
+in senseless Bohemian excess.   The Dead have been
+quietly active for many years, funding various worthy
+activities in their  extensive and widespread cultural
+community.
+
+     The Grateful Dead are not conventional players in
+the American power establishment.  They nevertheless
+are something of a force to be reckoned with.  They have a
+lot of money and a lot of friends in many places, both
+likely and unlikely.
+
+     The Dead may be known for back-to-the-earth
+environmentalist rhetoric, but this hardly makes them
+anti-technological Luddites.  On the contrary, like most
+rock musicians, the Grateful Dead have spent their entire
+adult lives in the company of complex electronic
+equipment.  They have funds to burn on any sophisticated
+tool and toy that might happen to catch their fancy.   And
+their fancy is quite extensive.
+
+     The Deadhead community boasts any number of
+recording engineers, lighting experts, rock video mavens,
+electronic technicians of all descriptions.  And the drift
+goes both ways.  Steve Wozniak, Apple's co-founder, used
+to throw rock festivals.   Silicon Valley rocks out.
+
+     These are the 1990s, not the 1960s.  Today, for a
+surprising number of people all over America, the
+supposed dividing line between Bohemian and technician
+simply no longer exists.  People of this sort may have a set
+of windchimes and a dog with a knotted kerchief 'round its
+neck, but they're also quite likely to own a multimegabyte
+Macintosh running MIDI synthesizer software and trippy
+fractal simulations.   These days, even Timothy Leary
+himself, prophet of LSD, does virtual-reality computer-
+graphics demos in his lecture tours.
+
+     John Perry Barlow is not a member of the Grateful
+Dead.  He is, however, a ranking Deadhead.
+
+     Barlow describes himself as a "techno-crank."   A
+vague term like "social activist" might not be far from the
+mark, either.  But Barlow might be better described as a
+"poet" -- if one keeps in mind  Percy Shelley's archaic
+definition of poets as "unacknowledged legislators of the
+world."
+
+     Barlow once made a stab at acknowledged legislator
+status.  In 1987, he narrowly missed the Republican
+nomination for a seat in the Wyoming State Senate.
+Barlow is a Wyoming native, the third-generation scion of
+a well-to-do cattle-ranching family.   He is in his early
+forties, married and the father of three daughters.
+
+     Barlow is not much troubled by other people's narrow
+notions of consistency.  In the late 1980s, this Republican
+rock lyricist cattle rancher sold his ranch and became a
+computer telecommunications devotee.
+
+     The free-spirited Barlow made this transition with
+ease.  He genuinely enjoyed computers.   With a beep of
+his modem, he leapt from small-town Pinedale, Wyoming,
+into electronic contact with a large and lively crowd of
+bright, inventive, technological sophisticates from all over
+the world.   Barlow found the social milieu of computing
+attractive: its fast-lane pace, its blue-sky rhetoric, its
+open-
+endedness.   Barlow began dabbling in computer
+journalism, with marked success, as he was a quick study,
+and both shrewd and eloquent.  He frequently travelled to
+San Francisco to network with Deadhead friends.  There
+Barlow made extensive contacts throughout the
+Californian computer community, including friendships
+among the wilder spirits at Apple.
+
+     In May 1990, Barlow received a visit from a local
+Wyoming agent of the FBI.  The NuPrometheus case had
+reached Wyoming.
+
+     Barlow was troubled to find himself under
+investigation in an area of his interests once quite free of
+federal attention.   He had to struggle to explain the very
+nature of computer-crime to a headscratching local FBI
+man who specialized in cattle-rustling.   Barlow, chatting
+helpfully and demonstrating the wonders of his modem to
+the puzzled fed, was alarmed to find all "hackers"
+generally under FBI suspicion as an evil influence in the
+electronic community.   The FBI, in pursuit of a hacker
+called "NuPrometheus," were tracing attendees of a
+suspect group called the Hackers Conference.
+
+     The Hackers Conference, which had been started in
+1984,  was a yearly Californian meeting of digital pioneers
+and enthusiasts.  The hackers of the Hackers Conference
+had little if anything to do with the hackers of the digital
+underground.   On the contrary, the hackers of this
+conference were mostly well-to-do Californian high-tech
+CEOs, consultants, journalists and entrepreneurs.   (This
+group of hackers were the exact sort of "hackers" most
+likely to react with militant fury at any criminal
+degradation of the term "hacker.")
+
+     Barlow, though he was not arrested or accused of a
+crime, and though his computer had certainly not gone
+out the door, was very troubled by this anomaly.  He
+carried the word to the Well.
+
+      Like the Hackers Conference,  "the Well" was an
+emanation of the Point Foundation.   Point Foundation,
+the inspiration of a wealthy Californian 60s radical named
+Stewart Brand, was to be a major launch-pad of the civil
+libertarian effort.
+
+     Point Foundation's cultural efforts, like those of
+their
+fellow Bay Area Californians the Grateful Dead, were
+multifaceted and multitudinous.  Rigid ideological
+consistency had never been a strong suit of the *Whole
+Earth Catalog.*   This Point publication had enjoyed a
+strong vogue during the late 60s and early 70s, when it
+offered hundreds of practical (and not so practical) tips on
+communitarian living, environmentalism, and getting
+back-to-the-land.   The *Whole Earth Catalog,* and its
+sequels, sold two and half million copies and won a
+National Book Award.
+
+     With the slow collapse of American radical dissent,
+the *Whole Earth Catalog* had slipped to a more modest
+corner of the cultural radar; but in its magazine
+incarnation, *CoEvolution Quarterly,*  the Point
+Foundation continued to offer a magpie potpourri of
+"access to tools and ideas."
+
+     *CoEvolution Quarterly,*  which started in 1974, was
+never a widely popular magazine.  Despite periodic
+outbreaks of millenarian fervor, *CoEvolution Quarterly*
+failed to revolutionize Western civilization and replace
+leaden centuries of history with bright new Californian
+paradigms.  Instead, this propaganda arm of Point
+Foundation cakewalked a fine line between impressive
+brilliance and New Age flakiness.  *CoEvolution
+Quarterly*  carried no advertising, cost a lot, and came out
+on cheap newsprint with modest black-and-white
+graphics.  It was poorly distributed, and spread mostly by
+subscription and word of mouth.
+
+     It could not seem to grow beyond 30,000 subscribers.
+And yet -- it never seemed to shrink much, either.  Year in,
+year out, decade in, decade out, some strange
+demographic minority accreted to support the magazine.
+The enthusiastic readership did not seem to have much in
+the way of coherent politics or  ideals.  It was sometimes
+hard to understand what held them together (if the often
+bitter debate in the letter-columns could be described as
+"togetherness").
+
+     But if the magazine did not flourish, it was resilient;
+it
+got by.  Then, in 1984, the birth-year of the Macintosh
+computer, *CoEvolution Quarterly* suddenly hit the
+rapids.  Point Foundation had discovered the computer
+revolution.  Out came the *Whole Earth Software Catalog*
+of 1984,  arousing headscratching doubts among the tie-
+dyed faithful, and rabid enthusiasm among the nascent
+"cyberpunk" milieu, present company included.  Point
+Foundation started its yearly Hackers Conference, and
+began to take an extensive interest in the strange new
+possibilities of digital counterculture.  *CoEvolution
+Quarterly* folded its teepee, replaced by *Whole Earth
+Software Review*  and eventually by *Whole Earth
+Review*  (the magazine's present incarnation, currently
+under the editorship of virtual-reality maven Howard
+Rheingold).
+
+     1985 saw the birth of the "WELL" -- the "Whole Earth
+'Lectronic Link."  The Well was Point Foundation's
+bulletin board system.
+
+     As boards went, the Well was an anomaly from the
+beginning, and remained one.   It was local to San
+Francisco.  It was huge, with multiple phonelines and
+enormous files of commentary.  Its complex UNIX-based
+software might be most charitably described as "user-
+opaque."  It was run on a mainframe out of the rambling
+offices of a non-profit cultural foundation in Sausalito.
+And it was crammed with fans of the Grateful Dead.
+
+     Though the Well was peopled by chattering hipsters
+of the Bay Area counterculture, it was by no means a
+"digital underground" board.   Teenagers were fairly
+scarce; most Well users (known as "Wellbeings") were
+thirty- and forty-something Baby Boomers.   They tended
+to work in the information industry: hardware, software,
+telecommunications, media, entertainment.  Librarians,
+academics, and journalists were especially common on
+the Well, attracted by Point Foundation's open-handed
+distribution of "tools and ideas."
+
+     There were no anarchy files on the Well, scarcely a
+dropped hint about access codes or credit-card theft.   No
+one used handles.  Vicious "flame-wars" were held to a
+comparatively civilized rumble.   Debates were sometimes
+sharp, but no Wellbeing ever claimed that a rival had
+disconnected his phone, trashed his house, or posted his
+credit card numbers.
+
+     The Well grew slowly as the 1980s advanced.  It
+charged a modest sum for access and storage, and lost
+money for years -- but not enough to hamper the Point
+Foundation, which was nonprofit anyway.   By 1990, the
+Well had about five thousand users.  These users
+wandered about a gigantic cyberspace smorgasbord of
+"Conferences", each conference itself consisting of a
+welter of "topics," each topic containing dozens,
+sometimes hundreds of comments, in a tumbling,
+multiperson debate that could last for months or years on
+end.
+
+     In 1991, the Well's list of conferences looked like
+this:
+
+                      CONFERENCES ON THE WELL
+
+                    WELL "Screenzine" Digest    (g zine)
+
+                    Best of the WELL - vintage material -
+(g best)
+
+ Index listing of new topics in all conferences -  (g
+newtops)
+
+                        Business - Education
+                       ----------------------
+
+Apple Library Users Group(g alug)      Agriculture  (g agri)
+Brainstorming          (g brain)             Classifieds
+(g cla)
+Computer Journalism    (g cj)  Consultants       (g consult)
+Consumers              (g cons)                Design
+(g design)
+Desktop Publishing     (g desk)  Disability        (g
+disability)
+Education              (g ed)                Energy
+(g energy91)
+Entrepreneurs   (g entre)               Homeowners        (g
+home)
+Indexing        (g indexing)     Investments       (g
+invest)
+Kids91                 (g kids)                    Legal
+(g legal)
+One Person Business    (g one)
+Periodical/newsletter(g per)
+Telecomm Law           (g tcl)               The Future
+(g fut)
+Translators            (g trans)               Travel
+(g tra)
+Work                   (g work)
+
+                Electronic Frontier Foundation    (g eff)
+                Computers, Freedom & Privacy      (g cfp)
+  Computer Professionals for Social Responsibility  (g cpsr)
+
+                   Social - Political - Humanities
+                  ---------------------------------
+
+Aging                  (g gray)                      AIDS
+(g aids)
+Amnesty International  (g amnesty)     Archives          (g
+arc)
+Berkeley               (g berk)     Buddhist          (g
+wonderland)
+Christian              (g cross)                  Couples
+(g couples)
+Current Events         (g curr)        Dreams            (g
+dream)
+Drugs                  (g dru)                       East
+Coast        (g east)
+Emotional Health****   (g private)      Erotica           (g
+eros)
+Environment            (g env)     Firearms          (g
+firearms)
+First Amendment (g first)    Fringes of Reason (g fringes)
+Gay                    (g gay)              Gay (Private)#
+(g gaypriv)
+Geography              (g geo)             German
+(g german)
+Gulf War               (g gulf)                    Hawaii
+(g aloha)
+Health                 (g heal)                     History
+(g hist)
+Holistic               (g holi)
+Interview         (g inter)
+Italian                (g ital)                      Jewish
+(g jew)
+Liberty                (g liberty)                Mind
+(g mind)
+Miscellaneous          (g misc) Men on the WELL** (g mow)
+Network Integration    (g origin)         Nonprofits
+(g non)
+North Bay              (g north)                 Northwest
+(g nw)
+Pacific Rim            (g pacrim)             Parenting
+(g par)
+Peace                  (g pea)                     Peninsula
+(g pen)
+Poetry                 (g poetry)                Philosophy
+(g phi)
+Politics               (g pol)
+Psychology        (g psy)
+Psychotherapy   (g therapy)  Recovery##        (g recovery)
+San Francisco          (g sanfran)           Scams
+(g scam)
+Sexuality              (g sex)                    Singles
+(g singles)
+Southern               (g south)                Spanish
+(g spanish)
+Spirituality           (g spirit)               Tibet
+(g tibet)
+Transportation  (g transport)      True Confessions  (g tru)
+Unclear (g unclear)   WELL Writer's Workshop***(g www)
+Whole Earth (g we)           Women on the WELL*(g wow)
+Words                  (g words)                 Writers
+(g wri)
+
+**** Private Conference - mail wooly for entry
+***Private conference - mail sonia for entry
+** Private conference - mail flash for entry
+*  Private conference - mail reva for entry
+#  Private Conference - mail hudu for entry
+## Private Conference - mail dhawk for entry
+
+                  Arts - Recreation - Entertainment
+                  -----------------------------------
+ArtCom Electronic Net  (g acen)
+Audio-Videophilia (g aud)
+Bicycles               (g bike)                  Bay Area
+Tonight**(g bat)
+Boating                (g wet)                  Books
+(g books)
+CD's                   (g cd)                        Comics
+(g comics)
+Cooking                (g cook)                 Flying
+(g flying)
+Fun                    (g fun)                     Games
+(g games)
+Gardening              (g gard)               Kids
+(g kids)
+Nightowls*             (g owl)              Jokes
+(g jokes)
+MIDI                   (g midi)                   Movies
+(g movies)
+Motorcycling           (g ride)              Motoring
+(g car)
+Music                  (g mus)                  On Stage
+(g onstage)
+Pets                   (g pets)                  Radio
+(g rad)
+Restaurant             (g rest)              Science Fiction
+(g sf)
+Sports                 (g spo)                  Star Trek
+(g trek)
+Television             (g tv)                  Theater
+(g theater)
+Weird                  (g weird)
+Zines/Factsheet Five(g f5)
+* Open from midnight to 6am
+** Updated daily
+
+                             Grateful Dead
+                             -------------
+Grateful Dead          (g gd)          Deadplan*         (g
+dp)
+Deadlit                (g deadlit)       Feedback
+(g feedback)
+GD Hour                (g gdh)            Tapes
+(g tapes)
+Tickets                (g tix)              Tours
+(g tours)
+
+* Private conference - mail tnf for entry
+
+                               Computers
+                              -----------
+AI/Forth/Realtime      (g realtime)    Amiga             (g
+amiga)
+Apple                  (g app)       Computer Books    (g
+cbook)
+Art & Graphics         (g gra)                Hacking
+(g hack)
+HyperCard              (g hype)                IBM PC
+(g ibm)
+LANs                   (g lan)                      Laptop
+(g lap)
+Macintosh              (g mac)    Mactech           (g
+mactech)
+Microtimes   (g microx)            Muchomedia        (g
+mucho)
+NeXt                   (g next)                     OS/2
+(g os2)
+Printers               (g print)
+Programmer's Net  (g net)
+Siggraph               (g siggraph)           Software
+Design   (g sdc)
+Software/Programming (software)
+Software Support  (g ssc)
+Unix                   (g unix)                     Windows
+(g windows)
+Word Processing        (g word)
+
+                        Technical - Communications
+                       ----------------------------
+Bioinfo                (g bioinfo)           Info
+(g boing)
+Media                  (g media)             NAPLPS
+(g naplps)
+Netweaver              (g netweaver)   Networld (g 

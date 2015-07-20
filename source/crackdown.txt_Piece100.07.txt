@@ -1,0 +1,1568 @@
+t
+Mitch Kapor.  He may not have the hard-riding, hell-for-
+leather, guitar-strumming charisma of his Wyoming
+colleague John Perry Barlow, but there's something about
+the guy that still stops one short.   He has the air of the
+Eastern city dude in the bowler hat, the dreamy,
+Longfellow-quoting poker shark who only *happens*  to
+know the exact mathematical odds against drawing to an
+inside straight.  Even among his computer-community
+colleagues, who are hardly known for mental sluggishness,
+Kapor strikes one forcefully as a very intelligent man.  He
+speaks rapidly, with vigorous gestures, his Boston accent
+sometimes slipping to the sharp nasal tang of his youth in
+Long Island.
+
+     Kapor, whose Kapor Family Foundation does much
+of his philanthropic work, is a strong supporter of Boston's
+Computer Museum.   Kapor's interest in the history of his
+industry has brought him some remarkable curios, such
+as the "byte" just outside his office door.  This "byte"  --
+eight digital bits -- has been salvaged from the wreck of an
+electronic computer of the pre-transistor age.  It's a
+standing gunmetal rack about the size of a small toaster-
+oven:  with eight slots of hand-soldered breadboarding
+featuring thumb-sized vacuum tubes.  If it fell off a table
+it
+could easily break your foot, but it was state-of-the-art
+computation in the 1940s.   (It would take exactly 157,184
+of
+these primordial toasters to hold the first part of this
+book.)
+
+     There's also a coiling, multicolored, scaly dragon that
+some inspired techno-punk artist has cobbled up entirely
+out of transistors, capacitors, and brightly plastic-coated
+wiring.
+
+     Inside the office, Kapor excuses himself briefly to do
+a little mouse-whizzing housekeeping on his personal
+Macintosh IIfx.  If its giant  screen were an open window,
+an agile person could climb through it without much
+trouble at all.  There's a coffee-cup at Kapor's elbow, a
+memento of his recent trip to Eastern Europe, which has a
+black-and-white stencilled photo and the legend
+CAPITALIST FOOLS TOUR.   It's Kapor, Barlow, and two
+California venture-capitalist luminaries of their
+acquaintance, four windblown, grinning Baby Boomer
+dudes in leather jackets, boots, denim, travel bags,
+standing on airport tarmac somewhere behind the
+formerly Iron Curtain.  They look as if they're having the
+absolute time of their lives.
+
+     Kapor is in a reminiscent mood.  We talk a bit about
+his youth -- high school days as a "math nerd,"  Saturdays
+attending Columbia University's high-school science
+honors program, where he had his first experience
+programming computers.  IBM 1620s, in 1965 and '66.   "I
+was very interested," says Kapor, "and then I went off to
+college and got distracted by drugs sex and rock and roll,
+like anybody with half a brain would have then!"  After
+college he was a progressive-rock DJ in Hartford,
+Connecticut, for a couple of years.
+
+     I ask him if he ever misses his rock and roll days --
+if
+he ever wished he could go back to radio work.
+
+     He shakes his head flatly.  "I stopped thinking about
+going back to be a DJ the day after Altamont."
+
+     Kapor moved to Boston in 1974 and got a job
+programming mainframes in COBOL.  He hated it.  He
+quit and became a teacher of transcendental meditation.
+(It was Kapor's long flirtation with Eastern mysticism that
+gave the world "Lotus.")
+
+     In 1976 Kapor went to Switzerland, where the
+Transcendental Meditation movement had rented a
+gigantic Victorian hotel in St-Moritz.  It was an all-male
+group -- a hundred and twenty of them -- determined
+upon Enlightenment or Bust.   Kapor had given the
+transcendant his best shot.  He was becoming
+disenchanted by "the nuttiness in the organization."  "They
+were teaching people to levitate," he says, staring at the
+floor.  His voice drops an octave, becomes flat.  "*They
+don't levitate.*"
+
+      Kapor chose Bust.  He went back to the States and
+acquired a degree in counselling psychology.  He worked a
+while in a hospital, couldn't stand that either.  "My rep
+was," he says  "a very bright kid with a lot of potential
+who
+hasn't found himself.  Almost thirty.  Sort of lost."
+
+     Kapor was unemployed when he bought his first
+personal computer -- an Apple II.  He sold his stereo to
+raise cash and drove to New Hampshire to avoid the sales
+tax.
+
+     "The day after I purchased it," Kapor tells me,  "I was
+hanging out in a computer store and I saw another guy, a
+man in his forties, well-dressed guy, and eavesdropped on
+his conversation with the salesman.  He didn't know
+anything  about computers.  I'd had a year programming.
+And I could program in BASIC.  I'd taught myself.  So I
+went up to him, and I actually sold myself to him as a
+consultant."  He pauses.  "I don't know where I got the
+nerve to do this.  It was uncharacteristic.  I just said, 'I
+think
+I can help you, I've been listening, this is what you need
+to
+do and I think I can do it for you.'  And he took me on!  He
+was my first client!  I became a computer consultant the
+first day after I bought the Apple II."
+
+     Kapor had found his true vocation.  He attracted
+more clients for his consultant service, and started an
+Apple users' group.
+
+     A friend of Kapor's, Eric Rosenfeld, a graduate
+student at MIT, had a problem.  He was doing a thesis on
+an arcane form of financial statistics, but could not wedge
+himself into the crowded queue for time on MIT's
+mainframes.  (One might note at this point that if Mr.
+Rosenfeld had dishonestly broken into the MIT
+mainframes, Kapor himself might have never invented
+Lotus 1-2-3 and the PC business might have been set back
+for years!)   Eric Rosenfeld did have an Apple II, however,
+and he thought it might be possible to scale the problem
+down.  Kapor, as favor, wrote a program for him in BASIC
+that did the job.
+
+     It then occurred to the two of them, out of the blue,
+that it might be possible to *sell*  this program.  They
+marketed it themselves, in plastic baggies, for about a
+hundred bucks a pop, mail order.    "This was a total
+cottage industry by a marginal consultant," Kapor says
+proudly.  "That's how I got started, honest to God."
+
+     Rosenfeld, who later became a very prominent figure
+on Wall Street, urged Kapor to go to MIT's business
+school for an MBA.   Kapor  did seven months there, but
+never got his MBA.  He picked up some useful tools --
+mainly a firm grasp of the principles of accounting -- and,
+in his own words, "learned to talk MBA."   Then he
+dropped out and went to Silicon Valley.
+
+     The inventors of VisiCalc, the Apple computer's
+premier business program, had shown an interest in
+Mitch Kapor.   Kapor worked diligently for them for six
+months, got tired of California, and went back to Boston
+where they had better bookstores.   The VisiCalc group
+had made the critical error of bringing in "professional
+management."  "That drove them into the ground," Kapor
+says.
+
+     "Yeah, you don't hear a lot about VisiCalc these days,"
+I muse.
+
+     Kapor looks surprised.  "Well, Lotus.... we *bought*
+it."
+
+     "Oh.  You *bought*  it?"
+
+     "Yeah."
+
+     "Sort of like the Bell System buying Western Union?"
+
+     Kapor grins.  "Yep!  Yep!  Yeah, exactly!"
+
+     Mitch Kapor was not in full command of the destiny
+of himself or his industry.  The hottest software
+commodities of the early 1980s were *computer games*  --
+the Atari seemed destined to enter every teenage home in
+America.  Kapor got into business software simply
+because he didn't have any particular feeling for
+computer games.  But he was supremely fast on his feet,
+open to new ideas and inclined to trust his instincts.   And
+his instincts were good.  He chose good people to deal with
+-- gifted programmer Jonathan Sachs (the co-author of
+Lotus 1-2-3).   Financial wizard Eric Rosenfeld, canny Wall
+Street analyst and venture capitalist Ben Rosen.  Kapor
+was the founder and CEO of Lotus, one of the most
+spectacularly successful business ventures of the later
+twentieth century.
+
+     He is now an extremely wealthy man.  I ask him if he
+actually knows how much money he has.
+
+     "Yeah," he says.  "Within a percent or two."
+
+     How much does he actually have, then?
+
+     He shakes his head.  "A lot.  A lot.  Not something I
+talk about.  Issues of money and class are  things that cut
+pretty close to the bone."
+
+     I don't pry.  It's beside the point.  One might
+presume, impolitely, that Kapor has at least forty million -
+-
+that's what he got the year he left Lotus.  People who ought
+to know claim Kapor has about a hundred and fifty
+million, give or take a market swing in his stock holdings.
+If Kapor had stuck with Lotus, as his colleague friend and
+rival Bill Gates has stuck with his own software start-up,
+Microsoft, then Kapor would likely have much the same
+fortune Gates has -- somewhere in the neighborhood of
+three billion, give or take a few hundred million.   Mitch
+Kapor has all the money he wants.  Money has lost
+whatever charm it ever held for him -- probably not much
+in the first place.    When Lotus became too uptight, too
+bureaucratic, too far from the true sources of his own
+satisfaction, Kapor walked.   He simply severed all
+connections with the company and went out the door.  It
+stunned everyone -- except those who knew him best.
+
+     Kapor has not had to strain his resources to wreak a
+thorough transformation in cyberspace politics.  In its
+first
+year, EFF's budget was about a quarter of a million dollars.
+Kapor is running EFF out of his pocket change.
+
+     Kapor takes pains to tell me that he does not
+consider himself a civil libertarian per se.  He has spent
+quite some time with true-blue civil libertarians lately,
+and
+there's a political-correctness to them that bugs him.  They
+seem to him to spend entirely too much time in legal
+nitpicking and not enough vigorously exercising civil
+rights in the everyday real world.
+
+      Kapor is an entrepreneur.  Like all hackers, he
+prefers his involvements  direct, personal, and hands-on.
+"The fact that EFF has a node on the Internet is a great
+thing.  We're a publisher.  We're a distributor of
+information."  Among the items the eff.org Internet node
+carries is back issues of *Phrack.*  They had an internal
+debate about that in EFF, and finally decided to take the
+plunge.  They might carry other digital underground
+publications -- but if they do, he says, "we'll certainly
+carry
+Donn Parker, and anything Gail Thackeray wants to put
+up.  We'll turn it into a public library, that has the whole
+spectrum of use.  Evolve in the direction of people making
+up their own minds."  He grins.  "We'll try to label all the
+editorials."
+
+     Kapor is determined to tackle the technicalities of
+the Internet in the service of the public interest.   "The
+problem with being a node on the Net today is that you've
+got to have a captive technical specialist.  We have Chris
+Davis around, for the care and feeding of the balky beast!
+We couldn't do it ourselves!"
+
+     He pauses.  "So one direction in which technology has
+to evolve is much more standardized units, that a non-
+technical person can feel comfortable with.  It's the same
+shift as from minicomputers to PCs.  I can see a future in
+which any person can have a Node on the Net.  Any
+person can be a publisher.  It's better than the media we
+now have.  It's possible.  We're working actively."
+
+     Kapor is in his element now, fluent, thoroughly in
+command in his material.   "You go tell a hardware
+Internet hacker that everyone should have a node on the
+Net," he says, "and the first thing they're going to say is,
+'IP
+doesn't scale!'"  ("IP" is the interface protocol for the
+Internet.  As it currently exists, the IP software is simply
+not capable of indefinite expansion; it will run out of
+usable addresses, it will saturate.)   "The answer," Kapor
+says,  "is:  evolve the protocol!  Get the smart people
+together and figure out what to do.  Do we add ID?  Do we
+add new protocol?  Don't just say, *we can't do it.*"
+
+     Getting smart people together to figure out what to
+do is a skill at which Kapor clearly excels.   I counter
+that
+people on the Internet rather enjoy their elite technical
+status, and don't seem particularly anxious to democratize
+the Net.
+
+     Kapor agrees, with a show of scorn.  "I tell them that
+this is the snobbery of the people on the *Mayflower*
+looking down their noses at the people who came over *on
+the second boat!*   Just because they got here a year, or
+five years, or ten years before everybody else, that doesn't
+give them ownership of cyberspace!  By what right?"
+
+     I remark that the telcos are an electronic network,
+too, and they seem to guard their specialized knowledge
+pretty closely.
+
+     Kapor ripostes that the telcos and the Internet are
+entirely different animals.  "The Internet is an open
+system, everything is published, everything gets argued
+about, basically by anybody who can get in.  Mostly, it's
+exclusive and elitist just because it's so difficult.  Let's
+make it easier to use."
+
+     On the other hand, he allows with a swift change of
+emphasis, the so-called elitists do have a point as well.
+"Before people start coming in, who are new, who want to
+make suggestions, and criticize the Net as 'all screwed
+up'....  They should at least take the time to understand
+the
+culture on its own terms.  It has its own history -- show
+some respect for it.  I'm a conservative, to that extent."
+
+     The Internet is Kapor's paradigm for the future of
+telecommunications.  The Internet is decentralized, non-
+heirarchical, almost anarchic.  There are no bosses, no
+chain of command, no secret data.  If each node obeys the
+general interface standards, there's simply no need for
+any central network authority.
+
+     Wouldn't that spell the doom of AT&T as an
+institution?  I ask.
+
+     That prospect doesn't faze Kapor for a moment.
+"Their  big advantage, that they have now, is that they have
+all of the wiring.  But two things are happening.  Anyone
+with right-of-way is putting down fiber -- Southern Pacific
+Railroad, people like that -- there's enormous 'dark fiber'
+laid in."  ("Dark Fiber" is fiber-optic cable, whose
+enormous capacity so exceeds the demands of current
+usage that much of the fiber still has no light-signals on
+it -
+- it's still 'dark,' awaiting future use.)
+
+     "The other thing that's happening is the local-loop
+stuff is going to go wireless.  Everyone from Bellcore to
+the
+cable TV companies to AT&T wants to put in these things
+called 'personal communication systems.'  So you could
+have local competition -- you could have multiplicity of
+people, a bunch of neighborhoods, sticking stuff up on
+poles.  And a bunch of other people laying in dark fiber.
+So what happens to the telephone companies?  There's
+enormous pressure on them from both sides.
+
+     "The more I look at this, the more I believe that in a
+post-industrial, digital world, the idea of regulated
+monopolies is bad.  People will look back on it and say that
+in the 19th and 20th centuries the idea of public utilities
+was an okay compromise.  You needed one set of wires in
+the ground.  It was too economically inefficient, otherwise.
+And that meant one entity running it.  But now, with pieces
+being wireless -- the connections are going to be via high-
+level interfaces, not via wires.  I mean, *ultimately*
+there
+are going to be wires -- but the wires are just a commodity.
+Fiber, wireless.  You no longer *need*  a utility."
+
+     Water utilities?  Gas utilities?
+
+     Of course we still need those, he agrees.   "But when
+what you're moving is information, instead of physical
+substances, then you can play by a different set of rules.
+We're evolving those rules now!   Hopefully you can have
+a much more decentralized system, and one in which
+there's more competition in the marketplace.
+
+     "The role of government will be to make sure that
+nobody cheats.  The proverbial 'level playing field.'   A
+policy that prevents monopolization.  It should result in
+better service, lower prices, more choices, and local
+empowerment."  He smiles.  "I'm very big on local
+empowerment."
+
+     Kapor is a man with a vision.  It's a very novel vision
+which he and his allies are working out in considerable
+detail and with great energy.  Dark, cynical, morbid
+cyberpunk that I am, I cannot avoid considering some of
+the darker implications of "decentralized, nonhierarchical,
+locally empowered" networking.
+
+     I remark that some pundits have suggested that
+electronic networking -- faxes, phones, small-scale
+photocopiers -- played a strong role in dissolving the
+power of centralized communism and causing the
+collapse of the Warsaw Pact.
+
+     Socialism is totally discredited, says Kapor, fresh
+back from the Eastern Bloc.  The idea that faxes did it, all
+by themselves, is rather wishful thinking.
+
+     Has it occurred to him that electronic networking
+might corrode America's industrial and political
+infrastructure to the point where the whole thing becomes
+untenable, unworkable -- and the old order just collapses
+headlong, like in Eastern Europe?
+
+     "No," Kapor says flatly.  "I think that's
+extraordinarily
+unlikely.  In part, because ten or fifteen years ago, I had
+similar hopes about personal computers -- which utterly
+failed to materialize." He grins wryly, then his eyes
+narrow.
+"I'm *very* opposed to techno-utopias.  Every time I see
+one, I either run away, or try to kill it."
+
+     It dawns on me then that Mitch Kapor is not trying to
+make the world safe for democracy.  He certainly is not
+trying to make it safe for anarchists or utopians -- least
+of
+all for computer intruders or electronic rip-off artists.
+What he really hopes to do is make the world safe for
+future Mitch Kapors.  This world of decentralized, small-
+scale nodes, with instant global access for the best and
+brightest, would be a perfect milieu for the shoestring
+attic
+capitalism that made Mitch Kapor what he is today.
+
+     Kapor is a very bright man.  He has a rare
+combination of visionary intensity with a strong practical
+streak.  The Board of the EFF:  John Barlow, Jerry Berman
+of the ACLU, Stewart Brand, John Gilmore, Steve
+Wozniak, and Esther Dyson, the doyenne of East-West
+computer entrepreneurism -- share his gift, his vision, and
+his formidable networking talents.   They are people of the
+1960s,  winnowed-out by its turbulence and rewarded with
+wealth and influence.   They are some of the best and the
+brightest that the electronic community has to offer.  But
+can they do it, in the real world?  Or are they only
+dreaming?   They are so few.  And there is so much against
+them.
+
+     I leave Kapor and his networking employees
+struggling cheerfully with the promising intricacies of
+their
+newly installed Macintosh System 7 software.  The next
+day is Saturday.  EFF is closed.  I pay a few visits to
+points
+of interest downtown.
+
+     One of them is the birthplace of the telephone.
+
+     It's marked by a bronze plaque in a plinth of black-
+and-white speckled granite.  It sits in the plaza of the
+John
+F. Kennedy Federal Building, the very place where Kapor
+was once fingerprinted by the FBI.
+
+     The plaque has a bas-relief picture of Bell's original
+telephone.  "BIRTHPLACE OF THE TELEPHONE," it
+reads.  "Here, on June 2, 1875, Alexander Graham Bell and
+Thomas A. Watson first transmitted sound over wires.
+
+     "This successful experiment was completed in a fifth
+floor garret at what was then 109 Court Street and marked
+the beginning of world-wide telephone service."
+
+     109 Court Street is long gone.  Within sight of Bell's
+plaque, across a street, is one of the central offices of
+NYNEX, the local  Bell RBOC, on 6 Bowdoin Square.
+
+     I cross the street and circle the telco building,
+slowly,
+hands in my jacket pockets.  It's a bright, windy, New
+England autumn day.   The central office is a handsome
+1940s-era megalith in late Art Deco, eight stories high.
+
+     Parked outside the back is a power-generation truck.
+The generator strikes me as rather anomalous.  Don't they
+already have their own generators in this eight-story
+monster?  Then the suspicion strikes me that NYNEX
+must have heard of the September 17 AT&T power-outage
+which crashed New York City.  Belt-and-suspenders, this
+generator.  Very telco.
+
+     Over the glass doors of the front entrance is a
+handsome bronze bas-relief of Art Deco vines, sunflowers,
+and birds, entwining the Bell logo and the legend NEW
+ENGLAND TELEPHONE AND TELEGRAPH COMPANY
+-- an entity which no longer officially exists.
+
+     The doors are locked securely.  I peer through the
+shadowed glass.  Inside is an official poster reading:
+
+     "New England Telephone a NYNEX Company
+
+               ATTENTION
+
+     "All persons while on New England Telephone
+Company premises are required to visibly wear their
+identification cards (C.C.P. Section 2, Page 1).
+
+     "Visitors, vendors, contractors, and all others are
+required to visibly wear a daily pass.
+                    "Thank you.
+                    Kevin C. Stanton.
+                    Building Security Coordinator."
+
+     Outside, around the corner, is a pull-down ribbed
+metal security door, a locked delivery entrance.  Some
+passing stranger has grafitti-tagged this door, with a
+single
+word in red spray-painted cursive:
+
+               *Fury*
+
+                    #
+
+     My book on the Hacker Crackdown is almost over
+now.  I have deliberately saved the best for last.
+
+     In February 1991, I attended the CPSR Public Policy
+Roundtable, in Washington, DC.   CPSR, Computer
+Professionals for Social Responsibility, was a sister
+organization of EFF, or perhaps its aunt, being older and
+perhaps somewhat wiser in the ways of the world of
+politics.
+
+     Computer Professionals for  Social Responsibility
+began in 1981 in Palo Alto, as an informal discussion group
+of Californian computer scientists and technicians, united
+by nothing more than an electronic mailing list.   This
+typical high-tech ad-hocracy received the dignity of its
+own acronym in 1982, and was formally incorporated in
+1983.
+
+     CPSR lobbied government and public alike with an
+educational outreach effort, sternly warning against any
+foolish and unthinking trust in complex computer
+systems.  CPSR insisted that mere computers should
+never be considered a magic panacea for humanity's
+social, ethical or political problems.  CPSR members were
+especially troubled about the stability, safety, and
+dependability of military computer systems, and very
+especially troubled by those systems controlling nuclear
+arsenals.  CPSR was best-known for its persistent and well-
+publicized attacks on the scientific credibility of the
+Strategic Defense Initiative ("Star Wars").
+
+     In 1990, CPSR was the nation's veteran cyber-political
+activist group, with over two thousand members in twenty-
+one local chapters across the US.  It was especially active
+in Boston, Silicon Valley, and Washington DC, where its
+Washington office sponsored the Public Policy
+Roundtable.
+
+     The Roundtable, however, had been funded by EFF,
+which had passed CPSR an extensive grant for operations.
+This was the first large-scale, official meeting of what was
+to become the electronic civil libertarian community.
+
+     Sixty people attended, myself included -- in this
+instance, not so much as a journalist as a cyberpunk
+author.   Many of the luminaries of the field took part:
+Kapor and Godwin as a matter of course.  Richard Civille
+and Marc Rotenberg of CPSR.  Jerry Berman of the ACLU.
+John Quarterman, author of *The Matrix.*  Steven Levy,
+author of *Hackers.*   George Perry and Sandy Weiss of
+Prodigy Services, there to network about the civil-liberties
+troubles their young commercial network was
+experiencing.  Dr. Dorothy Denning.  Cliff Figallo,
+manager of the Well.  Steve Jackson was there, having
+finally found his ideal target audience, and so was Craig
+Neidorf, "Knight Lightning" himself, with his attorney,
+Sheldon Zenner.  Katie Hafner, science journalist, and co-
+author of *Cyberpunk:  Outlaws and Hackers on the
+Computer Frontier.*  Dave Farber, ARPAnet pioneer and
+fabled Internet guru.  Janlori Goldman of the ACLU's
+Project on Privacy and Technology.  John Nagle of
+Autodesk and the Well.  Don Goldberg of the House
+Judiciary Committee.  Tom Guidoboni, the defense
+attorney in the Internet Worm case.  Lance Hoffman,
+computer-science professor at The George Washington
+University.  Eli Noam of Columbia.  And a host of others
+no less distinguished.
+
+     Senator Patrick Leahy delivered the keynote address,
+expressing his determination to keep ahead of the curve
+on the issue of electronic free speech.  The address was
+well-received, and the sense of excitement was palpable.
+Every panel discussion was interesting -- some were
+entirely compelling.  People networked with an almost
+frantic interest.
+
+     I myself had a most interesting and cordial lunch
+discussion with Noel and Jeanne Gayler, Admiral Gayler
+being a former director of the National Security Agency.
+As this was the first known encounter between an actual
+no-kidding cyberpunk and a chief executive of America's
+largest and best-financed electronic espionage apparat,
+there was naturally a bit of eyebrow-raising on both sides.
+
+     Unfortunately, our discussion was off-the-record.  In
+fact all  the discussions at the CPSR were officially off-
+the-
+record, the idea being to do some serious networking in an
+atmosphere of complete frankness, rather than to stage a
+media circus.
+
+     In any case, CPSR Roundtable, though interesting
+and intensely valuable, was as nothing compared to the
+truly mind-boggling event that transpired a mere month
+later.
+
+                         #
+
+     "Computers, Freedom and Privacy."  Four hundred
+people from every conceivable corner of America's
+electronic community.  As a science fiction writer, I have
+been to some weird gigs in my day, but this thing is truly
+*beyond the pale.*   Even "Cyberthon," Point Foundation's
+"Woodstock of Cyberspace" where Bay Area psychedelia
+collided headlong with the emergent world of
+computerized virtual reality, was like a Kiwanis Club gig
+compared to this astonishing do.
+
+     The "electronic community" had reached an apogee.
+Almost every principal in this book is in attendance.  Civil
+Libertarians.  Computer Cops.  The Digital Underground.
+Even a few discreet telco people.   Colorcoded dots for
+lapel tags are distributed.  Free Expression issues.  Law
+Enforcement.  Computer Security.  Privacy.  Journalists.
+Lawyers.  Educators.  Librarians.  Programmers.  Stylish
+punk-black dots for the hackers and phone phreaks.
+Almost everyone here seems to wear eight or nine dots, to
+have six or seven professional hats.
+
+     It is a community.  Something like Lebanon perhaps,
+but a digital nation. People who had feuded all year in the
+national press, people who entertained the deepest
+suspicions of one another's motives and ethics, are now in
+each others' laps.   "Computers, Freedom and Privacy"
+had every reason in the world to turn ugly, and yet except
+for small irruptions of puzzling nonsense from the
+convention's token lunatic, a surprising bonhomie
+reigned.  CFP was like a wedding-party in which two lovers,
+unstable bride and charlatan groom, tie the knot in a
+clearly disastrous matrimony.
+
+     It is clear to both families -- even to neighbors and
+random guests -- that this is not a workable relationship,
+and yet the young couple's desperate attraction can brook
+no further delay.   They simply cannot help themselves.
+Crockery will fly, shrieks from their newlywed home will
+wake the city block, divorce waits in the wings like a
+vulture over the Kalahari, and yet this is a wedding, and
+there is going to be a child from it.  Tragedies end in
+death;
+comedies in marriage.  The Hacker Crackdown is ending
+in marriage.  And there will be a child.
+
+     From the beginning, anomalies reign.  John Perry
+Barlow, cyberspace ranger, is here.  His color photo in
+*The New York Times Magazine,* Barlow scowling in a
+grim Wyoming snowscape, with long black coat, dark hat,
+a Macintosh SE30 propped on a fencepost and an
+awesome frontier rifle tucked under one arm,  will be the
+single most striking visual image of the Hacker
+Crackdown.   And he is CFP's guest of honor -- along with
+Gail Thackeray of the FCIC!   What on earth do they
+expect these dual guests to do with each other?  Waltz?
+
+     Barlow delivers the first address.
+Uncharacteristically, he is hoarse -- the sheer volume of
+roadwork has worn him down.  He speaks briefly,
+congenially, in a plea for conciliation, and takes his leave
+to a storm of applause.
+
+     Then Gail Thackeray takes the stage.  She's visibly
+nervous.  She's been on the Well a lot lately.  Reading
+those Barlow posts.   Following Barlow is a challenge to
+anyone.  In honor of the famous lyricist for the Grateful
+Dead, she announces reedily, she is going to read -- *a
+poem.*  A poem she has composed herself.
+
+     It's an awful poem, doggerel in the rollicking meter of
+Robert W. Service's *The Cremation of Sam McGee,*  but
+it is in fact, a poem.  It's the *Ballad of the Electronic
+Frontier!*  A poem about the Hacker Crackdown and the
+sheer unlikelihood of CFP.   It's full of in-jokes.  The
+score
+or so cops in the audience, who are sitting together in a
+nervous claque, are absolutely cracking-up.  Gail's poem is
+the funniest goddamn thing they've ever heard.  The
+hackers and civil-libs, who had this woman figured for Ilsa
+She-Wolf of the SS, are staring with their jaws hanging
+loosely.  Never in the wildest reaches of their imagination
+had they figured Gail Thackeray was capable of such a
+totally off-the-wall move.  You can see them punching
+their mental CONTROL-RESET buttons.   Jesus!  This
+woman's a hacker weirdo!  She's  *just like us!*    God,
+this
+changes everything!
+
+       Al Bayse, computer technician for the FBI, had been
+the only cop at the CPSR Roundtable, dragged there with
+his arm bent by Dorothy Denning.  He was guarded and
+tightlipped at CPSR Roundtable; a "lion thrown to the
+Christians."
+
+     At CFP, backed by a claque of cops, Bayse suddenly
+waxes eloquent and even droll, describing the FBI's
+"NCIC 2000", a gigantic digital catalog of criminal records,
+as if he has suddenly become some weird hybrid of
+George Orwell and George Gobel.   Tentatively, he makes
+an arcane joke about statistical analysis.  At least a third
+of
+the crowd laughs aloud.
+
+     "They didn't laugh at that at my last speech,"  Bayse
+observes.  He had been addressing cops -- *straight*  cops,
+not computer people.  It had been a worthy meeting,
+useful one supposes, but nothing like *this.*  There has
+never been *anything*  like this.  Without any prodding,
+without any preparation, people in the audience simply
+begin to ask questions.  Longhairs, freaky people,
+mathematicians.  Bayse is answering, politely, frankly,
+fully, like a man walking on air.  The ballroom's
+atmosphere crackles with surreality.   A female lawyer
+behind me breaks into a sweat and a hot waft of
+surprisingly potent and musky perfume flows off her
+pulse-points.
+
+     People are giddy with laughter.  People are
+interested, fascinated, their eyes so wide and dark that
+they seem eroticized.  Unlikely daisy-chains form in the
+halls, around the bar, on the escalators:  cops with
+hackers,
+civil rights with FBI, Secret Service with phone phreaks.
+
+     Gail Thackeray is at her crispest in a white wool
+sweater with a tiny Secret Service logo.  "I found Phiber
+Optik at the payphones, and when he saw my sweater, he
+turned into a *pillar of salt!*" she chortles.
+
+     Phiber discusses his case at much length with his
+arresting officer, Don Delaney of the New York State
+Police.  After an hour's chat, the two of them look ready to
+begin singing "Auld Lang Syne."  Phiber finally finds the
+courage to get his worst complaint off his chest.  It isn't
+so
+much the arrest.  It was the *charge.*  Pirating service off
+900 numbers.  I'm a *programmer,* Phiber insists.  This
+lame charge is going to hurt my reputation.  It would have
+been cool to be busted for something happening, like
+Section 1030 computer intrusion.  Maybe some kind of
+crime that's scarcely been invented yet.  Not lousy phone
+fraud.  Phooey.
+
+     Delaney seems regretful.  He had a mountain of
+possible criminal charges against Phiber Optik.  The kid's
+gonna plead guilty anyway.  He's a first timer, they always
+plead.  Coulda charged the kid with most anything, and
+gotten the same result in the end.  Delaney seems
+genuinely sorry not to have gratified Phiber in this
+harmless fashion.  Too late now.  Phiber's pled already.
+All
+water under the bridge.  Whaddya gonna do?
+
+     Delaney's got a good grasp on the hacker mentality.
+He held a press conference after he busted a bunch of
+Masters of Deception kids.  Some journo had asked him:
+"Would you describe these people as *geniuses?*"
+Delaney's deadpan answer, perfect:  "No, I would describe
+these people as *defendants.*"   Delaney busts a kid for
+hacking codes with repeated random dialling.  Tells the
+press that NYNEX can track this stuff in no time flat
+nowadays, and a kid has to be *stupid*  to do something so
+easy to catch.   Dead on again:  hackers don't mind being
+thought of as Genghis Khan by the straights,  but if there's
+anything that really gets 'em where they live, it's being
+called *dumb.*
+
+     Won't be as much fun for Phiber next time around.
+As a second offender he's gonna see prison.   Hackers
+break the law.  They're not geniuses, either.  They're gonna
+be defendants.  And yet, Delaney muses over a drink in
+the hotel bar, he has found it impossible to treat them as
+common criminals.   Delaney knows criminals.  These
+kids, by comparison, are clueless -- there is just no crook
+vibe off of them, they don't smell right, they're just not
+*bad.*
+
+     Delaney has seen a lot of action.  He did Vietnam.
+He's been shot at, he has shot people.  He's a homicide
+cop from New York.  He has the appearance of a man who
+has not only seen the shit hit the fan but has seen it
+splattered across whole city blocks and left to ferment for
+years.  This guy has been around.
+
+     He listens to Steve Jackson tell his story.  The dreamy
+game strategist has been dealt a bad hand.  He has played
+it for all he is worth.  Under his nerdish SF-fan exterior
+is a
+core of iron.   Friends of his say Steve Jackson believes in
+the rules, believes in fair play.  He will never compromise
+his principles, never give up.  "Steve," Delaney says to
+Steve Jackson, "they had some balls, whoever busted you.
+You're all right!"   Jackson, stunned, falls silent and
+actually
+blushes with pleasure.
+
+     Neidorf has grown up a lot in the past year.  The kid
+is
+a quick study, you gotta give him that.   Dressed by his
+mom, the fashion manager for a national clothing chain,
+Missouri college techie-frat Craig Neidorf out-dappers
+everyone at this gig but the toniest East Coast lawyers.
+The iron jaws of prison clanged shut without him and now
+law school beckons for Neidorf.  He looks like a larval
+Congressman.
+
+     Not a "hacker," our Mr. Neidorf.  He's not interested
+in computer science.  Why should he be?  He's not
+interested in writing C code the rest of his life, and
+besides,
+he's seen where the chips fall.  To the world of computer
+science he and *Phrack*  were just a curiosity.  But to the
+world of law....  The kid has learned where the bodies are
+buried.  He carries his notebook of press clippings
+wherever he goes.
+
+     Phiber Optik makes fun of Neidorf for a Midwestern
+geek, for believing that "Acid Phreak" does acid and
+listens to acid rock.  Hell no.  Acid's never done *acid!*
+Acid's into *acid house music.*  Jesus.  The very idea of
+doing LSD.  Our *parents*  did LSD, ya clown.
+
+       Thackeray suddenly turns upon Craig Neidorf the
+full lighthouse glare of her attention and begins a
+determined half-hour attempt to *win the boy over.*  The
+Joan of Arc of Computer Crime is *giving career advice to
+Knight Lightning!*   "Your experience would be very
+valuable -- a real asset," she tells him with unmistakeable
+sixty-thousand-watt sincerity.  Neidorf is fascinated.  He
+listens with unfeigned attention.  He's nodding and saying
+yes ma'am.  Yes, Craig, you too can forget all about money
+and enter the glamorous and horribly underpaid world of
+PROSECUTING COMPUTER CRIME!  You can put your
+former friends in prison -- ooops....
+
+     You cannot go on dueling at modem's length
+indefinitely.   You cannot beat one another senseless with
+rolled-up press-clippings.  Sooner or later you have to
+come directly to grips.  And yet the very act of assembling
+here has changed the entire situation drastically.   John
+Quarterman, author of *The Matrix,* explains the Internet
+at his symposium.  It is the largest news network in the
+world, it is growing by leaps and bounds, and yet you
+cannot measure Internet because you cannot stop it in
+place.  It cannot stop, because there is no one anywhere in
+the world with the authority to stop Internet.  It changes,
+yes, it grows, it embeds itself across the post-industrial,
+postmodern world and it generates community wherever
+it touches, and it is doing this all by itself.
+
+     Phiber is different.  A very fin de siecle kid, Phiber
+Optik.  Barlow says he looks like an Edwardian dandy.   He
+does rather.  Shaven neck, the sides of his skull cropped
+hip-hop close, unruly tangle of black hair on top that looks
+pomaded, he stays up till four a.m.  and misses all the
+sessions, then hangs out in payphone booths with his
+acoustic coupler gutsily CRACKING SYSTEMS RIGHT IN
+THE MIDST OF THE HEAVIEST LAW ENFORCEMENT
+DUDES IN THE U.S., or at least *pretending* to....  Unlike
+"Frank Drake."  Drake, who wrote Dorothy Denning out of
+nowhere, and asked for an interview for his cheapo
+cyberpunk fanzine, and then started grilling her on her
+ethics.   She was squirmin', too....   Drake, scarecrow-tall
+with his floppy blond mohawk, rotting tennis shoes and
+black leather jacket lettered ILLUMINATI in red, gives off
+an unmistakeable air of the bohemian literatus.  Drake is
+the kind of guy who reads British industrial design
+magazines and appreciates William Gibson because the
+quality of the prose is so tasty.  Drake could never touch a
+phone or a keyboard again, and he'd still have the nose-
+ring and the blurry photocopied fanzines and the sampled
+industrial music.  He's a radical punk with a desktop-
+publishing rig and an Internet address.  Standing next to
+Drake, the diminutive Phiber looks like he's been
+physically coagulated out of phone-lines.  Born to phreak.
+
+     Dorothy Denning approaches Phiber suddenly.  The
+two of them are about the same height and body-build.
+Denning's blue eyes flash behind the round window-
+frames of her glasses.  "Why did you say I was 'quaint?'"
+she asks Phiber, quaintly.
+
+     It's a perfect description but Phiber is nonplussed...
+"Well, I uh, you know...."
+
+     "I also think you're quaint, Dorothy," I say, novelist
+to
+the rescue, the journo gift of gab...  She is neat and
+dapper
+and yet there's an arcane quality to her, something like a
+Pilgrim Maiden behind leaded glass; if she were six inches
+high Dorothy Denning would look great inside a china
+cabinet...  The Cryptographeress....  The Cryptographrix...
+whatever...   Weirdly, Peter Denning looks just like his
+wife, you could pick this gentleman out of a thousand guys
+as the soulmate of Dorothy Denning.  Wearing tailored
+slacks, a spotless fuzzy varsity sweater, and a neatly
+knotted academician's tie.... This fineboned, exquisitely
+polite, utterly civilized and hyperintelligent couple seem
+to have emerged from some cleaner and finer parallel
+universe, where humanity exists to do the Brain Teasers
+column in Scientific American.   Why does this Nice Lady
+hang out with these unsavory characters?
+
+     Because the time has come for it, that's why.
+Because she's the best there is at what she does.
+
+     Donn Parker is here, the Great Bald Eagle of
+Computer Crime....  With his bald dome, great height, and
+enormous Lincoln-like hands, the great visionary pioneer
+of the field plows through the lesser mortals like an
+icebreaker....  His eyes are fixed on the future with the
+rigidity of a bronze statue....  Eventually, he tells his
+audience, all business crime will be computer crime,
+because businesses will do everything through computers.
+"Computer crime" as a category will vanish.
+
+     In the meantime,  passing fads will flourish and fail
+and evaporate....  Parker's commanding, resonant voice is
+sphinxlike, everything is viewed from some eldritch valley
+of deep historical abstraction...  Yes, they've come and
+they've gone, these passing flaps in the world of digital
+computation....  The radio-frequency emanation scandal...
+KGB and MI5 and CIA do it every day, it's easy, but
+nobody else ever has....  The salami-slice fraud, mostly
+mythical...  "Crimoids," he calls them....  Computer viruses
+are the current crimoid champ, a lot less dangerous than
+most people let on, but the novelty is fading and there's a
+crimoid vacuum at the moment, the press is visibly
+hungering for something more outrageous....  The Great
+Man shares with us a few speculations on the coming
+crimoids....  Desktop Forgery!  Wow....  Computers stolen
+just for the sake of the information within them -- data-
+napping!  Happened in Britain a while ago, could be the
+coming thing....  Phantom nodes in the Internet!
+
+     Parker handles his overhead projector sheets with an
+ecclesiastical air...  He wears a grey double-breasted suit,
+a
+light blue shirt, and a very quiet tie of understated maroon
+and blue paisley...  Aphorisms emerge from him with slow,
+leaden emphasis...  There is no such thing as an
+adequately secure computer when one faces a sufficiently
+powerful adversary.... Deterrence is the most socially
+useful aspect of security...  People are the primary
+weakness in all information systems...  The entire baseline
+of computer security must be shifted upward....  Don't ever
+violate your security by publicly describing your security
+measures...
+
+     People in the audience are beginning to squirm, and
+yet there is something about the elemental purity of this
+guy's philosophy that compels uneasy respect....  Parker
+sounds like the only sane guy left in the lifeboat,
+sometimes.  The guy who can prove rigorously, from deep
+moral principles, that Harvey there, the one with the
+broken leg and the checkered past, is the one who has to
+be, err.... that is, Mr. Harvey is best placed to make the
+necessary sacrifice for the security and indeed the very
+survival of the rest of this lifeboat's crew....   Computer
+security, Parker informs us mournfully, is a nasty topic,
+and we wish we didn't have to have  it...  The security
+expert, armed with method and logic, must think --
+imagine -- everything that the adversary might do before
+the adversary might actually do it.   It is as if the
+criminal's
+dark brain were an extensive subprogram within the
+shining cranium of Donn Parker.   He is a Holmes whose
+Moriarty does not quite yet exist and so must be perfectly
+simulated.
+
+     CFP is a stellar gathering, with the giddiness of a
+wedding.  It is a happy time, a happy ending, they know
+their world is changing forever tonight, and they're proud
+to have been there to see it happen, to talk, to think, to
+help.
+
+     And yet as night falls, a certain elegiac quality
+manifests itself, as the crowd gathers beneath the
+chandeliers with their wineglasses and dessert plates.
+Something is ending here, gone forever, and it takes a
+while to pinpoint it.
+
+     It is the End of the Amateurs.
+
+***********
+
+Afterword:  The Hacker Crackdown Three Years Later
+
+     Three years in cyberspace is like thirty years anyplace
+real.  It feels as if a generation has passed since I wrote
+this
+book.  In terms of the generations of computing machinery
+involved, that's pretty much the case.
+
+     The basic shape of cyberspace has changed drastically
+since 1990.  A new U.S. Administration is in power whose
+personnel are, if anything, only too aware of the nature and
+potential of electronic networks.  It's now clear to all
+players
+concerned that the status quo is dead-and-gone in American
+media and telecommunications, and almost any territory on
+the electronic frontier is up for grabs.  Interactive
+multimedia,
+cable-phone alliances, the Information Superhighway, fiber-
+to-the-curb, laptops and palmtops, the explosive growth of
+cellular and the Internet -- the earth trembles visibly.
+
+     The year 1990 was not a pleasant one for AT&T.  By
+1993,
+however, AT&T had successfully devoured the computer
+company NCR in an unfriendly takeover, finally giving the
+pole-climbers a major piece of the digital action.  AT&T
+managed to rid itself of ownership of the troublesome UNIX
+operating system, selling it to Novell, a netware company,
+which was itself preparing for a savage market dust-up with
+operating-system titan Microsoft.  Furthermore, AT&T
+acquired McCaw Cellular in a gigantic merger, giving AT&T a
+potential wireless whip-hand over its former progeny, the
+RBOCs.  The RBOCs themselves were now AT&T's clearest
+potential rivals, as the Chinese firewalls between regulated
+monopoly and frenzied digital entrepreneurism began to melt
+and collapse headlong.
+
+     AT&T, mocked by industry analysts in 1990, was reaping
+awestruck praise by commentators in 1993.   AT&T had
+managed to avoid any more major software crashes in its
+switching stations.  AT&T's newfound reputation as "the
+nimble giant" was all the sweeter, since AT&T's traditional
+rival giant in the world of multinational computing, IBM,
+was
+almost prostrate by 1993.  IBM's vision of the commercial
+computer-network of the future, "Prodigy," had managed to
+spend $900 million without a whole heck of a lot to show for
+it,
+while AT&T, by contrast, was boldly speculating on the
+possibilities of personal communicators and hedging its bets
+with investments in handwritten interfaces.  In 1990 AT&T
+had
+looked bad; but in 1993 AT&T looked like the future.
+
+     At least, AT&T's *advertising* looked like the future.
+Similar public attention was riveted on the massive $22
+billion
+megamerger between RBOC Bell Atlantic and cable-TV giant
+Tele-Communications Inc.   Nynex was buying into cable
+company Viacom International.  BellSouth was buying stock in
+Prime Management, Southwestern Bell acquiring a cable
+company in Washington DC, and so forth.   By stark contrast,
+the Internet, a noncommercial entity which officially did
+not
+even exist, had no advertising budget at all.  And yet,
+almost
+below the level of governmental and corporate awareness,
+the
+Internet was stealthily devouring everything in its path,
+growing at a rate that defied comprehension.  Kids who might
+have been eager computer-intruders a mere five years earlier
+were now surfing the Internet, where their natural urge to
+explore led them into cyberspace landscapes of such
+mindboggling vastness that the very idea of hacking
+passwords
+seemed rather a waste of time.
+
+     By 1993, there had not been a solid, knock 'em down,
+panic-striking, teenage-hacker  computer-intrusion scandal
+in
+many long months.  There had, of course, been some striking
+and well-publicized acts of illicit computer access, but
+they had
+been committed by adult white-collar industry insiders in
+clear
+pursuit of personal or commercial advantage.  The kids, by
+contrast, all seemed to be on IRC, Internet Relay Chat.
+
+     Or, perhaps, frolicking out in the endless glass-roots
+network of personal bulletin board systems.  In 1993, there
+were an estimated 60,000 boards in America; the population
+of
+boards had fully doubled since Operation Sundevil in 1990.
+The
+hobby was transmuting fitfully into a genuine industry.  The
+board community were no longer obscure hobbyists; many
+were still hobbyists and proud of it, but board sysops and
+advanced board users had become a far more cohesive and
+politically aware community, no longer allowing themselves
+to
+be obscure.
+
+     The specter of cyberspace in the late 1980s, of
+outwitted
+authorities trembling in fear before teenage hacker whiz-
+kids,
+seemed downright antiquated by 1993.  Law enforcement
+emphasis had changed, and the favorite electronic villain of
+1993 was not the vandal child, but  the victimizer of
+children,
+the digital child pornographer.  "Operation Longarm,"  a
+child-
+pornography computer raid carried out by the previously
+little-
+known cyberspace rangers of the U.S. Customs Service, was
+almost the size of Operation Sundevil, but received very
+little
+notice by comparison.
+
+     The huge and well-organized "Operation Disconnect,"
+an FBI strike against telephone rip-off con-artists, was
+actually larger than Sundevil.  "Operation Disconnect" had
+its
+brief moment in the sun of publicity, and then vanished
+utterly.
+It was unfortunate that a law-enforcement affair as
+apparently well-conducted as Operation Disconnect, which
+pursued telecom adult career criminals a hundred times more
+morally repugnant than teenage hackers, should have received
+so little attention and fanfare, especially compared to the
+abortive Sundevil and the basically disastrous efforts of
+the
+Chicago Computer Fraud and Abuse Task Force.  But the life
+of
+an electronic policeman is seldom easy.
+
+     If any law enforcement event truly deserved full-scale
+press coverage (while somehow managing to escape it), it was
+the amazing saga of New York State Police Senior
+Investigator Don Delaney Versus the Orchard Street Finger-
+Hackers.  This story  probably represents the real future of
+professional telecommunications crime in America.  The
+finger-
+hackers sold, and still sell, stolen long-distance phone
+service
+to a captive clientele of illegal aliens in New York City.
+This
+clientele is desperate to call home, yet as a group, illegal
+aliens
+have few legal means of obtaining standard phone service,
+since their very presence in the United States is against
+the
+law.  The finger-hackers of Orchard Street were very unusual
+"hackers," with an astonishing lack of any kind of genuine
+technological knowledge.  And yet these New York call-sell
+thieves showed a street-level ingenuity appalling in its
+single-
+minded sense of larceny.
+
+     There was no dissident-hacker rhetoric about  freedom-
+of-information among the finger-hackers.  Most of them came
+out of the cocaine-dealing fraternity, and they retailed
+stolen
+calls with the same street-crime techniques of lookouts and
+bagholders that a crack gang would employ.  This was down-
+and-dirty, urban, ethnic, organized crime, carried out by
+crime
+families every day, for cash on the barrelhead, in the harsh
+world of the streets.  The finger-hackers dominated certain
+payphones in certain strikingly unsavory neighborhoods.
+They
+provided a service no one else would give to a clientele
+with
+little to lose.
+
+     With such a vast supply of electronic crime  at hand,
+Don
+Delaney rocketed from a background in homicide to teaching
+telecom crime at FLETC in less than three years.  Few can
+rival
+Delaney's hands-on, street-level experience in phone fraud.
+Anyone in 1993 who still believes telecommunications crime
+to
+be something rare and arcane should have a few words with
+Mr Delaney.  Don Delaney has also written two fine essays,
+on
+telecom fraud and computer crime, in Joseph Grau's *Criminal
+and Civil Investigations Handbook* (McGraw Hill 1993).
+
+     *Phrack* was still publishing in 1993, now under the
+able
+editorship of Erik Bloodaxe.  Bloodaxe made a determined
+attempt to get law enforcement and corporate security to pay
+real money for their electronic copies of *Phrack,* but, as
+usual, these stalwart defenders of intellectual property
+preferred to pirate the magazine.  Bloodaxe has still not
+gotten
+back any of his property from the seizure raids of March 1,
+1990.  Neither has the Mentor, who is still the managing
+editor
+of Steve Jackson Games.
+
+     Nor has Robert Izenberg, who has suspended his court
+struggle to get his machinery back.  Mr Izenberg has
+calculated
+that his $20,000 of equipment seized in 1990 is, in 1993,
+worth
+$4,000 at most.  The missing software, also gone out his
+door,
+was long ago replaced.   He might, he says, sue for the sake
+of
+principle, but he feels that the people who seized his
+machinery
+have already been discredited, and won't be doing any more
+seizures.  And even if his machinery were returned -- and in
+good repair, which is doubtful -- it will  be essentially
+worthless
+by 1995.  Robert Izenberg no longer works for IBM, but has a
+job programming for a major telecommunications company in
+Austin.
+
+     Steve Jackson won his case against the Secret Service
+on
+March 12, 1993, just over three years after the federal raid
+on
+his enterprise.   Thanks to the delaying tactics available
+through the legal doctrine of "qualified immunity," Jackson
+was
+tactically forced to drop his suit against the individuals
+William
+Cook, Tim Foley, Barbara Golden and Henry Kluepfel.   (Cook,
+Foley, Golden and Kluepfel did, however, testify during the
+trial.)
+
+     The Secret Service fought vigorously in the case,
+battling
+Jackson's lawyers right down the line, on the (mostly
+previously untried) legal turf of the Electronic
+Communications
+Privacy Act and the Privacy Protection Act of 1980.  The
+Secret
+Service denied they were legally or morally responsible for
+seizing the work of a publisher.   They claimed that (1)
+Jackson's gaming "books" weren't real books anyhow, and (2)
+the Secret Service didn't realize SJG Inc was a "publisher"
+when they raided his offices, and (3) the books only
+vanished by
+accident because they merely happened to be inside the
+computers the agents were appropriating.
+
+     The Secret Service also denied any wrongdoing in
+reading and erasing all the supposedly "private" e-mail
+inside
+Jackson's seized board, Illuminati.  The USSS attorneys
+claimed the seizure did not violate the Electronic
+Communications Privacy Act, because they weren't actually
+"intercepting" electronic mail that was moving on a wire,
+but
+only electronic mail that was quietly sitting on a disk
+inside
+Jackson's computer.  They also claimed that USSS agents
+hadn't read any of the private mail on Illuminati; and
+anyway,
+even supposing that they had, they were allowed to do that
+by
+the subpoena.
+
+     The Jackson case became even more peculiar when the
+Secret Service attorneys went so far as to allege that the
+federal raid against the gaming company had actually
+*improved Jackson's business*  thanks to the ensuing
+nationwide publicity.
+
+     It was a long and rather involved trial.  The judge
+seemed most perturbed, not by the arcane matters of
+electronic
+law, but by the fact that the Secret Service could have
+avoided
+almost all the consequent trouble simply by giving Jackson
+his
+computers back in short order.   The Secret Service easily
+could
+have looked at everything in Jackson's computers, recorded
+everything, and given the machinery back, and there would
+have been no major scandal or federal court suit.  On the
+contrary, everybody simply would have had a good laugh.
+Unfortunately, it appeared that this idea had never entered
+the
+heads of the Chicago-based investigators.  They seemed to
+have concluded unilaterally, and without due course of law,
+that the world would be better off if Steve Jackson didn't
+have
+computers.  Golden and Foley claimed that they had both
+never
+even heard of the Privacy Protection Act.  Cook had heard of
+the Act, but he'd decided on his own that the Privacy
+Protection
+Act had nothing to do with Steve Jackson.
+
+     The Jackson case was also a very politicized trial,
+both
+sides deliberately angling for a long-term legal precedent
+that
+would stake-out big claims for their interests in
+cyberspace.
+Jackson and his EFF advisors tried hard to establish that
+the
+least e-mail remark of the lonely electronic pamphleteer
+deserves the same somber civil-rights protection as that
+afforded *The New York Times.*  By stark contrast, the
+Secret
+Service's attorneys argued boldly that the contents of an
+electronic bulletin board have no more expectation of
+privacy
+than a heap of postcards.  In the final analysis, very
+little was
+firmly nailed down.  Formally, the legal rulings in the
+Jackson
+case apply only in the federal Western District of Texas.
+It
+was, however, established that these were real civil-
+liberties
+issues that powerful people were prepared to go to the
+courthouse over; the seizure of bulletin board systems,
+though
+it still goes on, can be a perilous act for the seizer.
+The Secret
+Service owes Steve Jackson $50,000 in damages, and a
+thousand dollars each to three of Jackson's angry and
+offended
+board users.  And Steve Jackson, rather than owning the
+single-line bulletin board system "Illuminati" seized in
+1990,
+now rejoices in possession of a huge privately-owned
+Internet
+node, "io.com," with dozens of phone-lines on its  own T-1
+trunk.
+
+     Jackson has made the entire blow-by-blow narrative of
+his case available electronically, for interested parties.
+And yet, the
+Jackson case may still not be over; a Secret Service appeal
+seems
+likely and the EFF is also gravely dissatisfied with the
+ruling on
+electronic interception.
+
+     The WELL, home of the American electronic civil
+libertarian movement, added two thousand more users and
+dropped its aging Sequent computer in favor of a snappy new
+Sun Sparcstation.  Search-and-seizure discussions on the
+WELL
+are now taking a decided back-seat to the current hot topic
+in
+digital civil liberties, unbreakable public-key encryption
+for
+private citizens.
+
+     The Electronic Frontier Foundation left its modest home
+in Boston to move inside the Washington Beltway of the
+Clinton Administration.  Its new executive director, ECPA
+pioneer and longtime ACLU activist Jerry Berman, gained a
+reputation of a man adept as dining with tigers, as the EFF
+devoted its attention to networking at the highest levels of
+the
+computer and telecommunications industry.  EFF's pro-
+encryption lobby and anti-wiretapping initiative were
+especially impressive, successfully assembling a herd of
+highly
+variegated industry camels under the same EFF tent, in open
+and powerful opposition to the electronic ambitions of the
+FBI
+and the NSA.
+
+     EFF had transmuted at light-speed from an insurrection
+to an institution.  EFF Co-Founder Mitch Kapor once again
+sidestepped the bureaucratic consequences of his own
+success,
+by remaining in Boston and adapting the role of EFF guru and
+gray eminence.   John Perry Barlow, for his part, left
+Wyoming,
+quit the Republican Party, and moved to New York City,
+accompanied by his swarm of cellular phones.   Mike Godwin
+left Boston for Washington as EFF's official legal adviser
+to the
+electronically afflicted.
+
+     After the Neidorf trial, Dorothy Denning further proved
+her firm scholastic independence-of-mind by speaking up
+boldly on the usefulness and social value of federal
+wiretapping.  Many civil libertarians, who regarded the
+practice of wiretapping with deep occult horror,  were
+crestfallen to the point of comedy when nationally known
+"hacker sympathizer" Dorothy Denning sternly defended
+police and public interests in official eavesdropping.
+However,
+no amount of public uproar seemed to swerve the "quaint" Dr.
+Denning in the slightest.  She not only made up her own
+mind,
+she made it up in public and then stuck to her guns.
+
+     In 1993, the stalwarts of the Masters of Deception,
+Phiber
+Optik, Acid Phreak and Scorpion, finally fell afoul of the
+machineries of legal prosecution.  Acid Phreak and Scorpion
+were sent to prison for six months, six months of home
+detention, 750 hours of community service, and, oddly, a $50
+fine for conspiracy to commit computer crime.  Phiber Optik,
+the computer intruder with perhaps the highest public
+profile in
+the entire world, took the longest to plead guilty, but,
+facing
+the possibility of ten years in jail, he finally did so.  He
+was
+sentenced to a year and a day in prison.
+
+     As for the Atlanta wing of the Legion of Doom, Prophet,
+Leftist and Urvile...   Urvile now works for a software
+company in Atlanta.  He is still on probation and still
+repaying
+his enormous fine.  In fifteen months, he will once again be
+allowed to own a personal computer.  He is still a convicted
+federal felon, but has not had any legal difficulties since
+leaving
+prison.  He has lost contact with Prophet and Leftist.
+Unfortunately, so have I, though not through lack of honest
+effort.
+
+     Knight Lightning, now 24,  is a technical writer for
+the federal government in Washington DC.  He has still not
+been accepted into law school, but having spent more than
+his
+share of time in the company of attorneys, he's come to
+think
+that maybe an MBA would be more to the point.   He still
+owes
+his attorneys $30,000, but the sum is dwindling steadily
+since he
+is manfully working two jobs.  Knight Lightning customarily
+wears a suit and tie and carries a valise.  He has a federal
+security clearance.
+
+     Unindicted *Phrack* co-editor Taran King is also a
+technical writer in Washington DC,  and recently got
+married.
+
+     Terminus did his time, got out of prison, and currently
+lives in Silicon Valley where he is running a full-scale
+Internet
+node, "netsys.com."   He programs professionally for a
+company specializing in satellite links for the Internet.
+
+     Carlton Fitzpatrick still teaches at the Federal Law
+Enforcement Training Center, but FLETC found that the issues
+involved in sponsoring and running a bulletin board system
+are
+rather more complex than they at first appear to be.
+
+     Gail Thackeray  briefly considered going into private
+security, but then changed tack, and joined the Maricopa
+County District Attorney's Office (with a salary).  She is
+still
+vigorously prosecuting electronic racketeering in Phoenix,
+Arizona.
+
+     The fourth consecutive Computers, Freedom and Privacy
+Conference will take place in March 1994 in Chicago.
+
+     As for Bruce Sterling... well *8-).  I thankfully
+abandoned
+my brief career as  a true-crime journalist and wrote a new
+science fiction novel, *Heavy Weather,* and assembled a new
+collection of short stories, *Globalhead.*  I also write
+nonfiction regularly,  for the popular-science column in
+*The
+Magazine of  Fantasy and Science Fiction.*
+
+     I like life better on the far side of the boundary
+between
+fantasy and reality;  but I've come to recognize that
+reality has
+an unfortunate  way of annexing fantasy for its own
+purposes.
+That's why I'm on the Police Liaison Committee for  EFF-
+Austin, a local electronic civil liberties group (eff-
+austin@tic.com).  I don't think I will ever get over my
+experience of the Hacker Crackdown, and I expect to be
+involved in electronic civil liberties activism for the rest
+of my
+life.
+
+     It wouldn't be hard to find material for another book
+on
+computer crime and civil liberties issues.   I truly believe
+that I
+could write another book much like this one, every year.
+Cyberspace is very big.  There's a lot going on out there,
+far
+more than can be adequately covered by the tiny, though
+growing, cadre of network-literate reporters.  I do wish I
+could
+do more work on this topic, because the various people of
+cyberspace are an element of our society that definitely
+requires
+sustained study and attention.
+
+     But there's only one of me, and I have a lot on my
+mind,
+and, like most science fiction writers, I have a lot more
+imagination than discipline.  Having done my stint as an
+electronic-frontier reporter, my hat is off to those
+stalwart few
+who do it every day.  I may return to this topic some day,
+but I
+have no real plans to do so.  However, I didn't have any
+real
+plans to write "Hacker Crackdown," either.  Things happen,
+nowadays.  There are landslides in cyberspace.  I'll just
+have to
+try and stay alert and on my feet.
+
+     The electronic landscape changes with astounding speed.
+We are living through the fastest technological
+transformation
+in human history.  I was glad to have a chance to document
+cyberspace during one moment in its long mutation; a kind of
+strobe-flash of the maelstrom.  This book is already out-of-
+date, though, and it will be quite obsolete in another five
+years.
+It seems a pity.
+
+     However, in about fifty years, I think this book might
+seem quite interesting.  And in a hundred years, this book
+should seem mind-bogglingly archaic and bizarre, and will
+probably seem far weirder to an audience in 2092 than it
+ever
+seemed to the contemporary readership.
+
+     Keeping up in cyberspace requires a great deal of
+sustained attention.   Personally, I keep tabs with the
+milieu by
+reading the invaluable electronic magazine  Computer
+underground Digest  (tk0jut2@mvs.cso.niu.edu with the
+subject
+header: SUB CuD and a message that says:  SUB CuD your
+name     your.full.internet@address).  I also read Jack
+Rickard's
+bracingly iconoclastic *Boardwatch  Magazine* for print news
+of the BBS and online community.  And, needless to say, I
+read
+*Wired,* the first magazine of the 1990s that actually looks
+and
+acts like it really belongs in this decade.  There are other
+ways
+to learn, of course, but these three outlets will guide your
+efforts very well.
+
+     When I myself want to publish something electronically,
+which I'm doing with increasing frequency, I generally put
+it on
+the gopher at Texas Internet Consulting, who are my, well,
+Texan Internet consultants  (tic.com).  This book can be
+found
+there.  I think it is a worthwhile act to let this work go
+free.
+
+     From thence, one's bread floats out onto the dark
+waters
+of cyberspace, only to return someday, tenfold.  And of
+course,
+thoroughly soggy, and riddled with an entire amazing
+ecosystem of bizarre and gnawingly hungry cybermarine life-
+forms.  For this author at least, that's all that really
+counts.
+
+     Thanks for your attention  *8-)
+
+     Bruce Sterling  bruces@well.sf.ca.us  -- New Years' Day
+1994, Austin Texas
