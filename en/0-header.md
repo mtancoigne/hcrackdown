@@ -15,7 +15,7 @@ Chronology of the Hacker Crackdown
 
 Introduction
 
-Part 1:  CRASHING THE SYSTEM A Brief History of Telephony / Bell's Golden Vaporware / Universal Service / Wild Boys and Wire Women / The Electronic Communities / The Ungentle Giant / The Breakup / In Defense of the System / The Crash Post- Mortem / Landslides in Cyberspace
+Part 1:  CRASHING THE SYSTEM A Brief History of Telephony / Bell's Golden Vaporware / Universal Service / Wild Boys and Wire Women / The Electronic Communities / The Ungentle Giant / The Breakup / In Defense of the System / The Crash Post-Mortem / Landslides in Cyberspace
 
 Part 2:  THE DIGITAL UNDERGROUND Steal This Phone / Phreaking and Hacking / The View From Under the Floorboards / Boards: Core of the Underground / Phile Phun / The Rake's Progress / Strongholds of the Elite / Sting Boards / Hot Potatoes / War on the Legion / Terminus / Phile 9-1-1 / War Games / Real Cyberpunk
 
