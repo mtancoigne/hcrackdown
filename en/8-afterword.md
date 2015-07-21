@@ -66,7 +66,7 @@ Gail Thackeray  briefly considered going into private security, but then changed
 
 The fourth consecutive Computers, Freedom and Privacy Conference will take place in March 1994 in Chicago.
 
-As for Bruce Sterling... well *8-).  I thankfully abandoned my brief career as  a true-crime journalist and wrote a new science fiction novel, *Heavy Weather,* and assembled a new collection of short stories, *Globalhead.*  I also write nonfiction regularly,  for the popular-science column in *The Magazine of  Fantasy and Science Fiction.*
+As for Bruce Sterling... well \*8-).  I thankfully abandoned my brief career as  a true-crime journalist and wrote a new science fiction novel, *Heavy Weather,* and assembled a new collection of short stories, *Globalhead.*  I also write nonfiction regularly,  for the popular-science column in *The Magazine of  Fantasy and Science Fiction.*
 
 I like life better on the far side of the boundary between fantasy and reality;  but I've come to recognize that reality has an unfortunate  way of annexing fantasy for its own purposes. That's why I'm on the Police Liaison Committee for  EFF-Austin, a local electronic civil liberties group (eff-austin@tic.com).  I don't think I will ever get over my experience of the Hacker Crackdown, and I expect to be involved in electronic civil liberties activism for the rest of my life.
 
@@ -84,6 +84,6 @@ When I myself want to publish something electronically, which I'm doing with inc
 
 From thence, one's bread floats out onto the dark waters of cyberspace, only to return someday, tenfold.  And of course, thoroughly soggy, and riddled with an entire amazing ecosystem of bizarre and gnawingly hungry cybermarine life-forms.  For this author at least, that's all that really counts.
 
-Thanks for your attention  *8-)
+Thanks for your attention  \*8-)
 
 Bruce Sterling  bruces@well.sf.ca.us  — New Years' Day 1994, Austin Texas
