@@ -47,7 +47,7 @@ As a political tactic, phone-service theft ensured that Yippie advocates would a
 
 In 1983, "Tom Edison" had his computer stolen and his house set on fire by an arsonist.  This was an eventually mortal blow to *TAP* (though the legendary name was to be resurrected in 1990 by a young Kentuckian computer-outlaw named "Predat0r.")
 
-                 #
+---
 
 
 Ever since telephones began to make money, there have been people willing to rob and defraud phone companies.   The legions of petty phone thieves vastly outnumber those "phone phreaks" who  "explore the system" for the sake of the intellectual challenge.   The New York metropolitan area  (long in the vanguard of American crime) claims over 150,000 physical attacks on pay telephones every year!  Studied carefully, a modern payphone reveals itself as a little fortress, carefully designed and redesigned over generations,  to resist coin-slugs, zaps of electricity, chunks of coin-shaped ice, prybars, magnets, lockpicks, blasting caps.  Public pay-phones must survive in a world of unfriendly, greedy people,  and a modern payphone is as exquisitely evolved as a cactus.
@@ -95,7 +95,7 @@ Cellular phone-calls, cordless phones, and ship-to-shore telephony can all be mo
 
 It should be repeated that telecommunications fraud,  the theft of phone service,  causes vastly greater monetary losses than the practice of entering into computers by stealth.   Hackers are mostly young suburban American white males, and exist in their hundreds — but "phreaks" come from both sexes and from many nationalities, ages and ethnic backgrounds, and are flourishing in the thousands.
 
-                 #
+---
 
 The term "hacker" has had an unfortunate history. This book, *The Hacker Crackdown,* has little to say about "hacking" in its finer, original sense.  The term  can signify the free-wheeling intellectual exploration of the highest and deepest potential of computer systems.   Hacking can describe  the determination to make access to computers and information as free and open as possible.  Hacking can involve the heartfelt conviction that beauty can be found in computers, that the fine aesthetic in a perfect program can liberate the mind and spirit.  This is "hacking" as it was defined in Steven Levy's much-praised history of the pioneer computer milieu, *Hackers,* published in 1984.
 
@@ -388,7 +388,7 @@ Let's sample another vivid hacker manifesto.  Here are some excerpts from "The C
 
 "I made a discovery today.  I found a computer.  Wait a second, this is cool.  It does what I want it to.  If it makes a mistake, it's because I screwed it up.  Not because it doesn't like me.(...) "And then it happened... a door opened to a world... rushing through the phone line like heroin through an addict's veins, an electronic pulse is sent out, a refuge from day-to-day incompetencies is sought... a board is found.   'This is it...  this is where I belong...' "I know everyone here... even if I've never met them, never talked to them, may never hear from them again... I know you all...(...) "This is our world now....  the world of the electron and the switch, the beauty of the baud.  We make use of a service already existing without paying for what could be dirt-cheap if it wasn't run by profiteering gluttons, and you call us criminals.  We explore... and you call us criminals. We seek after knowledge... and you call us criminals.  We exist without skin color, without nationality, without religious bias... and you call us criminals.  You build atomic bombs, you wage wars, you murder, cheat and lie to us and try to make us believe that it's for our own good, yet we're the criminals. "Yes, I am a criminal.  My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like.  My crime is that of outsmarting you, something that you will never forgive me for."
 
-                 #
+---
 
 There have been underground boards almost as long as there have been boards.  One of the first was 8BBS, which became a stronghold of the West Coast phone-phreak elite.   After going on-line in March 1980, 8BBS sponsored "Susan Thunder," and "Tuc,"  and, most notoriously, "the Condor."  "The Condor"  bore the singular distinction of becoming the most vilified American phreak and hacker ever.   Angry underground associates, fed up with Condor's peevish behavior, turned him in to police, along with a heaping double-helping of  outrageous hacker legendry.  As a result, Condor was kept in solitary confinement for seven months,  for fear that he might start World War Three by triggering missile silos from the prison payphone.  (Having served his time, Condor is now walking around loose;  WWIII has thus far conspicuously failed to occur.)
 
@@ -589,7 +589,7 @@ By this reasoning, Fry Guy wasn't much more than the electronic equivalent of a 
 
  Because LoD were flagrant, they had left trails everywhere, to be picked up by law enforcement in New York, Indiana, Florida, Texas, Arizona, Missouri, even Australia.  But 1990's war on the Legion of Doom was led out of Illinois, by the Chicago Computer Fraud and Abuse Task Force.
 
-                 #
+---
 
 
 The Computer Fraud and Abuse Task Force, led by federal prosecutor William J. Cook, had started in 1987 and had swiftly become one of the most aggressive local "dedicated computer-crime units."  Chicago was a natural home for such a group.  The world's first computer bulletin-board system had been invented in Illinois.  The state of Illinois had some of the nation's first and sternest computer crime laws.   Illinois State Police were markedly alert to the possibilities of white-collar crime and electronic fraud.
@@ -985,7 +985,7 @@ It's digital water-under-the-bridge at this point, as Killer's 3,200 megabytes o
 
 But the experiences of Andrews and Boykin, and the users of their systems, remained side issues.   They did not begin to assume the social, political, and legal importance that gathered, slowly but inexorably, around the issue of the raid on Steve Jackson Games.
 
-                 #
+---
 
 We must now turn our attention to Steve Jackson Games itself, and explain what SJG was, what it really did, and how it had managed to attract this particularly odd and virulent kind of trouble.  The reader may recall that this is not the first but the second time that the company has appeared in this narrative; a Steve Jackson game called GURPS was a favorite pastime of Atlanta hacker Urvile, and Urvile's science-fictional gaming notes had been mixed up promiscuously with notes about his actual computer intrusions.
 

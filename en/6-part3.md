@@ -101,7 +101,7 @@ The final message of Sundevil was intended for internal consumption by law enfor
 
 And, as a final fillip, Sundevil was a message from the Secret Service to their longtime rivals in the Federal Bureau of Investigation.  By Congressional fiat, both USSS and FBI formally share jurisdiction over federal computer-crimebusting activities. Neither of these groups has ever been remotely happy with this muddled situation.  It seems to suggest that Congress cannot make up its mind as to which of these groups is better qualified.   And there is scarcely a G-man or a Special Agent anywhere without a very firm opinion on that topic.
 
-                 #
+---
 
    For the neophyte, one of the most puzzling aspects of the crackdown on hackers is why the United States Secret Service has anything at all to do with this matter.
 
@@ -171,7 +171,7 @@ The Secret Service is the nation's oldest general federal law-enforcement agency
 
 The Secret Service originally had nothing to do with protecting Presidents.  They didn't take this on as a regular assignment until after the Garfield assassination in 1881.   And they didn't get any Congressional money for it until President McKinley was shot in 1901.   The Service was originally designed for one purpose: destroying counterfeiters.
 
-                 #
+---
 
 There are interesting parallels between the Service's nineteenth-century entry into counterfeiting, and America's twentieth-century entry into computer-crime.
 
@@ -221,7 +221,7 @@ I decided that I  had to get to know Gail Thackeray.   I wrote to her at the Ari
 
 Shortly after this, Gail Thackeray lost her job. And I temporarily misplaced my own career as a science-fiction writer, to become a full-time computer-crime journalist.   In early March, 1991, I flew to Phoenix, Arizona, to interview Gail Thackeray for my book on the hacker crackdown.
 
-                 #
+---
 
 "Credit cards didn't used to cost anything to get," says Gail Thackeray.  "Now they cost forty bucks — and that's all just to cover the costs from *rip-off artists.*"
 
@@ -407,7 +407,7 @@ Stanley's demon can't go away, because he doesn't exist.  Despite singleminded a
 
 To know Stanley is to know his demon.  If you know the other guy's demon, then maybe you'll come to know some of your own.   You'll be able to separate reality from illusion.   And then you won't do your cause, and yourself, more harm than good. Like poor damned Stanley from Chicago did.
 
-                         #
+        ---
 
 The Federal Computer Investigations Committee (FCIC) is the most important and influential organization in the realm of American computer-crime.  Since the police of other countries have largely taken their computer-crime cues from American methods, the FCIC might well be called the most important computer crime group in the world.
 
@@ -579,7 +579,7 @@ FCIC people tend to change jobs a lot.  They tend not to get the equipment and t
 
 As the night wore on and a band set up in the bar, the talk grew darker.  Nothing ever gets done in government, someone opined, until there's a *disaster.*  Computing disasters are awful, but there's no denying that they greatly  help the credibility of FCIC people.  The Internet Worm, for instance.  "For years we'd been warning about that — but it's nothing compared to what's coming."  They expect horrors, these people.  They know that nothing will really get done until there is a horror.
 
-                         #
+        ---
 
 Next day we heard an extensive briefing from a guy who'd been a computer cop, gotten into hot water with an Arizona city council, and now installed computer networks for a living (at a considerable rise in pay).  He talked about pulling fiber-optic networks apart.
 
@@ -691,7 +691,7 @@ As soon as they were gone, Thackeray seemed elated.   She had taken a great risk
 
 "Did you hear what Godwin said about *instrumentality of a crime?*"  she exulted, to nobody in particular.  "Wow, that means *Mitch isn't going to sue me.*"
 
-                         #
+        ---
 
 America's computer police are an interesting group.  As a social phenomenon they are far more interesting, and far more important, than teenage phone phreaks and computer hackers.  First, they're older and wiser; not dizzy hobbyists with leaky morals, but  seasoned adult professionals with all the responsibilities of public service.  And, unlike hackers, they possess not merely *technical* power alone, but heavy-duty legal and social authority.
 
@@ -711,7 +711,7 @@ Every Secret Service agent must complete gruelling courses at the Federal Law En
 
 In order to get a glimpse of what this might be like, I myself travelled to FLETC.
 
-                         #
+        ---
 
 The Federal Law Enforcement Training Center is a 1500-acre facility on Georgia's Atlantic coast.   It's a milieu of marshgrass, seabirds,  damp, clinging sea-breezes, palmettos, mosquitos, and bats.   Until 1974, it was a  Navy Air Base, and still features a working runway, and some WWII vintage blockhouses and officers' quarters.  The Center has since benefitted by a forty-million-dollar retrofit, but there's still enough forest and swamp on the facility for the Border Patrol to put in tracking practice.
 

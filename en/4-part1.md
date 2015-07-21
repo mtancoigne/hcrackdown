@@ -22,7 +22,7 @@ The  Crash of January 15  gave the Hacker Crackdown its sense of edge and  its s
 
 An obscure software fault in an aging switching system in New York  was to lead to a chain reaction of legal and constitutional trouble all across the country.
 
-                 #
+---
 
 Like the crash in the telephone system, this chain reaction was ready and waiting to happen.  During the 1980s, the American legal system was extensively patched to deal with the novel issues of computer crime.  There was, for instance, the Electronic  Communications Privacy Act of 1986  (eloquently described as "a stinking mess" by a prominent law enforcement official).   And there was the draconian Computer Fraud and Abuse Act of 1986, passed unanimously by the United States Senate, which later would reveal a large number of flaws.   Extensive, well-meant efforts had been made to keep the legal system up to date.  But in the day-to-day grind of the real world, even the most elegant software tends to crumble and suddenly reveal its hidden bugs.
 
@@ -30,7 +30,7 @@ Like the advancing telephone system, the American legal system was certainly not
 
 In order to understand why these weird events occurred, both in the world of technology and in the world of law, it's not enough to understand the merely technical problems.  We will get to those; but first and foremost, we must try to understand the telephone, and the business of telephones, and the community of human beings that telephones have created.
 
-                 #
+---
 
 Technologies have life cycles, like cities do, like institutions do, like laws and governments do.
 
@@ -158,7 +158,7 @@ These electronic communities, having flourished throughout the 1980s, were becom
 
 That cause was the AT&T Crash of January 15, 1990. After the Crash, the wounded and anxious telephone community would come out fighting hard.
 
-                 #
+---
 
 The community of telephone technicians, engineers, operators and researchers is the oldest community in cyberspace.   These are the veterans, the most developed group,  the richest, the most respectable, in most ways the most powerful.   Whole generations  have come and gone since Alexander Graham Bell's day, but the community he founded survives; people work for the phone system today whose great-grandparents worked for the phone system. Its specialty magazines, such as *Telephony,*  *AT&T Technical Journal,*   *Telephone Engineer and Management,*  are decades old; they make computer publications like *Macworld* and *PC Week*  look like amateur johnny-come-latelies.
 
@@ -182,7 +182,7 @@ The deep attraction of this sensation  of elite technical power should never be 
 
 So Bell had power beyond mere capitalism.  The Bell service  ethos worked, and was often propagandized, in a rather saccharine fashion.  Over the decades,  people slowly grew tired of this.   And then, openly impatient with it.  By the early 1980s, Ma Bell was to find herself with scarcely a real friend in the world.   Vail's industrial socialism had become hopelessly out-of-fashion politically.  Bell would be punished for that.  And that punishment would fall harshly upon the people of the telephone community.
 
-                 #
+---
 
 In 1983, Ma Bell was dismantled by federal court action.  The pieces of Bell are now separate corporate entities.  The core of the company became AT&T Communications, and also AT&T  Industries (formerly Western Electric, Bell's manufacturing arm).  AT&T Bell Labs become Bell Communications Research, Bellcore. Then there are the Regional Bell Operating Companies, or  RBOCs, pronounced "arbocks."
 
@@ -226,7 +226,7 @@ In late '88 and throughout 1989, telco representatives grew shrill in their comp
 
 Those bitter rivals: AT&T, MCI and Sprint — and a crowd of Baby Bells:  PacBell, Bell South, Southwestern Bell, NYNEX, USWest, as well as the Bell research consortium Bellcore, and the independent long-distance carrier  Mid-American  — all were to have their role in the great hacker dragnet of 1990.   After years of being battered and pushed around, the telcos had, at least in a small way, seized the initiative again.  After years of turmoil, telcos and government officials were once again to work smoothly in concert in defense of the System. Optimism blossomed; enthusiasm grew on all sides; the prospective taste of vengeance was sweet.
 
-                 #
+---
 
 From the beginning — even before the crackdown had a name — secrecy was a big problem.  There were many good reasons for secrecy in the hacker crackdown. Hackers and code-thieves were wily prey, slinking back to their bedrooms and basements and destroying vital incriminating evidence at the first hint of trouble. Furthermore, the crimes themselves were heavily technical and difficult to describe, even to police — much less to the general public.
 
@@ -256,7 +256,7 @@ And even if it had, it probably would not have slowed the ferocious pursuit of a
 
 In the chapters to follow, we will explore the worlds of police and the computer underground, and the large shadowy area where they overlap.   But first, we must explore the battleground.  Before we leave the world of the telcos, we must understand what a switching system actually is and how your telephone actually works.
 
-                 #
+---
 
 To the average citizen, the idea of the telephone is represented by, well,  a *telephone:*  a device that you talk into.  To a telco professional, however, the telephone itself is known, in lordly fashion, as a "subset."   The "subset" in your house is a mere adjunct, a distant nerve ending, of the central switching stations, which are ranked in levels of heirarchy, up to the  long-distance electronic switching stations, which are some of the largest computers on earth.
 
