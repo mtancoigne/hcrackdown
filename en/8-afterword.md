@@ -1,12 +1,12 @@
 Afterword:  The Hacker Crackdown Three Years Later
 
-     Three years in cyberspace is like thirty years anyplace
+Three years in cyberspace is like thirty years anyplace
 real.  It feels as if a generation has passed since I wrote
 this
 book.  In terms of the generations of computing machinery
 involved, that's pretty much the case.
 
-     The basic shape of cyberspace has changed drastically
+The basic shape of cyberspace has changed drastically
 since 1990.  A new U.S. Administration is in power whose
 personnel are, if anything, only too aware of the nature and
 potential of electronic networks.  It's now clear to all
@@ -19,7 +19,7 @@ cable-phone alliances, the Information Superhighway, fiber-
 to-the-curb, laptops and palmtops, the explosive growth of
 cellular and the Internet -- the earth trembles visibly.
 
-     The year 1990 was not a pleasant one for AT&T.  By
+The year 1990 was not a pleasant one for AT&T.  By
 1993,
 however, AT&T had successfully devoured the computer
 company NCR in an unfriendly takeover, finally giving the
@@ -35,7 +35,7 @@ potential rivals, as the Chinese firewalls between regulated
 monopoly and frenzied digital entrepreneurism began to melt
 and collapse headlong.
 
-     AT&T, mocked by industry analysts in 1990, was reaping
+AT&T, mocked by industry analysts in 1990, was reaping
 awestruck praise by commentators in 1993.   AT&T had
 managed to avoid any more major software crashes in its
 switching stations.  AT&T's newfound reputation as "the
@@ -52,7 +52,7 @@ with investments in handwritten interfaces.  In 1990 AT&T
 had
 looked bad; but in 1993 AT&T looked like the future.
 
-     At least, AT&T's *advertising* looked like the future.
+At least, AT&T's *advertising* looked like the future.
 Similar public attention was riveted on the massive $22
 billion
 megamerger between RBOC Bell Atlantic and cable-TV giant
@@ -75,7 +75,7 @@ mindboggling vastness that the very idea of hacking
 passwords
 seemed rather a waste of time.
 
-     By 1993, there had not been a solid, knock 'em down,
+By 1993, there had not been a solid, knock 'em down,
 panic-striking, teenage-hacker  computer-intrusion scandal
 in
 many long months.  There had, of course, been some striking
@@ -86,7 +86,7 @@ clear
 pursuit of personal or commercial advantage.  The kids, by
 contrast, all seemed to be on IRC, Internet Relay Chat.
 
-     Or, perhaps, frolicking out in the endless glass-roots
+Or, perhaps, frolicking out in the endless glass-roots
 network of personal bulletin board systems.  In 1993, there
 were an estimated 60,000 boards in America; the population
 of
@@ -100,7 +100,7 @@ politically aware community, no longer allowing themselves
 to
 be obscure.
 
-     The specter of cyberspace in the late 1980s, of
+The specter of cyberspace in the late 1980s, of
 outwitted
 authorities trembling in fear before teenage hacker whiz-
 kids,
@@ -117,7 +117,7 @@ almost the size of Operation Sundevil, but received very
 little
 notice by comparison.
 
-     The huge and well-organized "Operation Disconnect,"
+The huge and well-organized "Operation Disconnect,"
 an FBI strike against telephone rip-off con-artists, was
 actually larger than Sundevil.  "Operation Disconnect" had
 its
@@ -134,7 +134,7 @@ Chicago Computer Fraud and Abuse Task Force.  But the life
 of
 an electronic policeman is seldom easy.
 
-     If any law enforcement event truly deserved full-scale
+If any law enforcement event truly deserved full-scale
 press coverage (while somehow managing to escape it), it was
 the amazing saga of New York State Police Senior
 Investigator Don Delaney Versus the Orchard Street Finger-
@@ -157,7 +157,7 @@ thieves showed a street-level ingenuity appalling in its
 single-
 minded sense of larceny.
 
-     There was no dissident-hacker rhetoric about  freedom-
+There was no dissident-hacker rhetoric about  freedom-
 of-information among the finger-hackers.  Most of them came
 out of the cocaine-dealing fraternity, and they retailed
 stolen
@@ -173,7 +173,7 @@ provided a service no one else would give to a clientele
 with
 little to lose.
 
-     With such a vast supply of electronic crime  at hand,
+With such a vast supply of electronic crime  at hand,
 Don
 Delaney rocketed from a background in homicide to teaching
 telecom crime at FLETC in less than three years.  Few can
@@ -187,7 +187,7 @@ on
 telecom fraud and computer crime, in Joseph Grau's *Criminal
 and Civil Investigations Handbook* (McGraw Hill 1993).
 
-     *Phrack* was still publishing in 1993, now under the
+*Phrack* was still publishing in 1993, now under the
 able
 editorship of Erik Bloodaxe.  Bloodaxe made a determined
 attempt to get law enforcement and corporate security to pay
@@ -200,7 +200,7 @@ back any of his property from the seizure raids of March 1,
 editor
 of Steve Jackson Games.
 
-     Nor has Robert Izenberg, who has suspended his court
+Nor has Robert Izenberg, who has suspended his court
 struggle to get his machinery back.  Mr Izenberg has
 calculated
 that his $20,000 of equipment seized in 1990 is, in 1993,
@@ -219,7 +219,7 @@ by 1995.  Robert Izenberg no longer works for IBM, but has a
 job programming for a major telecommunications company in
 Austin.
 
-     Steve Jackson won his case against the Secret Service
+Steve Jackson won his case against the Secret Service
 on
 March 12, 1993, just over three years after the federal raid
 on
@@ -232,7 +232,7 @@ Cook, Tim Foley, Barbara Golden and Henry Kluepfel.   (Cook,
 Foley, Golden and Kluepfel did, however, testify during the
 trial.)
 
-     The Secret Service fought vigorously in the case,
+The Secret Service fought vigorously in the case,
 battling
 Jackson's lawyers right down the line, on the (mostly
 previously untried) legal turf of the Electronic
@@ -248,7 +248,7 @@ vanished by
 accident because they merely happened to be inside the
 computers the agents were appropriating.
 
-     The Secret Service also denied any wrongdoing in
+The Secret Service also denied any wrongdoing in
 reading and erasing all the supposedly "private" e-mail
 inside
 Jackson's seized board, Illuminati.  The USSS attorneys
@@ -265,13 +265,13 @@ even supposing that they had, they were allowed to do that
 by
 the subpoena.
 
-     The Jackson case became even more peculiar when the
+The Jackson case became even more peculiar when the
 Secret Service attorneys went so far as to allege that the
 federal raid against the gaming company had actually
 *improved Jackson's business*  thanks to the ensuing
 nationwide publicity.
 
-     It was a long and rather involved trial.  The judge
+It was a long and rather involved trial.  The judge
 seemed most perturbed, not by the arcane matters of
 electronic
 law, but by the fact that the Secret Service could have
@@ -297,7 +297,7 @@ the Act, but he'd decided on his own that the Privacy
 Protection
 Act had nothing to do with Steve Jackson.
 
-     The Jackson case was also a very politicized trial,
+The Jackson case was also a very politicized trial,
 both
 sides deliberately angling for a long-term legal precedent
 that
@@ -336,7 +336,7 @@ Internet
 node, "io.com," with dozens of phone-lines on its  own T-1
 trunk.
 
-     Jackson has made the entire blow-by-blow narrative of
+Jackson has made the entire blow-by-blow narrative of
 his case available electronically, for interested parties.
 And yet, the
 Jackson case may still not be over; a Secret Service appeal
@@ -345,7 +345,7 @@ likely and the EFF is also gravely dissatisfied with the
 ruling on
 electronic interception.
 
-     The WELL, home of the American electronic civil
+The WELL, home of the American electronic civil
 libertarian movement, added two thousand more users and
 dropped its aging Sequent computer in favor of a snappy new
 Sun Sparcstation.  Search-and-seizure discussions on the
@@ -356,7 +356,7 @@ digital civil liberties, unbreakable public-key encryption
 for
 private citizens.
 
-     The Electronic Frontier Foundation left its modest home
+The Electronic Frontier Foundation left its modest home
 in Boston to move inside the Washington Beltway of the
 Clinton Administration.  Its new executive director, ECPA
 pioneer and longtime ACLU activist Jerry Berman, gained a
@@ -372,7 +372,7 @@ and powerful opposition to the electronic ambitions of the
 FBI
 and the NSA.
 
-     EFF had transmuted at light-speed from an insurrection
+EFF had transmuted at light-speed from an insurrection
 to an institution.  EFF Co-Founder Mitch Kapor once again
 sidestepped the bureaucratic consequences of his own
 success,
@@ -385,7 +385,7 @@ left Boston for Washington as EFF's official legal adviser
 to the
 electronically afflicted.
 
-     After the Neidorf trial, Dorothy Denning further proved
+After the Neidorf trial, Dorothy Denning further proved
 her firm scholastic independence-of-mind by speaking up
 boldly on the usefulness and social value of federal
 wiretapping.  Many civil libertarians, who regarded the
@@ -399,7 +399,7 @@ Denning in the slightest.  She not only made up her own
 mind,
 she made it up in public and then stuck to her guns.
 
-     In 1993, the stalwarts of the Masters of Deception,
+In 1993, the stalwarts of the Masters of Deception,
 Phiber
 Optik, Acid Phreak and Scorpion, finally fell afoul of the
 machineries of legal prosecution.  Acid Phreak and Scorpion
@@ -414,7 +414,7 @@ the possibility of ten years in jail, he finally did so.  He
 was
 sentenced to a year and a day in prison.
 
-     As for the Atlanta wing of the Legion of Doom, Prophet,
+As for the Atlanta wing of the Legion of Doom, Prophet,
 Leftist and Urvile...   Urvile now works for a software
 company in Atlanta.  He is still on probation and still
 repaying
@@ -426,7 +426,7 @@ prison.  He has lost contact with Prophet and Leftist.
 Unfortunately, so have I, though not through lack of honest
 effort.
 
-     Knight Lightning, now 24,  is a technical writer for
+Knight Lightning, now 24,  is a technical writer for
 the federal government in Washington DC.  He has still not
 been accepted into law school, but having spent more than
 his
@@ -440,33 +440,33 @@ is manfully working two jobs.  Knight Lightning customarily
 wears a suit and tie and carries a valise.  He has a federal
 security clearance.
 
-     Unindicted *Phrack* co-editor Taran King is also a
+Unindicted *Phrack* co-editor Taran King is also a
 technical writer in Washington DC,  and recently got
 married.
 
-     Terminus did his time, got out of prison, and currently
+Terminus did his time, got out of prison, and currently
 lives in Silicon Valley where he is running a full-scale
 Internet
 node, "netsys.com."   He programs professionally for a
 company specializing in satellite links for the Internet.
 
-     Carlton Fitzpatrick still teaches at the Federal Law
+Carlton Fitzpatrick still teaches at the Federal Law
 Enforcement Training Center, but FLETC found that the issues
 involved in sponsoring and running a bulletin board system
 are
 rather more complex than they at first appear to be.
 
-     Gail Thackeray  briefly considered going into private
+Gail Thackeray  briefly considered going into private
 security, but then changed tack, and joined the Maricopa
 County District Attorney's Office (with a salary).  She is
 still
 vigorously prosecuting electronic racketeering in Phoenix,
 Arizona.
 
-     The fourth consecutive Computers, Freedom and Privacy
+The fourth consecutive Computers, Freedom and Privacy
 Conference will take place in March 1994 in Chicago.
 
-     As for Bruce Sterling... well *8-).  I thankfully
+As for Bruce Sterling... well *8-).  I thankfully
 abandoned
 my brief career as  a true-crime journalist and wrote a new
 science fiction novel, *Heavy Weather,* and assembled a new
@@ -475,7 +475,7 @@ nonfiction regularly,  for the popular-science column in
 *The
 Magazine of  Fantasy and Science Fiction.*
 
-     I like life better on the far side of the boundary
+I like life better on the far side of the boundary
 between
 fantasy and reality;  but I've come to recognize that
 reality has
@@ -489,7 +489,7 @@ involved in electronic civil liberties activism for the rest
 of my
 life.
 
-     It wouldn't be hard to find material for another book
+It wouldn't be hard to find material for another book
 on
 computer crime and civil liberties issues.   I truly believe
 that I
@@ -504,7 +504,7 @@ cyberspace are an element of our society that definitely
 requires
 sustained study and attention.
 
-     But there's only one of me, and I have a lot on my
+But there's only one of me, and I have a lot on my
 mind,
 and, like most science fiction writers, I have a lot more
 imagination than discipline.  Having done my stint as an
@@ -519,7 +519,7 @@ nowadays.  There are landslides in cyberspace.  I'll just
 have to
 try and stay alert and on my feet.
 
-     The electronic landscape changes with astounding speed.
+The electronic landscape changes with astounding speed.
 We are living through the fastest technological
 transformation
 in human history.  I was glad to have a chance to document
@@ -529,14 +529,14 @@ date, though, and it will be quite obsolete in another five
 years.
 It seems a pity.
 
-     However, in about fifty years, I think this book might
+However, in about fifty years, I think this book might
 seem quite interesting.  And in a hundred years, this book
 should seem mind-bogglingly archaic and bizarre, and will
 probably seem far weirder to an audience in 2092 than it
 ever
 seemed to the contemporary readership.
 
-     Keeping up in cyberspace requires a great deal of
+Keeping up in cyberspace requires a great deal of
 sustained attention.   Personally, I keep tabs with the
 milieu by
 reading the invaluable electronic magazine  Computer
@@ -555,7 +555,7 @@ ways
 to learn, of course, but these three outlets will guide your
 efforts very well.
 
-     When I myself want to publish something electronically,
+When I myself want to publish something electronically,
 which I'm doing with increasing frequency, I generally put
 it on
 the gopher at Texas Internet Consulting, who are my, well,
@@ -564,7 +564,7 @@ found
 there.  I think it is a worthwhile act to let this work go
 free.
 
-     From thence, one's bread floats out onto the dark
+From thence, one's bread floats out onto the dark
 waters
 of cyberspace, only to return someday, tenfold.  And of
 course,
@@ -573,7 +573,7 @@ ecosystem of bizarre and gnawingly hungry cybermarine life-
 forms.  For this author at least, that's all that really
 counts.
 
-     Thanks for your attention  *8-)
+Thanks for your attention  *8-)
 
-     Bruce Sterling  bruces@well.sf.ca.us  -- New Years' Day
+Bruce Sterling  bruces@well.sf.ca.us  -- New Years' Day
 1994, Austin Texas

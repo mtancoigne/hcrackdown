@@ -493,8 +493,8 @@ Translators            (g trans)               Travel
 (g tra)
 Work                   (g work)
 
-        Electronic Frontier Foundation    (g eff)
-        Computers, Freedom & Privacy      (g cfp)
+Electronic Frontier Foundation    (g eff)
+Computers, Freedom & Privacy      (g cfp)
 Computer Professionals for Social Responsibility  (g cpsr)
 
            Social - Political - Humanities
@@ -672,13 +672,13 @@ System News            (g news)        Test
 (g test)
 
 
-        The list itself is dazzling, bringing to the
+The list itself is dazzling, bringing to the
 untutored
 eye a dizzying impression of a bizarre milieu of mountain-
 climbing Hawaiian holistic photographers trading true-life
 confessions with bisexual word-processing Tibetans.
 
-     But this confusion is more apparent than real.  Each
+But this confusion is more apparent than real.  Each
 of these conferences was a little cyberspace world in
 itself,
 comprising dozens and perhaps hundreds of sub-topics.
@@ -693,14 +693,14 @@ elsewhere for a taste of exotica.   But especially important
 news items, and hot topical debates, could catch the
 attention of the entire Well community.
 
-     Like any community, the Well had its celebrities, and
+Like any community, the Well had its celebrities, and
 John Perry Barlow, the silver-tongued and silver-
 modemed lyricist of the Grateful Dead, ranked
 prominently among them.  It was here on the Well that
 Barlow posted his true-life tale of computer-crime
 encounter with the FBI.
 
-     The story, as might be expected, created a great stir.
+The story, as might be expected, created a great stir.
 The Well was already primed for hacker controversy.  In
 December 1989, *Harper's* magazine had hosted a
 debate on the Well about the ethics of illicit computer
@@ -714,7 +714,7 @@ swaggering outlaws in the precincts of the Well created a
 sensation akin to that of Black Panthers at a cocktail party
 for the radically chic.
 
-     Phiber Optik in particular was to seize the day in
+Phiber Optik in particular was to seize the day in
 1990.
 A devotee of the *2600* circle and stalwart of the New York
 hackers' group "Masters of Deception,"  Phiber Optik was
@@ -729,7 +729,7 @@ late 1991, Phiber Optik had appeared in *Harper's,*
 debates and conventions, even on a television show
 hosted by Geraldo Rivera.
 
-     Treated with gingerly respect by Barlow and other
+Treated with gingerly respect by Barlow and other
 Well mavens,   Phiber Optik swiftly became a Well
 celebrity.   Strangely, despite his thorny attitude and
 utter
@@ -740,7 +740,7 @@ to swagger, and, better yet, to actually *demonstrate*
 some off-the-wall digital stunt.   He was a born media
 darling.
 
-     Even cops seemed to recognize that there was
+Even cops seemed to recognize that there was
 something peculiarly unworldly and uncriminal about this
 particular troublemaker.   He was so bold, so flagrant, so
 young, and so obviously doomed, that even those who
@@ -748,7 +748,7 @@ strongly disapproved of his actions grew anxious for his
 welfare, and began to flutter about him as if he were an
 endangered seal pup.
 
-     In January 24, 1990 (nine days after the Martin Luther
+In January 24, 1990 (nine days after the Martin Luther
 King Day Crash), Phiber Optik, Acid Phreak, and a third
 NYC scofflaw named Scorpion were raided by the Secret
 Service.   Their computers went out the door, along with
@@ -757,7 +757,7 @@ answering machines, Sony Walkmans, etc.  Both Acid
 Phreak and Phiber Optik were accused of having caused
 the Crash.
 
-     The mills of justice ground slowly.  The case
+The mills of justice ground slowly.  The case
 eventually fell into the hands of the New York State Police.
 Phiber had lost his machinery in the raid,  but there were
 no charges  filed against him for over a year.   His
@@ -773,13 +773,13 @@ own salad days, many Wellbeings had tasted tear-gas in
 pitched street-battles with police.  They were inclined to
 indulgence for acts of civil disobedience.
 
-     Wellbeings were also startled to learn of the
+Wellbeings were also startled to learn of the
 draconian thoroughness of a typical hacker search-and-
 seizure.   It took no great stretch of imagination for them
 to
 envision themselves suffering much the same treatment.
 
-     As early as January 1990, sentiment on the Well had
+As early as January 1990, sentiment on the Well had
 already begun to sour, and people had begun to grumble
 that "hackers" were getting a raw deal from the ham-
 handed powers-that-be.   The resultant issue of *Harper's*
@@ -789,7 +789,7 @@ intrusion was a "crime" at all.   As Barlow put it later:
 begun to wonder if we wouldn't also regard spelunkers as
 desperate criminals if AT&T owned all the caves."
 
-     In February 1991, more than a year after the raid on
+In February 1991, more than a year after the raid on
 his home, Phiber Optik was finally arrested, and was
 charged with first-degree Computer Tampering and
 Computer Trespass, New York state offenses.   He was also
@@ -798,7 +798,7 @@ complex free-call scam to a 900 number.  Phiber Optik
 pled guilty to the misdemeanor charge, and was
 sentenced to  35 hours of community service.
 
-     This passing harassment from the unfathomable
+This passing harassment from the unfathomable
 world of straight people seemed to bother Optik himself
 little if at all.  Deprived of his computer by the  January
 search-and-seizure, he simply bought himself a portable
@@ -807,7 +807,7 @@ where he lived with his Mom, and he went right on with his
 depredations, sometimes on live radio or in front of
 television cameras.
 
-     The crackdown raid may have done little to dissuade
+The crackdown raid may have done little to dissuade
 Phiber Optik, but its  galling affect on the Wellbeings was
 profound.  As 1990 rolled on, the slings and arrows
 mounted:  the Knight Lightning raid, the Steve Jackson
@@ -815,7 +815,7 @@ raid, the nation-spanning Operation Sundevil.   The
 rhetoric of law enforcement made it clear that there was,
 in fact, a concerted crackdown on hackers in progress.
 
-     The hackers of the Hackers Conference, the
+The hackers of the Hackers Conference, the
 Wellbeings, and their ilk, did not really mind the
 occasional public misapprehension of "hacking"; if
 anything, this membrane of differentiation from straight
@@ -823,7 +823,7 @@ society made the "computer community" feel different,
 smarter, better.   They had never before been confronted,
 however, by a concerted vilification campaign.
 
-     Barlow's central role in the counter-struggle was one
+Barlow's central role in the counter-struggle was one
 of the major anomalies of 1990.   Journalists investigating
 the controversy often stumbled over the truth about
 Barlow, but they commonly dusted themselves off and
@@ -833,7 +833,7 @@ were
 Dead had taken on a federal law enforcement operation
 head-to-head and *actually seemed to be winning!*
 
-     Barlow had no easily detectable power-base for a
+Barlow had no easily detectable power-base for a
 political struggle of this kind.  He had no formal legal or
 technical credentials.   Barlow was, however, a computer
 networker of truly stellar brilliance.   He had a poet's
@@ -842,7 +842,7 @@ concise, colorful phrasing.  He also had a journalist's
 shrewdness, an off-the-wall, self-deprecating wit, and a
 phenomenal wealth of simple personal charm.
 
-     The kind of influence Barlow possessed is fairly
+The kind of influence Barlow possessed is fairly
 common currency in literary, artistic, or musical circles.
 A
 gifted critic can wield great artistic influence simply
@@ -853,7 +853,7 @@ Barlow *was*  a part-time art critic, with a special
 fondness
 for the Western art of Frederic Remington.)
 
-     Barlow was the first  commentator to adopt William
+Barlow was the first  commentator to adopt William
 Gibson's striking science-fictional term "cyberspace" as a
 synonym for the present-day nexus of computer and
 telecommunications networks.   Barlow was insistent that
@@ -870,13 +870,13 @@ concept of cyberspace was picked up by *Time,*
 even Constitutional scholars.   "Cyberspace" now seems
 likely to become a permanent fixture of the language.
 
-     Barlow was very striking in person: a tall, craggy-
+Barlow was very striking in person: a tall, craggy-
 faced, bearded, deep-voiced Wyomingan in a dashing
 Western ensemble of jeans, jacket, cowboy boots, a
 knotted throat-kerchief and an ever-present Grateful
 Dead cloisonne lapel pin.
 
-     Armed with a modem, however, Barlow was truly in
+Armed with a modem, however, Barlow was truly in
 his element.  Formal hierarchies were not Barlow's strong
 suit; he rarely missed a chance to belittle the "large
 organizations and their drones," with their uptight,
@@ -885,20 +885,20 @@ spirit persuasion, deeply unimpressed by brass-hats and
 jacks-in-office.  But when it came to the digital grapevine,
 Barlow was a cyberspace ad-hocrat par excellence.
 
-     There was not a mighty army of Barlows.  There was
+There was not a mighty army of Barlows.  There was
 only one Barlow, and he was a fairly anomolous individual.
 However, the situation only seemed to *require*  a single
 Barlow.   In fact, after 1990, many people must have
 concluded that a single Barlow was far more than they'd
 ever bargained for.
 
-     Barlow's  querulous mini-essay about his encounter
+Barlow's  querulous mini-essay about his encounter
 with the FBI struck a strong chord on the Well.   A number
 of other free spirits on the fringes of Apple Computing had
 come under suspicion, and they liked it not one whit better
 than he did.
 
-     One of these was Mitchell Kapor, the co-inventor of
+One of these was Mitchell Kapor, the co-inventor of
 the spreadsheet program "Lotus 1-2-3" and the founder of
 Lotus Development Corporation.   Kapor had written-off
 the passing indignity of being fingerprinted down at his
@@ -909,13 +909,13 @@ Secret Service swung into anti-hacker operation
 nationwide in 1990, Kapor watched every move with deep
 skepticism and growing alarm.
 
-     As it happened, Kapor had already met Barlow, who
+As it happened, Kapor had already met Barlow, who
 had interviewed Kapor for a California computer journal.
 Like most people who met Barlow, Kapor had been very
 taken with him.   Now Kapor took it upon himself to drop
 in on Barlow for a heart-to-heart talk about the situation.
 
-     Kapor was a regular on the Well.  Kapor had been a
+Kapor was a regular on the Well.  Kapor had been a
 devotee of the *Whole Earth Catalog* since the
 beginning, and treasured a complete run of the magazine.
 And Kapor not only had a modem, but a private jet.   In
@@ -924,7 +924,7 @@ Enterprises Inc., his personal, multi-million dollar holding
 company, Kapor commonly crossed state lines with about
 as much thought as one might give to faxing a letter.
 
-      The Kapor-Barlow council of June 1990, in Pinedale,
+The Kapor-Barlow council of June 1990, in Pinedale,
 Wyoming, was the start of the Electronic Frontier
 Foundation.   Barlow swiftly wrote a manifesto, "Crime and
 Puzzlement,"  which announced his, and Kapor's,
@@ -933,7 +933,7 @@ disburse funds for education, lobbying, and litigation in
 the areas relating to digital speech and the extension of
 the Constitution into Cyberspace."
 
-     Furthermore, proclaimed the manifesto, the
+Furthermore, proclaimed the manifesto, the
 foundation would "fund, conduct, and support legal efforts
 to demonstrate that the Secret Service has exercised prior
 restraint on publications, limited free speech, conducted
@@ -941,7 +941,7 @@ improper seizure of equipment and data, used undue
 force, and generally conducted itself in a fashion which is
 arbitrary, oppressive, and unconstitutional."
 
-     "Crime and Puzzlement" was distributed far and wide
+"Crime and Puzzlement" was distributed far and wide
 through computer networking channels, and also printed
 in the *Whole Earth Review.*  The sudden declaration of a
 coherent, politicized counter-strike from the ranks of
@@ -950,7 +950,7 @@ hackerdom electrified the community.   Steve Wozniak
 swiftly offered to match any funds Kapor offered the
 Foundation.
 
-     John Gilmore, one of the pioneers of Sun
+John Gilmore, one of the pioneers of Sun
 Microsystems, immediately offered his own extensive
 financial and personal support.   Gilmore, an ardent
 libertarian, was to prove an eloquent advocate of
@@ -958,7 +958,7 @@ electronic privacy issues, especially freedom from
 governmental and corporate computer-assisted
 surveillance of private citizens.
 
-     A second meeting in San Francisco rounded up
+A second meeting in San Francisco rounded up
 further allies:  Stewart Brand of the Point Foundation,
 virtual-reality pioneers Jaron Lanier and Chuck
 Blanchard,  network entrepreneur and venture capitalist
@@ -969,7 +969,7 @@ A new EFF Conference was opened on the Point
 Foundation's Well, and the Well was declared "the home
 of the Electronic Frontier Foundation."
 
-     Press coverage was immediate and intense.   Like
+Press coverage was immediate and intense.   Like
 their nineteenth-century spiritual ancestors, Alexander
 Graham Bell and Thomas Watson, the high-tech
 computer entrepreneurs of the 1970s and 1980s -- people
@@ -978,7 +978,7 @@ who had raised themselves by their bootstraps to
 dominate a glittering new industry -- had always made
 very good copy.
 
-     But while the Wellbeings rejoiced, the press in
+But while the Wellbeings rejoiced, the press in
 general seemed nonplussed by the self-declared
 "civilizers of cyberspace."   EFF's insistence that the war
 against "hackers" involved grave Constitutional civil
@@ -992,13 +992,13 @@ important  political development -- or merely a clique of
 wealthy eccentrics, dabbling in matters better left to the
 proper authorities?  The jury was still out.
 
-     But the stage was now set for open confrontation.
+But the stage was now set for open confrontation.
 And the first and the most critical battle was the hacker
 show-trial of "Knight Lightning."
 
                          #
 
-     It has been my practice throughout this book to refer
+It has been my practice throughout this book to refer
 to hackers only by their "handles."   There is little to
 gain
 by giving the real names of these people, many of whom
@@ -1006,14 +1006,14 @@ are juveniles, many of whom have never been convicted of
 any crime, and many of whom had unsuspecting parents
 who have already suffered enough.
 
-     But the  trial of Knight Lightning on July 24-27, 1990,
+But the  trial of Knight Lightning on July 24-27, 1990,
 made this particular "hacker" a nationally known public
 figure.  It can do no particular harm to himself or his
 family if I repeat the long-established fact that his name
 is
 Craig Neidorf (pronounced NYE-dorf).
 
-     Neidorf's jury trial took place in the United States
+Neidorf's jury trial took place in the United States
 District Court, Northern District of Illinois, Eastern
 Division, with the Honorable Nicholas J. Bua presiding.
 The United States of America was the plaintiff, the
@@ -1021,13 +1021,13 @@ defendant Mr.  Neidorf.   The defendant's attorney was
 Sheldon T. Zenner of the Chicago firm of Katten, Muchin
 and Zavis.
 
-     The prosecution was led by the stalwarts of the
+The prosecution was led by the stalwarts of the
 Chicago Computer Fraud and Abuse Task Force: William
 J. Cook, Colleen D. Coughlin, and David A. Glockner, all
 Assistant United States Attorneys.   The Secret Service
 Case Agent was Timothy M. Foley.
 
-     It will be recalled that Neidorf was the co-editor of
+It will be recalled that Neidorf was the co-editor of
 an
 underground hacker "magazine" called *Phrack*.
 *Phrack*  was an entirely electronic publication,
@@ -1037,7 +1037,7 @@ Neidorf had never made any money for his work in
 *Phrack.*  Neither had his unindicted co-editor "Taran
 King" or any of the numerous *Phrack* contributors.
 
-     The Chicago Computer Fraud and Abuse Task Force,
+The Chicago Computer Fraud and Abuse Task Force,
 however, had decided to prosecute Neidorf as a fraudster.
 To formally admit that *Phrack* was a "magazine" and
 Neidorf a "publisher" was to open a prosecutorial
@@ -1051,14 +1051,14 @@ of
 Title 18, the section from which the Secret Service drew its
 most direct jurisdiction over computer crime.
 
-     Neidorf's alleged crimes centered around the E911
+Neidorf's alleged crimes centered around the E911
 Document.   He was accused of having entered into a
 fraudulent scheme with the Prophet, who, it will be
 recalled, was the Atlanta LoD member who had illicitly
 copied  the E911 Document from the BellSouth AIMSX
 system.
 
-     The Prophet himself was also a co-defendant in the
+The Prophet himself was also a co-defendant in the
 Neidorf case, part-and-parcel of the alleged "fraud
 scheme" to "steal" BellSouth's E911 Document (and to
 pass the Document across state lines, which helped
@@ -1067,7 +1067,7 @@ Prophet,
 in the spirit of full co-operation, had agreed to testify
 against Neidorf.
 
-     In fact, all three of the Atlanta crew stood ready to
+In fact, all three of the Atlanta crew stood ready to
 testify against Neidorf.   Their own federal prosecutors in
 Atlanta had charged the Atlanta Three with:  (a)
 conspiracy,  (b) computer fraud, (c) wire fraud, (d) access
@@ -1075,7 +1075,7 @@ device fraud, and (e) interstate transportation of stolen
 property (Title 18, Sections 371, 1030, 1343, 1029, and
 2314).
 
-     Faced with this blizzard of trouble, Prophet and
+Faced with this blizzard of trouble, Prophet and
 Leftist had ducked any public trial and  had pled guilty to
 reduced charges -- one conspiracy count apiece.   Urvile
 had pled guilty to that odd bit of Section 1029 which makes
@@ -1086,7 +1086,7 @@ were scheduled for September 14, 1990 -- well after the
 Neidorf trial.   As witnesses, they could presumably be
 relied upon to behave.
 
-     Neidorf, however,  was pleading innocent.   Most
+Neidorf, however,  was pleading innocent.   Most
 everyone else caught up in the crackdown had
 "cooperated fully" and pled guilty in hope of reduced
 sentences.   (Steve Jackson was a notable exception, of
@@ -1095,19 +1095,19 @@ very beginning.  But Steve Jackson could not get a day in
 court -- Steve Jackson had never been charged with any
 crime in the first place.)
 
-     Neidorf had been urged to plead guilty.  But Neidorf
+Neidorf had been urged to plead guilty.  But Neidorf
 was a political science major and was disinclined to go to
 jail for  "fraud" when he had not made any money, had not
 broken into any computer, and had been publishing a
 magazine that he considered protected under the First
 Amendment.
 
-     Neidorf's trial was the *only*  legal action of the
+Neidorf's trial was the *only*  legal action of the
 entire Crackdown that actually involved bringing the
 issues at hand out for a public test in front of a jury of
 American citizens.
 
-     Neidorf, too, had cooperated with investigators.  He
+Neidorf, too, had cooperated with investigators.  He
 had voluntarily handed over much of the evidence that
 had led to his own indictment.  He had already admitted
 in writing that he knew that the E911 Document had been
@@ -1117,7 +1117,7 @@ stolen
 property by wire  in something purporting to be a
 "publication."
 
-     But even if the "publication" of the E911 Document
+But even if the "publication" of the E911 Document
 was not held to be a crime,  that wouldn't let Neidorf off
 the hook.  Neidorf  had still received  the E911 Document
 when Prophet had transferred it to him from Rich
@@ -1125,7 +1125,7 @@ Andrews' Jolnet node.  On that  occasion, it certainly
 hadn't been "published" -- it was hacker booty, pure and
 simple, transported across state lines.
 
-     The Chicago Task Force led a Chicago grand jury to
+The Chicago Task Force led a Chicago grand jury to
 indict  Neidorf on a set of charges that could have put him
 in jail for thirty years.  When some of these charges were
 successfully challenged before Neidorf actually went to
@@ -1140,7 +1140,7 @@ commission.  This was a federal case, and Neidorf was
 charged with the fraudulent theft of property worth almost
 eighty thousand dollars.
 
-     William Cook was a strong believer in high-profile
+William Cook was a strong believer in high-profile
 prosecutions with symbolic overtones.  He often published
 articles on his work in the security trade press, arguing
 that "a clear message had to be sent to the public at large
@@ -1149,7 +1149,7 @@ unauthorized attacks on computers and the theft of
 computerized information would not be tolerated by the
 courts."
 
-     The issues were complex, the prosecution's tactics
+The issues were complex, the prosecution's tactics
 somewhat unorthodox, but the Chicago Task Force had
 proved sure-footed to date.  "Shadowhawk"  had been
 bagged on the wing in 1989 by the Task Force, and
@@ -1157,7 +1157,7 @@ sentenced to nine months in prison, and a $10,000 fine.
 The Shadowhawk case involved charges under Section
 1030, the "federal interest computer" section.
 
-     Shadowhawk had not in fact been a devotee of
+Shadowhawk had not in fact been a devotee of
 "federal-interest" computers per se.  On the contrary,
 Shadowhawk, who owned an AT&T home computer,
 seemed to cherish a special aggression toward AT&T.  He
@@ -1169,7 +1169,7 @@ Bellcore Security, scourge of the outlaw boards, whose
 relations with the Chicago Task Force were long and
 intimate.
 
-     The Task Force successfully established that Section
+The Task Force successfully established that Section
 1030 applied to the teenage Shadowhawk, despite the
 objections of his defense attorney.  Shadowhawk had
 entered a computer "owned" by U.S. Missile Command
@@ -1178,7 +1178,7 @@ AT&T computer located at Robbins Air Force Base in
 Georgia.   Attacking AT&T was of "federal interest"
 whether Shadowhawk had intended it or not.
 
-     The Task Force also convinced the court that a piece
+The Task Force also convinced the court that a piece
 of AT&T software that Shadowhawk had illicitly copied
 from Bell Labs, the "Artificial Intelligence C5 Expert
 System," was worth a cool one million dollars.
@@ -1194,7 +1194,7 @@ concurred with the government prosecutors that
 Shadowhawk showed clear "intent to defraud" whether
 he'd gotten any money or not.   Shadowhawk went to jail.
 
-     The Task Force's other best-known triumph had been
+The Task Force's other best-known triumph had been
 the conviction and jailing of "Kyrie."  Kyrie, a true
 denizen
 of the digital criminal underground, was a 36-year-old
@@ -1204,7 +1204,7 @@ from prison, she had fled the wrath of Canada Bell and the
 Royal Canadian Mounted Police, and eventually settled,
 very unwisely, in Chicago.
 
-     "Kyrie," who also called herself "Long Distance
+"Kyrie," who also called herself "Long Distance
 Information," specialized in voice-mail abuse.   She
 assembled large numbers of hot long-distance codes, then
 read them aloud into a series of corporate voice-mail
@@ -1217,13 +1217,13 @@ tribe of some hundred and fifty phone-phreaks, who
 followed her trail of piracy from machine to machine,
 ardently begging for her services and expertise.
 
-     Kyrie's disciples passed her stolen credit-card
+Kyrie's disciples passed her stolen credit-card
 numbers, in exchange for her stolen "long distance
 information."  Some of Kyrie's clients paid her off in cash,
 by scamming credit-card cash advances from Western
 Union.
 
-     Kyrie travelled incessantly, mostly through airline
+Kyrie travelled incessantly, mostly through airline
 tickets and hotel rooms that she scammed through stolen
 credit cards.  Tiring of this, she found refuge with a
 fellow
@@ -1234,12 +1234,12 @@ her new situation by applying for, and receiving, state
 welfare funds under a false identity as a qualified
 caretaker for the handicapped.
 
-     Sadly, Kyrie's two children by a former marriage had
+Sadly, Kyrie's two children by a former marriage had
 also vanished underground with her; these pre-teen digital
 refugees had no legal American identity, and had never
 spent a day in school.
 
-     Kyrie was addicted to technical mastery and
+Kyrie was addicted to technical mastery and
 enthralled by her own cleverness and the ardent worship
 of her teenage followers.  This  foolishly led her to phone
 up Gail Thackeray in Arizona, to boast, brag, strut, and
@@ -1249,10 +1249,10 @@ roundly despised as an adult criminal corrupting minors, a
 "female Fagin."   Thackeray passed her tapes of Kyrie's
 boasts to the Secret Service.
 
-     Kyrie was raided and arrested in Chicago in May
+Kyrie was raided and arrested in Chicago in May
 1989.  She confessed at great length and pled guilty.
 
-     In August 1990, Cook and his Task Force colleague
+In August 1990, Cook and his Task Force colleague
 Colleen Coughlin sent Kyrie to jail for 27 months, for
 computer and telecommunications fraud.  This was a
 markedly severe sentence by the usual wrist-slapping
@@ -1263,7 +1263,7 @@ been crushed.   Cook and his colleagues had been the first
 ever to put someone in prison for voice-mail abuse.   Their
 pioneering efforts had won them attention and kudos.
 
-     In his article on Kyrie, Cook drove the message home
+In his article on Kyrie, Cook drove the message home
 to the readers of *Security Management* magazine, a
 trade journal for corporate security professionals.  The
 case, Cook said, and Kyrie's stiff sentence,  "reflect a new
@@ -1277,11 +1277,11 @@ prosecutors and the course to protect their rights to the
 tangible and intangible property developed and stored on
 computers."
 
-     Cook had made it his business to construct this "new
+Cook had made it his business to construct this "new
 reality for hackers."  He'd also made it his business to
 police corporate property rights to the intangible.
 
-     Had the Electronic Frontier Foundation been a
+Had the Electronic Frontier Foundation been a
 "hacker defense fund" as that term was generally
 understood, they presumably would have stood up for
 Kyrie.   Her 1990 sentence did indeed send a "message"
@@ -1290,14 +1290,14 @@ Kyrie found no defenders at EFF, or anywhere else, for
 that matter.  EFF was not a bail-out fund for electronic
 crooks.
 
-     The Neidorf case paralleled the Shadowhawk case in
+The Neidorf case paralleled the Shadowhawk case in
 certain ways.  The victim once again was allowed to set the
 value of the "stolen" property.  Once again Kluepfel was
 both investigator and technical advisor.  Once again no
 money had changed hands, but the "intent to defraud"
 was central.
 
-     The prosecution's case showed signs of weakness
+The prosecution's case showed signs of weakness
 early on.  The Task Force had originally hoped to prove
 Neidorf the center of a nationwide Legion of Doom
 criminal conspiracy.   The *Phrack* editors threw physical
@@ -1310,7 +1310,7 @@ New York, every month.)   LoD heavy-dudes were always a
 strong presence at these *Phrack*-sponsored
 "Summercons."
 
-     In July 1988, an Arizona hacker named "Dictator"
+In July 1988, an Arizona hacker named "Dictator"
 attended Summercon in Neidorf's home town of St. Louis.
 Dictator was one of Gail Thackeray's underground
 informants; Dictator's underground board in Phoenix was
@@ -1325,7 +1325,7 @@ minors.   Summercons were social events, not sinister
 cabals.  The tapes showed fifteen hours of raucous
 laughter, pizza-gobbling, in-jokes and back-slapping.
 
-     Neidorf's lawyer, Sheldon Zenner, saw the Secret
+Neidorf's lawyer, Sheldon Zenner, saw the Secret
 Service tapes before the trial.  Zenner was shocked by the
 complete harmlessness of this meeting, which Cook had
 earlier characterized as a sinister interstate conspiracy to
@@ -1333,7 +1333,7 @@ commit fraud.   Zenner wanted to show the Summercon
 tapes to the jury.  It took protracted maneuverings by the
 Task Force to keep the tapes from the jury as "irrelevant."
 
-     The E911 Document was also proving a weak reed.  It
+The E911 Document was also proving a weak reed.  It
 had originally been valued at $79,449.   Unlike
 Shadowhawk's arcane Artificial Intelligence booty, the
 E911 Document  was not software -- it was written in
@@ -1345,42 +1345,42 @@ never know how this figure was reached or by whom,
 though I like to imagine an appraisal team consisting of
 Franz Kafka, Joseph Heller, and Thomas Pynchon."
 
-     As it happened, Barlow was unduly pessimistic.  The
+As it happened, Barlow was unduly pessimistic.  The
 EFF did, in fact, eventually discover exactly  how this
 figure
 was reached, and by whom -- but only in 1991, long after
 the Neidorf trial was over.
 
-       Kim Megahee, a Southern Bell security manager,
+Kim Megahee, a Southern Bell security manager,
 had arrived at the document's value by simply adding up
 the "costs associated with the production" of the E911
 Document.  Those "costs" were as follows:
 
-     1.  A technical writer had been hired to research and
+1.  A technical writer had been hired to research and
 write the E911 Document.  200 hours of work, at $35 an
 hour, cost : $7,000.  A Project Manager had overseen the
 technical writer.  200 hours, at $31 an hour, made: $6,200.
 
-     2.  A week of typing had cost $721 dollars.  A week of
+2.  A week of typing had cost $721 dollars.  A week of
 formatting had cost $721.  A week of graphics formatting
 had cost $742.
 
-     3.  Two days of editing cost $367.
+3.  Two days of editing cost $367.
 
 `    4.  A box of order labels cost five dollars.
 
-     5.  Preparing a purchase order for the Document,
+5.  Preparing a purchase order for the Document,
 including typing and the obtaining of an authorizing
 signature from within the BellSouth bureaucracy, cost
 $129.
 
-     6.  Printing cost $313.  Mailing the Document to fifty
+6.  Printing cost $313.  Mailing the Document to fifty
 people took fifty hours by a clerk, and cost $858.
 
-     7.  Placing the Document in an index took two clerks
+7.  Placing the Document in an index took two clerks
 an hour each, totalling $43.
 
-     Bureaucratic overhead alone, therefore, was alleged
+Bureaucratic overhead alone, therefore, was alleged
 to have cost a whopping $17,099.   According to Mr.
 Megahee, the typing of a twelve-page document had
 taken a full week.   Writing it had taken five weeks,
@@ -1391,7 +1391,7 @@ document (which was already available on the Southern
 Bell Data Network to any telco employee who needed it),
 had cost over a thousand dollars.
 
-     But this was just the beginning.  There were also the
+But this was just the beginning.  There were also the
 *hardware expenses.*   Eight hundred fifty dollars for a
 VT220 computer monitor.  *Thirty-one thousand dollars*
 for a sophisticated VAXstation II computer.  Six thousand
@@ -1400,18 +1400,18 @@ dollars*  for a copy of "Interleaf" software.  Two thousand
 five hundred dollars for VMS software.  All this to create
 the twelve-page Document.
 
-     Plus ten percent of the cost of the software and the
+Plus ten percent of the cost of the software and the
 hardware, for maintenance.  (Actually, the ten percent
 maintenance costs, though mentioned, had been left off
 the final $79,449 total, apparently through a merciful
 oversight).
 
-     Mr. Megahee's letter had been mailed directly to
+Mr. Megahee's letter had been mailed directly to
 William Cook himself, at the office of the Chicago federal
 attorneys.  The United States Government accepted these
 telco figures without question.
 
-     As incredulity mounted, the value of the E911
+As incredulity mounted, the value of the E911
 Document was officially revised downward.  This time,
 Robert Kibler of BellSouth Security estimated the value of
 the twelve pages as a mere $24,639.05 -- based,
@@ -1420,7 +1420,7 @@ right down to the nickel, did not move the skeptics at all;
 in
 fact it provoked open scorn and a torrent of sarcasm.
 
-     The financial issues concerning theft of proprietary
+The financial issues concerning theft of proprietary
 information have always been peculiar.  It could be
 argued that BellSouth had not "lost" its E911 Document at
 all in the first place, and therefore had not suffered any
@@ -1430,7 +1430,7 @@ raid
 had not been "theft," but was better understood as illicit
 copying.
 
-     The money, however, was not central to anyone's true
+The money, however, was not central to anyone's true
 purposes in this trial.   It was not Cook's strategy to
 convince the jury that the E911 Document was a major act
 of theft and should be punished for that reason alone.
@@ -1448,7 +1448,7 @@ and indeed, in many communities throughout the United
 States," in Cook's own words.  Neidorf had put people's
 lives in danger.
 
-     In pre-trial maneuverings, Cook had established that
+In pre-trial maneuverings, Cook had established that
 the E911 Document was too hot to appear in the public
 proceedings of the Neidorf trial.  The *jury itself*  would
 not be allowed to ever see this Document, lest it slip into
@@ -1456,7 +1456,7 @@ the official court records, and thus into the hands of the
 general public, and, thus, somehow, to malicious hackers
 who might lethally abuse it.
 
-     Hiding the E911 Document from the jury may have
+Hiding the E911 Document from the jury may have
 been a clever legal maneuver, but it had a severe flaw.
 There were, in point of fact, hundreds, perhaps thousands,
 of people, already in possession of the E911 Document,
@@ -1469,7 +1469,7 @@ electronic community who had a modem and any interest
 in the Neidorf case already  had a copy of the Document.
 It had already been available in *Phrack* for over a year.
 
-     People, even quite normal people without any
+People, even quite normal people without any
 particular prurient interest in forbidden knowledge, did
 not shut their eyes in terror at the thought of beholding a
 "dangerous" document from a telephone company.   On
@@ -1477,7 +1477,7 @@ the contrary, they tended to trust their own judgement and
 simply read the Document for themselves.  And they were
 not impressed.
 
-     One such person was John Nagle.  Nagle was a  forty-
+One such person was John Nagle.  Nagle was a  forty-
 one-year-old professional programmer with a masters'
 degree in computer science from Stanford.  He had
 worked for Ford Aerospace, where he had invented a
@@ -1486,10 +1486,10 @@ Algorithm," and for the prominent Californian computer-
 graphics firm "Autodesk," where he was a major
 stockholder.
 
-     Nagle was also a prominent figure on the Well, much
+Nagle was also a prominent figure on the Well, much
 respected for his technical knowledgeability.
 
-     Nagle had followed the civil-liberties debate closely,
+Nagle had followed the civil-liberties debate closely,
 for he was an ardent telecommunicator.  He was no
 particular friend of computer intruders, but he believed
 electronic publishing had a great deal to offer society at
@@ -1497,14 +1497,14 @@ large, and attempts to restrain its growth, or to censor
 free
 electronic expression, strongly roused his ire.
 
-     The Neidorf case, and the E911 Document, were both
+The Neidorf case, and the E911 Document, were both
 being discussed  in detail on the Internet, in an electronic
 publication called *Telecom Digest.*  Nagle, a longtime
 Internet maven, was a regular reader of  *Telecom
 Digest.*    Nagle had never seen a copy of *Phrack,*  but
 the implications of the case disturbed him.
 
-     While in a Stanford bookstore hunting books on
+While in a Stanford bookstore hunting books on
 robotics, Nagle happened across a book called *The
 Intelligent Network.*   Thumbing through it at random,
 Nagle came across an entire chapter meticulously
@@ -1513,24 +1513,24 @@ This extensive text was being sold openly, and yet in
 Illinois a young man was in danger of going to prison for
 publishing a thin six-page document about 911 service.
 
-     Nagle made an ironic comment to this effect in
+Nagle made an ironic comment to this effect in
 *Telecom Digest.*   From there, Nagle was put in touch
 with Mitch Kapor,  and then with Neidorf's lawyers.
 
-     Sheldon Zenner was delighted to find a computer
+Sheldon Zenner was delighted to find a computer
 telecommunications expert willing to speak up for
 Neidorf,  one who was not a wacky teenage "hacker."
 Nagle was fluent, mature, and respectable; he'd once had
 a federal security clearance.
 
-     Nagle was asked to fly to  Illinois to join the defense
+Nagle was asked to fly to  Illinois to join the defense
 team.
 
-     Having joined the defense as an expert witness,
+Having joined the defense as an expert witness,
 Nagle read the entire E911 Document for himself.  He
 made his own judgement about its potential for menace.
 
-     The time has now come for you yourself, the reader,
+The time has now come for you yourself, the reader,
 to have a look at the E911 Document.   This six-page piece
 of work was the pretext for a federal prosecution that could
 have sent an electronic publisher to prison for thirty, or
@@ -1552,9 +1552,9 @@ itself.
 
                       Volume Two, Issue 24, File 5 of 13
 
-     Control Office Administration
-     Of Enhanced 911 Services For
-     Special Services and Account Centers
+Control Office Administration
+Of Enhanced 911 Services For
+Special Services and Account Centers
 
           by the Eavesdropper
 
@@ -1567,10 +1567,10 @@ The control office for Emergency 911 service is assigned in
 accordance with the existing standard guidelines to one of
 the following centers:
 
-     o  Special Services Center (SSC)
-     o  Major Accounts Center (MAC)
-     o  Serving Test Center (STC)
-     o  Toll Control Center (TCC)
+o  Special Services Center (SSC)
+o  Major Accounts Center (MAC)
+o  Serving Test Center (STC)
+o  Toll Control Center (TCC)
 
 The SSC/MAC designation is used in this document
 interchangeably for any of these four centers.  The Special
@@ -1620,11 +1620,11 @@ district or other political boundaries.
 
 The services available with the E911 feature include:
 
-       Forced Disconnect         Default Routing
-       Alternative Routing       Night Service
-       Selective Routing         Automatic Number
+Forced Disconnect         Default Routing
+Alternative Routing       Night Service
+Selective Routing         Automatic Number
 Identification (ANI)
-       Selective Transfer        Automatic Location
+Selective Transfer        Automatic Location
 Identification (ALI)
 
 
@@ -1694,31 +1694,31 @@ chair this subcommittee and include the following
 organizations:
 
 1) Switching Control Center
-        - E911 translations
-        - Trunking
-        - End office and Tandem office hardware/software
+- E911 translations
+- Trunking
+- End office and Tandem office hardware/software
 2) Recent Change Memory Administration Center
-        - Daily RC update activity for TN/ESN translations
-        - Processes validity errors and rejects
+- Daily RC update activity for TN/ESN translations
+- Processes validity errors and rejects
 3) Line and Number Administration
-        - Verification of TN/ESN translations
+- Verification of TN/ESN translations
 4) Special Service Center/Major Account Center
-        - Single point of contact for all PSAP and Node to
+- Single point of contact for all PSAP and Node to
 host
 troubles
-        - Logs, tracks & statusing of all trouble reports
-        - Trouble referral, follow up, and escalation
-        - Customer notification of status and restoration
-        - Analyzation of "chronic" troubles
-        - Testing, installation and maintenance of E911
+- Logs, tracks & statusing of all trouble reports
+- Trouble referral, follow up, and escalation
+- Customer notification of status and restoration
+- Analyzation of "chronic" troubles
+- Testing, installation and maintenance of E911
 circuits
 5) Installation and Maintenance (SSIM/I&M)
-        - Repair and maintenance of PSAP equipment and
+- Repair and maintenance of PSAP equipment and
 Telco owned sets
 6) Minicomputer Maintenance Operations Center
-        - E911 circuit maintenance (where applicable)
+- E911 circuit maintenance (where applicable)
 7) Area Maintenance Engineer
-        - Technical assistance on voice (CO-PSAP) network
+- Technical assistance on voice (CO-PSAP) network
 related E911 troubles
 
 
@@ -2063,7 +2063,7 @@ Terms.
 _____________________________________
 
 
-     The reader is forgiven if he or she was entirely unable
+The reader is forgiven if he or she was entirely unable
 to read this document.   John Perry Barlow had a great
 deal of fun at its expense, in "Crime and Puzzlement:"
 "Bureaucrat-ese of surpassing opacity.... To read the whole
@@ -2075,7 +2075,7 @@ ever again read Blake, Whitman, or Tolstoy.... the
 document contains little of interest to anyone who is not a
 student of advanced organizational sclerosis."
 
-     With the Document itself to hand, however, exactly
+With the Document itself to hand, however, exactly
 as it was published (in its six-page edited form) in
 *Phrack,*  the reader may be able to verify a few
 statements of fact about its nature.   First, there is no
@@ -2086,7 +2086,7 @@ punctuation.  It does not explain how to break into the
 E911 system.  It does not suggest ways to destroy or
 damage the E911 system.
 
-     There are no access codes in the Document.  There
+There are no access codes in the Document.  There
 are no computer passwords.  It does not explain how to
 steal long distance service.  It does not explain how to
 break in to telco switching stations.  There is nothing in
@@ -2094,7 +2094,7 @@ it
 about using a personal computer or a modem for any
 purpose at all, good or bad.
 
-     Close study will reveal that this document is not
+Close study will reveal that this document is not
 about machinery.  The E911 Document is about
 *administration.*  It describes how one creates and
 administers certain units of telco bureaucracy:  Special
@@ -2110,7 +2110,7 @@ subcommittees, who gives orders, who follows orders,
 "roadmap" to computers.  The Document is a roadmap to
 *people.*
 
-      As an aid to breaking into computer systems, the
+As an aid to breaking into computer systems, the
 Document is *useless.*   As an aid to harassing and
 deceiving telco people, however, the Document might
 prove handy (especially with its Glossary, which I have not
@@ -2127,7 +2127,7 @@ community; you can make them paranoid.   And people
 will fight harder to defend their community than they will
 fight to defend their individual selves.
 
-     This was the genuine, gut-level threat posed by
+This was the genuine, gut-level threat posed by
 *Phrack* magazine.  The real struggle was over the control
 of telco language, the control of telco knowledge.  It was a
 struggle to defend the social "membrane of
@@ -2139,7 +2139,7 @@ prosecution brought out this fact.  They repeatedly made
 reference to the threat posed to telco professionals by
 hackers using "social engineering."
 
-     However, Craig Neidorf was not on trial for learning
+However, Craig Neidorf was not on trial for learning
 to speak like a professional telecommunications expert.
 Craig Neidorf was on trial for access device fraud and
 transportation of stolen property.  He was on trial for
@@ -2148,7 +2148,7 @@ and purportedly worth tens of thousands of dollars.
 
                          #
 
-     John Nagle read the E911 Document.   He drew his
+John Nagle read the E911 Document.   He drew his
 own conclusions.  And he  presented Zenner and his
 defense team with an overflowing box of similar material,
 drawn mostly from Stanford University's engineering
@@ -2157,7 +2157,7 @@ half-a-dozen other attorneys, Nagle, Neidorf, and
 computer-security expert Dorothy Denning, all pored
 over the E911 Document line-by-line.
 
-      On the afternoon of July 25, 1990, Zenner began to
+On the afternoon of July 25, 1990, Zenner began to
 cross-examine a woman named Billie Williams, a service
 manager for Southern Bell in Atlanta.  Ms. Williams had
 been responsible for the E911 Document.  (She was not its
@@ -2169,11 +2169,11 @@ Document.  It had not been so much "written" by a single
 author, as built by committee out of concrete-blocks of
 jargon.)
 
-     Ms. Williams had been called as a witness for the
+Ms. Williams had been called as a witness for the
 prosecution, and had gamely tried to explain the basic
 technical structure of the E911 system, aided by charts.
 
-     Now it was Zenner's turn.  He first established that
+Now it was Zenner's turn.  He first established that
 the "proprietary stamp" that BellSouth had used on the
 E911 Document was stamped on *every single document*
 that BellSouth wrote -- *thousands*  of documents.  "We
@@ -2186,7 +2186,7 @@ no matter how trivial, no matter what their subject matter -
 - the stamp was put on as soon as any document was
 written, and the stamp was never removed.
 
-     Zenner now asked whether the charts she had been
+Zenner now asked whether the charts she had been
 using to explain the  mechanics of E911 system were
 "proprietary," too.  Were they *public information,*  these
 charts, all about PSAPs, ALIs, nodes, local end switches?
@@ -2194,29 +2194,29 @@ Could he take the charts out in the street and show them
 to anybody, "without violating some proprietary notion
 that BellSouth has?"
 
-     Ms Williams showed some confusion, but finally
+Ms Williams showed some confusion, but finally
 agreed that the charts were, in fact, public.
 
-     "But isn't this what you said was basically what
+"But isn't this what you said was basically what
 appeared in *Phrack?*"
 
-     Ms. Williams denied this.
+Ms. Williams denied this.
 
-     Zenner now pointed out that the E911 Document as
+Zenner now pointed out that the E911 Document as
 published in Phrack was only half the size of the original
 E911 Document (as Prophet had purloined it).  Half of it
 had been deleted -- edited by Neidorf.
 
-     Ms. Williams countered that "Most of the
+Ms. Williams countered that "Most of the
 information that is in the text file is redundant."
 
-     Zenner continued to probe.  Exactly what bits of
+Zenner continued to probe.  Exactly what bits of
 knowledge in the Document were, in fact, unknown to the
 public?  Locations of E911 computers?  Phone numbers for
 telco personnel?  Ongoing maintenance subcommittees?
 Hadn't Neidorf removed much of this?
 
-     Then he pounced.  "Are you familiar with Bellcore
+Then he pounced.  "Are you familiar with Bellcore
 Technical Reference Document TR-TSY-000350?"  It was,
 Zenner explained, officially titled "E911 Public Safety
 Answering Point Interface Between 1-1AESS Switch and
@@ -2225,7 +2225,7 @@ detailed and specific technical information about the E911
 System.  It was published by Bellcore and publicly
 available for about $20.
 
-     He showed the witness a Bellcore catalog which listed
+He showed the witness a Bellcore catalog which listed
 thousands of documents from Bellcore and from all the
 Baby Bells, BellSouth included.   The catalog, Zenner
 pointed out, was free.  Anyone with a credit card could call
@@ -2235,37 +2235,37 @@ customer without question.  Including, for instance,
 "BellSouth E911 Service Interfaces to Customer Premises
 Equipment at a Public Safety Answering Point."
 
-     Zenner gave the witness a copy of "BellSouth E911
+Zenner gave the witness a copy of "BellSouth E911
 Service Interfaces," which cost, as he pointed out, $13,
 straight from the catalog.  "Look at it carefully," he urged
 Ms. Williams, "and tell me if it doesn't contain about twice
 as much detailed information about the E911 system of
 BellSouth than appeared anywhere in *Phrack.*"
 
-     "You want me to...."  Ms. Williams trailed off.  "I
+"You want me to...."  Ms. Williams trailed off.  "I
 don't
 understand."
 
-     "Take a careful look," Zenner persisted.  "Take a look
+"Take a careful look," Zenner persisted.  "Take a look
 at that document, and tell me when you're done looking at
 it if, indeed, it doesn't contain much more detailed
 information about the E911 system than appeared in
 *Phrack.*"
 
-     "*Phrack* wasn't taken from this," Ms. Williams said.
+"*Phrack* wasn't taken from this," Ms. Williams said.
 
-     "Excuse me?" said Zenner.
+"Excuse me?" said Zenner.
 
-     "*Phrack* wasn't taken from this."
+"*Phrack* wasn't taken from this."
 
-     "I can't hear you," Zenner said.
+"I can't hear you," Zenner said.
 
-     "*Phrack* was not taken from this document.  I don't
+"*Phrack* was not taken from this document.  I don't
 understand your question to me."
 
-     "I guess you don't," Zenner said.
+"I guess you don't," Zenner said.
 
-     At this point, the prosecution's case had been
+At this point, the prosecution's case had been
 gutshot.  Ms. Williams was distressed.  Her confusion was
 quite genuine.  *Phrack* had not been taken from any
 publicly available Bellcore document.  *Phrack*'s  E911
@@ -2273,7 +2273,7 @@ Document had been stolen from her own company's
 computers, from her own company's text files, that her
 own colleagues had written, and revised, with much labor.
 
-     But the "value" of the Document had been blown to
+But the "value" of the Document had been blown to
 smithereens.  It wasn't worth eighty grand.  According to
 Bellcore it was worth thirteen bucks.  And the looming
 menace that it supposedly posed had been reduced in
@@ -2282,7 +2282,7 @@ material
 far more detailed and "dangerous," to anybody with a
 credit card and a phone.
 
-     Actually, Bellcore was not giving this information to
+Actually, Bellcore was not giving this information to
 just anybody.  They gave it to *anybody who asked,* but
 not many did ask.   Not many people knew that Bellcore
 had a free catalog and an 800 number.  John Nagle knew,
@@ -2299,14 +2299,14 @@ hand was distributing Bellcore's intellectual property to
 anybody who was interested in telephone technical trivia --
 apparently, a pathetic few.
 
-     The digital underground was so amateurish and
+The digital underground was so amateurish and
 poorly organized that they had never discovered this heap
 of unguarded riches.  The ivory tower of the telcos was so
 wrapped-up in the fog of its own technical obscurity that it
 had left all the windows open and flung open the doors.
 No one had even noticed.
 
-     Zenner sank another nail in the coffin.  He produced
+Zenner sank another nail in the coffin.  He produced
 a printed issue of *Telephone Engineer & Management,*
 a prominent industry journal that comes out twice a
 month and costs $27 a year.  This particular issue of
@@ -2314,13 +2314,13 @@ month and costs $27 a year.  This particular issue of
 technical details on 911 service and a glossary far more
 extensive than *Phrack*'s.
 
-     The trial rumbled on, somehow, through its own
+The trial rumbled on, somehow, through its own
 momentum.  Tim Foley testified about his interrogations
 of Neidorf.  Neidorf's written admission that he had known
 the E911 Document was pilfered was officially read into
 the court record.
 
-     An interesting side issue came up:  "Terminus" had
+An interesting side issue came up:  "Terminus" had
 once passed Neidorf a piece of UNIX AT&T software, a
 log-in sequence, that had been cunningly altered so that it
 could trap passwords.   The UNIX software itself was
@@ -2335,7 +2335,7 @@ wasn't accused of ever having used it.  And Neidorf wasn't
 being charged with  software theft or owning a password
 trapper.
 
-     On the next day, Zenner took the offensive.  The civil
+On the next day, Zenner took the offensive.  The civil
 libertarians now had their own arcane, untried legal
 weaponry to launch into action  -- the Electronic
 Communications Privacy Act of 1986, 18 US Code, Section
@@ -2350,7 +2350,7 @@ penalties for amateur snoops, however, Section 2703 of the
 ECPA also lays some formal difficulties on the bugging
 and tapping activities of police.
 
-     The Secret Service, in the person of Tim Foley, had
+The Secret Service, in the person of Tim Foley, had
 served Richard Andrews with a federal grand jury
 subpoena, in their pursuit of Prophet, the E911 Document,
 and the Terminus software ring.  But according to the
@@ -2364,7 +2364,7 @@ electronic crime!  Zenner now sought the judge's
 permission to cross-examine Foley on the topic of Foley's
 own electronic misdeeds.
 
-     Cook argued that Richard Andrews' Jolnet was a
+Cook argued that Richard Andrews' Jolnet was a
 privately owned bulletin board, and not within the purview
 of ECPA.   Judge Bua granted the motion of the
 government to prevent cross-examination on that point,
@@ -2375,7 +2375,7 @@ Computer Fraud and Abuse Task Force itself -- the first
 suggestion that they themselves had broken the law, and
 might, perhaps, be called to account.
 
-     Zenner, in any case, did not really need the ECPA.
+Zenner, in any case, did not really need the ECPA.
 Instead, he grilled Foley on the glaring contradictions in
 the supposed value of the E911 Document.  He also
 brought up the embarrassing fact that the supposedly red-
@@ -2383,7 +2383,7 @@ hot E911 Document had been sitting around for months,
 in Jolnet, with Kluepfel's knowledge, while Kluepfel had
 done nothing about it.
 
-     In the afternoon, the Prophet was brought in to testify
+In the afternoon, the Prophet was brought in to testify
 for the prosecution.  (The Prophet, it will be recalled, had
 also been indicted in the case as partner in a fraud
 scheme with Neidorf.)   In Atlanta, the Prophet had
@@ -2393,12 +2393,12 @@ transportation of stolen property.   The wire fraud charge,
 and the stolen property charge, were both directly based
 on the E911 Document.
 
-     The twenty-year-old Prophet proved a sorry
+The twenty-year-old Prophet proved a sorry
 customer, answering questions politely but in a barely
 audible mumble, his voice trailing off at the ends of
 sentences.   He was constantly urged to speak up.
 
-      Cook, examining Prophet, forced him to admit that
+Cook, examining Prophet, forced him to admit that
 he had once had a "drug problem," abusing
 amphetamines, marijuana, cocaine, and LSD.  This may
 have established to the jury that "hackers" are, or can be,
@@ -2409,7 +2409,7 @@ interesting fact also surfaced that Prophet had never
 physically met Craig Neidorf.  He didn't even know
 Neidorf's last name -- at least, not until the trial.
 
-     Prophet confirmed the basic facts of his hacker
+Prophet confirmed the basic facts of his hacker
 career.  He was a member of the Legion of Doom.  He had
 abused codes, he had broken into switching stations and
 re-routed calls, he had hung out on pirate bulletin boards.
@@ -2418,7 +2418,7 @@ the E911 Document, stored it on Jolnet, mailed it to
 Neidorf.  He and Neidorf had edited it, and Neidorf had
 known where it came from.
 
-     Zenner, however, had Prophet confirm that Neidorf
+Zenner, however, had Prophet confirm that Neidorf
 was not a member of the Legion of Doom, and had not
 urged Prophet to break into BellSouth computers.
 Neidorf had never urged Prophet to defraud anyone, or to
@@ -2429,7 +2429,7 @@ Neidorf a "hacker" at all.   Neidorf was not a UNIX maven,
 and simply lacked the necessary skill and ability to break
 into computers.  Neidorf just published a magazine.
 
-     On Friday, July 27, 1990, the case against Neidorf
+On Friday, July 27, 1990, the case against Neidorf
 collapsed.  Cook moved to dismiss the indictment, citing
 "information currently available to us that was not
 available to us at the inception of the trial."  Judge Bua
@@ -2437,14 +2437,14 @@ praised the prosecution for this action, which he described
 as "very responsible," then dismissed a juror and declared
 a mistrial.
 
-     Neidorf was a free man.  His defense, however, had
+Neidorf was a free man.  His defense, however, had
 cost himself and his family dearly.  Months of his life had
 been consumed in anguish; he had seen his closest
 friends shun him as a federal criminal.  He owed his
 lawyers over a hundred thousand dollars, despite a
 generous payment to the defense by Mitch Kapor.
 
-     Neidorf was not found innocent.  The trial was simply
+Neidorf was not found innocent.  The trial was simply
 dropped.  Nevertheless, on September 9, 1991, Judge Bua
 granted Neidorf's motion for the "expungement and
 sealing" of his indictment record.  The United States
@@ -2453,7 +2453,7 @@ fingerprints, photographs, and other records of arrest or
 processing relating to Neidorf's indictment, including
 their paper documents and their computer records.
 
-     Neidorf went back to school, blazingly determined to
+Neidorf went back to school, blazingly determined to
 become a lawyer.   Having seen the justice system at work,
 Neidorf lost much of his enthusiasm for merely technical
 power.  At this writing, Craig Neidorf is working in
@@ -2462,11 +2462,11 @@ Civil Liberties Union.
 
                          #
 
-       The outcome of the Neidorf trial changed the EFF
+The outcome of the Neidorf trial changed the EFF
 from voices-in-the-wilderness to the media darlings of the
 new frontier.
 
-     Legally speaking, the Neidorf case was not a
+Legally speaking, the Neidorf case was not a
 sweeping triumph for anyone concerned.  No
 constitutional principles had been established.  The issues
 of "freedom of the press" for electronic publishers
@@ -2477,17 +2477,17 @@ legal debts by Kapor.  The truth was that the government
 had simply dropped the case, and Neidorf's family had
 gone deeply into hock to support him.
 
-     But the Neidorf case did provide a single,
+But the Neidorf case did provide a single,
 devastating, public sound-bite:  *The feds said it was worth
 eighty grand, and it was only worth thirteen bucks.*
 
-     This is the Neidorf case's single most memorable
+This is the Neidorf case's single most memorable
 element.  No serious report of the case missed this
 particular element.  Even cops could not read this without
 a wince and a shake of the head.  It left the public
 credibility of the crackdown agents in tatters.
 
-     The crackdown, in fact, continued, however.   Those
+The crackdown, in fact, continued, however.   Those
 two charges against Prophet, which had been based on the
 E911 Document, were quietly forgotten at his sentencing --
 even though Prophet had already pled guilty to them.
@@ -2496,7 +2496,7 @@ for the Atlanta Three, insisting on "the need to send a
 message to the community,"  "the message that hackers
 around the country need to hear."
 
-     There was a great deal in their sentencing
+There was a great deal in their sentencing
 memorandum about the awful things that various other
 hackers had done  (though the Atlanta Three themselves
 had not, in fact, actually committed these crimes).  There
@@ -2508,7 +2508,7 @@ Atlanta Three were sent to prison:  Urvile and Leftist both
 got 14 months each, while Prophet (a second offender) got
 21 months.
 
-     The Atlanta Three were also assessed staggering
+The Atlanta Three were also assessed staggering
 fines as "restitution":  $233,000 each.  BellSouth claimed
 that the defendants had "stolen" "approximately $233,880
 worth"  of "proprietary computer access information" --
@@ -2520,7 +2520,7 @@ court.   Furthermore (as if to emphasize its theoretical
 nature)  this enormous sum was not divvied up among the
 Atlanta Three, but each of them had to pay all of it.
 
-      A striking aspect of the sentence was that the Atlanta
+A striking aspect of the sentence was that the Atlanta
 Three were specifically forbidden to use computers,
 except for work or under supervision.  Depriving hackers
 of home computers and modems makes some sense if
@@ -2530,7 +2530,7 @@ punishment was unconstitutional --  it deprived the
 Atlanta Three of their rights of free association and free
 expression through electronic media.
 
-     Terminus, the "ultimate hacker,"  was finally sent to
+Terminus, the "ultimate hacker,"  was finally sent to
 prison for a year through the dogged efforts of the Chicago
 Task Force.   His crime, to which he pled guilty,  was the
 transfer of the UNIX password trapper, which was
@@ -2538,12 +2538,12 @@ officially valued by AT&T at $77,000, a figure which
 aroused intense skepticism among those familiar with
 UNIX "login.c"  programs.
 
-     The jailing of Terminus and the Atlanta Legionnaires
+The jailing of Terminus and the Atlanta Legionnaires
 of Doom, however, did not cause the EFF any sense of
 embarrassment or defeat.   On the contrary, the civil
 libertarians were rapidly gathering strength.
 
-     An early and potent supporter was Senator Patrick
+An early and potent supporter was Senator Patrick
 Leahy, Democrat from Vermont, who had been a Senate
 sponsor of the Electronic Communications Privacy Act.
 Even before the Neidorf trial, Leahy had spoken out in
@@ -2555,7 +2555,7 @@ United States into the 21st century.  He represents our
 future and our best hope to remain a technologically
 competitive nation."
 
-     It was a handsome statement, rendered perhaps
+It was a handsome statement, rendered perhaps
 rather more effective by the fact that the crackdown
 raiders *did not have*  any Senators speaking out for
 *them.*   On the contrary, their highly secretive actions
@@ -2569,23 +2569,23 @@ slink into the background," she predicted in *Newsweek*  -
 - when all the facts came out, and the cops were
 vindicated.
 
-     But all the facts did not come out.  Those facts that
+But all the facts did not come out.  Those facts that
 did, were not very flattering.  And the cops were not
 vindicated.  And Gail Thackeray lost her job.  By the end of
 1991, William Cook had also left public employment.
 
-     1990 had belonged to the crackdown, but by '91 its
+1990 had belonged to the crackdown, but by '91 its
 agents were in severe disarray, and the libertarians were
 on a roll.   People were flocking to the cause.
 
-     A particularly interesting ally had been Mike Godwin
+A particularly interesting ally had been Mike Godwin
 of Austin, Texas.  Godwin was an individual almost as
 difficult to describe as Barlow; he had been editor of the
 student newspaper of the University of Texas, and a
 computer salesman, and a programmer, and in 1990 was
 back in law school, looking for a law degree.
 
-     Godwin was also a bulletin board maven.   He was
+Godwin was also a bulletin board maven.   He was
 very well-known in the Austin board community under his
 handle "Johnny Mnemonic," which he adopted from a
 cyberpunk science fiction story by William Gibson.
@@ -2600,7 +2600,7 @@ and I were so pleased by his generous expert help that we
 named a character in the novel "Michael Godwin" in his
 honor.
 
-     The handle "Mnemonic" suited Godwin very well.
+The handle "Mnemonic" suited Godwin very well.
 His erudition and his mastery of trivia were impressive to
 the point of stupor; his ardent curiosity seemed insatiable,
 and his desire to debate and argue seemed the central
@@ -2612,7 +2612,7 @@ On bulletin boards, however, Godwin's closely reasoned,
 highly grammatical, erudite posts suited the medium well,
 and he became a local board celebrity.
 
-     Mike Godwin was the man most responsible for the
+Mike Godwin was the man most responsible for the
 public national exposure of the Steve Jackson case.   The
 Izenberg seizure in Austin had received no press coverage
 at all.  The March 1 raids on Mentor, Bloodaxe, and Steve
@@ -2628,7 +2628,7 @@ attention to the true extent of his plight, but he was
 drawing a blank; no one in a position to help him seemed
 able to get a mental grip on the issues.
 
-     Godwin, however, was uniquely, almost magically,
+Godwin, however, was uniquely, almost magically,
 qualified to carry Jackson's case to the outside world.
 Godwin was a board enthusiast, a science fiction fan, a
 former journalist, a computer salesman, a lawyer-to-be,
@@ -2642,7 +2642,7 @@ effort (which he carried out mostly to prove a point in a
 local board debate) broke the story again in the *Austin
 American-Statesman*  and then in *Newsweek.*
 
-     Life was never the same for Mike Godwin after that.
+Life was never the same for Mike Godwin after that.
 As he joined the growing civil liberties debate on the
 Internet, it was obvious to all parties involved that here
 was one guy who, in the midst of complete murk and
@@ -2651,7 +2651,7 @@ talking about.*   The disparate elements of Godwin's
 dilettantish existence suddenly fell together as neatly as
 the facets of a Rubik's cube.
 
-     When the time came to hire a full-time EFF staff
+When the time came to hire a full-time EFF staff
 attorney, Godwin was the obvious choice.  He took the
 Texas bar exam, left Austin, moved to Cambridge,
 became a full-time, professional, computer civil
@@ -2660,13 +2660,13 @@ EFF, delivering well-received addresses on the issues to
 crowds as disparate as academics, industrialists, science
 fiction fans, and federal cops.
 
-     Michael Godwin is currently the chief legal counsel of
+Michael Godwin is currently the chief legal counsel of
 the Electronic Frontier Foundation in Cambridge,
 Massachusetts.
 
                     #
 
-     Another early and influential participant in the
+Another early and influential participant in the
 controversy was Dorothy Denning.   Dr. Denning was
 unique among investigators of the computer underground
 in that she did not enter the debate with any set of
@@ -2686,7 +2686,7 @@ Advanced Computer Science.  He had edited the well-
 received *Computers Under Attack:  Intruders, Worms
 and Viruses.*
 
-      Dr. Denning took it upon herself to contact the
+Dr. Denning took it upon herself to contact the
 digital underground, more or less with an anthropological
 interest.  There she discovered that these computer-
 intruding hackers, who had been characterized as
@@ -2697,12 +2697,12 @@ were, in fact, rules.   Basically, they didn't take money
 and
 they didn't break anything.
 
-     Her dispassionate reports on her researches did a
+Her dispassionate reports on her researches did a
 great deal to influence serious-minded computer
 professionals -- the sort of people who merely rolled their
 eyes at the cyberspace rhapsodies of a John Perry Barlow.
 
-     For young hackers of the digital underground,
+For young hackers of the digital underground,
 meeting Dorothy Denning was a genuinely mind-boggling
 experience.   Here was this neatly coiffed, conservatively
 dressed, dainty little personage, who reminded most
@@ -2712,14 +2712,14 @@ computer architectures and high-security information
 flow, who had personal friends in the FBI and the National
 Security Agency.
 
-     Dorothy Denning was a shining example of the
+Dorothy Denning was a shining example of the
 American mathematical intelligentsia, a genuinely
 brilliant person from the central ranks of the computer-
 science elite.  And here she was, gently questioning
 twenty-year-old hairy-eyed phone-phreaks over the
 deeper ethical implications of their behavior.
 
-     Confronted by this genuinely nice lady, most hackers
+Confronted by this genuinely nice lady, most hackers
 sat up very straight and did their best to keep the anarchy-
 file stuff down to a faint whiff of brimstone.
 Nevertheless,
@@ -2731,7 +2731,7 @@ owned, that the databases of governments and large
 corporations were a threat to the rights and privacy of
 individuals.
 
-     Denning's articles made it clear to many that
+Denning's articles made it clear to many that
 "hacking" was not simple vandalism by some evil clique of
 psychotics.   "Hacking" was not an aberrant menace that
 could be charmed away by ignoring it, or swept out of
@@ -2739,7 +2739,7 @@ existence by jailing a few ringleaders.   Instead, "hacking"
 was symptomatic of a growing, primal struggle over
 knowledge and power in the  age of information.
 
-     Denning pointed out that the attitude of hackers
+Denning pointed out that the attitude of hackers
 were at least partially  shared by forward-looking
 management theorists in the business community: people
 like Peter Drucker and Tom Peters.  Peter Drucker, in his
@@ -2748,7 +2748,7 @@ information by the government is no longer possible.
 Indeed, information is now transnational.  Like money, it
 has no 'fatherland.'"
 
-     And management maven Tom Peters had chided
+And management maven Tom Peters had chided
 large corporations for uptight, proprietary attitudes in his
 bestseller, *Thriving on Chaos:*   "Information hoarding,
 especially by politically motivated, power-seeking staffs,
@@ -2756,7 +2756,7 @@ had been commonplace throughout American industry,
 service and manufacturing alike. It will be an impossible
 millstone aroung the neck of tomorrow's organizations."
 
-     Dorothy Denning had shattered the social
+Dorothy Denning had shattered the social
 membrane of the digital underground.   She attended the
 Neidorf trial, where she was prepared to testify for the
 defense as an expert witness.   She was a behind-the-
@@ -2766,13 +2766,13 @@ zealot of any description, she brought disparate elements
 of the electronic community into a surprising and fruitful
 collusion.
 
-     Dorothy Denning is currently the Chair of the
+Dorothy Denning is currently the Chair of the
 Computer Science Department at Georgetown University
 in Washington, DC.
 
                          #
 
-     There were many stellar figures in the civil
+There were many stellar figures in the civil
 libertarian
 community.   There's no question, however, that its single
 most influential figure was Mitchell D. Kapor.  Other
@@ -2782,7 +2782,7 @@ law, or with the arcanities of computer security or
 constitutional theory.  But by 1991 Kapor had transcended
 any such narrow role.  Kapor had become "Mitch."
 
-     Mitch had become the central civil-libertarian ad-
+Mitch had become the central civil-libertarian ad-
 hocrat.   Mitch had stood up first, he had spoken out
 loudly, directly, vigorously and angrily, he had put his own
 reputation, and his very considerable personal fortune, on
@@ -2798,14 +2798,14 @@ impossible for anyone to take any action in the "hacker
 question" without wondering what Mitch might think --
 and say -- and tell his friends.
 
-      The EFF had simply *networked*  the situation into
+The EFF had simply *networked*  the situation into
 an entirely new status quo.  And in fact this had been EFF's
 deliberate strategy from the beginning.  Both Barlow and
 Kapor loathed bureaucracies and had deliberately chosen
 to work almost entirely through the electronic spiderweb
 of "valuable personal contacts."
 
-     After a year of EFF, both Barlow and Kapor had every
+After a year of EFF, both Barlow and Kapor had every
 reason to look back with satisfaction.   EFF had established
 its own Internet node, "eff.org,"  with a well-stocked
 electronic archive of documents on electronic civil rights,
@@ -2815,30 +2815,30 @@ well
 as *EFFector Online,*  an electronic  newsletter with over
 1,200 subscribers.  And EFF was thriving on the Well.
 
-       EFF had a national headquarters in Cambridge and
+EFF had a national headquarters in Cambridge and
 a full-time staff.  It had become a membership
 organization and was attracting grass-roots support.   It
 had also attracted the support of some thirty civil-rights
 lawyers, ready and eager to do pro bono work in defense of
 the Constitution in Cyberspace.
 
-     EFF had lobbied successfully in Washington and in
+EFF had lobbied successfully in Washington and in
 Massachusetts to change state and federal legislation on
 computer networking.   Kapor in particular had become a
 veteran expert witness, and had joined the Computer
 Science and Telecommunications Board of the National
 Academy of Science and Engineering.
 
-     EFF had sponsored meetings such as "Computers,
+EFF had sponsored meetings such as "Computers,
 Freedom and Privacy" and the CPSR Roundtable.   It had
 carried out a press offensive that, in the words of
 *EFFector,*  "has affected the climate of opinion about
 computer networking and begun to reverse the slide into
 'hacker hysteria' that was beginning to grip the nation."
 
-     It had helped Craig Neidorf avoid prison.
+It had helped Craig Neidorf avoid prison.
 
-     And, last but certainly not least, the Electronic
+And, last but certainly not least, the Electronic
 Frontier Foundation had filed a federal lawsuit in the
 name of Steve Jackson, Steve Jackson Games Inc., and
 three users of the Illuminati bulletin board system.  The
@@ -2846,7 +2846,7 @@ defendants were, and are, the United States Secret
 Service, William Cook, Tim Foley, Barbara Golden and
 Henry Kleupfel.
 
-     The case, which is in pre-trial procedures in an Austin
+The case, which is in pre-trial procedures in an Austin
 federal court as of this writing, is a civil action for
 damages
 to redress alleged violations of the First and Fourth
@@ -2855,16 +2855,16 @@ the Privacy Protection Act of 1980 (42 USC 2000aa et seq.),
 and the Electronic Communications Privacy Act (18 USC
 2510 et seq and 2701 et seq).
 
-     EFF had established that it had credibility.  It had
+EFF had established that it had credibility.  It had
 also established that it had teeth.
 
-     In the fall of 1991 I travelled to Massachusetts to
+In the fall of 1991 I travelled to Massachusetts to
 speak personally with Mitch Kapor.  It was my final
 interview for this book.
 
                          #
 
-     The city of Boston has always been one of the major
+The city of Boston has always been one of the major
 intellectual centers of the American republic.  It is a very
 old city by American standards, a place of skyscrapers
 overshadowing seventeenth-century graveyards, where
@@ -2872,7 +2872,7 @@ the high-tech start-up companies of Route 128 co-exist
 with the hand-wrought pre-industrial grace of "Old
 Ironsides," the USS *Constitution.*
 
-     The Battle of Bunker Hill, one of the first and
+The Battle of Bunker Hill, one of the first and
 bitterest armed clashes of the American Revolution, was
 fought in Boston's environs.   Today there is a
 monumental spire on Bunker Hill, visible throughout
@@ -2885,7 +2885,7 @@ American political symbolism, and the Spirit of '76  is
 still a
 potent image for those who seek to mold public opinion.
 
-     Of course, not everyone who wraps himself in the flag
+Of course, not everyone who wraps himself in the flag
 is necessarily a patriot.  When I visited the spire in
 September 1991, it bore a huge, badly-erased, spray-can
 grafitto around its bottom reading "BRITS OUT -- IRA
@@ -2898,7 +2898,7 @@ strategy.  The Bunker Hill Monument is occupied at its
 very center by the toy soldiers of a military war-game
 simulation.
 
-     The Boston metroplex is a place of great universities,
+The Boston metroplex is a place of great universities,
 prominent among the Massachusetts Institute of
 Technology, where the term "computer hacker" was first
 coined.  The Hacker Crackdown of 1990 might be
@@ -2909,7 +2909,7 @@ bare-knuckle industrial pragmatism of Chicago and
 Phoenix  (with Atlanta and New York wrapped in internal
 struggle).
 
-     The headquarters of the Electronic Frontier
+The headquarters of the Electronic Frontier
 Foundation is on 155 Second Street in Cambridge, a
 Bostonian suburb north of the River Charles.  Second
 Street has weedy sidewalks of dented, sagging brick and
@@ -2921,11 +2921,11 @@ Greene Rubber Company.   EFF's building is two stories of
 red brick; its large wooden windows feature gracefully
 arched tops and stone sills.
 
-     The glass window beside the Second Street entrance
+The glass window beside the Second Street entrance
 bears three sheets of neatly laser-printed paper, taped
 against the glass.  They read:  ON Technology.  EFF.  KEI.
 
-     "ON Technology" is Kapor's software company, which
+"ON Technology" is Kapor's software company, which
 currently specializes in "groupware" for the Apple
 Macintosh computer.  "Groupware" is intended to
 promote efficient social interaction among office-workers
@@ -2933,14 +2933,14 @@ linked by computers.  ON Technology's most successful
 software products to date are "Meeting Maker" and
 "Instant Update."
 
-     "KEI" is Kapor Enterprises Inc., Kapor's personal
+"KEI" is Kapor Enterprises Inc., Kapor's personal
 holding company, the commercial entity that formally
 controls his extensive investments in other hardware and
 software corporations.
 
-     "EFF" is a political action group -- of a special sort.
+"EFF" is a political action group -- of a special sort.
 
-     Inside, someone's bike has been chained to the
+Inside, someone's bike has been chained to the
 handrails of a modest flight of stairs.  A wall of modish
 glass brick separates this anteroom from the offices.
 Beyond the brick, there's an alarm system mounted on
@@ -2955,7 +2955,7 @@ Gerard Van der Leun, EFF's Director of Communications,
 who will shortly mail those magazines to every member of
 the EFF.
 
-     The joint headquarters of EFF, KEI, and ON
+The joint headquarters of EFF, KEI, and ON
 Technology, which Kapor currently rents, is a modestly
 bustling place.   It's very much the same physical size as
 Steve Jackson's gaming company.  It's certainly a far cry
@@ -2963,7 +2963,7 @@ from the gigantic gray steel-sided railway shipping barn,
 on the Monsignor O'Brien Highway, that is owned by
 Lotus Development Corporation.
 
-     Lotus is, of course, the software giant that Mitchell
+Lotus is, of course, the software giant that Mitchell
 Kapor founded in the late 70s.  The software program
 Kapor co-authored, "Lotus 1-2-3," is still that company's
 most profitable product.  "Lotus 1-2-3" also bears a
@@ -2971,7 +2971,7 @@ singular distinction in the digital underground: it's
 probably the most pirated piece of application software in
 world history.
 
-     Kapor greets me cordially in his own office, down a
+Kapor greets me cordially in his own office, down a
 hall.   Kapor, whose name is pronounced KAY-por, is in his
 early forties, married and the father of two.   He has a
 round face, high forehead, straight nose, a slightly tousled
@@ -2981,167 +2981,167 @@ He disdains ties, and commonly wears Hawaiian shirts
 and tropical prints, not so much garish as simply  cheerful
 and just that little bit anomalous.
 
-     There is just the whiff of hacker brimstone about
-     Mitch Kapor.  He may not have the hard-riding, hell-for-
-     leather, guitar-strumming charisma of his Wyoming
-     colleague John Perry Barlow, but there's something about
-     the guy that still stops one short.   He has the air of the
-     Eastern city dude in the bowler hat, the dreamy,
-     Longfellow-quoting poker shark who only *happens*  to
-     know the exact mathematical odds against drawing to an
-     inside straight.  Even among his computer-community
-     colleagues, who are hardly known for mental sluggishness,
-     Kapor strikes one forcefully as a very intelligent man.  He
-     speaks rapidly, with vigorous gestures, his Boston accent
-     sometimes slipping to the sharp nasal tang of his youth in
-     Long Island.
+There is just the whiff of hacker brimstone about
+Mitch Kapor.  He may not have the hard-riding, hell-for-
+leather, guitar-strumming charisma of his Wyoming
+colleague John Perry Barlow, but there's something about
+the guy that still stops one short.   He has the air of the
+Eastern city dude in the bowler hat, the dreamy,
+Longfellow-quoting poker shark who only *happens*  to
+know the exact mathematical odds against drawing to an
+inside straight.  Even among his computer-community
+colleagues, who are hardly known for mental sluggishness,
+Kapor strikes one forcefully as a very intelligent man.  He
+speaks rapidly, with vigorous gestures, his Boston accent
+sometimes slipping to the sharp nasal tang of his youth in
+Long Island.
 
           Kapor, whose Kapor Family Foundation does much
-     of his philanthropic work, is a strong supporter of Boston's
-     Computer Museum.   Kapor's interest in the history of his
-     industry has brought him some remarkable curios, such
-     as the "byte" just outside his office door.  This "byte"  --
-     eight digital bits -- has been salvaged from the wreck of an
-     electronic computer of the pre-transistor age.  It's a
-     standing gunmetal rack about the size of a small toaster-
-     oven:  with eight slots of hand-soldered breadboarding
-     featuring thumb-sized vacuum tubes.  If it fell off a table
-     it
-     could easily break your foot, but it was state-of-the-art
-     computation in the 1940s.   (It would take exactly 157,184
-     of
-     these primordial toasters to hold the first part of this
-     book.)
+of his philanthropic work, is a strong supporter of Boston's
+Computer Museum.   Kapor's interest in the history of his
+industry has brought him some remarkable curios, such
+as the "byte" just outside his office door.  This "byte"  --
+eight digital bits -- has been salvaged from the wreck of an
+electronic computer of the pre-transistor age.  It's a
+standing gunmetal rack about the size of a small toaster-
+oven:  with eight slots of hand-soldered breadboarding
+featuring thumb-sized vacuum tubes.  If it fell off a table
+it
+could easily break your foot, but it was state-of-the-art
+computation in the 1940s.   (It would take exactly 157,184
+of
+these primordial toasters to hold the first part of this
+book.)
 
           There's also a coiling, multicolored, scaly dragon that
-     some inspired techno-punk artist has cobbled up entirely
-     out of transistors, capacitors, and brightly plastic-coated
-     wiring.
+some inspired techno-punk artist has cobbled up entirely
+out of transistors, capacitors, and brightly plastic-coated
+wiring.
 
           Inside the office, Kapor excuses himself briefly to do
-     a little mouse-whizzing housekeeping on his personal
-     Macintosh IIfx.  If its giant  screen were an open window,
-     an agile person could climb through it without much
-     trouble at all.  There's a coffee-cup at Kapor's elbow, a
-     memento of his recent trip to Eastern Europe, which has a
-     black-and-white stencilled photo and the legend
-     CAPITALIST FOOLS TOUR.   It's Kapor, Barlow, and two
-     California venture-capitalist luminaries of their
-     acquaintance, four windblown, grinning Baby Boomer
-     dudes in leather jackets, boots, denim, travel bags,
-     standing on airport tarmac somewhere behind the
-     formerly Iron Curtain.  They look as if they're having the
-     absolute time of their lives.
+a little mouse-whizzing housekeeping on his personal
+Macintosh IIfx.  If its giant  screen were an open window,
+an agile person could climb through it without much
+trouble at all.  There's a coffee-cup at Kapor's elbow, a
+memento of his recent trip to Eastern Europe, which has a
+black-and-white stencilled photo and the legend
+CAPITALIST FOOLS TOUR.   It's Kapor, Barlow, and two
+California venture-capitalist luminaries of their
+acquaintance, four windblown, grinning Baby Boomer
+dudes in leather jackets, boots, denim, travel bags,
+standing on airport tarmac somewhere behind the
+formerly Iron Curtain.  They look as if they're having the
+absolute time of their lives.
 
           Kapor is in a reminiscent mood.  We talk a bit about
-     his youth -- high school days as a "math nerd,"  Saturdays
-     attending Columbia University's high-school science
-     honors program, where he had his first experience
-     programming computers.  IBM 1620s, in 1965 and '66.   "I
-     was very interested," says Kapor, "and then I went off to
-     college and got distracted by drugs sex and rock and roll,
-     like anybody with half a brain would have then!"  After
-     college he was a progressive-rock DJ in Hartford,
-     Connecticut, for a couple of years.
+his youth -- high school days as a "math nerd,"  Saturdays
+attending Columbia University's high-school science
+honors program, where he had his first experience
+programming computers.  IBM 1620s, in 1965 and '66.   "I
+was very interested," says Kapor, "and then I went off to
+college and got distracted by drugs sex and rock and roll,
+like anybody with half a brain would have then!"  After
+college he was a progressive-rock DJ in Hartford,
+Connecticut, for a couple of years.
 
           I ask him if he ever misses his rock and roll days --
-     if
-     he ever wished he could go back to radio work.
+if
+he ever wished he could go back to radio work.
 
           He shakes his head flatly.  "I stopped thinking about
-     going back to be a DJ the day after Altamont."
+going back to be a DJ the day after Altamont."
 
           Kapor moved to Boston in 1974 and got a job
-     programming mainframes in COBOL.  He hated it.  He
-     quit and became a teacher of transcendental meditation.
-     (It was Kapor's long flirtation with Eastern mysticism that
-     gave the world "Lotus.")
+programming mainframes in COBOL.  He hated it.  He
+quit and became a teacher of transcendental meditation.
+(It was Kapor's long flirtation with Eastern mysticism that
+gave the world "Lotus.")
 
           In 1976 Kapor went to Switzerland, where the
-     Transcendental Meditation movement had rented a
-     gigantic Victorian hotel in St-Moritz.  It was an all-male
-     group -- a hundred and twenty of them -- determined
-     upon Enlightenment or Bust.   Kapor had given the
-     transcendant his best shot.  He was becoming
-     disenchanted by "the nuttiness in the organization."  "They
-     were teaching people to levitate," he says, staring at the
-     floor.  His voice drops an octave, becomes flat.  "*They
-     don't levitate.*"
+Transcendental Meditation movement had rented a
+gigantic Victorian hotel in St-Moritz.  It was an all-male
+group -- a hundred and twenty of them -- determined
+upon Enlightenment or Bust.   Kapor had given the
+transcendant his best shot.  He was becoming
+disenchanted by "the nuttiness in the organization."  "They
+were teaching people to levitate," he says, staring at the
+floor.  His voice drops an octave, becomes flat.  "*They
+don't levitate.*"
 
            Kapor chose Bust.  He went back to the States and
-     acquired a degree in counselling psychology.  He worked a
-     while in a hospital, couldn't stand that either.  "My rep
-     was," he says  "a very bright kid with a lot of potential
-     who
-     hasn't found himself.  Almost thirty.  Sort of lost."
+acquired a degree in counselling psychology.  He worked a
+while in a hospital, couldn't stand that either.  "My rep
+was," he says  "a very bright kid with a lot of potential
+who
+hasn't found himself.  Almost thirty.  Sort of lost."
 
           Kapor was unemployed when he bought his first
-     personal computer -- an Apple II.  He sold his stereo to
-     raise cash and drove to New Hampshire to avoid the sales
-     tax.
+personal computer -- an Apple II.  He sold his stereo to
+raise cash and drove to New Hampshire to avoid the sales
+tax.
 
           "The day after I purchased it," Kapor tells me,  "I was
-     hanging out in a computer store and I saw another guy, a
-     man in his forties, well-dressed guy, and eavesdropped on
-     his conversation with the salesman.  He didn't know
-     anything  about computers.  I'd had a year programming.
-     And I could program in BASIC.  I'd taught myself.  So I
-     went up to him, and I actually sold myself to him as a
-     consultant."  He pauses.  "I don't know where I got the
-     nerve to do this.  It was uncharacteristic.  I just said, 'I
-     think
-     I can help you, I've been listening, this is what you need
-     to
-     do and I think I can do it for you.'  And he took me on!  He
-     was my first client!  I became a computer consultant the
-     first day after I bought the Apple II."
+hanging out in a computer store and I saw another guy, a
+man in his forties, well-dressed guy, and eavesdropped on
+his conversation with the salesman.  He didn't know
+anything  about computers.  I'd had a year programming.
+And I could program in BASIC.  I'd taught myself.  So I
+went up to him, and I actually sold myself to him as a
+consultant."  He pauses.  "I don't know where I got the
+nerve to do this.  It was uncharacteristic.  I just said, 'I
+think
+I can help you, I've been listening, this is what you need
+to
+do and I think I can do it for you.'  And he took me on!  He
+was my first client!  I became a computer consultant the
+first day after I bought the Apple II."
 
           Kapor had found his true vocation.  He attracted
-     more clients for his consultant service, and started an
-     Apple users' group.
+more clients for his consultant service, and started an
+Apple users' group.
 
           A friend of Kapor's, Eric Rosenfeld, a graduate
-     student at MIT, had a problem.  He was doing a thesis on
-     an arcane form of financial statistics, but could not wedge
-     himself into the crowded queue for time on MIT's
-     mainframes.  (One might note at this point that if Mr.
-     Rosenfeld had dishonestly broken into the MIT
-     mainframes, Kapor himself might have never invented
-     Lotus 1-2-3 and the PC business might have been set back
-     for years!)   Eric Rosenfeld did have an Apple II, however,
-     and he thought it might be possible to scale the problem
-     down.  Kapor, as favor, wrote a program for him in BASIC
-     that did the job.
+student at MIT, had a problem.  He was doing a thesis on
+an arcane form of financial statistics, but could not wedge
+himself into the crowded queue for time on MIT's
+mainframes.  (One might note at this point that if Mr.
+Rosenfeld had dishonestly broken into the MIT
+mainframes, Kapor himself might have never invented
+Lotus 1-2-3 and the PC business might have been set back
+for years!)   Eric Rosenfeld did have an Apple II, however,
+and he thought it might be possible to scale the problem
+down.  Kapor, as favor, wrote a program for him in BASIC
+that did the job.
 
           It then occurred to the two of them, out of the blue,
-     that it might be possible to *sell*  this program.  They
-     marketed it themselves, in plastic baggies, for about a
-     hundred bucks a pop, mail order.    "This was a total
-     cottage industry by a marginal consultant," Kapor says
-     proudly.  "That's how I got started, honest to God."
+that it might be possible to *sell*  this program.  They
+marketed it themselves, in plastic baggies, for about a
+hundred bucks a pop, mail order.    "This was a total
+cottage industry by a marginal consultant," Kapor says
+proudly.  "That's how I got started, honest to God."
 
           Rosenfeld, who later became a very prominent figure
-     on Wall Street, urged Kapor to go to MIT's business
-     school for an MBA.   Kapor  did seven months there, but
-     never got his MBA.  He picked up some useful tools --
-     mainly a firm grasp of the principles of accounting -- and,
-     in his own words, "learned to talk MBA."   Then he
-     dropped out and went to Silicon Valley.
+on Wall Street, urged Kapor to go to MIT's business
+school for an MBA.   Kapor  did seven months there, but
+never got his MBA.  He picked up some useful tools --
+mainly a firm grasp of the principles of accounting -- and,
+in his own words, "learned to talk MBA."   Then he
+dropped out and went to Silicon Valley.
 
           The inventors of VisiCalc, the Apple computer's
-     premier business program, had shown an interest in
-     Mitch Kapor.   Kapor worked diligently for them for six
-     months, got tired of California, and went back to Boston
-     where they had better bookstores.   The VisiCalc group
-     had made the critical error of bringing in "professional
-     management."  "That drove them into the ground," Kapor
-     says.
+premier business program, had shown an interest in
+Mitch Kapor.   Kapor worked diligently for them for six
+months, got tired of California, and went back to Boston
+where they had better bookstores.   The VisiCalc group
+had made the critical error of bringing in "professional
+management."  "That drove them into the ground," Kapor
+says.
 
           "Yeah, you don't hear a lot about VisiCalc these days,"
-     I muse.
+I muse.
 
           Kapor looks surprised.  "Well, Lotus.... we *bought*
-     it."
+it."
 
           "Oh.  You *bought*  it?"
 
@@ -3152,820 +3152,820 @@ and just that little bit anomalous.
           Kapor grins.  "Yep!  Yep!  Yeah, exactly!"
 
           Mitch Kapor was not in full command of the destiny
-     of himself or his industry.  The hottest software
-     commodities of the early 1980s were *computer games*  --
-     the Atari seemed destined to enter every teenage home in
-     America.  Kapor got into business software simply
-     because he didn't have any particular feeling for
-     computer games.  But he was supremely fast on his feet,
-     open to new ideas and inclined to trust his instincts.   And
-     his instincts were good.  He chose good people to deal with
-     -- gifted programmer Jonathan Sachs (the co-author of
-     Lotus 1-2-3).   Financial wizard Eric Rosenfeld, canny Wall
-     Street analyst and venture capitalist Ben Rosen.  Kapor
-     was the founder and CEO of Lotus, one of the most
-     spectacularly successful business ventures of the later
-     twentieth century.
+of himself or his industry.  The hottest software
+commodities of the early 1980s were *computer games*  --
+the Atari seemed destined to enter every teenage home in
+America.  Kapor got into business software simply
+because he didn't have any particular feeling for
+computer games.  But he was supremely fast on his feet,
+open to new ideas and inclined to trust his instincts.   And
+his instincts were good.  He chose good people to deal with
+-- gifted programmer Jonathan Sachs (the co-author of
+Lotus 1-2-3).   Financial wizard Eric Rosenfeld, canny Wall
+Street analyst and venture capitalist Ben Rosen.  Kapor
+was the founder and CEO of Lotus, one of the most
+spectacularly successful business ventures of the later
+twentieth century.
 
           He is now an extremely wealthy man.  I ask him if he
-     actually knows how much money he has.
+actually knows how much money he has.
 
           "Yeah," he says.  "Within a percent or two."
 
           How much does he actually have, then?
 
           He shakes his head.  "A lot.  A lot.  Not something I
-     talk about.  Issues of money and class are  things that cut
-     pretty close to the bone."
+talk about.  Issues of money and class are  things that cut
+pretty close to the bone."
 
           I don't pry.  It's beside the point.  One might
-     presume, impolitely, that Kapor has at least forty million -
-     -
-     that's what he got the year he left Lotus.  People who ought
-     to know claim Kapor has about a hundred and fifty
-     million, give or take a market swing in his stock holdings.
-     If Kapor had stuck with Lotus, as his colleague friend and
-     rival Bill Gates has stuck with his own software start-up,
-     Microsoft, then Kapor would likely have much the same
-     fortune Gates has -- somewhere in the neighborhood of
-     three billion, give or take a few hundred million.   Mitch
-     Kapor has all the money he wants.  Money has lost
-     whatever charm it ever held for him -- probably not much
-     in the first place.    When Lotus became too uptight, too
-     bureaucratic, too far from the true sources of his own
-     satisfaction, Kapor walked.   He simply severed all
-     connections with the company and went out the door.  It
-     stunned everyone -- except those who knew him best.
+presume, impolitely, that Kapor has at least forty million -
+-
+that's what he got the year he left Lotus.  People who ought
+to know claim Kapor has about a hundred and fifty
+million, give or take a market swing in his stock holdings.
+If Kapor had stuck with Lotus, as his colleague friend and
+rival Bill Gates has stuck with his own software start-up,
+Microsoft, then Kapor would likely have much the same
+fortune Gates has -- somewhere in the neighborhood of
+three billion, give or take a few hundred million.   Mitch
+Kapor has all the money he wants.  Money has lost
+whatever charm it ever held for him -- probably not much
+in the first place.    When Lotus became too uptight, too
+bureaucratic, too far from the true sources of his own
+satisfaction, Kapor walked.   He simply severed all
+connections with the company and went out the door.  It
+stunned everyone -- except those who knew him best.
 
           Kapor has not had to strain his resources to wreak a
-     thorough transformation in cyberspace politics.  In its
-     first
-     year, EFF's budget was about a quarter of a million dollars.
-     Kapor is running EFF out of his pocket change.
+thorough transformation in cyberspace politics.  In its
+first
+year, EFF's budget was about a quarter of a million dollars.
+Kapor is running EFF out of his pocket change.
 
           Kapor takes pains to tell me that he does not
-     consider himself a civil libertarian per se.  He has spent
-     quite some time with true-blue civil libertarians lately,
-     and
-     there's a political-correctness to them that bugs him.  They
-     seem to him to spend entirely too much time in legal
-     nitpicking and not enough vigorously exercising civil
-     rights in the everyday real world.
+consider himself a civil libertarian per se.  He has spent
+quite some time with true-blue civil libertarians lately,
+and
+there's a political-correctness to them that bugs him.  They
+seem to him to spend entirely too much time in legal
+nitpicking and not enough vigorously exercising civil
+rights in the everyday real world.
 
            Kapor is an entrepreneur.  Like all hackers, he
-     prefers his involvements  direct, personal, and hands-on.
-     "The fact that EFF has a node on the Internet is a great
-     thing.  We're a publisher.  We're a distributor of
-     information."  Among the items the eff.org Internet node
-     carries is back issues of *Phrack.*  They had an internal
-     debate about that in EFF, and finally decided to take the
-     plunge.  They might carry other digital underground
-     publications -- but if they do, he says, "we'll certainly
-     carry
-     Donn Parker, and anything Gail Thackeray wants to put
-     up.  We'll turn it into a public library, that has the whole
-     spectrum of use.  Evolve in the direction of people making
-     up their own minds."  He grins.  "We'll try to label all the
-     editorials."
+prefers his involvements  direct, personal, and hands-on.
+"The fact that EFF has a node on the Internet is a great
+thing.  We're a publisher.  We're a distributor of
+information."  Among the items the eff.org Internet node
+carries is back issues of *Phrack.*  They had an internal
+debate about that in EFF, and finally decided to take the
+plunge.  They might carry other digital underground
+publications -- but if they do, he says, "we'll certainly
+carry
+Donn Parker, and anything Gail Thackeray wants to put
+up.  We'll turn it into a public library, that has the whole
+spectrum of use.  Evolve in the direction of people making
+up their own minds."  He grins.  "We'll try to label all the
+editorials."
 
           Kapor is determined to tackle the technicalities of
-     the Internet in the service of the public interest.   "The
-     problem with being a node on the Net today is that you've
-     got to have a captive technical specialist.  We have Chris
-     Davis around, for the care and feeding of the balky beast!
-     We couldn't do it ourselves!"
+the Internet in the service of the public interest.   "The
+problem with being a node on the Net today is that you've
+got to have a captive technical specialist.  We have Chris
+Davis around, for the care and feeding of the balky beast!
+We couldn't do it ourselves!"
 
           He pauses.  "So one direction in which technology has
-     to evolve is much more standardized units, that a non-
-     technical person can feel comfortable with.  It's the same
-     shift as from minicomputers to PCs.  I can see a future in
-     which any person can have a Node on the Net.  Any
-     person can be a publisher.  It's better than the media we
-     now have.  It's possible.  We're working actively."
+to evolve is much more standardized units, that a non-
+technical person can feel comfortable with.  It's the same
+shift as from minicomputers to PCs.  I can see a future in
+which any person can have a Node on the Net.  Any
+person can be a publisher.  It's better than the media we
+now have.  It's possible.  We're working actively."
 
           Kapor is in his element now, fluent, thoroughly in
-     command in his material.   "You go tell a hardware
-     Internet hacker that everyone should have a node on the
-     Net," he says, "and the first thing they're going to say is,
-     'IP
-     doesn't scale!'"  ("IP" is the interface protocol for the
-     Internet.  As it currently exists, the IP software is simply
-     not capable of indefinite expansion; it will run out of
-     usable addresses, it will saturate.)   "The answer," Kapor
-     says,  "is:  evolve the protocol!  Get the smart people
-     together and figure out what to do.  Do we add ID?  Do we
-     add new protocol?  Don't just say, *we can't do it.*"
+command in his material.   "You go tell a hardware
+Internet hacker that everyone should have a node on the
+Net," he says, "and the first thing they're going to say is,
+'IP
+doesn't scale!'"  ("IP" is the interface protocol for the
+Internet.  As it currently exists, the IP software is simply
+not capable of indefinite expansion; it will run out of
+usable addresses, it will saturate.)   "The answer," Kapor
+says,  "is:  evolve the protocol!  Get the smart people
+together and figure out what to do.  Do we add ID?  Do we
+add new protocol?  Don't just say, *we can't do it.*"
 
           Getting smart people together to figure out what to
-     do is a skill at which Kapor clearly excels.   I counter
-     that
-     people on the Internet rather enjoy their elite technical
-     status, and don't seem particularly anxious to democratize
-     the Net.
+do is a skill at which Kapor clearly excels.   I counter
+that
+people on the Internet rather enjoy their elite technical
+status, and don't seem particularly anxious to democratize
+the Net.
 
           Kapor agrees, with a show of scorn.  "I tell them that
-     this is the snobbery of the people on the *Mayflower*
-     looking down their noses at the people who came over *on
-     the second boat!*   Just because they got here a year, or
-     five years, or ten years before everybody else, that doesn't
-     give them ownership of cyberspace!  By what right?"
+this is the snobbery of the people on the *Mayflower*
+looking down their noses at the people who came over *on
+the second boat!*   Just because they got here a year, or
+five years, or ten years before everybody else, that doesn't
+give them ownership of cyberspace!  By what right?"
 
           I remark that the telcos are an electronic network,
-     too, and they seem to guard their specialized knowledge
-     pretty closely.
+too, and they seem to guard their specialized knowledge
+pretty closely.
 
           Kapor ripostes that the telcos and the Internet are
-     entirely different animals.  "The Internet is an open
-     system, everything is published, everything gets argued
-     about, basically by anybody who can get in.  Mostly, it's
-     exclusive and elitist just because it's so difficult.  Let's
-     make it easier to use."
+entirely different animals.  "The Internet is an open
+system, everything is published, everything gets argued
+about, basically by anybody who can get in.  Mostly, it's
+exclusive and elitist just because it's so difficult.  Let's
+make it easier to use."
 
           On the other hand, he allows with a swift change of
-     emphasis, the so-called elitists do have a point as well.
-     "Before people start coming in, who are new, who want to
-     make suggestions, and criticize the Net as 'all screwed
-     up'....  They should at least take the time to understand
-     the
-     culture on its own terms.  It has its own history -- show
-     some respect for it.  I'm a conservative, to that extent."
+emphasis, the so-called elitists do have a point as well.
+"Before people start coming in, who are new, who want to
+make suggestions, and criticize the Net as 'all screwed
+up'....  They should at least take the time to understand
+the
+culture on its own terms.  It has its own history -- show
+some respect for it.  I'm a conservative, to that extent."
 
           The Internet is Kapor's paradigm for the future of
-     telecommunications.  The Internet is decentralized, non-
-     heirarchical, almost anarchic.  There are no bosses, no
-     chain of command, no secret data.  If each node obeys the
-     general interface standards, there's simply no need for
-     any central network authority.
+telecommunications.  The Internet is decentralized, non-
+heirarchical, almost anarchic.  There are no bosses, no
+chain of command, no secret data.  If each node obeys the
+general interface standards, there's simply no need for
+any central network authority.
 
           Wouldn't that spell the doom of AT&T as an
-     institution?  I ask.
+institution?  I ask.
 
           That prospect doesn't faze Kapor for a moment.
-     "Their  big advantage, that they have now, is that they have
-     all of the wiring.  But two things are happening.  Anyone
-     with right-of-way is putting down fiber -- Southern Pacific
-     Railroad, people like that -- there's enormous 'dark fiber'
-     laid in."  ("Dark Fiber" is fiber-optic cable, whose
-     enormous capacity so exceeds the demands of current
-     usage that much of the fiber still has no light-signals on
-     it -
-     - it's still 'dark,' awaiting future use.)
+"Their  big advantage, that they have now, is that they have
+all of the wiring.  But two things are happening.  Anyone
+with right-of-way is putting down fiber -- Southern Pacific
+Railroad, people like that -- there's enormous 'dark fiber'
+laid in."  ("Dark Fiber" is fiber-optic cable, whose
+enormous capacity so exceeds the demands of current
+usage that much of the fiber still has no light-signals on
+it -
+- it's still 'dark,' awaiting future use.)
 
           "The other thing that's happening is the local-loop
-     stuff is going to go wireless.  Everyone from Bellcore to
-     the
-     cable TV companies to AT&T wants to put in these things
-     called 'personal communication systems.'  So you could
-     have local competition -- you could have multiplicity of
-     people, a bunch of neighborhoods, sticking stuff up on
-     poles.  And a bunch of other people laying in dark fiber.
-     So what happens to the telephone companies?  There's
-     enormous pressure on them from both sides.
+stuff is going to go wireless.  Everyone from Bellcore to
+the
+cable TV companies to AT&T wants to put in these things
+called 'personal communication systems.'  So you could
+have local competition -- you could have multiplicity of
+people, a bunch of neighborhoods, sticking stuff up on
+poles.  And a bunch of other people laying in dark fiber.
+So what happens to the telephone companies?  There's
+enormous pressure on them from both sides.
 
           "The more I look at this, the more I believe that in a
-     post-industrial, digital world, the idea of regulated
-     monopolies is bad.  People will look back on it and say that
-     in the 19th and 20th centuries the idea of public utilities
-     was an okay compromise.  You needed one set of wires in
-     the ground.  It was too economically inefficient, otherwise.
-     And that meant one entity running it.  But now, with pieces
-     being wireless -- the connections are going to be via high-
-     level interfaces, not via wires.  I mean, *ultimately*
-     there
-     are going to be wires -- but the wires are just a commodity.
-     Fiber, wireless.  You no longer *need*  a utility."
+post-industrial, digital world, the idea of regulated
+monopolies is bad.  People will look back on it and say that
+in the 19th and 20th centuries the idea of public utilities
+was an okay compromise.  You needed one set of wires in
+the ground.  It was too economically inefficient, otherwise.
+And that meant one entity running it.  But now, with pieces
+being wireless -- the connections are going to be via high-
+level interfaces, not via wires.  I mean, *ultimately*
+there
+are going to be wires -- but the wires are just a commodity.
+Fiber, wireless.  You no longer *need*  a utility."
 
           Water utilities?  Gas utilities?
 
           Of course we still need those, he agrees.   "But when
-     what you're moving is information, instead of physical
-     substances, then you can play by a different set of rules.
-     We're evolving those rules now!   Hopefully you can have
-     a much more decentralized system, and one in which
-     there's more competition in the marketplace.
+what you're moving is information, instead of physical
+substances, then you can play by a different set of rules.
+We're evolving those rules now!   Hopefully you can have
+a much more decentralized system, and one in which
+there's more competition in the marketplace.
 
           "The role of government will be to make sure that
-     nobody cheats.  The proverbial 'level playing field.'   A
-     policy that prevents monopolization.  It should result in
-     better service, lower prices, more choices, and local
-     empowerment."  He smiles.  "I'm very big on local
-     empowerment."
+nobody cheats.  The proverbial 'level playing field.'   A
+policy that prevents monopolization.  It should result in
+better service, lower prices, more choices, and local
+empowerment."  He smiles.  "I'm very big on local
+empowerment."
 
           Kapor is a man with a vision.  It's a very novel vision
-     which he and his allies are working out in considerable
-     detail and with great energy.  Dark, cynical, morbid
-     cyberpunk that I am, I cannot avoid considering some of
-     the darker implications of "decentralized, nonhierarchical,
-     locally empowered" networking.
+which he and his allies are working out in considerable
+detail and with great energy.  Dark, cynical, morbid
+cyberpunk that I am, I cannot avoid considering some of
+the darker implications of "decentralized, nonhierarchical,
+locally empowered" networking.
 
           I remark that some pundits have suggested that
-     electronic networking -- faxes, phones, small-scale
-     photocopiers -- played a strong role in dissolving the
-     power of centralized communism and causing the
-     collapse of the Warsaw Pact.
+electronic networking -- faxes, phones, small-scale
+photocopiers -- played a strong role in dissolving the
+power of centralized communism and causing the
+collapse of the Warsaw Pact.
 
           Socialism is totally discredited, says Kapor, fresh
-     back from the Eastern Bloc.  The idea that faxes did it, all
-     by themselves, is rather wishful thinking.
+back from the Eastern Bloc.  The idea that faxes did it, all
+by themselves, is rather wishful thinking.
 
           Has it occurred to him that electronic networking
-     might corrode America's industrial and political
-     infrastructure to the point where the whole thing becomes
-     untenable, unworkable -- and the old order just collapses
-     headlong, like in Eastern Europe?
+might corrode America's industrial and political
+infrastructure to the point where the whole thing becomes
+untenable, unworkable -- and the old order just collapses
+headlong, like in Eastern Europe?
 
           "No," Kapor says flatly.  "I think that's
-     extraordinarily
-     unlikely.  In part, because ten or fifteen years ago, I had
-     similar hopes about personal computers -- which utterly
-     failed to materialize." He grins wryly, then his eyes
-     narrow.
-     "I'm *very* opposed to techno-utopias.  Every time I see
-     one, I either run away, or try to kill it."
+extraordinarily
+unlikely.  In part, because ten or fifteen years ago, I had
+similar hopes about personal computers -- which utterly
+failed to materialize." He grins wryly, then his eyes
+narrow.
+"I'm *very* opposed to techno-utopias.  Every time I see
+one, I either run away, or try to kill it."
 
           It dawns on me then that Mitch Kapor is not trying to
-     make the world safe for democracy.  He certainly is not
-     trying to make it safe for anarchists or utopians -- least
-     of
-     all for computer intruders or electronic rip-off artists.
-     What he really hopes to do is make the world safe for
-     future Mitch Kapors.  This world of decentralized, small-
-     scale nodes, with instant global access for the best and
-     brightest, would be a perfect milieu for the shoestring
-     attic
-     capitalism that made Mitch Kapor what he is today.
+make the world safe for democracy.  He certainly is not
+trying to make it safe for anarchists or utopians -- least
+of
+all for computer intruders or electronic rip-off artists.
+What he really hopes to do is make the world safe for
+future Mitch Kapors.  This world of decentralized, small-
+scale nodes, with instant global access for the best and
+brightest, would be a perfect milieu for the shoestring
+attic
+capitalism that made Mitch Kapor what he is today.
 
           Kapor is a very bright man.  He has a rare
-     combination of visionary intensity with a strong practical
-     streak.  The Board of the EFF:  John Barlow, Jerry Berman
-     of the ACLU, Stewart Brand, John Gilmore, Steve
-     Wozniak, and Esther Dyson, the doyenne of East-West
-     computer entrepreneurism -- share his gift, his vision, and
-     his formidable networking talents.   They are people of the
-     1960s,  winnowed-out by its turbulence and rewarded with
-     wealth and influence.   They are some of the best and the
-     brightest that the electronic community has to offer.  But
-     can they do it, in the real world?  Or are they only
-     dreaming?   They are so few.  And there is so much against
-     them.
+combination of visionary intensity with a strong practical
+streak.  The Board of the EFF:  John Barlow, Jerry Berman
+of the ACLU, Stewart Brand, John Gilmore, Steve
+Wozniak, and Esther Dyson, the doyenne of East-West
+computer entrepreneurism -- share his gift, his vision, and
+his formidable networking talents.   They are people of the
+1960s,  winnowed-out by its turbulence and rewarded with
+wealth and influence.   They are some of the best and the
+brightest that the electronic community has to offer.  But
+can they do it, in the real world?  Or are they only
+dreaming?   They are so few.  And there is so much against
+them.
 
           I leave Kapor and his networking employees
-     struggling cheerfully with the promising intricacies of
-     their
-     newly installed Macintosh System 7 software.  The next
-     day is Saturday.  EFF is closed.  I pay a few visits to
-     points
-     of interest downtown.
+struggling cheerfully with the promising intricacies of
+their
+newly installed Macintosh System 7 software.  The next
+day is Saturday.  EFF is closed.  I pay a few visits to
+points
+of interest downtown.
 
           One of them is the birthplace of the telephone.
 
           It's marked by a bronze plaque in a plinth of black-
-     and-white speckled granite.  It sits in the plaza of the
-     John
-     F. Kennedy Federal Building, the very place where Kapor
-     was once fingerprinted by the FBI.
+and-white speckled granite.  It sits in the plaza of the
+John
+F. Kennedy Federal Building, the very place where Kapor
+was once fingerprinted by the FBI.
 
           The plaque has a bas-relief picture of Bell's original
-     telephone.  "BIRTHPLACE OF THE TELEPHONE," it
-     reads.  "Here, on June 2, 1875, Alexander Graham Bell and
-     Thomas A. Watson first transmitted sound over wires.
+telephone.  "BIRTHPLACE OF THE TELEPHONE," it
+reads.  "Here, on June 2, 1875, Alexander Graham Bell and
+Thomas A. Watson first transmitted sound over wires.
 
           "This successful experiment was completed in a fifth
-     floor garret at what was then 109 Court Street and marked
-     the beginning of world-wide telephone service."
+floor garret at what was then 109 Court Street and marked
+the beginning of world-wide telephone service."
 
           109 Court Street is long gone.  Within sight of Bell's
-     plaque, across a street, is one of the central offices of
-     NYNEX, the local  Bell RBOC, on 6 Bowdoin Square.
+plaque, across a street, is one of the central offices of
+NYNEX, the local  Bell RBOC, on 6 Bowdoin Square.
 
           I cross the street and circle the telco building,
-     slowly,
-     hands in my jacket pockets.  It's a bright, windy, New
-     England autumn day.   The central office is a handsome
-     1940s-era megalith in late Art Deco, eight stories high.
+slowly,
+hands in my jacket pockets.  It's a bright, windy, New
+England autumn day.   The central office is a handsome
+1940s-era megalith in late Art Deco, eight stories high.
 
           Parked outside the back is a power-generation truck.
-     The generator strikes me as rather anomalous.  Don't they
-     already have their own generators in this eight-story
-     monster?  Then the suspicion strikes me that NYNEX
-     must have heard of the September 17 AT&T power-outage
-     which crashed New York City.  Belt-and-suspenders, this
-     generator.  Very telco.
+The generator strikes me as rather anomalous.  Don't they
+already have their own generators in this eight-story
+monster?  Then the suspicion strikes me that NYNEX
+must have heard of the September 17 AT&T power-outage
+which crashed New York City.  Belt-and-suspenders, this
+generator.  Very telco.
 
           Over the glass doors of the front entrance is a
-     handsome bronze bas-relief of Art Deco vines, sunflowers,
-     and birds, entwining the Bell logo and the legend NEW
-     ENGLAND TELEPHONE AND TELEGRAPH COMPANY
-     -- an entity which no longer officially exists.
+handsome bronze bas-relief of Art Deco vines, sunflowers,
+and birds, entwining the Bell logo and the legend NEW
+ENGLAND TELEPHONE AND TELEGRAPH COMPANY
+-- an entity which no longer officially exists.
 
           The doors are locked securely.  I peer through the
-     shadowed glass.  Inside is an official poster reading:
+shadowed glass.  Inside is an official poster reading:
 
           "New England Telephone a NYNEX Company
 
                     ATTENTION
 
           "All persons while on New England Telephone
-     Company premises are required to visibly wear their
-     identification cards (C.C.P. Section 2, Page 1).
+Company premises are required to visibly wear their
+identification cards (C.C.P. Section 2, Page 1).
 
           "Visitors, vendors, contractors, and all others are
-     required to visibly wear a daily pass.
+required to visibly wear a daily pass.
                          "Thank you.
                          Kevin C. Stanton.
                          Building Security Coordinator."
 
           Outside, around the corner, is a pull-down ribbed
-     metal security door, a locked delivery entrance.  Some
-     passing stranger has grafitti-tagged this door, with a
-     single
-     word in red spray-painted cursive:
+metal security door, a locked delivery entrance.  Some
+passing stranger has grafitti-tagged this door, with a
+single
+word in red spray-painted cursive:
 
                     *Fury*
 
                          #
 
           My book on the Hacker Crackdown is almost over
-     now.  I have deliberately saved the best for last.
+now.  I have deliberately saved the best for last.
 
           In February 1991, I attended the CPSR Public Policy
-     Roundtable, in Washington, DC.   CPSR, Computer
-     Professionals for Social Responsibility, was a sister
-     organization of EFF, or perhaps its aunt, being older and
-     perhaps somewhat wiser in the ways of the world of
-     politics.
+Roundtable, in Washington, DC.   CPSR, Computer
+Professionals for Social Responsibility, was a sister
+organization of EFF, or perhaps its aunt, being older and
+perhaps somewhat wiser in the ways of the world of
+politics.
 
           Computer Professionals for  Social Responsibility
-     began in 1981 in Palo Alto, as an informal discussion group
-     of Californian computer scientists and technicians, united
-     by nothing more than an electronic mailing list.   This
-     typical high-tech ad-hocracy received the dignity of its
-     own acronym in 1982, and was formally incorporated in
-     1983.
+began in 1981 in Palo Alto, as an informal discussion group
+of Californian computer scientists and technicians, united
+by nothing more than an electronic mailing list.   This
+typical high-tech ad-hocracy received the dignity of its
+own acronym in 1982, and was formally incorporated in
+1983.
 
           CPSR lobbied government and public alike with an
-     educational outreach effort, sternly warning against any
-     foolish and unthinking trust in complex computer
-     systems.  CPSR insisted that mere computers should
-     never be considered a magic panacea for humanity's
-     social, ethical or political problems.  CPSR members were
-     especially troubled about the stability, safety, and
-     dependability of military computer systems, and very
-     especially troubled by those systems controlling nuclear
-     arsenals.  CPSR was best-known for its persistent and well-
-     publicized attacks on the scientific credibility of the
-     Strategic Defense Initiative ("Star Wars").
+educational outreach effort, sternly warning against any
+foolish and unthinking trust in complex computer
+systems.  CPSR insisted that mere computers should
+never be considered a magic panacea for humanity's
+social, ethical or political problems.  CPSR members were
+especially troubled about the stability, safety, and
+dependability of military computer systems, and very
+especially troubled by those systems controlling nuclear
+arsenals.  CPSR was best-known for its persistent and well-
+publicized attacks on the scientific credibility of the
+Strategic Defense Initiative ("Star Wars").
 
           In 1990, CPSR was the nation's veteran cyber-political
-     activist group, with over two thousand members in twenty-
-     one local chapters across the US.  It was especially active
-     in Boston, Silicon Valley, and Washington DC, where its
-     Washington office sponsored the Public Policy
-     Roundtable.
+activist group, with over two thousand members in twenty-
+one local chapters across the US.  It was especially active
+in Boston, Silicon Valley, and Washington DC, where its
+Washington office sponsored the Public Policy
+Roundtable.
 
           The Roundtable, however, had been funded by EFF,
-     which had passed CPSR an extensive grant for operations.
-     This was the first large-scale, official meeting of what was
-     to become the electronic civil libertarian community.
+which had passed CPSR an extensive grant for operations.
+This was the first large-scale, official meeting of what was
+to become the electronic civil libertarian community.
 
           Sixty people attended, myself included -- in this
-     instance, not so much as a journalist as a cyberpunk
-     author.   Many of the luminaries of the field took part:
-     Kapor and Godwin as a matter of course.  Richard Civille
-     and Marc Rotenberg of CPSR.  Jerry Berman of the ACLU.
-     John Quarterman, author of *The Matrix.*  Steven Levy,
-     author of *Hackers.*   George Perry and Sandy Weiss of
-     Prodigy Services, there to network about the civil-liberties
-     troubles their young commercial network was
-     experiencing.  Dr. Dorothy Denning.  Cliff Figallo,
-     manager of the Well.  Steve Jackson was there, having
-     finally found his ideal target audience, and so was Craig
-     Neidorf, "Knight Lightning" himself, with his attorney,
-     Sheldon Zenner.  Katie Hafner, science journalist, and co-
-     author of *Cyberpunk:  Outlaws and Hackers on the
-     Computer Frontier.*  Dave Farber, ARPAnet pioneer and
-     fabled Internet guru.  Janlori Goldman of the ACLU's
-     Project on Privacy and Technology.  John Nagle of
-     Autodesk and the Well.  Don Goldberg of the House
-     Judiciary Committee.  Tom Guidoboni, the defense
-     attorney in the Internet Worm case.  Lance Hoffman,
-     computer-science professor at The George Washington
-     University.  Eli Noam of Columbia.  And a host of others
-     no less distinguished.
+instance, not so much as a journalist as a cyberpunk
+author.   Many of the luminaries of the field took part:
+Kapor and Godwin as a matter of course.  Richard Civille
+and Marc Rotenberg of CPSR.  Jerry Berman of the ACLU.
+John Quarterman, author of *The Matrix.*  Steven Levy,
+author of *Hackers.*   George Perry and Sandy Weiss of
+Prodigy Services, there to network about the civil-liberties
+troubles their young commercial network was
+experiencing.  Dr. Dorothy Denning.  Cliff Figallo,
+manager of the Well.  Steve Jackson was there, having
+finally found his ideal target audience, and so was Craig
+Neidorf, "Knight Lightning" himself, with his attorney,
+Sheldon Zenner.  Katie Hafner, science journalist, and co-
+author of *Cyberpunk:  Outlaws and Hackers on the
+Computer Frontier.*  Dave Farber, ARPAnet pioneer and
+fabled Internet guru.  Janlori Goldman of the ACLU's
+Project on Privacy and Technology.  John Nagle of
+Autodesk and the Well.  Don Goldberg of the House
+Judiciary Committee.  Tom Guidoboni, the defense
+attorney in the Internet Worm case.  Lance Hoffman,
+computer-science professor at The George Washington
+University.  Eli Noam of Columbia.  And a host of others
+no less distinguished.
 
           Senator Patrick Leahy delivered the keynote address,
-     expressing his determination to keep ahead of the curve
-     on the issue of electronic free speech.  The address was
-     well-received, and the sense of excitement was palpable.
-     Every panel discussion was interesting -- some were
-     entirely compelling.  People networked with an almost
-     frantic interest.
+expressing his determination to keep ahead of the curve
+on the issue of electronic free speech.  The address was
+well-received, and the sense of excitement was palpable.
+Every panel discussion was interesting -- some were
+entirely compelling.  People networked with an almost
+frantic interest.
 
           I myself had a most interesting and cordial lunch
-     discussion with Noel and Jeanne Gayler, Admiral Gayler
-     being a former director of the National Security Agency.
-     As this was the first known encounter between an actual
-     no-kidding cyberpunk and a chief executive of America's
-     largest and best-financed electronic espionage apparat,
-     there was naturally a bit of eyebrow-raising on both sides.
+discussion with Noel and Jeanne Gayler, Admiral Gayler
+being a former director of the National Security Agency.
+As this was the first known encounter between an actual
+no-kidding cyberpunk and a chief executive of America's
+largest and best-financed electronic espionage apparat,
+there was naturally a bit of eyebrow-raising on both sides.
 
           Unfortunately, our discussion was off-the-record.  In
-     fact all  the discussions at the CPSR were officially off-
-     the-
-     record, the idea being to do some serious networking in an
-     atmosphere of complete frankness, rather than to stage a
-     media circus.
+fact all  the discussions at the CPSR were officially off-
+the-
+record, the idea being to do some serious networking in an
+atmosphere of complete frankness, rather than to stage a
+media circus.
 
           In any case, CPSR Roundtable, though interesting
-     and intensely valuable, was as nothing compared to the
-     truly mind-boggling event that transpired a mere month
-     later.
+and intensely valuable, was as nothing compared to the
+truly mind-boggling event that transpired a mere month
+later.
 
                               #
 
           "Computers, Freedom and Privacy."  Four hundred
-     people from every conceivable corner of America's
-     electronic community.  As a science fiction writer, I have
-     been to some weird gigs in my day, but this thing is truly
-     *beyond the pale.*   Even "Cyberthon," Point Foundation's
-     "Woodstock of Cyberspace" where Bay Area psychedelia
-     collided headlong with the emergent world of
-     computerized virtual reality, was like a Kiwanis Club gig
-     compared to this astonishing do.
+people from every conceivable corner of America's
+electronic community.  As a science fiction writer, I have
+been to some weird gigs in my day, but this thing is truly
+*beyond the pale.*   Even "Cyberthon," Point Foundation's
+"Woodstock of Cyberspace" where Bay Area psychedelia
+collided headlong with the emergent world of
+computerized virtual reality, was like a Kiwanis Club gig
+compared to this astonishing do.
 
           The "electronic community" had reached an apogee.
-     Almost every principal in this book is in attendance.  Civil
-     Libertarians.  Computer Cops.  The Digital Underground.
-     Even a few discreet telco people.   Colorcoded dots for
-     lapel tags are distributed.  Free Expression issues.  Law
-     Enforcement.  Computer Security.  Privacy.  Journalists.
-     Lawyers.  Educators.  Librarians.  Programmers.  Stylish
-     punk-black dots for the hackers and phone phreaks.
-     Almost everyone here seems to wear eight or nine dots, to
-     have six or seven professional hats.
+Almost every principal in this book is in attendance.  Civil
+Libertarians.  Computer Cops.  The Digital Underground.
+Even a few discreet telco people.   Colorcoded dots for
+lapel tags are distributed.  Free Expression issues.  Law
+Enforcement.  Computer Security.  Privacy.  Journalists.
+Lawyers.  Educators.  Librarians.  Programmers.  Stylish
+punk-black dots for the hackers and phone phreaks.
+Almost everyone here seems to wear eight or nine dots, to
+have six or seven professional hats.
 
           It is a community.  Something like Lebanon perhaps,
-     but a digital nation. People who had feuded all year in the
-     national press, people who entertained the deepest
-     suspicions of one another's motives and ethics, are now in
-     each others' laps.   "Computers, Freedom and Privacy"
-     had every reason in the world to turn ugly, and yet except
-     for small irruptions of puzzling nonsense from the
-     convention's token lunatic, a surprising bonhomie
-     reigned.  CFP was like a wedding-party in which two lovers,
-     unstable bride and charlatan groom, tie the knot in a
-     clearly disastrous matrimony.
+but a digital nation. People who had feuded all year in the
+national press, people who entertained the deepest
+suspicions of one another's motives and ethics, are now in
+each others' laps.   "Computers, Freedom and Privacy"
+had every reason in the world to turn ugly, and yet except
+for small irruptions of puzzling nonsense from the
+convention's token lunatic, a surprising bonhomie
+reigned.  CFP was like a wedding-party in which two lovers,
+unstable bride and charlatan groom, tie the knot in a
+clearly disastrous matrimony.
 
           It is clear to both families -- even to neighbors and
-     random guests -- that this is not a workable relationship,
-     and yet the young couple's desperate attraction can brook
-     no further delay.   They simply cannot help themselves.
-     Crockery will fly, shrieks from their newlywed home will
-     wake the city block, divorce waits in the wings like a
-     vulture over the Kalahari, and yet this is a wedding, and
-     there is going to be a child from it.  Tragedies end in
-     death;
-     comedies in marriage.  The Hacker Crackdown is ending
-     in marriage.  And there will be a child.
+random guests -- that this is not a workable relationship,
+and yet the young couple's desperate attraction can brook
+no further delay.   They simply cannot help themselves.
+Crockery will fly, shrieks from their newlywed home will
+wake the city block, divorce waits in the wings like a
+vulture over the Kalahari, and yet this is a wedding, and
+there is going to be a child from it.  Tragedies end in
+death;
+comedies in marriage.  The Hacker Crackdown is ending
+in marriage.  And there will be a child.
 
           From the beginning, anomalies reign.  John Perry
-     Barlow, cyberspace ranger, is here.  His color photo in
-     *The New York Times Magazine,* Barlow scowling in a
-     grim Wyoming snowscape, with long black coat, dark hat,
-     a Macintosh SE30 propped on a fencepost and an
-     awesome frontier rifle tucked under one arm,  will be the
-     single most striking visual image of the Hacker
-     Crackdown.   And he is CFP's guest of honor -- along with
-     Gail Thackeray of the FCIC!   What on earth do they
-     expect these dual guests to do with each other?  Waltz?
+Barlow, cyberspace ranger, is here.  His color photo in
+*The New York Times Magazine,* Barlow scowling in a
+grim Wyoming snowscape, with long black coat, dark hat,
+a Macintosh SE30 propped on a fencepost and an
+awesome frontier rifle tucked under one arm,  will be the
+single most striking visual image of the Hacker
+Crackdown.   And he is CFP's guest of honor -- along with
+Gail Thackeray of the FCIC!   What on earth do they
+expect these dual guests to do with each other?  Waltz?
 
           Barlow delivers the first address.
-     Uncharacteristically, he is hoarse -- the sheer volume of
-     roadwork has worn him down.  He speaks briefly,
-     congenially, in a plea for conciliation, and takes his leave
-     to a storm of applause.
+Uncharacteristically, he is hoarse -- the sheer volume of
+roadwork has worn him down.  He speaks briefly,
+congenially, in a plea for conciliation, and takes his leave
+to a storm of applause.
 
           Then Gail Thackeray takes the stage.  She's visibly
-     nervous.  She's been on the Well a lot lately.  Reading
-     those Barlow posts.   Following Barlow is a challenge to
-     anyone.  In honor of the famous lyricist for the Grateful
-     Dead, she announces reedily, she is going to read -- *a
-     poem.*  A poem she has composed herself.
+nervous.  She's been on the Well a lot lately.  Reading
+those Barlow posts.   Following Barlow is a challenge to
+anyone.  In honor of the famous lyricist for the Grateful
+Dead, she announces reedily, she is going to read -- *a
+poem.*  A poem she has composed herself.
 
           It's an awful poem, doggerel in the rollicking meter of
-     Robert W. Service's *The Cremation of Sam McGee,*  but
-     it is in fact, a poem.  It's the *Ballad of the Electronic
-     Frontier!*  A poem about the Hacker Crackdown and the
-     sheer unlikelihood of CFP.   It's full of in-jokes.  The
-     score
-     or so cops in the audience, who are sitting together in a
-     nervous claque, are absolutely cracking-up.  Gail's poem is
-     the funniest goddamn thing they've ever heard.  The
-     hackers and civil-libs, who had this woman figured for Ilsa
-     She-Wolf of the SS, are staring with their jaws hanging
-     loosely.  Never in the wildest reaches of their imagination
-     had they figured Gail Thackeray was capable of such a
-     totally off-the-wall move.  You can see them punching
-     their mental CONTROL-RESET buttons.   Jesus!  This
-     woman's a hacker weirdo!  She's  *just like us!*    God,
-     this
-     changes everything!
+Robert W. Service's *The Cremation of Sam McGee,*  but
+it is in fact, a poem.  It's the *Ballad of the Electronic
+Frontier!*  A poem about the Hacker Crackdown and the
+sheer unlikelihood of CFP.   It's full of in-jokes.  The
+score
+or so cops in the audience, who are sitting together in a
+nervous claque, are absolutely cracking-up.  Gail's poem is
+the funniest goddamn thing they've ever heard.  The
+hackers and civil-libs, who had this woman figured for Ilsa
+She-Wolf of the SS, are staring with their jaws hanging
+loosely.  Never in the wildest reaches of their imagination
+had they figured Gail Thackeray was capable of such a
+totally off-the-wall move.  You can see them punching
+their mental CONTROL-RESET buttons.   Jesus!  This
+woman's a hacker weirdo!  She's  *just like us!*    God,
+this
+changes everything!
 
             Al Bayse, computer technician for the FBI, had been
-     the only cop at the CPSR Roundtable, dragged there with
-     his arm bent by Dorothy Denning.  He was guarded and
-     tightlipped at CPSR Roundtable; a "lion thrown to the
-     Christians."
+the only cop at the CPSR Roundtable, dragged there with
+his arm bent by Dorothy Denning.  He was guarded and
+tightlipped at CPSR Roundtable; a "lion thrown to the
+Christians."
 
           At CFP, backed by a claque of cops, Bayse suddenly
-     waxes eloquent and even droll, describing the FBI's
-     "NCIC 2000", a gigantic digital catalog of criminal records,
-     as if he has suddenly become some weird hybrid of
-     George Orwell and George Gobel.   Tentatively, he makes
-     an arcane joke about statistical analysis.  At least a third
-     of
-     the crowd laughs aloud.
+waxes eloquent and even droll, describing the FBI's
+"NCIC 2000", a gigantic digital catalog of criminal records,
+as if he has suddenly become some weird hybrid of
+George Orwell and George Gobel.   Tentatively, he makes
+an arcane joke about statistical analysis.  At least a third
+of
+the crowd laughs aloud.
 
           "They didn't laugh at that at my last speech,"  Bayse
-     observes.  He had been addressing cops -- *straight*  cops,
-     not computer people.  It had been a worthy meeting,
-     useful one supposes, but nothing like *this.*  There has
-     never been *anything*  like this.  Without any prodding,
-     without any preparation, people in the audience simply
-     begin to ask questions.  Longhairs, freaky people,
-     mathematicians.  Bayse is answering, politely, frankly,
-     fully, like a man walking on air.  The ballroom's
-     atmosphere crackles with surreality.   A female lawyer
-     behind me breaks into a sweat and a hot waft of
-     surprisingly potent and musky perfume flows off her
-     pulse-points.
+observes.  He had been addressing cops -- *straight*  cops,
+not computer people.  It had been a worthy meeting,
+useful one supposes, but nothing like *this.*  There has
+never been *anything*  like this.  Without any prodding,
+without any preparation, people in the audience simply
+begin to ask questions.  Longhairs, freaky people,
+mathematicians.  Bayse is answering, politely, frankly,
+fully, like a man walking on air.  The ballroom's
+atmosphere crackles with surreality.   A female lawyer
+behind me breaks into a sweat and a hot waft of
+surprisingly potent and musky perfume flows off her
+pulse-points.
 
           People are giddy with laughter.  People are
-     interested, fascinated, their eyes so wide and dark that
-     they seem eroticized.  Unlikely daisy-chains form in the
-     halls, around the bar, on the escalators:  cops with
-     hackers,
-     civil rights with FBI, Secret Service with phone phreaks.
+interested, fascinated, their eyes so wide and dark that
+they seem eroticized.  Unlikely daisy-chains form in the
+halls, around the bar, on the escalators:  cops with
+hackers,
+civil rights with FBI, Secret Service with phone phreaks.
 
           Gail Thackeray is at her crispest in a white wool
-     sweater with a tiny Secret Service logo.  "I found Phiber
-     Optik at the payphones, and when he saw my sweater, he
-     turned into a *pillar of salt!*" she chortles.
+sweater with a tiny Secret Service logo.  "I found Phiber
+Optik at the payphones, and when he saw my sweater, he
+turned into a *pillar of salt!*" she chortles.
 
           Phiber discusses his case at much length with his
-     arresting officer, Don Delaney of the New York State
-     Police.  After an hour's chat, the two of them look ready to
-     begin singing "Auld Lang Syne."  Phiber finally finds the
-     courage to get his worst complaint off his chest.  It isn't
-     so
-     much the arrest.  It was the *charge.*  Pirating service off
-     900 numbers.  I'm a *programmer,* Phiber insists.  This
-     lame charge is going to hurt my reputation.  It would have
-     been cool to be busted for something happening, like
-     Section 1030 computer intrusion.  Maybe some kind of
-     crime that's scarcely been invented yet.  Not lousy phone
-     fraud.  Phooey.
+arresting officer, Don Delaney of the New York State
+Police.  After an hour's chat, the two of them look ready to
+begin singing "Auld Lang Syne."  Phiber finally finds the
+courage to get his worst complaint off his chest.  It isn't
+so
+much the arrest.  It was the *charge.*  Pirating service off
+900 numbers.  I'm a *programmer,* Phiber insists.  This
+lame charge is going to hurt my reputation.  It would have
+been cool to be busted for something happening, like
+Section 1030 computer intrusion.  Maybe some kind of
+crime that's scarcely been invented yet.  Not lousy phone
+fraud.  Phooey.
 
           Delaney seems regretful.  He had a mountain of
-     possible criminal charges against Phiber Optik.  The kid's
-     gonna plead guilty anyway.  He's a first timer, they always
-     plead.  Coulda charged the kid with most anything, and
-     gotten the same result in the end.  Delaney seems
-     genuinely sorry not to have gratified Phiber in this
-     harmless fashion.  Too late now.  Phiber's pled already.
-     All
-     water under the bridge.  Whaddya gonna do?
+possible criminal charges against Phiber Optik.  The kid's
+gonna plead guilty anyway.  He's a first timer, they always
+plead.  Coulda charged the kid with most anything, and
+gotten the same result in the end.  Delaney seems
+genuinely sorry not to have gratified Phiber in this
+harmless fashion.  Too late now.  Phiber's pled already.
+All
+water under the bridge.  Whaddya gonna do?
 
           Delaney's got a good grasp on the hacker mentality.
-     He held a press conference after he busted a bunch of
-     Masters of Deception kids.  Some journo had asked him:
-     "Would you describe these people as *geniuses?*"
-     Delaney's deadpan answer, perfect:  "No, I would describe
-     these people as *defendants.*"   Delaney busts a kid for
-     hacking codes with repeated random dialling.  Tells the
-     press that NYNEX can track this stuff in no time flat
-     nowadays, and a kid has to be *stupid*  to do something so
-     easy to catch.   Dead on again:  hackers don't mind being
-     thought of as Genghis Khan by the straights,  but if there's
-     anything that really gets 'em where they live, it's being
-     called *dumb.*
+He held a press conference after he busted a bunch of
+Masters of Deception kids.  Some journo had asked him:
+"Would you describe these people as *geniuses?*"
+Delaney's deadpan answer, perfect:  "No, I would describe
+these people as *defendants.*"   Delaney busts a kid for
+hacking codes with repeated random dialling.  Tells the
+press that NYNEX can track this stuff in no time flat
+nowadays, and a kid has to be *stupid*  to do something so
+easy to catch.   Dead on again:  hackers don't mind being
+thought of as Genghis Khan by the straights,  but if there's
+anything that really gets 'em where they live, it's being
+called *dumb.*
 
           Won't be as much fun for Phiber next time around.
-     As a second offender he's gonna see prison.   Hackers
-     break the law.  They're not geniuses, either.  They're gonna
-     be defendants.  And yet, Delaney muses over a drink in
-     the hotel bar, he has found it impossible to treat them as
-     common criminals.   Delaney knows criminals.  These
-     kids, by comparison, are clueless -- there is just no crook
-     vibe off of them, they don't smell right, they're just not
-     *bad.*
+As a second offender he's gonna see prison.   Hackers
+break the law.  They're not geniuses, either.  They're gonna
+be defendants.  And yet, Delaney muses over a drink in
+the hotel bar, he has found it impossible to treat them as
+common criminals.   Delaney knows criminals.  These
+kids, by comparison, are clueless -- there is just no crook
+vibe off of them, they don't smell right, they're just not
+*bad.*
 
           Delaney has seen a lot of action.  He did Vietnam.
-     He's been shot at, he has shot people.  He's a homicide
-     cop from New York.  He has the appearance of a man who
-     has not only seen the shit hit the fan but has seen it
-     splattered across whole city blocks and left to ferment for
-     years.  This guy has been around.
+He's been shot at, he has shot people.  He's a homicide
+cop from New York.  He has the appearance of a man who
+has not only seen the shit hit the fan but has seen it
+splattered across whole city blocks and left to ferment for
+years.  This guy has been around.
 
           He listens to Steve Jackson tell his story.  The dreamy
-     game strategist has been dealt a bad hand.  He has played
-     it for all he is worth.  Under his nerdish SF-fan exterior
-     is a
-     core of iron.   Friends of his say Steve Jackson believes in
-     the rules, believes in fair play.  He will never compromise
-     his principles, never give up.  "Steve," Delaney says to
-     Steve Jackson, "they had some balls, whoever busted you.
-     You're all right!"   Jackson, stunned, falls silent and
-     actually
-     blushes with pleasure.
+game strategist has been dealt a bad hand.  He has played
+it for all he is worth.  Under his nerdish SF-fan exterior
+is a
+core of iron.   Friends of his say Steve Jackson believes in
+the rules, believes in fair play.  He will never compromise
+his principles, never give up.  "Steve," Delaney says to
+Steve Jackson, "they had some balls, whoever busted you.
+You're all right!"   Jackson, stunned, falls silent and
+actually
+blushes with pleasure.
 
           Neidorf has grown up a lot in the past year.  The kid
-     is
-     a quick study, you gotta give him that.   Dressed by his
-     mom, the fashion manager for a national clothing chain,
-     Missouri college techie-frat Craig Neidorf out-dappers
-     everyone at this gig but the toniest East Coast lawyers.
-     The iron jaws of prison clanged shut without him and now
-     law school beckons for Neidorf.  He looks like a larval
-     Congressman.
+is
+a quick study, you gotta give him that.   Dressed by his
+mom, the fashion manager for a national clothing chain,
+Missouri college techie-frat Craig Neidorf out-dappers
+everyone at this gig but the toniest East Coast lawyers.
+The iron jaws of prison clanged shut without him and now
+law school beckons for Neidorf.  He looks like a larval
+Congressman.
 
           Not a "hacker," our Mr. Neidorf.  He's not interested
-     in computer science.  Why should he be?  He's not
-     interested in writing C code the rest of his life, and
-     besides,
-     he's seen where the chips fall.  To the world of computer
-     science he and *Phrack*  were just a curiosity.  But to the
-     world of law....  The kid has learned where the bodies are
-     buried.  He carries his notebook of press clippings
-     wherever he goes.
+in computer science.  Why should he be?  He's not
+interested in writing C code the rest of his life, and
+besides,
+he's seen where the chips fall.  To the world of computer
+science he and *Phrack*  were just a curiosity.  But to the
+world of law....  The kid has learned where the bodies are
+buried.  He carries his notebook of press clippings
+wherever he goes.
 
           Phiber Optik makes fun of Neidorf for a Midwestern
-     geek, for believing that "Acid Phreak" does acid and
-     listens to acid rock.  Hell no.  Acid's never done *acid!*
-     Acid's into *acid house music.*  Jesus.  The very idea of
-     doing LSD.  Our *parents*  did LSD, ya clown.
+geek, for believing that "Acid Phreak" does acid and
+listens to acid rock.  Hell no.  Acid's never done *acid!*
+Acid's into *acid house music.*  Jesus.  The very idea of
+doing LSD.  Our *parents*  did LSD, ya clown.
 
             Thackeray suddenly turns upon Craig Neidorf the
-     full lighthouse glare of her attention and begins a
-     determined half-hour attempt to *win the boy over.*  The
-     Joan of Arc of Computer Crime is *giving career advice to
-     Knight Lightning!*   "Your experience would be very
-     valuable -- a real asset," she tells him with unmistakeable
-     sixty-thousand-watt sincerity.  Neidorf is fascinated.  He
-     listens with unfeigned attention.  He's nodding and saying
-     yes ma'am.  Yes, Craig, you too can forget all about money
-     and enter the glamorous and horribly underpaid world of
-     PROSECUTING COMPUTER CRIME!  You can put your
-     former friends in prison -- ooops....
+full lighthouse glare of her attention and begins a
+determined half-hour attempt to *win the boy over.*  The
+Joan of Arc of Computer Crime is *giving career advice to
+Knight Lightning!*   "Your experience would be very
+valuable -- a real asset," she tells him with unmistakeable
+sixty-thousand-watt sincerity.  Neidorf is fascinated.  He
+listens with unfeigned attention.  He's nodding and saying
+yes ma'am.  Yes, Craig, you too can forget all about money
+and enter the glamorous and horribly underpaid world of
+PROSECUTING COMPUTER CRIME!  You can put your
+former friends in prison -- ooops....
 
           You cannot go on dueling at modem's length
-     indefinitely.   You cannot beat one another senseless with
-     rolled-up press-clippings.  Sooner or later you have to
-     come directly to grips.  And yet the very act of assembling
-     here has changed the entire situation drastically.   John
-     Quarterman, author of *The Matrix,* explains the Internet
-     at his symposium.  It is the largest news network in the
-     world, it is growing by leaps and bounds, and yet you
-     cannot measure Internet because you cannot stop it in
-     place.  It cannot stop, because there is no one anywhere in
-     the world with the authority to stop Internet.  It changes,
-     yes, it grows, it embeds itself across the post-industrial,
-     postmodern world and it generates community wherever
-     it touches, and it is doing this all by itself.
+indefinitely.   You cannot beat one another senseless with
+rolled-up press-clippings.  Sooner or later you have to
+come directly to grips.  And yet the very act of assembling
+here has changed the entire situation drastically.   John
+Quarterman, author of *The Matrix,* explains the Internet
+at his symposium.  It is the largest news network in the
+world, it is growing by leaps and bounds, and yet you
+cannot measure Internet because you cannot stop it in
+place.  It cannot stop, because there is no one anywhere in
+the world with the authority to stop Internet.  It changes,
+yes, it grows, it embeds itself across the post-industrial,
+postmodern world and it generates community wherever
+it touches, and it is doing this all by itself.
 
           Phiber is different.  A very fin de siecle kid, Phiber
-     Optik.  Barlow says he looks like an Edwardian dandy.   He
-     does rather.  Shaven neck, the sides of his skull cropped
-     hip-hop close, unruly tangle of black hair on top that looks
-     pomaded, he stays up till four a.m.  and misses all the
-     sessions, then hangs out in payphone booths with his
-     acoustic coupler gutsily CRACKING SYSTEMS RIGHT IN
-     THE MIDST OF THE HEAVIEST LAW ENFORCEMENT
-     DUDES IN THE U.S., or at least *pretending* to....  Unlike
-     "Frank Drake."  Drake, who wrote Dorothy Denning out of
-     nowhere, and asked for an interview for his cheapo
-     cyberpunk fanzine, and then started grilling her on her
-     ethics.   She was squirmin', too....   Drake, scarecrow-tall
-     with his floppy blond mohawk, rotting tennis shoes and
-     black leather jacket lettered ILLUMINATI in red, gives off
-     an unmistakeable air of the bohemian literatus.  Drake is
-     the kind of guy who reads British industrial design
-     magazines and appreciates William Gibson because the
-     quality of the prose is so tasty.  Drake could never touch a
-     phone or a keyboard again, and he'd still have the nose-
-     ring and the blurry photocopied fanzines and the sampled
-     industrial music.  He's a radical punk with a desktop-
-     publishing rig and an Internet address.  Standing next to
-     Drake, the diminutive Phiber looks like he's been
-     physically coagulated out of phone-lines.  Born to phreak.
+Optik.  Barlow says he looks like an Edwardian dandy.   He
+does rather.  Shaven neck, the sides of his skull cropped
+hip-hop close, unruly tangle of black hair on top that looks
+pomaded, he stays up till four a.m.  and misses all the
+sessions, then hangs out in payphone booths with his
+acoustic coupler gutsily CRACKING SYSTEMS RIGHT IN
+THE MIDST OF THE HEAVIEST LAW ENFORCEMENT
+DUDES IN THE U.S., or at least *pretending* to....  Unlike
+"Frank Drake."  Drake, who wrote Dorothy Denning out of
+nowhere, and asked for an interview for his cheapo
+cyberpunk fanzine, and then started grilling her on her
+ethics.   She was squirmin', too....   Drake, scarecrow-tall
+with his floppy blond mohawk, rotting tennis shoes and
+black leather jacket lettered ILLUMINATI in red, gives off
+an unmistakeable air of the bohemian literatus.  Drake is
+the kind of guy who reads British industrial design
+magazines and appreciates William Gibson because the
+quality of the prose is so tasty.  Drake could never touch a
+phone or a keyboard again, and he'd still have the nose-
+ring and the blurry photocopied fanzines and the sampled
+industrial music.  He's a radical punk with a desktop-
+publishing rig and an Internet address.  Standing next to
+Drake, the diminutive Phiber looks like he's been
+physically coagulated out of phone-lines.  Born to phreak.
 
           Dorothy Denning approaches Phiber suddenly.  The
-     two of them are about the same height and body-build.
-     Denning's blue eyes flash behind the round window-
-     frames of her glasses.  "Why did you say I was 'quaint?'"
-     she asks Phiber, quaintly.
+two of them are about the same height and body-build.
+Denning's blue eyes flash behind the round window-
+frames of her glasses.  "Why did you say I was 'quaint?'"
+she asks Phiber, quaintly.
 
           It's a perfect description but Phiber is nonplussed...
-     "Well, I uh, you know...."
+"Well, I uh, you know...."
 
           "I also think you're quaint, Dorothy," I say, novelist
-     to
-     the rescue, the journo gift of gab...  She is neat and
-     dapper
-     and yet there's an arcane quality to her, something like a
-     Pilgrim Maiden behind leaded glass; if she were six inches
-     high Dorothy Denning would look great inside a china
-     cabinet...  The Cryptographeress....  The Cryptographrix...
-     whatever...   Weirdly, Peter Denning looks just like his
-     wife, you could pick this gentleman out of a thousand guys
-     as the soulmate of Dorothy Denning.  Wearing tailored
-     slacks, a spotless fuzzy varsity sweater, and a neatly
-     knotted academician's tie.... This fineboned, exquisitely
-     polite, utterly civilized and hyperintelligent couple seem
-     to have emerged from some cleaner and finer parallel
-     universe, where humanity exists to do the Brain Teasers
-     column in Scientific American.   Why does this Nice Lady
-     hang out with these unsavory characters?
+to
+the rescue, the journo gift of gab...  She is neat and
+dapper
+and yet there's an arcane quality to her, something like a
+Pilgrim Maiden behind leaded glass; if she were six inches
+high Dorothy Denning would look great inside a china
+cabinet...  The Cryptographeress....  The Cryptographrix...
+whatever...   Weirdly, Peter Denning looks just like his
+wife, you could pick this gentleman out of a thousand guys
+as the soulmate of Dorothy Denning.  Wearing tailored
+slacks, a spotless fuzzy varsity sweater, and a neatly
+knotted academician's tie.... This fineboned, exquisitely
+polite, utterly civilized and hyperintelligent couple seem
+to have emerged from some cleaner and finer parallel
+universe, where humanity exists to do the Brain Teasers
+column in Scientific American.   Why does this Nice Lady
+hang out with these unsavory characters?
 
           Because the time has come for it, that's why.
-     Because she's the best there is at what she does.
+Because she's the best there is at what she does.
 
           Donn Parker is here, the Great Bald Eagle of
-     Computer Crime....  With his bald dome, great height, and
-     enormous Lincoln-like hands, the great visionary pioneer
-     of the field plows through the lesser mortals like an
-     icebreaker....  His eyes are fixed on the future with the
-     rigidity of a bronze statue....  Eventually, he tells his
-     audience, all business crime will be computer crime,
-     because businesses will do everything through computers.
-     "Computer crime" as a category will vanish.
+Computer Crime....  With his bald dome, great height, and
+enormous Lincoln-like hands, the great visionary pioneer
+of the field plows through the lesser mortals like an
+icebreaker....  His eyes are fixed on the future with the
+rigidity of a bronze statue....  Eventually, he tells his
+audience, all business crime will be computer crime,
+because businesses will do everything through computers.
+"Computer crime" as a category will vanish.
 
           In the meantime,  passing fads will flourish and fail
-     and evaporate....  Parker's commanding, resonant voice is
-     sphinxlike, everything is viewed from some eldritch valley
-     of deep historical abstraction...  Yes, they've come and
-     they've gone, these passing flaps in the world of digital
-     computation....  The radio-frequency emanation scandal...
-     KGB and MI5 and CIA do it every day, it's easy, but
-     nobody else ever has....  The salami-slice fraud, mostly
-     mythical...  "Crimoids," he calls them....  Computer viruses
-     are the current crimoid champ, a lot less dangerous than
-     most people let on, but the novelty is fading and there's a
-     crimoid vacuum at the moment, the press is visibly
-     hungering for something more outrageous....  The Great
-     Man shares with us a few speculations on the coming
-     crimoids....  Desktop Forgery!  Wow....  Computers stolen
-     just for the sake of the information within them -- data-
-     napping!  Happened in Britain a while ago, could be the
-     coming thing....  Phantom nodes in the Internet!
+and evaporate....  Parker's commanding, resonant voice is
+sphinxlike, everything is viewed from some eldritch valley
+of deep historical abstraction...  Yes, they've come and
+they've gone, these passing flaps in the world of digital
+computation....  The radio-frequency emanation scandal...
+KGB and MI5 and CIA do it every day, it's easy, but
+nobody else ever has....  The salami-slice fraud, mostly
+mythical...  "Crimoids," he calls them....  Computer viruses
+are the current crimoid champ, a lot less dangerous than
+most people let on, but the novelty is fading and there's a
+crimoid vacuum at the moment, the press is visibly
+hungering for something more outrageous....  The Great
+Man shares with us a few speculations on the coming
+crimoids....  Desktop Forgery!  Wow....  Computers stolen
+just for the sake of the information within them -- data-
+napping!  Happened in Britain a while ago, could be the
+coming thing....  Phantom nodes in the Internet!
 
           Parker handles his overhead projector sheets with an
-     ecclesiastical air...  He wears a grey double-breasted suit,
-     a
-     light blue shirt, and a very quiet tie of understated maroon
-     and blue paisley...  Aphorisms emerge from him with slow,
-     leaden emphasis...  There is no such thing as an
-     adequately secure computer when one faces a sufficiently
-     powerful adversary.... Deterrence is the most socially
-     useful aspect of security...  People are the primary
-     weakness in all information systems...  The entire baseline
-     of computer security must be shifted upward....  Don't ever
-     violate your security by publicly describing your security
-     measures...
+ecclesiastical air...  He wears a grey double-breasted suit,
+a
+light blue shirt, and a very quiet tie of understated maroon
+and blue paisley...  Aphorisms emerge from him with slow,
+leaden emphasis...  There is no such thing as an
+adequately secure computer when one faces a sufficiently
+powerful adversary.... Deterrence is the most socially
+useful aspect of security...  People are the primary
+weakness in all information systems...  The entire baseline
+of computer security must be shifted upward....  Don't ever
+violate your security by publicly describing your security
+measures...
 
           People in the audience are beginning to squirm, and
-     yet there is something about the elemental purity of this
-     guy's philosophy that compels uneasy respect....  Parker
-     sounds like the only sane guy left in the lifeboat,
-     sometimes.  The guy who can prove rigorously, from deep
-     moral principles, that Harvey there, the one with the
-     broken leg and the checkered past, is the one who has to
-     be, err.... that is, Mr. Harvey is best placed to make the
-     necessary sacrifice for the security and indeed the very
-     survival of the rest of this lifeboat's crew....   Computer
-     security, Parker informs us mournfully, is a nasty topic,
-     and we wish we didn't have to have  it...  The security
-     expert, armed with method and logic, must think --
-     imagine -- everything that the adversary might do before
-     the adversary might actually do it.   It is as if the
-     criminal's
-     dark brain were an extensive subprogram within the
-     shining cranium of Donn Parker.   He is a Holmes whose
-     Moriarty does not quite yet exist and so must be perfectly
-     simulated.
+yet there is something about the elemental purity of this
+guy's philosophy that compels uneasy respect....  Parker
+sounds like the only sane guy left in the lifeboat,
+sometimes.  The guy who can prove rigorously, from deep
+moral principles, that Harvey there, the one with the
+broken leg and the checkered past, is the one who has to
+be, err.... that is, Mr. Harvey is best placed to make the
+necessary sacrifice for the security and indeed the very
+survival of the rest of this lifeboat's crew....   Computer
+security, Parker informs us mournfully, is a nasty topic,
+and we wish we didn't have to have  it...  The security
+expert, armed with method and logic, must think --
+imagine -- everything that the adversary might do before
+the adversary might actually do it.   It is as if the
+criminal's
+dark brain were an extensive subprogram within the
+shining cranium of Donn Parker.   He is a Holmes whose
+Moriarty does not quite yet exist and so must be perfectly
+simulated.
 
           CFP is a stellar gathering, with the giddiness of a
-     wedding.  It is a happy time, a happy ending, they know
-     their world is changing forever tonight, and they're proud
-     to have been there to see it happen, to talk, to think, to
-     help.
+wedding.  It is a happy time, a happy ending, they know
+their world is changing forever tonight, and they're proud
+to have been there to see it happen, to talk, to think, to
+help.
 
           And yet as night falls, a certain elegiac quality
-     manifests itself, as the crowd gathers beneath the
-     chandeliers with their wineglasses and dessert plates.
-     Something is ending here, gone forever, and it takes a
-     while to pinpoint it.
+manifests itself, as the crowd gathers beneath the
+chandeliers with their wineglasses and dessert plates.
+Something is ending here, gone forever, and it takes a
+while to pinpoint it.
 
           It is the End of the Amateurs.
 
-     ***********
+***********

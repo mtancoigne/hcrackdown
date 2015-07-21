@@ -100,7 +100,7 @@ Specifically, this book is about certain strange events in
 the year 1990, an unprecedented and startling year for the
 the growing world of computerized communications.
 
-    In 1990 there came a nationwide crackdown on
+In 1990 there came a nationwide crackdown on
 illicit
 computer hackers, with arrests, criminal charges,  one
 dramatic show-trial, several guilty pleas,  and huge

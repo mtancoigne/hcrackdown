@@ -74,7 +74,7 @@ occurred on Martin Luther King Day, still the most
 politically touchy of American holidays, made it more
 suspicious yet.
 
-     The  Crash of January 15  gave the Hacker
+The  Crash of January 15  gave the Hacker
 Crackdown its sense of edge and  its sweaty urgency.   It
 made people, powerful people in positions of public
 authority, willing to believe the worst.  And, most fatally,
@@ -1867,7 +1867,7 @@ on later calls.  Unkind critics suggested that AT&T were
 worried about setting any precedent for refunding the
 financial losses caused by telephone crashes.)
 
-     Industry journals asked  publicly if AT&T was "asleep
+Industry journals asked  publicly if AT&T was "asleep
 at the switch."   The telephone network, America's
 purported marvel of high-tech reliability,  had gone down
 three times in 18 months.  *Fortune* magazine listed the
@@ -1876,7 +1876,7 @@ Goofs of 1991,"  cruelly parodying AT&T's ad campaign in
 an article entitled "AT&T Wants You Back (Safely On the
 Ground, God Willing)."
 
-     Why had those New York switching systems simply
+Why had those New York switching systems simply
 run out of power?  Because no human being had attended
 to the alarm system.  Why did the alarm systems blare
 automatically, without any human being noticing?
@@ -1887,7 +1887,7 @@ training class.  A training class about the alarm systems
 for
 the power room!
 
-     "Crashing the System" was no longer
+"Crashing the System" was no longer
 "unprecedented" by late 1991.   On the contrary, it no
 longer even seemed an oddity.   By 1991, it was clear that
 all the policemen in the world could no longer "protect"
