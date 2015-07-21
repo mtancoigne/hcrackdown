@@ -4,19 +4,15 @@
 
 1876  Alexander Graham Bell invents telephone.
 
-1878  First teenage males flung off phone system by
-enraged authorities.
+1878  First teenage males flung off phone system by enraged authorities.
 
-1939  "Futurian" science-fiction group raided by Secret
-Service.
+1939  "Futurian" science-fiction group raided by Secret Service.
 
 1971  Yippie phone phreaks start YIPL/TAP magazine.
 
-1972  *Ramparts* magazine seized in blue-box rip-off
-scandal.
+1972  *Ramparts* magazine seized in blue-box rip-off scandal.
 
-1978  Ward Christenson and Randy Suess create first
-personal computer bulletin board system.
+1978  Ward Christenson and Randy Suess create first personal computer bulletin board system.
 
 1982  William Gibson coins term "cyberspace."
 
@@ -24,9 +20,7 @@ personal computer bulletin board system.
 
 1983-1983  AT&T dismantled in divestiture.
 
-1984  Congress passes Comprehensive Crime Control Act
-giving USSS jurisdiction over credit card fraud and
-computer fraud.
+1984  Congress passes Comprehensive Crime Control Act giving USSS jurisdiction over credit card fraud and computer fraud.
 
 1984  "Legion of Doom" formed.
 
@@ -34,101 +28,71 @@ computer fraud.
 
 1984.   *Whole Earth Software Catalog* published.
 
-1985.  First police "sting" bulletin board systems
-established.
+1985.  First police "sting" bulletin board systems established.
 
-1985.  Whole Earth 'Lectronic Link computer conference
-(WELL) goes on-line.
+1985.  Whole Earth 'Lectronic Link computer conference (WELL) goes on-line.
 
 1986  Computer Fraud and Abuse Act passed.
 
 1986  Electronic Communications Privacy Act passed.
 
-1987  Chicago prosecutors form Computer Fraud and
-Abuse Task Force.
+1987  Chicago prosecutors form Computer Fraud and Abuse Task Force.
 
 1988
 
-July.  Secret Service covertly videotapes "SummerCon"
-hacker convention.
+July.  Secret Service covertly videotapes "SummerCon" hacker convention.
 
-September.  "Prophet" cracks BellSouth AIMSX computer
-network and downloads E911 Document to his own
-computer and to Jolnet.
+September.  "Prophet" cracks BellSouth AIMSX computer network and downloads E911 Document to his own computer and to Jolnet.
 
-September.  AT&T Corporate Information Security
-informed of Prophet's action.
+September.  AT&T Corporate Information Security informed of Prophet's action.
 
 October.  Bellcore Security informed of Prophet's action.
 
 1989
 
-January.  Prophet uploads E911 Document to Knight
-Lightning.
+January.  Prophet uploads E911 Document to Knight Lightning.
 
-February 25.  Knight Lightning publishes E911Document
-in *Phrack* electronic newsletter.
+February 25.  Knight Lightning publishes E911Document in *Phrack* electronic newsletter.
 
 May.  Chicago Task Force raids and arrests "Kyrie."
 
-June.  "NuPrometheus League" distributes Apple
-Computer proprietary software.
+June.  "NuPrometheus League" distributes Apple Computer proprietary software.
 
-June 13.  Florida probation office crossed with phone-sex
-line in switching-station stunt.
+June 13.  Florida probation office crossed with phone-sex line in switching-station stunt.
 
-July.  "Fry Guy" raided by USSS and Chicago Computer
-Fraud and Abuse Task Force.
+July.  "Fry Guy" raided by USSS and Chicago Computer Fraud and Abuse Task Force.
 
-July.  Secret Service raids "Prophet," "Leftist," and
-"Urvile"
-in Georgia.
+July.  Secret Service raids "Prophet," "Leftist," and "Urvile" in Georgia.
 
 1990
 
-January 15.  Martin Luther King Day Crash strikes AT&T
-long-distance network nationwide.
+January 15.  Martin Luther King Day Crash strikes AT&T long-distance network nationwide.
 
-January 18-19  Chicago Task Force raids Knight Lightning
-in St. Louis.
+January 18-19  Chicago Task Force raids Knight Lightning in St. Louis.
 
-January 24.  USSS and New York State Police raid "Phiber
-Optik,"  "Acid Phreak," and "Scorpion" in New York City.
+January 24.  USSS and New York State Police raid "Phiber Optik,"  "Acid Phreak," and "Scorpion" in New York City.
 
 February 1. USSS raids "Terminus" in Maryland.
 
-February 3.  Chicago Task Force raids Richard Andrews'
-home.
+February 3.  Chicago Task Force raids Richard Andrews' home.
 
-February 6.  Chicago Task Force raids Richard Andrews'
-business.
+February 6.  Chicago Task Force raids Richard Andrews' business.
 
-February 6.  USSS arrests Terminus, Prophet, Leftist, and
-Urvile.
+February 6.  USSS arrests Terminus, Prophet, Leftist, and Urvile.
 
 February 9.  Chicago Task Force arrests Knight Lightning.
 
-February 20.  AT&T Security shuts down public-access
-"attctc" computer in Dallas.
+February 20.  AT&T Security shuts down public-access "attctc" computer in Dallas.
 
-February 21.  Chicago Task Force raids Robert Izenberg in
-Austin.
+February 21.  Chicago Task Force raids Robert Izenberg in Austin.
 
-March 1.  Chicago Task Force raids Steve Jackson Games,
-Inc., "Mentor," and "Erik Bloodaxe" in Austin.
+March 1.  Chicago Task Force raids Steve Jackson Games, Inc., "Mentor," and "Erik Bloodaxe" in Austin.
 
-May 7,8,9.  USSS and Arizona Organized Crime and
-Racketeering Bureau conduct "Operation Sundevil" raids
-in Cincinnatti, Detroit, Los Angeles, Miami, Newark,
-Phoenix, Pittsburgh, Richmond, Tucson, San Diego, San
-Jose, and San Francisco.
+May 7,8,9.  USSS and Arizona Organized Crime and Racketeering Bureau conduct "Operation Sundevil" raids in Cincinnatti, Detroit, Los Angeles, Miami, Newark, Phoenix, Pittsburgh, Richmond, Tucson, San Diego, San Jose, and San Francisco.
 
-May.  FBI interviews John Perry Barlow re NuPrometheus
-case.
+May.  FBI interviews John Perry Barlow re NuPrometheus case.
 
-June.  Mitch Kapor and Barlow found Electronic Frontier
-Foundation;  Barlow publishes *Crime and Puzzlement*
-manifesto.
+June.  Mitch Kapor and Barlow found Electronic Frontier Foundation;  Barlow publishes *Crime and Puzzlement* manifesto.
 
 July 24-27.  Trial of Knight Lightning.
 
@@ -136,14 +100,10 @@ July 24-27.  Trial of Knight Lightning.
 
 February.  CPSR Roundtable in Washington, D.C.
 
-March 25-28.  Computers, Freedom and Privacy
-conference in San Francisco.
+March 25-28.  Computers, Freedom and Privacy conference in San Francisco.
 
-May 1.  Electronic Frontier Foundation, Steve Jackson, and
-others file suit against members of Chicago Task Force.
+May 1.  Electronic Frontier Foundation, Steve Jackson, and others file suit against members of Chicago Task Force.
 
-July 1-2.  Switching station phone software crash affects
-Washington, Los Angeles, Pittsburgh, San Francisco.
+July 1-2.  Switching station phone software crash affects Washington, Los Angeles, Pittsburgh, San Francisco.
 
-September 17.  AT&T phone crash affects New York City
-and three airports.
+September 17.  AT&T phone crash affects New York City and three airports.
