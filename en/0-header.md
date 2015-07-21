@@ -1,18 +1,21 @@
-# Bruce Sterling. The hacker crackdown 
---------------------------------------------------------------- 
+Bruce Sterling. The hacker crackdown
+
 bruces@well.sf.ca.us
 
 Literary Freeware:  Not for Commercial Use
 
-THE HACKER CRACKDOWN Law and Disorder on the Electronic Frontier y Bruce Sterling 
----------------------------------------------------------------
+---
+
+# THE HACKER CRACKDOWN
+Law and Disorder on the Electronic Frontier by Bruce Sterling
+
 
 ## CONTENTS
 
   - [Preface to the Electronic Release of *The Hacker Crackdown*](1-preface.md)
   - [Chronology of the Hacker Crackdown](2-chronology.md)
   - [Introduction](3-introduction.md)
-  - [Part 1:  CRASHING THE SYSTEM](4-part1.md) 
+  - [Part 1:  CRASHING THE SYSTEM](4-part1.md)
     - A Brief History of Telephony
     - Bell's Golden Vaporware
     - Universal Service
