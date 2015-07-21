@@ -112,35 +112,35 @@ In 1991, the Well's list of conferences looked like this:
 Index listing of new topics in all conferences -  (g newtops)
 
                 Business - Education
-               ----------------------
+----------------------
 
 Apple Library Users Group(g alug)      Agriculture  (g agri) Brainstorming          (g brain)             Classifieds (g cla) Computer Journalism    (g cj)  Consultants       (g consult) Consumers              (g cons)                Design (g design) Desktop Publishing     (g desk)  Disability        (g disability) Education              (g ed)                Energy (g energy91) Entrepreneurs   (g entre)               Homeowners        (g home) Indexing        (g indexing)     Investments       (g invest) Kids91                 (g kids)                    Legal (g legal) One Person Business    (g one) Periodical/newsletter(g per) Telecomm Law           (g tcl)               The Future (g fut) Translators            (g trans)               Travel (g tra) Work                   (g work)
 
 Electronic Frontier Foundation    (g eff) Computers, Freedom & Privacy      (g cfp) Computer Professionals for Social Responsibility  (g cpsr)
 
            Social - Political - Humanities
-          ---------------------------------
+---------------------------------
 
 Aging                  (g gray)                      AIDS (g aids) Amnesty International  (g amnesty)     Archives          (g arc) Berkeley               (g berk)     Buddhist          (g wonderland) Christian              (g cross)                  Couples (g couples) Current Events         (g curr)        Dreams            (g dream) Drugs                  (g dru)                       East Coast        (g east) Emotional Health****   (g private)      Erotica           (g eros) Environment            (g env)     Firearms          (g firearms) First Amendment (g first)    Fringes of Reason (g fringes) Gay                    (g gay)              Gay (Private)# (g gaypriv) Geography              (g geo)             German (g german) Gulf War               (g gulf)                    Hawaii (g aloha) Health                 (g heal)                     History (g hist) Holistic               (g holi) Interview         (g inter) Italian                (g ital)                      Jewish (g jew) Liberty                (g liberty)                Mind (g mind) Miscellaneous          (g misc) Men on the WELL** (g mow) Network Integration    (g origin)         Nonprofits (g non) North Bay              (g north)                 Northwest (g nw) Pacific Rim            (g pacrim)             Parenting (g par) Peace                  (g pea)                     Peninsula (g pen) Poetry                 (g poetry)                Philosophy (g phi) Politics               (g pol) Psychology        (g psy) Psychotherapy   (g therapy)  Recovery##        (g recovery) San Francisco          (g sanfran)           Scams (g scam) Sexuality              (g sex)                    Singles (g singles) Southern               (g south)                Spanish (g spanish) Spirituality           (g spirit)               Tibet (g tibet) Transportation  (g transport)      True Confessions  (g tru) Unclear (g unclear)   WELL Writer's Workshop***(g www) Whole Earth (g we)           Women on the WELL*(g wow) Words                  (g words)                 Writers (g wri)
 
 **** Private Conference - mail wooly for entry ***Private conference - mail sonia for entry ** Private conference - mail flash for entry *  Private conference - mail reva for entry #  Private Conference - mail hudu for entry ## Private Conference - mail dhawk for entry
 
           Arts - Recreation - Entertainment
-          ----------------------------------- ArtCom Electronic Net  (g acen) Audio-Videophilia (g aud) Bicycles               (g bike)                  Bay Area Tonight**(g bat) Boating                (g wet)                  Books (g books) CD's                   (g cd)                        Comics (g comics) Cooking                (g cook)                 Flying (g flying) Fun                    (g fun)                     Games (g games) Gardening              (g gard)               Kids (g kids) Nightowls*             (g owl)              Jokes (g jokes) MIDI                   (g midi)                   Movies (g movies) Motorcycling           (g ride)              Motoring (g car) Music                  (g mus)                  On Stage (g onstage) Pets                   (g pets)                  Radio (g rad) Restaurant             (g rest)              Science Fiction (g sf) Sports                 (g spo)                  Star Trek (g trek) Television             (g tv)                  Theater (g theater) Weird                  (g weird) Zines/Factsheet Five(g f5) * Open from midnight to 6am ** Updated daily
+----------------------------------- ArtCom Electronic Net  (g acen) Audio-Videophilia (g aud) Bicycles               (g bike)                  Bay Area Tonight**(g bat) Boating                (g wet)                  Books (g books) CD's                   (g cd)                        Comics (g comics) Cooking                (g cook)                 Flying (g flying) Fun                    (g fun)                     Games (g games) Gardening              (g gard)               Kids (g kids) Nightowls*             (g owl)              Jokes (g jokes) MIDI                   (g midi)                   Movies (g movies) Motorcycling           (g ride)              Motoring (g car) Music                  (g mus)                  On Stage (g onstage) Pets                   (g pets)                  Radio (g rad) Restaurant             (g rest)              Science Fiction (g sf) Sports                 (g spo)                  Star Trek (g trek) Television             (g tv)                  Theater (g theater) Weird                  (g weird) Zines/Factsheet Five(g f5) * Open from midnight to 6am ** Updated daily
 
                      Grateful Dead
-                     ------------- Grateful Dead          (g gd)          Deadplan*         (g dp) Deadlit                (g deadlit)       Feedback (g feedback) GD Hour                (g gdh)            Tapes (g tapes) Tickets                (g tix)              Tours (g tours)
+------------- Grateful Dead          (g gd)          Deadplan*         (g dp) Deadlit                (g deadlit)       Feedback (g feedback) GD Hour                (g gdh)            Tapes (g tapes) Tickets                (g tix)              Tours (g tours)
 
 * Private conference - mail tnf for entry
 
                        Computers
-                      ----------- AI/Forth/Realtime      (g realtime)    Amiga             (g amiga) Apple                  (g app)       Computer Books    (g cbook) Art & Graphics         (g gra)                Hacking (g hack) HyperCard              (g hype)                IBM PC (g ibm) LANs                   (g lan)                      Laptop (g lap) Macintosh              (g mac)    Mactech           (g mactech) Microtimes   (g microx)            Muchomedia        (g mucho) NeXt                   (g next)                     OS/2 (g os2) Printers               (g print) Programmer's Net  (g net) Siggraph               (g siggraph)           Software Design   (g sdc) Software/Programming (software) Software Support  (g ssc) Unix                   (g unix)                     Windows (g windows) Word Processing        (g word)
+----------- AI/Forth/Realtime      (g realtime)    Amiga             (g amiga) Apple                  (g app)       Computer Books    (g cbook) Art & Graphics         (g gra)                Hacking (g hack) HyperCard              (g hype)                IBM PC (g ibm) LANs                   (g lan)                      Laptop (g lap) Macintosh              (g mac)    Mactech           (g mactech) Microtimes   (g microx)            Muchomedia        (g mucho) NeXt                   (g next)                     OS/2 (g os2) Printers               (g print) Programmer's Net  (g net) Siggraph               (g siggraph)           Software Design   (g sdc) Software/Programming (software) Software Support  (g ssc) Unix                   (g unix)                     Windows (g windows) Word Processing        (g word)
 
                 Technical - Communications
-               ---------------------------- Bioinfo                (g bioinfo)           Info (g boing) Media                  (g media)             NAPLPS (g naplps) Netweaver              (g netweaver)   Networld (g networld) Packet Radio           (g packet)         Photography (g pho) Radio                  (g rad)                  Science (g science) Technical Writers   (g tec) Telecommunications(g tele) Usenet                 (g usenet)           Video (g vid) Virtual Reality        (g vr)
+---------------------------- Bioinfo                (g bioinfo)           Info (g boing) Media                  (g media)             NAPLPS (g naplps) Netweaver              (g netweaver)   Networld (g networld) Packet Radio           (g packet)         Photography (g pho) Radio                  (g rad)                  Science (g science) Technical Writers   (g tec) Telecommunications(g tele) Usenet                 (g usenet)           Video (g vid) Virtual Reality        (g vr)
 
                               The WELL Itself
-                              --------------- Deeper                 (g deeper)           Entry (g ent) General                (g gentech)         Help (g help) Hosts                  (g hosts)              Policy (g policy) System News            (g news)        Test (g test)
+--------------- Deeper                 (g deeper)           Entry (g ent) General                (g gentech)         Help (g help) Hosts                  (g hosts)              Policy (g policy) System News            (g news)        Test (g test)
 
 
 The list itself is dazzling, bringing to the untutored eye a dizzying impression of a bizarre milieu of mountain-climbing Hawaiian holistic photographers trading true-life confessions with bisexual word-processing Tibetans.
@@ -212,7 +212,7 @@ But while the Wellbeings rejoiced, the press in general seemed nonplussed by the
 
 But the stage was now set for open confrontation. And the first and the most critical battle was the hacker show-trial of "Knight Lightning."
 
-        ---
+---
 
 It has been my practice throughout this book to refer to hackers only by their "handles."   There is little to gain by giving the real names of these people, many of whom are juveniles, many of whom have never been convicted of any crime, and many of whom had unsuspecting parents who have already suffered enough.
 
@@ -515,7 +515,7 @@ This was the genuine, gut-level threat posed by *Phrack* magazine.  The real str
 
 However, Craig Neidorf was not on trial for learning to speak like a professional telecommunications expert. Craig Neidorf was on trial for access device fraud and transportation of stolen property.  He was on trial for stealing a document that was purportedly highly sensitive and purportedly worth tens of thousands of dollars.
 
-        ---
+---
 
 John Nagle read the E911 Document.   He drew his own conclusions.  And he  presented Zenner and his defense team with an overflowing box of similar material, drawn mostly from Stanford University's engineering libraries.   During the trial, the defense team — Zenner, half-a-dozen other attorneys, Nagle, Neidorf, and computer-security expert Dorothy Denning, all pored over the E911 Document line-by-line.
 
@@ -601,7 +601,7 @@ Neidorf was not found innocent.  The trial was simply dropped.  Nevertheless, on
 
 Neidorf went back to school, blazingly determined to become a lawyer.   Having seen the justice system at work, Neidorf lost much of his enthusiasm for merely technical power.  At this writing, Craig Neidorf is working in Washington as a salaried researcher for the American Civil Liberties Union.
 
-        ---
+---
 
 The outcome of the Neidorf trial changed the EFF from voices-in-the-wilderness to the media darlings of the new frontier.
 
@@ -647,7 +647,7 @@ When the time came to hire a full-time EFF staff attorney, Godwin was the obviou
 
 Michael Godwin is currently the chief legal counsel of the Electronic Frontier Foundation in Cambridge, Massachusetts.
 
-   ---
+---
 
 Another early and influential participant in the controversy was Dorothy Denning.   Dr. Denning was unique among investigators of the computer underground in that she did not enter the debate with any set of politicized motives.  She was a professional cryptographer and computer security expert whose primary interest in hackers was *scholarly.*   She had a B.A. and M.A. in mathematics,  and  a Ph.D. in computer science from Purdue.  She had worked for SRI International, the California think-tank that was also the home of computer-security maven Donn Parker, and had authored an influential text called  *Cryptography and Data Security.* In 1990, Dr. Denning was working for  Digital Equipment Corporation in their Systems Reseach Center.   Her husband, Peter Denning, was also  a computer security expert, working for NASA's Research Institute for Advanced Computer Science.  He had edited the well-received *Computers Under Attack:  Intruders, Worms and Viruses.*
 
@@ -671,7 +671,7 @@ Dorothy Denning had shattered the social membrane of the digital underground.   
 
 Dorothy Denning is currently the Chair of the Computer Science Department at Georgetown University in Washington, DC.
 
-        ---
+---
 
 There were many stellar figures in the civil libertarian community.   There's no question, however, that its single most influential figure was Mitchell D. Kapor.  Other people might have formal titles, or governmental positions, have more experience with crime, or with the law, or with the arcanities of computer security or constitutional theory.  But by 1991 Kapor had transcended any such narrow role.  Kapor had become "Mitch."
 
@@ -697,7 +697,7 @@ EFF had established that it had credibility.  It had also established that it ha
 
 In the fall of 1991 I travelled to Massachusetts to speak personally with Mitch Kapor.  It was my final interview for this book.
 
-        ---
+---
 
 The city of Boston has always been one of the major intellectual centers of the American republic.  It is a very old city by American standards, a place of skyscrapers overshadowing seventeenth-century graveyards, where the high-tech start-up companies of Route 128 co-exist with the hand-wrought pre-industrial grace of "Old Ironsides," the USS *Constitution.*
 
@@ -871,7 +871,7 @@ that's what he got the year he left Lotus.  People who ought to know claim Kapor
 
                     *Fury*
 
-        ---
+---
 
           My book on the Hacker Crackdown is almost over now.  I have deliberately saved the best for last.
 
@@ -895,7 +895,7 @@ that's what he got the year he left Lotus.  People who ought to know claim Kapor
 
           In any case, CPSR Roundtable, though interesting and intensely valuable, was as nothing compared to the truly mind-boggling event that transpired a mere month later.
 
-             ---
+---
 
           "Computers, Freedom and Privacy."  Four hundred people from every conceivable corner of America's electronic community.  As a science fiction writer, I have been to some weird gigs in my day, but this thing is truly *beyond the pale.*   Even "Cyberthon," Point Foundation's "Woodstock of Cyberspace" where Bay Area psychedelia collided headlong with the emergent world of computerized virtual reality, was like a Kiwanis Club gig compared to this astonishing do.
 
