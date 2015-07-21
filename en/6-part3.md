@@ -1,4 +1,4 @@
-PART THREE:  LAW AND ORDER
+## PART THREE:  LAW AND ORDER
 
 
 Of the various anti-hacker activities of 1990, "Operation Sundevil" had by far the highest public profile.   The sweeping, nationwide computer seizures of May 8, 1990 were unprecedented in scope and highly, if rather selectively, publicized.

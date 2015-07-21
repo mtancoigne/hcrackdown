@@ -1,4 +1,4 @@
-PART FOUR:  THE CIVIL LIBERTARIANS
+## PART FOUR:  THE CIVIL LIBERTARIANS
 
 
 The story of the Hacker Crackdown, as we have followed it thus far, has been technological, subcultural, criminal and legal.  The story of the Civil Libertarians, though it partakes of all those other aspects, is profoundly and thoroughly *political.*

@@ -1,4 +1,4 @@
-PART TWO:  THE DIGITAL UNDERGROUND
+## PART TWO:  THE DIGITAL UNDERGROUND
 
 
 The date was May 9, 1990.  The Pope was touring Mexico City.   Hustlers from the Medellin Cartel were trying to buy black-market Stinger missiles in Florida.  On the comics page, Doonesbury character Andy was dying of AIDS.   And then.... a highly unusual item whose novelty and calculated rhetoric won it headscratching attention in newspapers all over America.

@@ -1,4 +1,4 @@
-Bruce Sterling. The hacker crackdown 
+## Bruce Sterling. The hacker crackdown 
 --------------------------------------------------------------- 
 bruces@well.sf.ca.us
 
@@ -7,7 +7,7 @@ Literary Freeware:  Not for Commercial Use
 THE HACKER CRACKDOWN Law and Disorder on the Electronic Frontier y Bruce Sterling 
 ---------------------------------------------------------------
 
-CONTENTS
+## CONTENTS
 
 Preface to the Electronic Release of *The Hacker Crackdown*
 
