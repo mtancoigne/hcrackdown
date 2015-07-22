@@ -103,7 +103,7 @@ And, as a final fillip, Sundevil was a message from the Secret Service to their 
 
 ---
 
-   For the neophyte, one of the most puzzling aspects of the crackdown on hackers is why the United States Secret Service has anything at all to do with this matter.
+For the neophyte, one of the most puzzling aspects of the crackdown on hackers is why the United States Secret Service has anything at all to do with this matter.
 
 The Secret Service is best known for its primary public role:  its agents protect the President of the United States.  They also guard the President's family, the Vice President and his family, former Presidents, and Presidential candidates.   They sometimes guard foreign dignitaries who are visiting the United States, especially foreign heads of state, and have been known to accompany American officials on diplomatic missions overseas.
 
@@ -141,7 +141,7 @@ We now come to the very next section of Title 18, which is Section 1030, "Fraud 
 
 The first annoyance is Section 1030(d), which reads:
 
-"(d) The United States Secret Service shall, *in addition to any other agency having such authority,* have the authority to investigate offenses under this section.  Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary  of the Treasury *and the Attorney General.*"   (Author's  italics.)
+> "(d) The United States Secret Service shall, *in addition to any other agency having such authority,* have the authority to investigate offenses under this section.  Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary  of the Treasury *and the Attorney General.*"   (Author's  italics.)
 
 The Secretary of the Treasury is the titular head of the Secret Service, while the Attorney General is in charge of the FBI.  In Section (d), Congress shrugged off responsibility for the computer-crime turf-battle between the Service and the Bureau, and made them fight it out all by themselves.  The result was a rather dire one for the Secret Service, for the FBI ended up with exclusive jurisdiction over computer break-ins having to do with national security, foreign espionage, federally insured banks, and U.S. military bases, while retaining joint jurisdiction over all the other computer intrusions. Essentially, when it comes to Section 1030, the FBI not only gets the real glamor stuff for itself, but can peer over the shoulder of the Secret Service and barge in to meddle whenever it suits them.
 
@@ -209,7 +209,7 @@ On the other hand, William P. Wood *was* the first head of the Secret Service.  
 
 As for William Brockway (also known as "Colonel Spencer"), he was finally arrested by the Secret Service in 1880.  He did five years in prison, got out, and was still boodling at the age of seventy-four.
 
-            #
+---
 
 Anyone with an interest in  Operation Sundevil - - or in American computer-crime generally — could scarcely miss the presence of Gail Thackeray, Assistant Attorney General of the State of Arizona. Computer-crime training manuals often cited Thackeray's group and her work;  she was the highest-ranking state official to specialize in computer-related offenses.   Her name had been on the Sundevil press release (though modestly ranked well after the local federal prosecuting attorney and the head of the Phoenix Secret Service office).
 
@@ -323,7 +323,7 @@ The headquarters of the Arizona Attorney General, Gail Thackeray's former workpl
 
 After dark, all the employees go home to their suburbs.  Washington, Jefferson and Madison — what would be the Phoenix inner city, if there were an inner city in this sprawling automobile-bred town —  become the haunts of transients and derelicts. The homeless. The sidewalks along Washington are lined with orange trees.  Ripe fallen fruit lies scattered like croquet balls on the sidewalks and gutters.  No one seems to be eating them.  I try a fresh one.  It tastes unbearably bitter.
 
-  The Attorney General's office, built in 1981 during the Babbitt administration,  is a long low two-story building of white cement and wall-sized sheets of curtain-glass.  Behind each glass wall is a lawyer's office, quite open and visible to anyone strolling by. Across the street is a dour government building labelled simply ECONOMIC SECURITY, something that has not been in great supply in the American Southwest lately.
+The Attorney General's office, built in 1981 during the Babbitt administration,  is a long low two-story building of white cement and wall-sized sheets of curtain-glass.  Behind each glass wall is a lawyer's office, quite open and visible to anyone strolling by. Across the street is a dour government building labelled simply ECONOMIC SECURITY, something that has not been in great supply in the American Southwest lately.
 
 The offices  are about twelve feet square.  They feature tall wooden cases full of red-spined lawbooks; Wang computer monitors; telephones; Post-it notes galore.  Also framed law diplomas and a general excess of bad Western landscape art.  Ansel Adams photos are a big favorite, perhaps to compensate for the dismal specter of the parking-lot, two acres of striped black asphalt, which features gravel landscaping and some sickly-looking barrel cacti.
 
@@ -475,7 +475,7 @@ The trash went back in its receptacle while the scraps of data went into  my tra
 
 Coincidence or not, it was quite true.  Some poor soul had, in fact, thrown a SPRINT bill into the hotel's trash.   Date May 1991, total amount due: $252.36.  Not a business phone, either, but a residential bill, in the name of someone called Evelyn (not her real name).  Evelyn's records showed a ## PAST DUE BILL ##!   Here was her nine-digit account ID.    Here was a stern computer-printed warning:
 
- "TREAT YOUR FONCARD AS YOU WOULD ANY CREDIT CARD.  TO SECURE AGAINST FRAUD, NEVER GIVE YOUR FONCARD NUMBER OVER THE PHONE UNLESS YOU INITIATED THE CALL.  IF YOU RECEIVE SUSPICIOUS CALLS PLEASE NOTIFY CUSTOMER SERVICE IMMEDIATELY!"
+> "TREAT YOUR FONCARD AS YOU WOULD ANY CREDIT CARD.  TO SECURE AGAINST FRAUD, NEVER GIVE YOUR FONCARD NUMBER OVER THE PHONE UNLESS YOU INITIATED THE CALL.  IF YOU RECEIVE SUSPICIOUS CALLS PLEASE NOTIFY CUSTOMER SERVICE IMMEDIATELY!"
 
 I examined my watch.  Still plenty of time left for the FCIC to carry on.  I sorted out the scraps of Evelyn's SPRINT bill and re-assembled them with fresh Scotch tape.  Here was her ten-digit FONCARD number.   Didn't seem to have the ID number necessary to cause real fraud trouble.
 

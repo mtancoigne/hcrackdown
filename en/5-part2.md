@@ -169,7 +169,7 @@ The  defense of "carding" is rare.  Most hackers regard credit-card theft as "po
 
 Hackers  vary in their degree of hatred for authority and the violence of their rhetoric.  But, at a bottom line, they are scofflaws.  They don't regard the current rules of electronic behavior as respectable efforts to preserve law and order and protect public safety.  They regard these laws as immoral efforts by soulless corporations to protect their profit margins and to crush dissidents.   "Stupid" people, including police, businessmen, politicians, and journalists, simply have no right to judge the actions of those possessed of genius, techno-revolutionary intentions, and technical expertise.
 
-            #
+---
 
 Hackers are generally teenagers and college kids not engaged in earning a living.   They often come from fairly well-to-do middle-class backgrounds, and are markedly anti-materialistic (except, that is, when it comes to computer equipment).   Anyone motivated by greed for mere money (as opposed to the greed for power, knowledge and status)  is swiftly written-off as a narrow-minded breadhead whose interests can only be corrupt and contemptible.   Having grown up in the 1970s and 1980s, the young Bohemians of the digital underground regard straight society as awash in plutocratic corruption, where everyone from the President down is for sale and whoever has the gold makes the rules.
 
@@ -327,17 +327,72 @@ What does an underground board look like?   What distinguishes it from a standar
 
 Here is a partial table-of-contents of philes from an underground board, somewhere in the heart of middle America, circa 1991.  The descriptions are mostly self-explanatory.
 
-
-BANKAMER.ZIP    5406 06-11-91  Hacking Bank America CHHACK.ZIP      4481 06-11-91  Chilton Hacking CITIBANK.ZIP    4118 06-11-91  Hacking Citibank CREDIMTC.ZIP    3241 06-11-91  Hacking Mtc Credit Company DIGEST.ZIP      5159 06-11-91  Hackers Digest HACK.ZIP       14031 06-11-91  How To Hack HACKBAS.ZIP     5073 06-11-91  Basics Of Hacking HACKDICT.ZIP   42774 06-11-91  Hackers Dictionary HACKER.ZIP     57938 06-11-91  Hacker Info HACKERME.ZIP    3148 06-11-91  Hackers Manual HACKHAND.ZIP    4814 06-11-91  Hackers Handbook HACKTHES.ZIP   48290 06-11-91  Hackers Thesis HACKVMS.ZIP     4696 06-11-91  Hacking Vms Systems MCDON.ZIP       3830 06-11-91  Hacking Macdonalds (Home Of The Archs) P500UNIX.ZIP   15525 06-11-91  Phortune 500 Guide To Unix RADHACK.ZIP     8411 06-11-91  Radio Hacking TAOTRASH.DOC    4096 12-25-89  Suggestions For Trashing TECHHACK.ZIP    5063 06-11-91  Technical Hacking
-
+```
+BANKAMER.ZIP    5406 06-11-91  Hacking Bank America
+CHHACK.ZIP      4481 06-11-91  Chilton Hacking
+CITIBANK.ZIP    4118 06-11-91  Hacking Citibank
+CREDIMTC.ZIP    3241 06-11-91  Hacking Mtc Credit Company
+DIGEST.ZIP      5159 06-11-91  Hackers Digest
+HACK.ZIP       14031 06-11-91  How To Hack
+HACKBAS.ZIP     5073 06-11-91  Basics Of Hacking
+HACKDICT.ZIP   42774 06-11-91  Hackers Dictionary
+HACKER.ZIP     57938 06-11-91  Hacker Info
+HACKERME.ZIP    3148 06-11-91  Hackers Manual
+HACKHAND.ZIP    4814 06-11-91  Hackers Handbook
+HACKTHES.ZIP   48290 06-11-91  Hackers Thesis
+HACKVMS.ZIP     4696 06-11-91  Hacking Vms Systems
+MCDON.ZIP       3830 06-11-91  Hacking Macdonalds (Home Of The Archs)
+P500UNIX.ZIP   15525 06-11-91  Phortune 500 Guide To Unix
+RADHACK.ZIP     8411 06-11-91  Radio Hacking
+TAOTRASH.DOC    4096 12-25-89  Suggestions For Trashing
+TECHHACK.ZIP    5063 06-11-91  Technical Hacking
+```
 
 The files above are do-it-yourself manuals about computer intrusion.  The above is only a small section of a much larger library of hacking and phreaking techniques and history.  We now move into a different and perhaps surprising area.
 
-                      +------------+
-                      |Anarchy|
-                      +------------+
+```
+                              +------------+
+                              |Anarchy|
+                              +------------+
 
-ANARC.ZIP       3641 06-11-91  Anarchy Files ANARCHST.ZIP   63703 06-11-91  Anarchist Book ANARCHY.ZIP     2076 06-11-91  Anarchy At Home ANARCHY3.ZIP    6982 06-11-91  Anarchy No 3 ANARCTOY.ZIP    2361 06-11-91  Anarchy Toys ANTIMODM.ZIP    2877 06-11-91  Anti-modem Weapons ATOM.ZIP        4494 06-11-91  How To Make An Atom Bomb BARBITUA.ZIP    3982 06-11-91  Barbiturate Formula BLCKPWDR.ZIP    2810 06-11-91  Black Powder Formulas BOMB.ZIP        3765 06-11-91  How To Make Bombs BOOM.ZIP        2036 06-11-91  Things That Go Boom CHLORINE.ZIP    1926 06-11-91  Chlorine Bomb COOKBOOK.ZIP    1500 06-11-91  Anarchy Cook Book DESTROY.ZIP     3947 06-11-91  Destroy Stuff DUSTBOMB.ZIP    2576 06-11-91  Dust Bomb ELECTERR.ZIP    3230 06-11-91  Electronic Terror EXPLOS1.ZIP     2598 06-11-91  Explosives 1 EXPLOSIV.ZIP   18051 06-11-91  More Explosives EZSTEAL.ZIP     4521 06-11-91  Ez-stealing FLAME.ZIP       2240 06-11-91  Flame Thrower FLASHLT.ZIP     2533 06-11-91  Flashlight Bomb FMBUG.ZIP       2906 06-11-91  How To Make An Fm Bug OMEEXPL.ZIP    2139 06-11-91  Home Explosives HOW2BRK.ZIP     3332 06-11-91  How To Break In LETTER.ZIP      2990 06-11-91  Letter Bomb LOCK.ZIP        2199 06-11-91  How To Pick Locks MRSHIN.ZIP      3991 06-11-91  Briefcase Locks NAPALM.ZIP      3563 06-11-91  Napalm At Home NITRO.ZIP       3158 06-11-91  Fun With Nitro PARAMIL.ZIP     2962 06-11-91  Paramilitary Info PICKING.ZIP     3398 06-11-91  Picking Locks PIPEBOMB.ZIP    2137 06-11-91  Pipe Bomb POTASS.ZIP      3987 06-11-91  Formulas With Potassium PRANK.TXT      11074 08-03-90  More Pranks To Pull On Idiots! REVENGE.ZIP     4447 06-11-91  Revenge Tactics ROCKET.ZIP      2590 06-11-91  Rockets For Fun SMUGGLE.ZIP     3385 06-11-91  How To Smuggle
+ANARC.ZIP       3641 06-11-91  Anarchy Files
+ANARCHST.ZIP   63703 06-11-91  Anarchist Book
+ANARCHY.ZIP     2076 06-11-91  Anarchy At Home
+ANARCHY3.ZIP    6982 06-11-91  Anarchy No 3
+ANARCTOY.ZIP    2361 06-11-91  Anarchy Toys
+ANTIMODM.ZIP    2877 06-11-91  Anti-modem Weapons
+ATOM.ZIP        4494 06-11-91  How To Make An Atom Bomb
+BARBITUA.ZIP    3982 06-11-91  Barbiturate Formula
+BLCKPWDR.ZIP    2810 06-11-91  Black Powder Formulas
+BOMB.ZIP        3765 06-11-91  How To Make Bombs
+BOOM.ZIP        2036 06-11-91  Things That Go Boom
+CHLORINE.ZIP    1926 06-11-91  Chlorine Bomb
+COOKBOOK.ZIP    1500 06-11-91  Anarchy Cook Book
+DESTROY.ZIP     3947 06-11-91  Destroy Stuff
+DUSTBOMB.ZIP    2576 06-11-91  Dust Bomb
+ELECTERR.ZIP    3230 06-11-91  Electronic Terror
+EXPLOS1.ZIP     2598 06-11-91  Explosives 1
+EXPLOSIV.ZIP   18051 06-11-91  More Explosives
+EZSTEAL.ZIP     4521 06-11-91  Ez-stealing
+FLAME.ZIP       2240 06-11-91  Flame Thrower
+FLASHLT.ZIP     2533 06-11-91  Flashlight Bomb
+FMBUG.ZIP       2906 06-11-91  How To Make An Fm Bug
+HOMEEXPL.ZIP    2139 06-11-91  Home Explosives
+HOW2BRK.ZIP     3332 06-11-91  How To Break In
+LETTER.ZIP      2990 06-11-91  Letter Bomb
+LOCK.ZIP        2199 06-11-91  How To Pick Locks
+MRSHIN.ZIP      3991 06-11-91  Briefcase Locks
+NAPALM.ZIP      3563 06-11-91  Napalm At Home
+NITRO.ZIP       3158 06-11-91  Fun With Nitro
+PARAMIL.ZIP     2962 06-11-91  Paramilitary Info
+PICKING.ZIP     3398 06-11-91  Picking Locks
+PIPEBOMB.ZIP    2137 06-11-91  Pipe Bomb
+POTASS.ZIP      3987 06-11-91  Formulas With Potassium
+PRANK.TXT      11074 08-03-90  More Pranks To Pull On Idiots!
+REVENGE.ZIP     4447 06-11-91  Revenge Tactics
+ROCKET.ZIP      2590 06-11-91  Rockets For Fun
+SMUGGLE.ZIP     3385 06-11-91  How To Smuggle
+```
 
 *Holy Cow!*  The damned thing is full of stuff about bombs!
 
@@ -353,7 +408,7 @@ Hackers may not be "serious" about bombing; if they were, we would hear far more
 
 There have always been young men with obsessive interests in these topics.  Never before, however, have they been able to network so extensively and easily, and to propagandize their interests with impunity to random passers-by.   High-school teachers will recognize that there's always one in a crowd, but when the one in a crowd escapes control by jumping into the phone-lines, and becomes a hundred such kids all together on a board, then trouble is brewing visibly.  The urge of authority to *do something,*  even something drastic, is hard to resist. And in 1990, authority did something.  In fact authority did a great deal.
 
-            #
+---
 
 The process by which boards create hackers goes something like this.  A youngster becomes interested in computers — usually, computer games.  He hears from friends that "bulletin boards" exist where games can be obtained for free.  (Many computer games are "freeware," not copyrighted — invented simply for the love of it and given away to the public; some of these games are quite good.)  He bugs his parents for a modem, or quite often, uses his parents' modem.
 
@@ -591,7 +646,6 @@ By this reasoning, Fry Guy wasn't much more than the electronic equivalent of a 
 
 ---
 
-
 The Computer Fraud and Abuse Task Force, led by federal prosecutor William J. Cook, had started in 1987 and had swiftly become one of the most aggressive local "dedicated computer-crime units."  Chicago was a natural home for such a group.  The world's first computer bulletin-board system had been invented in Illinois.  The state of Illinois had some of the nation's first and sternest computer crime laws.   Illinois State Police were markedly alert to the possibilities of white-collar crime and electronic fraud.
 
 And William J. Cook in particular was a rising star in electronic crime-busting.   He and his fellow federal prosecutors at the U.S. Attorney's office in Chicago had a tight relation with the Secret Service, especially go-getting Chicago-based agent Timothy  Foley.  While Cook and his Department of Justice colleagues plotted strategy, Foley was their man on the street.
@@ -807,19 +861,13 @@ So he sent a copy of the E911 Document — yet another one — from Rich Andrews
 
 Let's review the fate of the document so far.
 
-0.  The original E911 Document.  This in the AIMSX system on a mainframe computer in Atlanta, available to hundreds of people, but all of them, presumably, BellSouth employees.   An unknown number of them may have their own copies of this document, but they are all professionals and all trusted by the phone company.
-
-1.  Prophet's illicit copy, at home on his own computer in Decatur, Georgia.
-
-2.  Prophet's back-up copy, stored on Rich Andrew's Jolnet machine in the basement of Rich Andrews'  house near Joliet Illinois.
-
-3.  Charles Boykin's copy on "Killer" in Dallas, Texas, sent by Rich Andrews from Joliet.
-
-4.  Jerry Dalton's copy at AT&T Corporate Information Security in New Jersey, sent from Charles Boykin in Dallas.
-
-5.  Henry Kluepfel's copy at Bellcore security headquarters in New Jersey, sent by Dalton.
-
-6.  Knight Lightning's copy, sent by Prophet from Rich Andrews' machine, and now in Columbia, Missouri.
+  0.  The original E911 Document.  This in the AIMSX system on a mainframe computer in Atlanta, available to hundreds of people, but all of them, presumably, BellSouth employees.   An unknown number of them may have their own copies of this document, but they are all professionals and all trusted by the phone company.
+  1.  Prophet's illicit copy, at home on his own computer in Decatur, Georgia.
+  2.  Prophet's back-up copy, stored on Rich Andrew's Jolnet machine in the basement of Rich Andrews'  house near Joliet Illinois.
+  3.  Charles Boykin's copy on "Killer" in Dallas, Texas, sent by Rich Andrews from Joliet.
+  4.  Jerry Dalton's copy at AT&T Corporate Information Security in New Jersey, sent from Charles Boykin in Dallas.
+  5.  Henry Kluepfel's copy at Bellcore security headquarters in New Jersey, sent by Dalton.
+  6.  Knight Lightning's copy, sent by Prophet from Rich Andrews' machine, and now in Columbia, Missouri.
 
 We can see that the "security" situation of this proprietary document, once dug out of AIMSX,  swiftly became bizarre.   Without any money changing hands, without any particular special effort, this data had been reproduced at least six times and had spread itself all over the continent.  By far the worst, however, was yet to come.
 
@@ -864,7 +912,7 @@ Foley confronted Knight Lightning about the  E911 Document.
 
 Knight Lightning was cowed.  He immediately began "cooperating fully" in the usual tradition of the digital underground.
 
-He gave Foley a complete run of *Phrack,*printed out in a set of three-ring binders.   He handed over his electronic mailing list of *Phrack* subscribers. Knight Lightning was grilled for four hours by Foley and his cohorts.  Knight Lightning admitted that Prophet had passed him the E911 Document, and he admitted that he had known it was stolen booty from a hacker raid on a telephone company.  Knight Lightning signed a statement to this effect, and agreed, in writing, to cooperate with investigators.
+He gave Foley a complete run of *Phrack,* printed out in a set of three-ring binders.   He handed over his electronic mailing list of *Phrack* subscribers. Knight Lightning was grilled for four hours by Foley and his cohorts.  Knight Lightning admitted that Prophet had passed him the E911 Document, and he admitted that he had known it was stolen booty from a hacker raid on a telephone company.  Knight Lightning signed a statement to this effect, and agreed, in writing, to cooperate with investigators.
 
 Next day — January 19, 1990, a Friday  — the Secret Service returned with a search warrant, and thoroughly searched Knight Lightning's upstairs room in the fraternity house.   They took all his floppy disks, though, interestingly, they left Knight Lightning in possession of both his computer and his modem.  (The computer had no hard disk, and in Foley's judgement was not a store of evidence.)   But this was a very minor bright spot among Knight Lightning's rapidly multiplying troubles.  By this time, Knight Lightning was in plenty of hot water, not only with federal police, prosecutors, telco investigators, and university security, but with the elders of his own campus fraternity, who were outraged to think that they had been unwittingly harboring a federal computer-criminal.
 

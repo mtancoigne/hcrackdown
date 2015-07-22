@@ -27,7 +27,7 @@ In 1990, the civil libertarians of cyberspace assembled out of nowhere in partic
 
 The civil libertarians nevertheless enjoyed the greatest success of any of the groups in the Crackdown of 1990.  At this writing, their future looks rosy and the political initiative is firmly in their hands.   This should be kept in mind as we study the highly unlikely lives and lifestyles of the people who actually made this happen.
 
-            #
+---
 
 In June 1989, Apple Computer, Inc., of Cupertino, California, had a problem.   Someone had illicitly copied a small piece of Apple's proprietary software, software which controlled an internal chip driving the Macintosh screen display.   This Color QuickDraw source code was a closely guarded piece of Apple's intellectual property.  Only trusted Apple insiders were supposed to possess it.
 
@@ -103,45 +103,231 @@ The Well grew slowly as the 1980s advanced.  It charged a modest sum for access 
 
 In 1991, the Well's list of conferences looked like this:
 
-              CONFERENCES ON THE WELL
+```
+                      CONFERENCES ON THE WELL
 
-            WELL "Screenzine" Digest    (g zine)
+                    WELL "Screenzine" Digest    (g zine)
 
-            Best of the WELL - vintage material - (g best)
+                    Best of the WELL - vintage material - (g best)
 
-Index listing of new topics in all conferences -  (g newtops)
+ Index listing of new topics in all conferences -  (g newtops)
 
-                Business - Education
-----------------------
+                        Business - Education
+                       ----------------------
 
-Apple Library Users Group(g alug)      Agriculture  (g agri) Brainstorming          (g brain)             Classifieds (g cla) Computer Journalism    (g cj)  Consultants       (g consult) Consumers              (g cons)                Design (g design) Desktop Publishing     (g desk)  Disability        (g disability) Education              (g ed)                Energy (g energy91) Entrepreneurs   (g entre)               Homeowners        (g home) Indexing        (g indexing)     Investments       (g invest) Kids91                 (g kids)                    Legal (g legal) One Person Business    (g one) Periodical/newsletter(g per) Telecomm Law           (g tcl)               The Future (g fut) Translators            (g trans)               Travel (g tra) Work                   (g work)
+Apple Library Users Group  (g alug)     
+Agriculture                (g agri)     
+Brainstorming              (g brain)    
+Classifieds                (g cla)      
+Computer Journalism        (g cj)       
+Consultants                (g consult)  
+Consumers                  (g cons)     
+Design                     (g design)   
+Desktop Publishing         (g desk)     
+Disability                 (g disability
+Education                  (g ed)       
+Energy                     (g energy91) 
+Entrepreneurs              (g entre)    
+Homeowners                 (g home)     
+Indexing                   (g indexing) 
+Investments                (g invest)   
+Kids91                     (g kids)     
+Legal                      (g legal)    
+One Person Business        (g one)      
+Periodical/newsletter      (g per)      
+Telecomm Law               (g tcl)      
+The Future                 (g fut)      
+Translators                (g trans)    
+Travel                     (g tra)      
+Work                       (g work)     
 
-Electronic Frontier Foundation    (g eff) Computers, Freedom & Privacy      (g cfp) Computer Professionals for Social Responsibility  (g cpsr)
+                Electronic Frontier Foundation    (g eff)
+                Computers, Freedom & Privacy      (g cfp)
+  Computer Professionals for Social Responsibility  (g cpsr)
 
-           Social - Political - Humanities
----------------------------------
+                   Social - Political - Humanities
+                  ---------------------------------
 
-Aging                  (g gray)                      AIDS (g aids) Amnesty International  (g amnesty)     Archives          (g arc) Berkeley               (g berk)     Buddhist          (g wonderland) Christian              (g cross)                  Couples (g couples) Current Events         (g curr)        Dreams            (g dream) Drugs                  (g dru)                       East Coast        (g east) Emotional Health****   (g private)      Erotica           (g eros) Environment            (g env)     Firearms          (g firearms) First Amendment (g first)    Fringes of Reason (g fringes) Gay                    (g gay)              Gay (Private)# (g gaypriv) Geography              (g geo)             German (g german) Gulf War               (g gulf)                    Hawaii (g aloha) Health                 (g heal)                     History (g hist) Holistic               (g holi) Interview         (g inter) Italian                (g ital)                      Jewish (g jew) Liberty                (g liberty)                Mind (g mind) Miscellaneous          (g misc) Men on the WELL** (g mow) Network Integration    (g origin)         Nonprofits (g non) North Bay              (g north)                 Northwest (g nw) Pacific Rim            (g pacrim)             Parenting (g par) Peace                  (g pea)                     Peninsula (g pen) Poetry                 (g poetry)                Philosophy (g phi) Politics               (g pol) Psychology        (g psy) Psychotherapy   (g therapy)  Recovery##        (g recovery) San Francisco          (g sanfran)           Scams (g scam) Sexuality              (g sex)                    Singles (g singles) Southern               (g south)                Spanish (g spanish) Spirituality           (g spirit)               Tibet (g tibet) Transportation  (g transport)      True Confessions  (g tru) Unclear (g unclear)   WELL Writer's Workshop***(g www) Whole Earth (g we)           Women on the WELL*(g wow) Words                  (g words)                 Writers (g wri)
+Aging                     (g gray)                      
+AIDS                      (g aids)
+Amnesty International     (g amnesty)     
+Archives                  (g arc)
+Berkeley                  (g berk)     
+Buddhist                  (g wonderland)
+Christian                 (g cross)                  
+Couples                   (g couples)
+Current Events            (g curr)        
+Dreams                    (g dream)
+Drugs                     (g dru)                       
+East Coast                (g east)
+Emotional Health****      (g private)      
+Erotica                   (g eros) 
+Environment               (g env)     
+Firearms                  (g firearms)
+First Amendment           (g first)    
+Fringes of Reason         (g fringes)
+Gay                       (g gay)              
+Gay (Private)#            (g gaypriv)
+Geography                 (g geo)             
+German                    (g german)
+Gulf War                  (g gulf)                    
+Hawaii                    (g aloha)
+Health                    (g heal)                     
+History                   (g hist)
+Holistic                  (g holi)
+Interview                 (g inter)
+Italian                   (g ital)                      
+Jewish                    (g jew)
+Liberty                   (g liberty)                
+Mind                      (g mind)
+Miscellaneous             (g misc) 
+Men on the WELL**         (g mow)
+Network Integration       (g origin)         
+Nonprofits                (g non)
+North Bay                 (g north)                 
+Northwest                 (g nw)
+Pacific Rim               (g pacrim)             
+Parenting                 (g par)
+Peace                     (g pea)
+Peninsula                 (g pen)
+Poetry                    (g poetry)
+Philosophy                (g phi)
+Politics                  (g pol) 
+Psychology                (g psy)
+Psychotherapy             (g therapy)  
+Recovery##                (g recovery)
+San Francisco             (g sanfran)           
+Scams                     (g scam)
+Sexuality                 (g sex)                    
+Singles                   (g singles)
+Southern                  (g south)                
+Spanish                   (g spanish)
+Spirituality              (g spirit)               
+Tibet                     (g tibet)
+Transportation            (g transport)      
+True Confessions          (g tru)
+Unclear                   (g unclear)   
+WELL Writer's Workshop*** (g www)
+Whole Earth (g we)           
+Women on the WELL*(g wow)
+Words                  (g words)                
+Writers (g wri)
 
-**** Private Conference - mail wooly for entry ***Private conference - mail sonia for entry ** Private conference - mail flash for entry *  Private conference - mail reva for entry #  Private Conference - mail hudu for entry ## Private Conference - mail dhawk for entry
+**** Private Conference - mail wooly for entry
+*** Private conference - mail sonia for entry
+** Private conference - mail flash for entry
+*  Private conference - mail reva for entry
+#  Private Conference - mail hudu for entry
+## Private Conference - mail dhawk for entry
 
-          Arts - Recreation - Entertainment
------------------------------------ ArtCom Electronic Net  (g acen) Audio-Videophilia (g aud) Bicycles               (g bike)                  Bay Area Tonight**(g bat) Boating                (g wet)                  Books (g books) CD's                   (g cd)                        Comics (g comics) Cooking                (g cook)                 Flying (g flying) Fun                    (g fun)                     Games (g games) Gardening              (g gard)               Kids (g kids) Nightowls*             (g owl)              Jokes (g jokes) MIDI                   (g midi)                   Movies (g movies) Motorcycling           (g ride)              Motoring (g car) Music                  (g mus)                  On Stage (g onstage) Pets                   (g pets)                  Radio (g rad) Restaurant             (g rest)              Science Fiction (g sf) Sports                 (g spo)                  Star Trek (g trek) Television             (g tv)                  Theater (g theater) Weird                  (g weird) Zines/Factsheet Five(g f5) * Open from midnight to 6am ** Updated daily
+                  Arts - Recreation - Entertainment
+                  -----------------------------------
+ArtCom Electronic Net  (g acen)
+Audio-Videophilia      (g aud)
+Bicycles               (g bike)                  
+Bay Area Tonight**     (g bat)
+Boating                (g wet)
+Books                  (g books)
+CD's                   (g cd)
+Comics                 (g comics)
+Cooking                (g cook)                 
+Flying                 (g flying)
+Fun                    (g fun)
+Games                  (g games)
+Gardening              (g gard)
+Kids                   (g kids)
+Nightowls*             (g owl)
+Jokes                  (g jokes)
+MIDI                   (g midi)                   
+Movies                 (g movies)
+Motorcycling           (g ride)
+Motoring               (g car)
+Music                  (g mus)
+On Stage               (g onstage)
+Pets                   (g pets)
+Radio                  (g rad)
+Restaurant             (g rest)
+Science Fiction        (g sf)
+Sports                 (g spo)
+Star Trek              (g trek)
+Television             (g tv)
+Theater                (g theater)
+Weird                  (g weird)
+Zines/Factsheet Five   (g f5)
 
-                     Grateful Dead
-------------- Grateful Dead          (g gd)          Deadplan*         (g dp) Deadlit                (g deadlit)       Feedback (g feedback) GD Hour                (g gdh)            Tapes (g tapes) Tickets                (g tix)              Tours (g tours)
+* Open from midnight to 6am
+** Updated daily
+
+                             Grateful Dead
+                             -------------
+Grateful Dead          (g gd)
+Deadplan*              (g dp)
+Deadlit                (g deadlit)
+Feedback               (g feedback)
+GD Hour                (g gdh)
+Tapes                  (g tapes)
+Tickets                (g tix)
+Tours                  d(g tours)
 
 * Private conference - mail tnf for entry
 
-                       Computers
------------ AI/Forth/Realtime      (g realtime)    Amiga             (g amiga) Apple                  (g app)       Computer Books    (g cbook) Art & Graphics         (g gra)                Hacking (g hack) HyperCard              (g hype)                IBM PC (g ibm) LANs                   (g lan)                      Laptop (g lap) Macintosh              (g mac)    Mactech           (g mactech) Microtimes   (g microx)            Muchomedia        (g mucho) NeXt                   (g next)                     OS/2 (g os2) Printers               (g print) Programmer's Net  (g net) Siggraph               (g siggraph)           Software Design   (g sdc) Software/Programming (software) Software Support  (g ssc) Unix                   (g unix)                     Windows (g windows) Word Processing        (g word)
+                               Computers
+                              -----------
+AI/Forth/Realtime      (g realtime)    
+Amiga                  (g amiga)
+Apple                  (g app)       
+Computer Books         (g cbook)
+Art & Graphics         (g gra)
+Hacking                (g hack)
+HyperCard              (g hype)
+IBM PC                 (g ibm)
+LANs                   (g lan)
+Laptop                 (g lap)
+Macintosh              (g mac)    
+Mactech                (g mactech)
+Microtimes             (g microx)            
+Muchomedia             (g mucho)
+NeXt                   (g next)                     
+OS/2                   (g os2)
+Printers               (g print)
+Programmer's Net       (g net)
+Siggraph               (g siggraph)           
+Software Design        (g sdc)
+Software/Programming   (software)
+Software Support       (g ssc)
+Unix                   (g unix)                     
+Windows                (g windows)
+Word Processing        (g word)
 
-                Technical - Communications
----------------------------- Bioinfo                (g bioinfo)           Info (g boing) Media                  (g media)             NAPLPS (g naplps) Netweaver              (g netweaver)   Networld (g networld) Packet Radio           (g packet)         Photography (g pho) Radio                  (g rad)                  Science (g science) Technical Writers   (g tec) Telecommunications(g tele) Usenet                 (g usenet)           Video (g vid) Virtual Reality        (g vr)
+                        Technical - Communications
+                       ----------------------------
+Bioinfo                (g bioinfo)           
+Info                   (g boing)
+Media                  (g media)             
+NAPLPS                 (g naplps)
+Netweaver              (g netweaver)   
+Networld               (g networld)
+Packet Radio           (g packet)         
+Photography            (g pho)
+Radio                  (g rad)                  
+Science                (g science)
+Technical Writers      (g tec) 
+Telecommunications     (g tele)
+Usenet                 (g usenet)           
+Video                  (g vid)
+Virtual Reality        (g vr)
 
                               The WELL Itself
---------------- Deeper                 (g deeper)           Entry (g ent) General                (g gentech)         Help (g help) Hosts                  (g hosts)              Policy (g policy) System News            (g news)        Test (g test)
-
+                              ---------------
+Deeper                 (g deeper)           
+Entry                  (g ent)
+General                (g gentech)         
+Help                   (g help)
+Hosts                  (g hosts)              
+Policy                 (g policy)
+System News            (g news)        
+Test                   (g test)
+```
 
 The list itself is dazzling, bringing to the untutored eye a dizzying impression of a bizarre milieu of mountain-climbing Hawaiian holistic photographers trading true-life confessions with bisexual word-processing Tibetans.
 
@@ -293,19 +479,13 @@ As it happened, Barlow was unduly pessimistic.  The EFF did, in fact, eventually
 
 Kim Megahee, a Southern Bell security manager, had arrived at the document's value by simply adding up the "costs associated with the production" of the E911 Document.  Those "costs" were as follows:
 
-1.  A technical writer had been hired to research and write the E911 Document.  200 hours of work, at $35 an hour, cost : $7,000.  A Project Manager had overseen the technical writer.  200 hours, at $31 an hour, made: $6,200.
-
-2.  A week of typing had cost $721 dollars.  A week of formatting had cost $721.  A week of graphics formatting had cost $742.
-
-3.  Two days of editing cost $367.
-
-`    4.  A box of order labels cost five dollars.
-
-5.  Preparing a purchase order for the Document, including typing and the obtaining of an authorizing signature from within the BellSouth bureaucracy, cost $129.
-
-6.  Printing cost $313.  Mailing the Document to fifty people took fifty hours by a clerk, and cost $858.
-
-7.  Placing the Document in an index took two clerks an hour each, totalling $43.
+  1.  A technical writer had been hired to research and write the E911 Document.  200 hours of work, at $35 an hour, cost : $7,000.  A Project Manager had overseen the technical writer.  200 hours, at $31 an hour, made: $6,200.
+  2.  A week of typing had cost $721 dollars.  A week of formatting had cost $721.  A week of graphics formatting had cost $742.
+  3.  Two days of editing cost $367.
+  4.  A box of order labels cost five dollars.
+  5.  Preparing a purchase order for the Document, including typing and the obtaining of an authorizing signature from within the BellSouth bureaucracy, cost $129.
+  6.  Printing cost $313.  Mailing the Document to fifty people took fifty hours by a clerk, and cost $858.
+  7.  Placing the Document in an index took two clerks an hour each, totalling $43.
 
 Bureaucratic overhead alone, therefore, was alleged to have cost a whopping $17,099.   According to Mr. Megahee, the typing of a twelve-page document had taken a full week.   Writing it had taken five weeks, including an overseer who apparently did nothing else but watch the author for five weeks.  Editing twelve pages had taken two days.  Printing and mailing an electronic document (which was already available on the Southern Bell Data Network to any telco employee who needed it), had cost over a thousand dollars.
 
@@ -347,159 +527,521 @@ Having joined the defense as an expert witness, Nagle read the entire E911 Docum
 
 The time has now come for you yourself, the reader, to have a look at the E911 Document.   This six-page piece of work was the pretext for a federal prosecution that could have sent an electronic publisher to prison for thirty, or even sixty,  years.  It was the pretext for the search and seizure of Steve Jackson Games, a legitimate publisher of printed books.  It was also the formal pretext for the search and seizure of the Mentor's bulletin board, "Phoenix Project," and for the raid on the home of Erik Bloodaxe.  It also had much to do with the seizure of Richard Andrews' Jolnet node and the shutdown of Charles Boykin's AT&T node.  The E911 Document was the single most important piece of evidence in the Hacker Crackdown.   There can be no real and legitimate substitute for the Document itself.
 
-
+```
                                 ==Phrack Inc.==
 
                       Volume Two, Issue 24, File 5 of 13
 
-Control Office Administration Of Enhanced 911 Services For Special Services and Account Centers
+     Control Office Administration
+     Of Enhanced 911 Services For
+     Special Services and Account Centers
 
           by the Eavesdropper
 
                March, 1988
 
 
-Description of Service ~~~~~~~~~~~~~~~~~~~~~~ The control office for Emergency 911 service is assigned in accordance with the existing standard guidelines to one of the following centers:
+Description of Service
+~~~~~~~~~~~~~~~~~~~~~~
+The control office for Emergency 911 service is assigned in
+accordance with the existing standard guidelines to one of
+the following centers:
 
-o  Special Services Center (SSC) o  Major Accounts Center (MAC) o  Serving Test Center (STC) o  Toll Control Center (TCC)
+     o  Special Services Center (SSC)
+     o  Major Accounts Center (MAC)
+     o  Serving Test Center (STC)
+     o  Toll Control Center (TCC)
 
-The SSC/MAC designation is used in this document interchangeably for any of these four centers.  The Special Services Centers (SSCs) or Major Account Centers (MACs) have been designated as the trouble reporting contact for all E911 customer (PSAP) reported troubles. Subscribers who have trouble on an E911 call will continue to contact local repair service (CRSAB) who will refer the trouble to the SSC/MAC, when appropriate.
+The SSC/MAC designation is used in this document
+interchangeably for any of these four centers.  The Special
+Services Centers (SSCs) or Major Account Centers
+(MACs) have been designated as the trouble reporting
+contact for all E911 customer (PSAP) reported troubles.
+Subscribers who have trouble on an E911 call will continue
+to contact local repair service (CRSAB) who will refer the
+trouble to the SSC/MAC, when appropriate.
 
-Due to the critical nature of E911 service, the control and timely repair of troubles is demanded.  As the primary E911 customer contact, the SSC/MAC is in the unique position to monitor the status of the trouble and insure its resolution.
+Due to the critical nature of E911 service, the control and
+timely repair of troubles is demanded.  As the primary
+E911 customer contact, the SSC/MAC is in the unique
+position to monitor the status of the trouble and insure its
+resolution.
 
-System Overview ~~~~~~~~~~~~~~~ The number 911 is intended as a nationwide universal telephone number which provides the public with direct access to a Public Safety Answering Point (PSAP).  A PSAP is also referred to as an Emergency Service Bureau (ESB). A PSAP is an agency or facility which is authorized by a municipality to receive and respond to police, fire and/or ambulance services.  One or more attendants are located at the PSAP facilities to receive and handle calls of an emergency nature in accordance with the local municipal requirements.
+System Overview
+~~~~~~~~~~~~~~~
+The number 911 is intended as a nationwide universal
+telephone number which provides the public with direct
+access to a Public Safety Answering Point (PSAP).  A PSAP
+is also referred to as an Emergency Service Bureau (ESB).
+A PSAP is an agency or facility which is authorized by a
+municipality to receive and respond to police, fire and/or
+ambulance services.  One or more attendants are located
+at the PSAP facilities to receive and handle calls of an
+emergency nature in accordance with the local municipal
+requirements.
 
-An important advantage of E911 emergency service is improved (reduced) response times for emergency services.  Also close coordination among agencies providing various emergency services is a valuable capability provided by E911 service.
+An important advantage of E911 emergency service is
+improved (reduced) response times for emergency
+services.  Also close coordination among agencies
+providing various emergency services is a valuable
+capability provided by E911 service.
 
-1A ESS is used as the tandem office for the E911 network to route all 911 calls to the correct (primary) PSAP designated to serve the calling station.  The E911 feature was developed primarily to provide routing to the correct PSAP for all 911 calls.  Selective routing allows a 911 call originated from a particular station located in a particular district, zone, or town, to be routed to the primary PSAP designated to serve that customer station regardless of wire center boundaries.  Thus, selective routing eliminates the problem of wire center boundaries not coinciding with district or other political boundaries.
+1A ESS is used as the tandem office for the E911 network to
+route all 911 calls to the correct (primary) PSAP designated
+to serve the calling station.  The E911 feature was
+developed primarily to provide routing to the correct PSAP
+for all 911 calls.  Selective routing allows a 911 call
+originated from a particular station located in a particular
+district, zone, or town, to be routed to the primary PSAP
+designated to serve that customer station regardless of
+wire center boundaries.  Thus, selective routing eliminates
+the problem of wire center boundaries not coinciding with
+district or other political boundaries.
 
 The services available with the E911 feature include:
 
-Forced Disconnect         Default Routing Alternative Routing       Night Service Selective Routing         Automatic Number Identification (ANI) Selective Transfer        Automatic Location Identification (ALI)
+       Forced Disconnect         Default Routing
+       Alternative Routing       Night Service
+       Selective Routing         Automatic Number
+Identification (ANI)
+       Selective Transfer        Automatic Location
+Identification (ALI)
 
 
-Preservice/Installation Guidelines ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ When a contract for an E911 system has been signed, it is the responsibility of Network Marketing to establish an implementation/cutover committee which should include a representative from the SSC/MAC.  Duties of the E911 Implementation Team include coordination of all phases of the E911 system deployment and the formation of an on-going E911 maintenance subcommittee.
+Preservice/Installation Guidelines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When a contract for an E911 system has been signed, it is
+the responsibility of Network Marketing to establish an
+implementation/cutover committee which should include
+a representative from the SSC/MAC.  Duties of the E911
+Implementation Team include coordination of all phases
+of the E911 system deployment and the formation of an
+on-going E911 maintenance subcommittee.
 
-Marketing is responsible for providing the following customer specific information to the SSC/MAC prior to the start of call through testing:
+Marketing is responsible for providing the following
+customer specific information to the SSC/MAC prior to
+the start of call through testing:
 
-o  All PSAP's (name, address, local contact) o  All PSAP circuit ID's o  1004 911 service request including PSAP details on each PSAP
-   (1004 Section K, L, M) o  Network configuration o  Any vendor information (name, telephone number, equipment)
+o  All PSAP's (name, address, local contact)
+o  All PSAP circuit ID's
+o  1004 911 service request including PSAP details on each
+PSAP
+   (1004 Section K, L, M)
+o  Network configuration
+o  Any vendor information (name, telephone number,
+equipment)
 
-The SSC/MAC needs to know if the equipment and sets at the PSAP are maintained by the BOCs, an independent company, or an outside vendor, or any combination. This information is then entered on the PSAP profile sheets and reviewed quarterly for changes, additions and deletions.
+The SSC/MAC needs to know if the equipment and sets at
+the PSAP are maintained by the BOCs, an independent
+company, or an outside vendor, or any combination. This
+information is then entered on the PSAP profile sheets
+and reviewed quarterly for changes, additions and
+deletions.
 
-Marketing will secure the Major Account Number (MAN) and provide this number to Corporate Communications so that the initial issue of the service orders carry the MAN and can be tracked by the SSC/MAC via CORDNET.  PSAP circuits are official services by definition.
+Marketing will secure the Major Account Number (MAN)
+and provide this number to Corporate Communications
+so that the initial issue of the service orders carry the
+MAN and can be tracked by the SSC/MAC via
+CORDNET.  PSAP circuits are official services by
+definition.
 
-All service orders required for the installation of the E911 system should include the MAN assigned to the city/county which has purchased the system.
+All service orders required for the installation of the E911
+system should include the MAN assigned to the
+city/county which has purchased the system.
 
-In accordance with the basic SSC/MAC strategy for provisioning, the SSC/MAC will be Overall Control Office (OCO) for all Node to PSAP circuits (official services) and any other services for this customer.  Training must be scheduled for all SSC/MAC involved personnel during the pre-service stage of the project.
+In accordance with the basic SSC/MAC strategy for
+provisioning, the SSC/MAC will be Overall Control Office
+(OCO) for all Node to PSAP circuits (official services) and
+any other services for this customer.  Training must be
+scheduled for all SSC/MAC involved personnel during the
+pre-service stage of the project.
 
-The E911 Implementation Team will form the on-going maintenance subcommittee prior to the initial implementation of the E911 system.  This sub-committee will establish post implementation quality assurance procedures to ensure that the E911 system continues to provide quality service to the customer. Customer/Company training, trouble reporting interfaces for the customer, telephone company and any involved independent telephone companies needs to be addressed and implemented prior to E911 cutover.  These functions can be best addressed by the formation of a sub-committee of the E911 Implementation Team to set up guidelines for and to secure service commitments of interfacing organizations.  A SSC/MAC supervisor should chair this subcommittee and include the following organizations:
+The E911 Implementation Team will form the on-going
+maintenance subcommittee prior to the initial
+implementation of the E911 system.  This sub-committee
+will establish post implementation quality assurance
+procedures to ensure that the E911 system continues to
+provide quality service to the customer.
+Customer/Company training, trouble reporting interfaces
+for the customer, telephone company and any involved
+independent telephone companies needs to be addressed
+and implemented prior to E911 cutover.  These functions
+can be best addressed by the formation of a sub-
+committee of the E911 Implementation Team to set up
+guidelines for and to secure service commitments of
+interfacing organizations.  A SSC/MAC supervisor should
+chair this subcommittee and include the following
+organizations:
 
-1) Switching Control Center - E911 translations - Trunking - End office and Tandem office hardware/software 2) Recent Change Memory Administration Center - Daily RC update activity for TN/ESN translations - Processes validity errors and rejects 3) Line and Number Administration - Verification of TN/ESN translations 4) Special Service Center/Major Account Center - Single point of contact for all PSAP and Node to host troubles - Logs, tracks & statusing of all trouble reports - Trouble referral, follow up, and escalation - Customer notification of status and restoration - Analyzation of "chronic" troubles - Testing, installation and maintenance of E911 circuits 5) Installation and Maintenance (SSIM/I&M) - Repair and maintenance of PSAP equipment and Telco owned sets 6) Minicomputer Maintenance Operations Center - E911 circuit maintenance (where applicable) 7) Area Maintenance Engineer - Technical assistance on voice (CO-PSAP) network related E911 troubles
+1) Switching Control Center
+        - E911 translations
+        - Trunking
+        - End office and Tandem office hardware/software
+2) Recent Change Memory Administration Center
+        - Daily RC update activity for TN/ESN translations
+        - Processes validity errors and rejects
+3) Line and Number Administration
+        - Verification of TN/ESN translations
+4) Special Service Center/Major Account Center
+        - Single point of contact for all PSAP and Node to
+host
+troubles
+        - Logs, tracks & statusing of all trouble reports
+        - Trouble referral, follow up, and escalation
+        - Customer notification of status and restoration
+        - Analyzation of "chronic" troubles
+        - Testing, installation and maintenance of E911
+circuits
+5) Installation and Maintenance (SSIM/I&M)
+        - Repair and maintenance of PSAP equipment and
+Telco owned sets
+6) Minicomputer Maintenance Operations Center
+        - E911 circuit maintenance (where applicable)
+7) Area Maintenance Engineer
+        - Technical assistance on voice (CO-PSAP) network
+related E911 troubles
 
 
-Maintenance Guidelines ~~~~~~~~~~~~~~~~~~~~~~ The CCNC will test the Node circuit from the 202T at the Host site to the 202T at the Node site.  Since Host to Node (CCNC to MMOC) circuits are official company services, the CCNC will refer all Node circuit troubles to the SSC/MAC. The SSC/MAC is responsible for the testing and follow up to restoration of these circuit troubles.
+Maintenance Guidelines
+~~~~~~~~~~~~~~~~~~~~~~
+The CCNC will test the Node circuit from the 202T at the
+Host site to the 202T at the Node site.  Since Host to Node
+(CCNC to MMOC) circuits are official company services,
+the CCNC will refer all Node circuit troubles to the
+SSC/MAC. The SSC/MAC is responsible for the testing
+and follow up to restoration of these circuit troubles.
 
-Although Node to PSAP circuit are official services, the MMOC will refer PSAP circuit troubles to the appropriate SSC/MAC.  The SSC/MAC is responsible for testing and follow up to restoration of PSAP circuit troubles.
+Although Node to PSAP circuit are official services, the
+MMOC will refer PSAP circuit troubles to the appropriate
+SSC/MAC.  The SSC/MAC is responsible for testing and
+follow up to restoration of PSAP circuit troubles.
 
-The SSC/MAC will also receive reports from CRSAB/IMC(s) on subscriber 911 troubles when they are not line troubles.  The SSC/MAC is responsible for testing and restoration of these troubles.
+The SSC/MAC will also receive reports from
+CRSAB/IMC(s) on subscriber 911 troubles when they are
+not line troubles.  The SSC/MAC is responsible for testing
+and restoration of these troubles.
 
 Maintenance responsibilities are as follows:
 
 SCC*            Voice Network (ANI to PSAP)
-                *SCC responsible for tandem switch SSIM/I&M        PSAP Equipment (Modems, CIU's, sets) Vendor          PSAP Equipment (when CPE) SSC/MAC         PSAP to Node circuits, and tandem to PSAP voice circuits (EMNT) MMOC            Node site (Modems, cables, etc)
+                *SCC responsible for tandem switch
+SSIM/I&M        PSAP Equipment (Modems, CIU's, sets)
+Vendor          PSAP Equipment (when CPE)
+SSC/MAC         PSAP to Node circuits, and tandem to
+PSAP voice circuits (EMNT)
+MMOC            Node site (Modems, cables, etc)
 
-Note:  All above work groups are required to resolve troubles by interfacing with appropriate work groups for resolution.
+Note:  All above work groups are required to resolve
+troubles by interfacing with appropriate work groups for
+resolution.
 
-The Switching Control Center (SCC) is responsible for E911/1AESS translations in tandem central offices.  These translations route E911 calls, selective transfer, default routing, speed calling, etc., for each PSAP.  The SCC is also responsible for troubleshooting on the voice network (call originating to end office tandem equipment).
+The Switching Control Center (SCC) is responsible for
+E911/1AESS translations in tandem central offices.  These
+translations route E911 calls, selective transfer, default
+routing, speed calling, etc., for each PSAP.  The SCC is
+also
+responsible for troubleshooting on the voice network (call
+originating to end office tandem equipment).
 
-For example, ANI failures in the originating offices would be a responsibility of the SCC.
+For example, ANI failures in the originating offices would
+be a responsibility of the SCC.
 
-Recent Change Memory Administration Center (RCMAC) performs the daily tandem translation updates (recent change) for routing of individual telephone numbers.
+Recent Change Memory Administration Center
+(RCMAC) performs the daily tandem translation updates
+(recent change) for routing of individual telephone
+numbers.
 
-Recent changes are generated from service order activity (new service, address changes, etc.) and compiled into a daily file by the E911 Center (ALI/DMS E911 Computer).
+Recent changes are generated from service order activity
+(new service, address changes, etc.) and compiled into a
+daily file by the E911 Center (ALI/DMS E911 Computer).
 
-SSIM/I&M is responsible for the installation and repair of PSAP equipment. PSAP equipment includes ANI Controller, ALI Controller, data sets, cables, sets, and other peripheral equipment that is not vendor owned. SSIM/I&M is responsible for establishing maintenance test kits, complete with spare parts for PSAP maintenance. This includes test gear, data sets, and ANI/ALI Controller parts.
+SSIM/I&M is responsible for the installation and repair of
+PSAP equipment. PSAP equipment includes ANI
+Controller, ALI Controller, data sets, cables, sets, and
+other peripheral equipment that is not vendor owned.
+SSIM/I&M is responsible for establishing maintenance
+test kits, complete with spare parts for PSAP maintenance.
+This includes test gear, data sets, and ANI/ALI Controller
+parts.
 
-Special Services Center (SSC) or Major Account Center (MAC) serves as the trouble reporting contact for all (PSAP) troubles reported by customer.  The SSC/MAC refers troubles to proper organizations for handling and tracks status of troubles, escalating when necessary.  The SSC/MAC will close out troubles with customer.  The SSC/MAC will analyze all troubles and tracks "chronic" PSAP troubles.
+Special Services Center (SSC) or Major Account Center
+(MAC) serves as the trouble reporting contact for all
+(PSAP) troubles reported by customer.  The SSC/MAC
+refers troubles to proper organizations for handling and
+tracks status of troubles, escalating when necessary.  The
+SSC/MAC will close out troubles with customer.  The
+SSC/MAC will analyze all troubles and tracks "chronic"
+PSAP troubles.
 
-Corporate Communications Network Center (CCNC) will test and refer troubles on all node to host circuits.  All E911 circuits are classified as official company property.
+Corporate Communications Network Center (CCNC) will
+test and refer troubles on all node to host circuits.  All
+E911
+circuits are classified as official company property.
 
-The Minicomputer Maintenance Operations Center (MMOC) maintains the E911 (ALI/DMS) computer hardware at the Host site.  This MMOC is also responsible for monitoring the system and reporting certain PSAP and system problems to the local MMOC's, SCC's or SSC/MAC's.  The MMOC personnel also operate software programs that maintain the TN data base under the direction of the E911 Center. The maintenance of the NODE computer (the interface between the PSAP and the ALI/DMS computer) is a function of the MMOC at the NODE site.  The MMOC's at the NODE sites may also be involved in the testing of NODE to Host circuits. The MMOC will also assist on Host to PSAP and data network related troubles not resolved through standard trouble clearing procedures.
+The Minicomputer Maintenance Operations Center
+(MMOC) maintains the E911 (ALI/DMS) computer
+hardware at the Host site.  This MMOC is also responsible
+for monitoring the system and reporting certain PSAP and
+system problems to the local MMOC's, SCC's or
+SSC/MAC's.  The MMOC personnel also operate software
+programs that maintain the TN data base under the
+direction of the E911 Center. The maintenance of the
+NODE computer (the interface between the PSAP and the
+ALI/DMS computer) is a function of the MMOC at the
+NODE site.  The MMOC's at the NODE sites may also be
+involved in the testing of NODE to Host circuits. The
+MMOC will also assist on Host to PSAP and data network
+related troubles not resolved through standard trouble
+clearing procedures.
 
-Installation And Maintenance Center (IMC) is responsible for referral of E911 subscriber troubles that are not subscriber line problems.
+Installation And Maintenance Center (IMC) is
+responsible for referral of E911 subscriber troubles that
+are not subscriber line problems.
 
-E911 Center - Performs the role of System Administration and is responsible for overall operation of the E911 computer software.  The E911 Center does A-Z trouble analysis and provides statistical information on the performance of the system.
+E911 Center - Performs the role of System Administration
+and is responsible for overall operation of the E911
+computer software.  The E911 Center does A-Z trouble
+analysis and provides statistical information on the
+performance of the system.
 
-This analysis includes processing PSAP inquiries (trouble reports) and referral of network troubles.  The E911 Center also performs daily processing of tandem recent change and provides information to the RCMAC for tandem input.  The E911 Center is responsible for daily processing of the ALI/DMS computer data base and provides error files, etc. to the Customer Services department for investigation and correction.  The E911 Center participates in all system implementations and on-going maintenance effort and assists in the development of procedures, training and education of information to all groups.
+This analysis includes processing PSAP inquiries (trouble
+reports) and referral of network troubles.  The E911 Center
+also performs daily processing of tandem recent change
+and provides information to the RCMAC for tandem
+input.  The E911 Center is responsible for daily processing
+of the ALI/DMS computer data base and provides error
+files, etc. to the Customer Services department for
+investigation and correction.  The E911 Center participates
+in all system implementations and on-going maintenance
+effort and assists in the development of procedures,
+training and education of information to all groups.
 
-Any group receiving a 911 trouble from the SSC/MAC should close out the trouble with the SSC/MAC or provide a status if the trouble has been referred to another group. This will allow the SSC/MAC to provide a status back to the customer or escalate as appropriate.
+Any group receiving a 911 trouble from the SSC/MAC
+should close out the trouble with the SSC/MAC or provide
+a status if the trouble has been referred to another group.
+This will allow the SSC/MAC to provide a status back to
+the customer or escalate as appropriate.
 
-Any group receiving a trouble from the Host site (MMOC or CCNC) should close the trouble back to that group.
+Any group receiving a trouble from the Host site (MMOC
+or CCNC) should close the trouble back to that group.
 
-The MMOC should notify the appropriate SSC/MAC when the Host, Node, or all Node circuits are down so that the SSC/MAC can reply to customer reports that may be called in by the PSAPs.  This will eliminate duplicate reporting of troubles. On complete outages the MMOC will follow escalation procedures for a Node after two (2) hours and for a PSAP after four (4) hours.  Additionally the MMOC will notify the appropriate SSC/MAC when the Host, Node, or all Node circuits are down.
+The MMOC should notify the appropriate SSC/MAC
+when the Host, Node, or all Node circuits are down so that
+the SSC/MAC can reply to customer reports that may be
+called in by the PSAPs.  This will eliminate duplicate
+reporting of troubles. On complete outages the MMOC
+will follow escalation procedures for a Node after two (2)
+hours and for a PSAP after four (4) hours.  Additionally the
+MMOC will notify the appropriate SSC/MAC when the
+Host, Node, or all Node circuits are down.
 
-The PSAP will call the SSC/MAC to report E911 troubles. The person reporting the E911 trouble may not have a circuit I.D. and will therefore report the PSAP name and address.  Many PSAP troubles are not circuit specific.  In those instances where the caller cannot provide a circuit I.D., the SSC/MAC will be required to determine the circuit I.D. using the PSAP profile.  Under no circumstances will the SSC/MAC Center refuse to take the trouble.  The E911 trouble should be handled as quickly as possible, with the SSC/MAC providing as much assistance as possible while taking the trouble report from the caller.
+The PSAP will call the SSC/MAC to report E911 troubles.
+The person reporting the E911 trouble may not have a
+circuit I.D. and will therefore report the PSAP name and
+address.  Many PSAP troubles are not circuit specific.  In
+those instances where the caller cannot provide a circuit
+I.D., the SSC/MAC will be required to determine the
+circuit I.D. using the PSAP profile.  Under no
+circumstances will the SSC/MAC Center refuse to take
+the trouble.  The E911 trouble should be handled as
+quickly as possible, with the SSC/MAC providing as much
+assistance as possible while taking the trouble report from
+the caller.
 
-The SSC/MAC will screen/test the trouble to determine the appropriate handoff organization based on the following criteria:
+The SSC/MAC will screen/test the trouble to determine
+the appropriate handoff organization based on the
+following criteria:
 
     PSAP equipment problem:  SSIM/I&M
     Circuit problem:  SSC/MAC
-    Voice network problem:  SCC (report trunk group number)
-    Problem affecting multiple PSAPs (No ALI report from all PSAPs):  Contact the MMOC to check for NODE or Host computer problems before further testing.
+    Voice network problem:  SCC (report trunk group
+number)
+    Problem affecting multiple PSAPs (No ALI report from
+all PSAPs):  Contact the MMOC to check for NODE or
+Host computer problems before further testing.
 
-The SSC/MAC will track the status of reported troubles and escalate as appropriate.  The SSC/MAC will close out customer/company reports with the initiating contact. Groups with specific maintenance responsibilities, defined above, will investigate "chronic" troubles upon request from the SSC/MAC and the ongoing maintenance subcommittee.
+The SSC/MAC will track the status of reported troubles
+and escalate as appropriate.  The SSC/MAC will close out
+customer/company reports with the initiating contact.
+Groups with specific maintenance responsibilities,
+defined above, will investigate "chronic" troubles upon
+request from the SSC/MAC and the ongoing maintenance
+subcommittee.
 
-All "out of service" E911 troubles are priority one type reports.  One link down to a PSAP is considered a priority one trouble and should be handled as if the PSAP was isolated.
+All "out of service" E911 troubles are priority one type
+reports.  One link down to a PSAP is considered a priority
+one trouble and should be handled as if the PSAP was
+isolated.
 
-The PSAP will report troubles with the ANI controller, ALI controller or set equipment to the SSC/MAC.
+The PSAP will report troubles with the ANI controller, ALI
+controller or set equipment to the SSC/MAC.
 
-NO ANI:  Where the PSAP reports NO ANI (digital display screen is blank) ask if this condition exists on all screens and on all calls.  It is important to differentiate between blank screens and screens displaying 911-00XX, or all zeroes.
+NO ANI:  Where the PSAP reports NO ANI (digital
+display screen is blank) ask if this condition exists on all
+screens and on all calls.  It is important to differentiate
+between blank screens and screens displaying 911-00XX,
+or all zeroes.
 
-When the PSAP reports all screens on all calls, ask if there is any voice contact with callers.  If there is no voice contact the trouble should be referred to the SCC immediately since 911 calls are not getting through which may require alternate routing of calls to another PSAP.
+When the PSAP reports all screens on all calls, ask if there
+is any voice contact with callers.  If there is no voice
+contact the trouble should be referred to the SCC
+immediately since 911 calls are not getting through which
+may require alternate routing of calls to another PSAP.
 
-When the PSAP reports this condition on all screens but not all calls and has voice contact with callers, the report should be referred to SSIM/I&M for dispatch.  The SSC/MAC should verify with the SCC that ANI is pulsing before dispatching SSIM.
+When the PSAP reports this condition on all screens but
+not all calls and has voice contact with callers, the report
+should be referred to SSIM/I&M for dispatch.  The
+SSC/MAC should verify with the SCC that ANI is pulsing
+before dispatching SSIM.
 
-When the PSAP reports this condition on one screen for all calls (others work fine) the trouble should be referred to SSIM/I&M for dispatch, because the trouble is isolated to one piece of equipment at the customer premise.
+When the PSAP reports this condition on one screen for
+all calls (others work fine) the trouble should be referred
+to
+SSIM/I&M for dispatch, because the trouble is isolated to
+one piece of equipment at the customer premise.
 
-An ANI failure (i.e. all zeroes) indicates that the ANI has not been received by the PSAP from the tandem office or was lost by the PSAP ANI controller.  The PSAP may receive "02" alarms which can be caused by the ANI controller logging more than three all zero failures on the same trunk.  The PSAP has been instructed to report this condition to the SSC/MAC since it could indicate an equipment trouble at the PSAP which might be affecting all subscribers calling into the PSAP.  When all zeroes are being received on all calls or "02" alarms continue, a tester should analyze the condition to determine the appropriate action to be taken.  The tester must perform cooperative testing with the SCC when there appears to be a problem on the Tandem-PSAP trunks before requesting dispatch.
+An ANI failure (i.e. all zeroes) indicates that the ANI has
+not been received by the PSAP from the tandem office or
+was lost by the PSAP ANI controller.  The PSAP may
+receive "02" alarms which can be caused by the ANI
+controller logging more than three all zero failures on the
+same trunk.  The PSAP has been instructed to report this
+condition to the SSC/MAC since it could indicate an
+equipment trouble at the PSAP which might be affecting
+all subscribers calling into the PSAP.  When all zeroes are
+being received on all calls or "02" alarms continue, a
+tester
+should analyze the condition to determine the appropriate
+action to be taken.  The tester must perform cooperative
+testing with the SCC when there appears to be a problem
+on the Tandem-PSAP trunks before requesting dispatch.
 
-When an occasional all zero condition is reported, the SSC/MAC should dispatch SSIM/I&M to routine equipment on a "chronic" troublesweep.
+When an occasional all zero condition is reported, the
+SSC/MAC should dispatch SSIM/I&M to routine
+equipment on a "chronic" troublesweep.
 
-The PSAPs are instructed to report incidental ANI failures to the BOC on a PSAP inquiry trouble ticket (paper) that is sent to the Customer Services E911 group and forwarded to E911 center when required.  This usually involves only a particular telephone number and is not a condition that would require a report to the SSC/MAC.  Multiple ANI failures which our from the same end office (XX denotes end office), indicate a hard trouble condition may exist in the end office or end office tandem trunks.  The PSAP will report this type of condition to the SSC/MAC and the SSC/MAC should refer the report to the SCC responsible for the tandem office.  NOTE: XX is the ESCO (Emergency Service Number) associated with the incoming 911 trunks into the tandem.  It is important that the C/MAC tell the SCC what is displayed at the PSAP (i.e. 911-0011) which indicates to the SCC which end office is in trouble.
+The PSAPs are instructed to report incidental ANI failures
+to the BOC on a PSAP inquiry trouble ticket (paper) that is
+sent to the Customer Services E911 group and forwarded
+to E911 center when required.  This usually involves only a
+particular telephone number and is not a condition that
+would require a report to the SSC/MAC.  Multiple ANI
+failures which our from the same end office (XX denotes
+end office), indicate a hard trouble condition may exist in
+the end office or end office tandem trunks.  The PSAP will
+report this type of condition to the SSC/MAC and the
+SSC/MAC should refer the report to the SCC responsible
+for the tandem office.  NOTE: XX is the ESCO (Emergency
+Service Number) associated with the incoming 911 trunks
+into the tandem.  It is important that the C/MAC tell the
+SCC what is displayed at the PSAP (i.e. 911-0011) which
+indicates to the SCC which end office is in trouble.
 
-Note:  It is essential that the PSAP fill out inquiry form on every ANI failure.
+Note:  It is essential that the PSAP fill out inquiry form
+on
+every ANI failure.
 
-The PSAP will report a trouble any time an address is not received on an address display (screen blank) E911 call. (If a record is not in the 911 data base or an ANI failure is encountered, the screen will provide a display noticing such condition).  The SSC/MAC should verify with the PSAP whether the NO ALI condition is on one screen or all screens.
+The PSAP will report a trouble any time an address is not
+received on an address display (screen blank) E911 call.
+(If a record is not in the 911 data base or an ANI failure
+is
+encountered, the screen will provide a display noticing
+such condition).  The SSC/MAC should verify with the
+PSAP whether the NO ALI condition is on one screen or all
+screens.
 
-When the condition is on one screen (other screens receive ALI information) the SSC/MAC will request SSIM/I&M to dispatch.
+When the condition is on one screen (other screens
+receive ALI information) the SSC/MAC will request
+SSIM/I&M to dispatch.
 
-If no screens are receiving ALI information, there is usually a circuit trouble between the PSAP and the Host computer.  The SSC/MAC should test the trouble and refer for restoral.
+If no screens are receiving ALI information, there is
+usually a circuit trouble between the PSAP and the Host
+computer.  The SSC/MAC should test the trouble and
+refer for restoral.
 
-Note:  If the SSC/MAC receives calls from multiple PSAP's, all of which are receiving NO ALI, there is a problem with the Node or Node to Host circuits or the Host computer itself.  Before referring the trouble the SSC/MAC should call the MMOC to inquire if the Node or Host is in trouble.
+Note:  If the SSC/MAC receives calls from multiple
+PSAP's, all of which are receiving NO ALI, there is a
+problem with the Node or Node to Host circuits or the
+Host computer itself.  Before referring the trouble the
+SSC/MAC should call the MMOC to inquire if the Node
+or Host is in trouble.
 
-Alarm conditions on the ANI controller digital display at the PSAP are to be reported by the PSAP's.  These alarms can indicate various trouble conditions so the SSC/MAC should ask the PSAP if any portion of the E911 system is not functioning properly.
+Alarm conditions on the ANI controller digital display at
+the PSAP are to be reported by the PSAP's.  These alarms
+can indicate various trouble conditions so the SSC/MAC
+should ask the PSAP if any portion of the E911 system is
+not functioning properly.
 
-The SSC/MAC should verify with the PSAP attendant that the equipment's primary function is answering E911 calls. If it is, the SSC/MAC should request a dispatch SSIM/I&M.  If the equipment is not primarily used for E911, then the SSC/MAC should advise PSAP to contact their CPE vendor.
+The SSC/MAC should verify with the PSAP attendant that
+the equipment's primary function is answering E911 calls.
+If it is, the SSC/MAC should request a dispatch
+SSIM/I&M.  If the equipment is not primarily used for
+E911, then the SSC/MAC should advise PSAP to contact
+their CPE vendor.
 
-Note:  These troubles can be quite confusing when the PSAP has vendor equipment mixed in with equipment that the BOC maintains.  The Marketing representative should provide the SSC/MAC information concerning any unusual or exception items where the PSAP should contact their vendor.  This information should be included in the PSAP profile sheets.
+Note:  These troubles can be quite confusing when the
+PSAP has vendor equipment mixed in with equipment
+that the BOC maintains.  The Marketing representative
+should provide the SSC/MAC information concerning any
+unusual or exception items where the PSAP should
+contact their vendor.  This information should be included
+in the PSAP profile sheets.
 
-ANI or ALI controller down:  When the host computer sees the PSAP equipment down and it does not come back up, the MMOC will report the trouble to the SSC/MAC; the equipment is down at the PSAP, a dispatch will be required.
+ANI or ALI controller down:  When the host computer
+sees the PSAP equipment down and it does not come back
+up, the MMOC will report the trouble to the SSC/MAC;
+the equipment is down at the PSAP, a dispatch will be
+required.
 
-PSAP link (circuit) down:  The MMOC will provide the SSC/MAC with the circuit ID that the Host computer indicates in trouble.  Although each PSAP has two circuits, when either circuit is down the condition must be treated as an emergency since failure of the second circuit will cause the PSAP to be isolated.
+PSAP link (circuit) down:  The MMOC will provide the
+SSC/MAC with the circuit ID that the Host computer
+indicates in trouble.  Although each PSAP has two circuits,
+when either circuit is down the condition must be treated
+as an emergency since failure of the second circuit will
+cause the PSAP to be isolated.
 
-Any problems that the MMOC identifies from the Node location to the Host computer will be handled directly with the appropriate MMOC(s)/CCNC.
+Any problems that the MMOC identifies from the Node
+location to the Host computer will be handled directly with
+the appropriate MMOC(s)/CCNC.
 
-Note:  The customer will call only when a problem is apparent to the PSAP. When only one circuit is down to the PSAP, the customer may not be aware there is a trouble, even though there is one link down, notification should appear on the PSAP screen.  Troubles called into the SSC/MAC from the MMOC or other company employee should not be closed out by calling the PSAP since it may result in the customer responding that they do not have a trouble.  These reports can only be closed out by receiving  information that the trouble was fixed and by checking with the company employee that reported the trouble.  The MMOC personnel will be able to verify that the trouble has cleared by reviewing a printout from the host.
+Note:  The customer will call only when a problem is
+apparent to the PSAP. When only one circuit is down to
+the PSAP, the customer may not be aware there is a
+trouble, even though there is one link down, notification
+should appear on the PSAP screen.  Troubles called into
+the SSC/MAC from the MMOC or other company
+employee should not be closed out by calling the PSAP
+since it may result in the customer responding that they
+do not have a trouble.  These reports can only be closed
+out by receiving  information that the trouble was fixed
+and by checking with the company employee that
+reported the trouble.  The MMOC personnel will be able
+to verify that the trouble has cleared by reviewing a
+printout from the host.
 
-When the CRSAB receives a subscriber complaint (i.e., cannot dial 911) the RSA should obtain as much information as possible while the customer is on the line.
+When the CRSAB receives a subscriber complaint (i.e.,
+cannot dial 911) the RSA should obtain as much
+information as possible while the customer is on the line.
 
-For example, what happened when the subscriber dialed 911?  The report is automatically directed to the IMC for subscriber line testing.  When no line trouble is found, the IMC will refer the trouble condition to the SSC/MAC.  The SSC/MAC will contact Customer Services E911 Group and verify that the subscriber should be able to call 911 and obtain the ESN.  The SSC/MAC will verify the ESN via 2SCCS.  When both verifications match, the SSC/MAC will refer the report to the SCC responsible for the 911 tandem office for investigation and resolution.  The MAC is responsible for tracking the trouble and informing the IMC when it is resolved.
+For example, what happened when the subscriber dialed
+911?  The report is automatically directed to the IMC for
+subscriber line testing.  When no line trouble is found, the
+IMC will refer the trouble condition to the SSC/MAC.  The
+SSC/MAC will contact Customer Services E911 Group and
+verify that the subscriber should be able to call 911 and
+obtain the ESN.  The SSC/MAC will verify the ESN via
+2SCCS.  When both verifications match, the SSC/MAC
+will refer the report to the SCC responsible for the 911
+tandem office for investigation and resolution.  The MAC
+is responsible for tracking the trouble and informing the
+IMC when it is resolved.
 
 
-For more information, please refer to E911 Glossary of Terms.
-                            End of Phrack File _____________________________________
-
+For more information, please refer to E911 Glossary of
+Terms.
+                            End of Phrack File
+_____________________________________
+```
 
 The reader is forgiven if he or she was entirely unable to read this document.   John Perry Barlow had a great deal of fun at its expense, in "Crime and Puzzlement:" "Bureaucrat-ese of surpassing opacity.... To read the whole thing straight through without entering coma requires either a machine or a human who has too much practice thinking like one.  Anyone who can understand it fully and fluidly had altered his consciousness beyone the ability to ever again read Blake, Whitman, or Tolstoy.... the document contains little of interest to anyone who is not a student of advanced organizational sclerosis."
 
@@ -727,247 +1269,246 @@ Kapor greets me cordially in his own office, down a hall.   Kapor, whose name is
 
 There is just the whiff of hacker brimstone about Mitch Kapor.  He may not have the hard-riding, hell-for-leather, guitar-strumming charisma of his Wyoming colleague John Perry Barlow, but there's something about the guy that still stops one short.   He has the air of the Eastern city dude in the bowler hat, the dreamy, Longfellow-quoting poker shark who only *happens*  to know the exact mathematical odds against drawing to an inside straight.  Even among his computer-community colleagues, who are hardly known for mental sluggishness, Kapor strikes one forcefully as a very intelligent man.  He speaks rapidly, with vigorous gestures, his Boston accent sometimes slipping to the sharp nasal tang of his youth in Long Island.
 
-          Kapor, whose Kapor Family Foundation does much of his philanthropic work, is a strong supporter of Boston's Computer Museum.   Kapor's interest in the history of his industry has brought him some remarkable curios, such as the "byte" just outside his office door.  This "byte"  — eight digital bits — has been salvaged from the wreck of an electronic computer of the pre-transistor age.  It's a standing gunmetal rack about the size of a small toaster-oven:  with eight slots of hand-soldered breadboarding featuring thumb-sized vacuum tubes.  If it fell off a table it could easily break your foot, but it was state-of-the-art computation in the 1940s.   (It would take exactly 157,184 of these primordial toasters to hold the first part of this book.)
+Kapor, whose Kapor Family Foundation does much of his philanthropic work, is a strong supporter of Boston's Computer Museum.   Kapor's interest in the history of his industry has brought him some remarkable curios, such as the "byte" just outside his office door.  This "byte"  — eight digital bits — has been salvaged from the wreck of an electronic computer of the pre-transistor age.  It's a standing gunmetal rack about the size of a small toaster-oven:  with eight slots of hand-soldered breadboarding featuring thumb-sized vacuum tubes.  If it fell off a table it could easily break your foot, but it was state-of-the-art computation in the 1940s.   (It would take exactly 157,184 of these primordial toasters to hold the first part of this book.)
 
-          There's also a coiling, multicolored, scaly dragon that some inspired techno-punk artist has cobbled up entirely out of transistors, capacitors, and brightly plastic-coated wiring.
+There's also a coiling, multicolored, scaly dragon that some inspired techno-punk artist has cobbled up entirely out of transistors, capacitors, and brightly plastic-coated wiring.
 
-          Inside the office, Kapor excuses himself briefly to do a little mouse-whizzing housekeeping on his personal Macintosh IIfx.  If its giant  screen were an open window, an agile person could climb through it without much trouble at all.  There's a coffee-cup at Kapor's elbow, a memento of his recent trip to Eastern Europe, which has a black-and-white stencilled photo and the legend CAPITALIST FOOLS TOUR.   It's Kapor, Barlow, and two California venture-capitalist luminaries of their acquaintance, four windblown, grinning Baby Boomer dudes in leather jackets, boots, denim, travel bags, standing on airport tarmac somewhere behind the formerly Iron Curtain.  They look as if they're having the absolute time of their lives.
+Inside the office, Kapor excuses himself briefly to do a little mouse-whizzing housekeeping on his personal Macintosh IIfx.  If its giant  screen were an open window, an agile person could climb through it without much trouble at all.  There's a coffee-cup at Kapor's elbow, a memento of his recent trip to Eastern Europe, which has a black-and-white stencilled photo and the legend CAPITALIST FOOLS TOUR.   It's Kapor, Barlow, and two California venture-capitalist luminaries of their acquaintance, four windblown, grinning Baby Boomer dudes in leather jackets, boots, denim, travel bags, standing on airport tarmac somewhere behind the formerly Iron Curtain.  They look as if they're having the absolute time of their lives.
 
-          Kapor is in a reminiscent mood.  We talk a bit about his youth — high school days as a "math nerd,"  Saturdays attending Columbia University's high-school science honors program, where he had his first experience programming computers.  IBM 1620s, in 1965 and '66.   "I was very interested," says Kapor, "and then I went off to college and got distracted by drugs sex and rock and roll, like anybody with half a brain would have then!"  After college he was a progressive-rock DJ in Hartford, Connecticut, for a couple of years.
+Kapor is in a reminiscent mood.  We talk a bit about his youth — high school days as a "math nerd,"  Saturdays attending Columbia University's high-school science honors program, where he had his first experience programming computers.  IBM 1620s, in 1965 and '66.   "I was very interested," says Kapor, "and then I went off to college and got distracted by drugs sex and rock and roll, like anybody with half a brain would have then!"  After college he was a progressive-rock DJ in Hartford, Connecticut, for a couple of years.
 
-          I ask him if he ever misses his rock and roll days — if he ever wished he could go back to radio work.
+I ask him if he ever misses his rock and roll days — if he ever wished he could go back to radio work.
 
-          He shakes his head flatly.  "I stopped thinking about going back to be a DJ the day after Altamont."
+He shakes his head flatly.  "I stopped thinking about going back to be a DJ the day after Altamont."
 
-          Kapor moved to Boston in 1974 and got a job programming mainframes in COBOL.  He hated it.  He quit and became a teacher of transcendental meditation. (It was Kapor's long flirtation with Eastern mysticism that gave the world "Lotus.")
+Kapor moved to Boston in 1974 and got a job programming mainframes in COBOL.  He hated it.  He quit and became a teacher of transcendental meditation. (It was Kapor's long flirtation with Eastern mysticism that gave the world "Lotus.")
 
-          In 1976 Kapor went to Switzerland, where the Transcendental Meditation movement had rented a gigantic Victorian hotel in St-Moritz.  It was an all-male group — a hundred and twenty of them — determined upon Enlightenment or Bust.   Kapor had given the transcendant his best shot.  He was becoming disenchanted by "the nuttiness in the organization."  "They were teaching people to levitate," he says, staring at the floor.  His voice drops an octave, becomes flat.  "*They don't levitate.*"
+In 1976 Kapor went to Switzerland, where the Transcendental Meditation movement had rented a gigantic Victorian hotel in St-Moritz.  It was an all-male group — a hundred and twenty of them — determined upon Enlightenment or Bust.   Kapor had given the transcendant his best shot.  He was becoming disenchanted by "the nuttiness in the organization."  "They were teaching people to levitate," he says, staring at the floor.  His voice drops an octave, becomes flat.  "*They don't levitate.*"
 
-           Kapor chose Bust.  He went back to the States and acquired a degree in counselling psychology.  He worked a while in a hospital, couldn't stand that either.  "My rep was," he says  "a very bright kid with a lot of potential who hasn't found himself.  Almost thirty.  Sort of lost."
+Kapor chose Bust.  He went back to the States and acquired a degree in counselling psychology.  He worked a while in a hospital, couldn't stand that either.  "My rep was," he says  "a very bright kid with a lot of potential who hasn't found himself.  Almost thirty.  Sort of lost."
 
-          Kapor was unemployed when he bought his first personal computer — an Apple II.  He sold his stereo to raise cash and drove to New Hampshire to avoid the sales tax.
+Kapor was unemployed when he bought his first personal computer — an Apple II.  He sold his stereo to raise cash and drove to New Hampshire to avoid the sales tax.
 
-          "The day after I purchased it," Kapor tells me,  "I was hanging out in a computer store and I saw another guy, a man in his forties, well-dressed guy, and eavesdropped on his conversation with the salesman.  He didn't know anything  about computers.  I'd had a year programming. And I could program in BASIC.  I'd taught myself.  So I went up to him, and I actually sold myself to him as a consultant."  He pauses.  "I don't know where I got the nerve to do this.  It was uncharacteristic.  I just said, 'I think I can help you, I've been listening, this is what you need to do and I think I can do it for you.'  And he took me on!  He was my first client!  I became a computer consultant the first day after I bought the Apple II."
+"The day after I purchased it," Kapor tells me,  "I was hanging out in a computer store and I saw another guy, a man in his forties, well-dressed guy, and eavesdropped on his conversation with the salesman.  He didn't know anything  about computers.  I'd had a year programming. And I could program in BASIC.  I'd taught myself.  So I went up to him, and I actually sold myself to him as a consultant."  He pauses.  "I don't know where I got the nerve to do this.  It was uncharacteristic.  I just said, 'I think I can help you, I've been listening, this is what you need to do and I think I can do it for you.'  And he took me on!  He was my first client!  I became a computer consultant the first day after I bought the Apple II."
 
-          Kapor had found his true vocation.  He attracted more clients for his consultant service, and started an Apple users' group.
+Kapor had found his true vocation.  He attracted more clients for his consultant service, and started an Apple users' group.
 
-          A friend of Kapor's, Eric Rosenfeld, a graduate student at MIT, had a problem.  He was doing a thesis on an arcane form of financial statistics, but could not wedge himself into the crowded queue for time on MIT's mainframes.  (One might note at this point that if Mr. Rosenfeld had dishonestly broken into the MIT mainframes, Kapor himself might have never invented Lotus 1-2-3 and the PC business might have been set back for years!)   Eric Rosenfeld did have an Apple II, however, and he thought it might be possible to scale the problem down.  Kapor, as favor, wrote a program for him in BASIC that did the job.
+A friend of Kapor's, Eric Rosenfeld, a graduate student at MIT, had a problem.  He was doing a thesis on an arcane form of financial statistics, but could not wedge himself into the crowded queue for time on MIT's mainframes.  (One might note at this point that if Mr. Rosenfeld had dishonestly broken into the MIT mainframes, Kapor himself might have never invented Lotus 1-2-3 and the PC business might have been set back for years!)   Eric Rosenfeld did have an Apple II, however, and he thought it might be possible to scale the problem down.  Kapor, as favor, wrote a program for him in BASIC that did the job.
 
-          It then occurred to the two of them, out of the blue, that it might be possible to *sell*  this program.  They marketed it themselves, in plastic baggies, for about a hundred bucks a pop, mail order.    "This was a total cottage industry by a marginal consultant," Kapor says proudly.  "That's how I got started, honest to God."
+It then occurred to the two of them, out of the blue, that it might be possible to *sell*  this program.  They marketed it themselves, in plastic baggies, for about a hundred bucks a pop, mail order.    "This was a total cottage industry by a marginal consultant," Kapor says proudly.  "That's how I got started, honest to God."
 
-          Rosenfeld, who later became a very prominent figure on Wall Street, urged Kapor to go to MIT's business school for an MBA.   Kapor  did seven months there, but never got his MBA.  He picked up some useful tools — mainly a firm grasp of the principles of accounting — and, in his own words, "learned to talk MBA."   Then he dropped out and went to Silicon Valley.
+Rosenfeld, who later became a very prominent figure on Wall Street, urged Kapor to go to MIT's business school for an MBA.   Kapor  did seven months there, but never got his MBA.  He picked up some useful tools — mainly a firm grasp of the principles of accounting — and, in his own words, "learned to talk MBA."   Then he dropped out and went to Silicon Valley.
 
-          The inventors of VisiCalc, the Apple computer's premier business program, had shown an interest in Mitch Kapor.   Kapor worked diligently for them for six months, got tired of California, and went back to Boston where they had better bookstores.   The VisiCalc group had made the critical error of bringing in "professional management."  "That drove them into the ground," Kapor says.
+The inventors of VisiCalc, the Apple computer's premier business program, had shown an interest in Mitch Kapor.   Kapor worked diligently for them for six months, got tired of California, and went back to Boston where they had better bookstores.   The VisiCalc group had made the critical error of bringing in "professional management."  "That drove them into the ground," Kapor says.
 
-          "Yeah, you don't hear a lot about VisiCalc these days," I muse.
+"Yeah, you don't hear a lot about VisiCalc these days," I muse.
 
-          Kapor looks surprised.  "Well, Lotus.... we *bought* it."
+Kapor looks surprised.  "Well, Lotus.... we *bought* it."
 
-          "Oh.  You *bought*  it?"
+"Oh.  You *bought*  it?"
 
-          "Yeah."
+"Yeah."
 
-          "Sort of like the Bell System buying Western Union?"
+"Sort of like the Bell System buying Western Union?"
 
-          Kapor grins.  "Yep!  Yep!  Yeah, exactly!"
+Kapor grins.  "Yep!  Yep!  Yeah, exactly!"
 
-          Mitch Kapor was not in full command of the destiny of himself or his industry.  The hottest software commodities of the early 1980s were *computer games*  — the Atari seemed destined to enter every teenage home in America.  Kapor got into business software simply because he didn't have any particular feeling for computer games.  But he was supremely fast on his feet, open to new ideas and inclined to trust his instincts.   And his instincts were good.  He chose good people to deal with — gifted programmer Jonathan Sachs (the co-author of Lotus 1-2-3).   Financial wizard Eric Rosenfeld, canny Wall Street analyst and venture capitalist Ben Rosen.  Kapor was the founder and CEO of Lotus, one of the most spectacularly successful business ventures of the later twentieth century.
+Mitch Kapor was not in full command of the destiny of himself or his industry.  The hottest software commodities of the early 1980s were *computer games*  — the Atari seemed destined to enter every teenage home in America.  Kapor got into business software simply because he didn't have any particular feeling for computer games.  But he was supremely fast on his feet, open to new ideas and inclined to trust his instincts.   And his instincts were good.  He chose good people to deal with — gifted programmer Jonathan Sachs (the co-author of Lotus 1-2-3).   Financial wizard Eric Rosenfeld, canny Wall Street analyst and venture capitalist Ben Rosen.  Kapor was the founder and CEO of Lotus, one of the most spectacularly successful business ventures of the later twentieth century.
 
-          He is now an extremely wealthy man.  I ask him if he actually knows how much money he has.
+He is now an extremely wealthy man.  I ask him if he actually knows how much money he has.
 
-          "Yeah," he says.  "Within a percent or two."
+"Yeah," he says.  "Within a percent or two."
 
-          How much does he actually have, then?
+How much does he actually have, then?
 
-          He shakes his head.  "A lot.  A lot.  Not something I talk about.  Issues of money and class are  things that cut pretty close to the bone."
+He shakes his head.  "A lot.  A lot.  Not something I talk about.  Issues of money and class are  things that cut pretty close to the bone."
 
-          I don't pry.  It's beside the point.  One might presume, impolitely, that Kapor has at least forty million - -
-that's what he got the year he left Lotus.  People who ought to know claim Kapor has about a hundred and fifty million, give or take a market swing in his stock holdings. If Kapor had stuck with Lotus, as his colleague friend and rival Bill Gates has stuck with his own software start-up, Microsoft, then Kapor would likely have much the same fortune Gates has — somewhere in the neighborhood of three billion, give or take a few hundred million.   Mitch Kapor has all the money he wants.  Money has lost whatever charm it ever held for him — probably not much in the first place.    When Lotus became too uptight, too bureaucratic, too far from the true sources of his own satisfaction, Kapor walked.   He simply severed all connections with the company and went out the door.  It stunned everyone — except those who knew him best.
+I don't pry.  It's beside the point.  One might presume, impolitely, that Kapor has at least forty million — that's what he got the year he left Lotus.  People who ought to know claim Kapor has about a hundred and fifty million, give or take a market swing in his stock holdings. If Kapor had stuck with Lotus, as his colleague friend and rival Bill Gates has stuck with his own software start-up, Microsoft, then Kapor would likely have much the same fortune Gates has — somewhere in the neighborhood of three billion, give or take a few hundred million.   Mitch Kapor has all the money he wants.  Money has lost whatever charm it ever held for him — probably not much in the first place.    When Lotus became too uptight, too bureaucratic, too far from the true sources of his own satisfaction, Kapor walked.   He simply severed all connections with the company and went out the door.  It stunned everyone — except those who knew him best.
 
-          Kapor has not had to strain his resources to wreak a thorough transformation in cyberspace politics.  In its first year, EFF's budget was about a quarter of a million dollars. Kapor is running EFF out of his pocket change.
+Kapor has not had to strain his resources to wreak a thorough transformation in cyberspace politics.  In its first year, EFF's budget was about a quarter of a million dollars. Kapor is running EFF out of his pocket change.
 
-          Kapor takes pains to tell me that he does not consider himself a civil libertarian per se.  He has spent quite some time with true-blue civil libertarians lately, and there's a political-correctness to them that bugs him.  They seem to him to spend entirely too much time in legal nitpicking and not enough vigorously exercising civil rights in the everyday real world.
+Kapor takes pains to tell me that he does not consider himself a civil libertarian per se.  He has spent quite some time with true-blue civil libertarians lately, and there's a political-correctness to them that bugs him.  They seem to him to spend entirely too much time in legal nitpicking and not enough vigorously exercising civil rights in the everyday real world.
 
-           Kapor is an entrepreneur.  Like all hackers, he prefers his involvements  direct, personal, and hands-on. "The fact that EFF has a node on the Internet is a great thing.  We're a publisher.  We're a distributor of information."  Among the items the eff.org Internet node carries is back issues of *Phrack.*  They had an internal debate about that in EFF, and finally decided to take the plunge.  They might carry other digital underground publications — but if they do, he says, "we'll certainly carry Donn Parker, and anything Gail Thackeray wants to put up.  We'll turn it into a public library, that has the whole spectrum of use.  Evolve in the direction of people making up their own minds."  He grins.  "We'll try to label all the editorials."
+ Kapor is an entrepreneur.  Like all hackers, he prefers his involvements  direct, personal, and hands-on. "The fact that EFF has a node on the Internet is a great thing.  We're a publisher.  We're a distributor of information."  Among the items the eff.org Internet node carries is back issues of *Phrack.*  They had an internal debate about that in EFF, and finally decided to take the plunge.  They might carry other digital underground publications — but if they do, he says, "we'll certainly carry Donn Parker, and anything Gail Thackeray wants to put up.  We'll turn it into a public library, that has the whole spectrum of use.  Evolve in the direction of people making up their own minds."  He grins.  "We'll try to label all the editorials."
 
-          Kapor is determined to tackle the technicalities of the Internet in the service of the public interest.   "The problem with being a node on the Net today is that you've got to have a captive technical specialist.  We have Chris Davis around, for the care and feeding of the balky beast! We couldn't do it ourselves!"
+Kapor is determined to tackle the technicalities of the Internet in the service of the public interest.   "The problem with being a node on the Net today is that you've got to have a captive technical specialist.  We have Chris Davis around, for the care and feeding of the balky beast! We couldn't do it ourselves!"
 
-          He pauses.  "So one direction in which technology has to evolve is much more standardized units, that a non-technical person can feel comfortable with.  It's the same shift as from minicomputers to PCs.  I can see a future in which any person can have a Node on the Net.  Any person can be a publisher.  It's better than the media we now have.  It's possible.  We're working actively."
+He pauses.  "So one direction in which technology has to evolve is much more standardized units, that a non-technical person can feel comfortable with.  It's the same shift as from minicomputers to PCs.  I can see a future in which any person can have a Node on the Net.  Any person can be a publisher.  It's better than the media we now have.  It's possible.  We're working actively."
 
-          Kapor is in his element now, fluent, thoroughly in command in his material.   "You go tell a hardware Internet hacker that everyone should have a node on the Net," he says, "and the first thing they're going to say is, 'IP doesn't scale!'"  ("IP" is the interface protocol for the Internet.  As it currently exists, the IP software is simply not capable of indefinite expansion; it will run out of usable addresses, it will saturate.)   "The answer," Kapor says,  "is:  evolve the protocol!  Get the smart people together and figure out what to do.  Do we add ID?  Do we add new protocol?  Don't just say, *we can't do it.*"
+Kapor is in his element now, fluent, thoroughly in command in his material.   "You go tell a hardware Internet hacker that everyone should have a node on the Net," he says, "and the first thing they're going to say is, 'IP doesn't scale!'"  ("IP" is the interface protocol for the Internet.  As it currently exists, the IP software is simply not capable of indefinite expansion; it will run out of usable addresses, it will saturate.)   "The answer," Kapor says,  "is:  evolve the protocol!  Get the smart people together and figure out what to do.  Do we add ID?  Do we add new protocol?  Don't just say, *we can't do it.*"
 
-          Getting smart people together to figure out what to do is a skill at which Kapor clearly excels.   I counter that people on the Internet rather enjoy their elite technical status, and don't seem particularly anxious to democratize the Net.
+Getting smart people together to figure out what to do is a skill at which Kapor clearly excels.   I counter that people on the Internet rather enjoy their elite technical status, and don't seem particularly anxious to democratize the Net.
 
-          Kapor agrees, with a show of scorn.  "I tell them that this is the snobbery of the people on the *Mayflower* looking down their noses at the people who came over *on the second boat!*   Just because they got here a year, or five years, or ten years before everybody else, that doesn't give them ownership of cyberspace!  By what right?"
+Kapor agrees, with a show of scorn.  "I tell them that this is the snobbery of the people on the *Mayflower* looking down their noses at the people who came over *on the second boat!*   Just because they got here a year, or five years, or ten years before everybody else, that doesn't give them ownership of cyberspace!  By what right?"
 
-          I remark that the telcos are an electronic network, too, and they seem to guard their specialized knowledge pretty closely.
+I remark that the telcos are an electronic network, too, and they seem to guard their specialized knowledge pretty closely.
 
-          Kapor ripostes that the telcos and the Internet are entirely different animals.  "The Internet is an open system, everything is published, everything gets argued about, basically by anybody who can get in.  Mostly, it's exclusive and elitist just because it's so difficult.  Let's make it easier to use."
+Kapor ripostes that the telcos and the Internet are entirely different animals.  "The Internet is an open system, everything is published, everything gets argued about, basically by anybody who can get in.  Mostly, it's exclusive and elitist just because it's so difficult.  Let's make it easier to use."
 
-          On the other hand, he allows with a swift change of emphasis, the so-called elitists do have a point as well. "Before people start coming in, who are new, who want to make suggestions, and criticize the Net as 'all screwed up'....  They should at least take the time to understand the culture on its own terms.  It has its own history — show some respect for it.  I'm a conservative, to that extent."
+On the other hand, he allows with a swift change of emphasis, the so-called elitists do have a point as well. "Before people start coming in, who are new, who want to make suggestions, and criticize the Net as 'all screwed up'....  They should at least take the time to understand the culture on its own terms.  It has its own history — show some respect for it.  I'm a conservative, to that extent."
 
-          The Internet is Kapor's paradigm for the future of telecommunications.  The Internet is decentralized, non-heirarchical, almost anarchic.  There are no bosses, no chain of command, no secret data.  If each node obeys the general interface standards, there's simply no need for any central network authority.
+The Internet is Kapor's paradigm for the future of telecommunications.  The Internet is decentralized, non-heirarchical, almost anarchic.  There are no bosses, no chain of command, no secret data.  If each node obeys the general interface standards, there's simply no need for any central network authority.
 
-          Wouldn't that spell the doom of AT&T as an institution?  I ask.
+Wouldn't that spell the doom of AT&T as an institution?  I ask.
 
-          That prospect doesn't faze Kapor for a moment. "Their  big advantage, that they have now, is that they have all of the wiring.  But two things are happening.  Anyone with right-of-way is putting down fiber — Southern Pacific Railroad, people like that — there's enormous 'dark fiber' laid in."  ("Dark Fiber" is fiber-optic cable, whose enormous capacity so exceeds the demands of current usage that much of the fiber still has no light-signals on it - - it's still 'dark,' awaiting future use.)
+That prospect doesn't faze Kapor for a moment. "Their  big advantage, that they have now, is that they have all of the wiring.  But two things are happening.  Anyone with right-of-way is putting down fiber — Southern Pacific Railroad, people like that — there's enormous 'dark fiber' laid in."  ("Dark Fiber" is fiber-optic cable, whose enormous capacity so exceeds the demands of current usage that much of the fiber still has no light-signals on it - - it's still 'dark,' awaiting future use.)
 
-          "The other thing that's happening is the local-loop stuff is going to go wireless.  Everyone from Bellcore to the cable TV companies to AT&T wants to put in these things called 'personal communication systems.'  So you could have local competition — you could have multiplicity of people, a bunch of neighborhoods, sticking stuff up on poles.  And a bunch of other people laying in dark fiber. So what happens to the telephone companies?  There's enormous pressure on them from both sides.
+"The other thing that's happening is the local-loop stuff is going to go wireless.  Everyone from Bellcore to the cable TV companies to AT&T wants to put in these things called 'personal communication systems.'  So you could have local competition — you could have multiplicity of people, a bunch of neighborhoods, sticking stuff up on poles.  And a bunch of other people laying in dark fiber. So what happens to the telephone companies?  There's enormous pressure on them from both sides.
 
-          "The more I look at this, the more I believe that in a post-industrial, digital world, the idea of regulated monopolies is bad.  People will look back on it and say that in the 19th and 20th centuries the idea of public utilities was an okay compromise.  You needed one set of wires in the ground.  It was too economically inefficient, otherwise. And that meant one entity running it.  But now, with pieces being wireless — the connections are going to be via high-level interfaces, not via wires.  I mean, *ultimately* there are going to be wires — but the wires are just a commodity. Fiber, wireless.  You no longer *need*  a utility."
+"The more I look at this, the more I believe that in a post-industrial, digital world, the idea of regulated monopolies is bad.  People will look back on it and say that in the 19th and 20th centuries the idea of public utilities was an okay compromise.  You needed one set of wires in the ground.  It was too economically inefficient, otherwise. And that meant one entity running it.  But now, with pieces being wireless — the connections are going to be via high-level interfaces, not via wires.  I mean, *ultimately* there are going to be wires — but the wires are just a commodity. Fiber, wireless.  You no longer *need*  a utility."
 
-          Water utilities?  Gas utilities?
+Water utilities?  Gas utilities?
 
-          Of course we still need those, he agrees.   "But when what you're moving is information, instead of physical substances, then you can play by a different set of rules. We're evolving those rules now!   Hopefully you can have a much more decentralized system, and one in which there's more competition in the marketplace.
+Of course we still need those, he agrees.   "But when what you're moving is information, instead of physical substances, then you can play by a different set of rules. We're evolving those rules now!   Hopefully you can have a much more decentralized system, and one in which there's more competition in the marketplace.
 
-          "The role of government will be to make sure that nobody cheats.  The proverbial 'level playing field.'   A policy that prevents monopolization.  It should result in better service, lower prices, more choices, and local empowerment."  He smiles.  "I'm very big on local empowerment."
+"The role of government will be to make sure that nobody cheats.  The proverbial 'level playing field.'   A policy that prevents monopolization.  It should result in better service, lower prices, more choices, and local empowerment."  He smiles.  "I'm very big on local empowerment."
 
-          Kapor is a man with a vision.  It's a very novel vision which he and his allies are working out in considerable detail and with great energy.  Dark, cynical, morbid cyberpunk that I am, I cannot avoid considering some of the darker implications of "decentralized, nonhierarchical, locally empowered" networking.
+Kapor is a man with a vision.  It's a very novel vision which he and his allies are working out in considerable detail and with great energy.  Dark, cynical, morbid cyberpunk that I am, I cannot avoid considering some of the darker implications of "decentralized, nonhierarchical, locally empowered" networking.
 
-          I remark that some pundits have suggested that electronic networking — faxes, phones, small-scale photocopiers — played a strong role in dissolving the power of centralized communism and causing the collapse of the Warsaw Pact.
+I remark that some pundits have suggested that electronic networking — faxes, phones, small-scale photocopiers — played a strong role in dissolving the power of centralized communism and causing the collapse of the Warsaw Pact.
 
-          Socialism is totally discredited, says Kapor, fresh back from the Eastern Bloc.  The idea that faxes did it, all by themselves, is rather wishful thinking.
+Socialism is totally discredited, says Kapor, fresh back from the Eastern Bloc.  The idea that faxes did it, all by themselves, is rather wishful thinking.
 
-          Has it occurred to him that electronic networking might corrode America's industrial and political infrastructure to the point where the whole thing becomes untenable, unworkable — and the old order just collapses headlong, like in Eastern Europe?
+Has it occurred to him that electronic networking might corrode America's industrial and political infrastructure to the point where the whole thing becomes untenable, unworkable — and the old order just collapses headlong, like in Eastern Europe?
 
-          "No," Kapor says flatly.  "I think that's extraordinarily unlikely.  In part, because ten or fifteen years ago, I had similar hopes about personal computers — which utterly failed to materialize." He grins wryly, then his eyes narrow. "I'm *very* opposed to techno-utopias.  Every time I see one, I either run away, or try to kill it."
+"No," Kapor says flatly.  "I think that's extraordinarily unlikely.  In part, because ten or fifteen years ago, I had similar hopes about personal computers — which utterly failed to materialize." He grins wryly, then his eyes narrow. "I'm *very* opposed to techno-utopias.  Every time I see one, I either run away, or try to kill it."
 
-          It dawns on me then that Mitch Kapor is not trying to make the world safe for democracy.  He certainly is not trying to make it safe for anarchists or utopians — least of all for computer intruders or electronic rip-off artists. What he really hopes to do is make the world safe for future Mitch Kapors.  This world of decentralized, small-scale nodes, with instant global access for the best and brightest, would be a perfect milieu for the shoestring attic capitalism that made Mitch Kapor what he is today.
+It dawns on me then that Mitch Kapor is not trying to make the world safe for democracy.  He certainly is not trying to make it safe for anarchists or utopians — least of all for computer intruders or electronic rip-off artists. What he really hopes to do is make the world safe for future Mitch Kapors.  This world of decentralized, small-scale nodes, with instant global access for the best and brightest, would be a perfect milieu for the shoestring attic capitalism that made Mitch Kapor what he is today.
 
-          Kapor is a very bright man.  He has a rare combination of visionary intensity with a strong practical streak.  The Board of the EFF:  John Barlow, Jerry Berman of the ACLU, Stewart Brand, John Gilmore, Steve Wozniak, and Esther Dyson, the doyenne of East-West computer entrepreneurism — share his gift, his vision, and his formidable networking talents.   They are people of the 1960s,  winnowed-out by its turbulence and rewarded with wealth and influence.   They are some of the best and the brightest that the electronic community has to offer.  But can they do it, in the real world?  Or are they only dreaming?   They are so few.  And there is so much against them.
+Kapor is a very bright man.  He has a rare combination of visionary intensity with a strong practical streak.  The Board of the EFF:  John Barlow, Jerry Berman of the ACLU, Stewart Brand, John Gilmore, Steve Wozniak, and Esther Dyson, the doyenne of East-West computer entrepreneurism — share his gift, his vision, and his formidable networking talents.   They are people of the 1960s,  winnowed-out by its turbulence and rewarded with wealth and influence.   They are some of the best and the brightest that the electronic community has to offer.  But can they do it, in the real world?  Or are they only dreaming?   They are so few.  And there is so much against them.
 
-          I leave Kapor and his networking employees struggling cheerfully with the promising intricacies of their newly installed Macintosh System 7 software.  The next day is Saturday.  EFF is closed.  I pay a few visits to points of interest downtown.
+I leave Kapor and his networking employees struggling cheerfully with the promising intricacies of their newly installed Macintosh System 7 software.  The next day is Saturday.  EFF is closed.  I pay a few visits to points of interest downtown.
 
-          One of them is the birthplace of the telephone.
+One of them is the birthplace of the telephone.
 
-          It's marked by a bronze plaque in a plinth of black-and-white speckled granite.  It sits in the plaza of the John F. Kennedy Federal Building, the very place where Kapor was once fingerprinted by the FBI.
+It's marked by a bronze plaque in a plinth of black-and-white speckled granite.  It sits in the plaza of the John F. Kennedy Federal Building, the very place where Kapor was once fingerprinted by the FBI.
 
-          The plaque has a bas-relief picture of Bell's original telephone.  "BIRTHPLACE OF THE TELEPHONE," it reads.  "Here, on June 2, 1875, Alexander Graham Bell and Thomas A. Watson first transmitted sound over wires.
+The plaque has a bas-relief picture of Bell's original telephone.  "BIRTHPLACE OF THE TELEPHONE," it reads.  "Here, on June 2, 1875, Alexander Graham Bell and Thomas A. Watson first transmitted sound over wires.
 
-          "This successful experiment was completed in a fifth floor garret at what was then 109 Court Street and marked the beginning of world-wide telephone service."
+"This successful experiment was completed in a fifth floor garret at what was then 109 Court Street and marked the beginning of world-wide telephone service."
 
-          109 Court Street is long gone.  Within sight of Bell's plaque, across a street, is one of the central offices of NYNEX, the local  Bell RBOC, on 6 Bowdoin Square.
+109 Court Street is long gone.  Within sight of Bell's plaque, across a street, is one of the central offices of NYNEX, the local  Bell RBOC, on 6 Bowdoin Square.
 
-          I cross the street and circle the telco building, slowly, hands in my jacket pockets.  It's a bright, windy, New England autumn day.   The central office is a handsome 1940s-era megalith in late Art Deco, eight stories high.
+I cross the street and circle the telco building, slowly, hands in my jacket pockets.  It's a bright, windy, New England autumn day.   The central office is a handsome 1940s-era megalith in late Art Deco, eight stories high.
 
-          Parked outside the back is a power-generation truck. The generator strikes me as rather anomalous.  Don't they already have their own generators in this eight-story monster?  Then the suspicion strikes me that NYNEX must have heard of the September 17 AT&T power-outage which crashed New York City.  Belt-and-suspenders, this generator.  Very telco.
+Parked outside the back is a power-generation truck. The generator strikes me as rather anomalous.  Don't they already have their own generators in this eight-story monster?  Then the suspicion strikes me that NYNEX must have heard of the September 17 AT&T power-outage which crashed New York City.  Belt-and-suspenders, this generator.  Very telco.
 
-          Over the glass doors of the front entrance is a handsome bronze bas-relief of Art Deco vines, sunflowers, and birds, entwining the Bell logo and the legend NEW ENGLAND TELEPHONE AND TELEGRAPH COMPANY — an entity which no longer officially exists.
+Over the glass doors of the front entrance is a handsome bronze bas-relief of Art Deco vines, sunflowers, and birds, entwining the Bell logo and the legend NEW ENGLAND TELEPHONE AND TELEGRAPH COMPANY — an entity which no longer officially exists.
 
-          The doors are locked securely.  I peer through the shadowed glass.  Inside is an official poster reading:
+The doors are locked securely.  I peer through the shadowed glass.  Inside is an official poster reading:
 
-          "New England Telephone a NYNEX Company
+"New England Telephone a NYNEX Company
 
-                    ATTENTION
+ATTENTION
 
-          "All persons while on New England Telephone Company premises are required to visibly wear their identification cards (C.C.P. Section 2, Page 1).
+"All persons while on New England Telephone Company premises are required to visibly wear their identification cards (C.C.P. Section 2, Page 1).
 
-          "Visitors, vendors, contractors, and all others are required to visibly wear a daily pass.
-                         "Thank you.
-                         Kevin C. Stanton.
-                         Building Security Coordinator."
+"Visitors, vendors, contractors, and all others are required to visibly wear a daily pass.
+     "Thank you.
+     Kevin C. Stanton.
+     Building Security Coordinator."
 
-          Outside, around the corner, is a pull-down ribbed metal security door, a locked delivery entrance.  Some passing stranger has grafitti-tagged this door, with a single word in red spray-painted cursive:
+Outside, around the corner, is a pull-down ribbed metal security door, a locked delivery entrance.  Some passing stranger has grafitti-tagged this door, with a single word in red spray-painted cursive:
 
-                    *Fury*
+*Fury*
 
 ---
 
-          My book on the Hacker Crackdown is almost over now.  I have deliberately saved the best for last.
+My book on the Hacker Crackdown is almost over now.  I have deliberately saved the best for last.
 
-          In February 1991, I attended the CPSR Public Policy Roundtable, in Washington, DC.   CPSR, Computer Professionals for Social Responsibility, was a sister organization of EFF, or perhaps its aunt, being older and perhaps somewhat wiser in the ways of the world of politics.
+In February 1991, I attended the CPSR Public Policy Roundtable, in Washington, DC.   CPSR, Computer Professionals for Social Responsibility, was a sister organization of EFF, or perhaps its aunt, being older and perhaps somewhat wiser in the ways of the world of politics.
 
-          Computer Professionals for  Social Responsibility began in 1981 in Palo Alto, as an informal discussion group of Californian computer scientists and technicians, united by nothing more than an electronic mailing list.   This typical high-tech ad-hocracy received the dignity of its own acronym in 1982, and was formally incorporated in 1983.
+Computer Professionals for  Social Responsibility began in 1981 in Palo Alto, as an informal discussion group of Californian computer scientists and technicians, united by nothing more than an electronic mailing list.   This typical high-tech ad-hocracy received the dignity of its own acronym in 1982, and was formally incorporated in 1983.
 
-          CPSR lobbied government and public alike with an educational outreach effort, sternly warning against any foolish and unthinking trust in complex computer systems.  CPSR insisted that mere computers should never be considered a magic panacea for humanity's social, ethical or political problems.  CPSR members were especially troubled about the stability, safety, and dependability of military computer systems, and very especially troubled by those systems controlling nuclear arsenals.  CPSR was best-known for its persistent and well-publicized attacks on the scientific credibility of the Strategic Defense Initiative ("Star Wars").
+CPSR lobbied government and public alike with an educational outreach effort, sternly warning against any foolish and unthinking trust in complex computer systems.  CPSR insisted that mere computers should never be considered a magic panacea for humanity's social, ethical or political problems.  CPSR members were especially troubled about the stability, safety, and dependability of military computer systems, and very especially troubled by those systems controlling nuclear arsenals.  CPSR was best-known for its persistent and well-publicized attacks on the scientific credibility of the Strategic Defense Initiative ("Star Wars").
 
-          In 1990, CPSR was the nation's veteran cyber-political activist group, with over two thousand members in twenty-one local chapters across the US.  It was especially active in Boston, Silicon Valley, and Washington DC, where its Washington office sponsored the Public Policy Roundtable.
+In 1990, CPSR was the nation's veteran cyber-political activist group, with over two thousand members in twenty-one local chapters across the US.  It was especially active in Boston, Silicon Valley, and Washington DC, where its Washington office sponsored the Public Policy Roundtable.
 
-          The Roundtable, however, had been funded by EFF, which had passed CPSR an extensive grant for operations. This was the first large-scale, official meeting of what was to become the electronic civil libertarian community.
+The Roundtable, however, had been funded by EFF, which had passed CPSR an extensive grant for operations. This was the first large-scale, official meeting of what was to become the electronic civil libertarian community.
 
-          Sixty people attended, myself included — in this instance, not so much as a journalist as a cyberpunk author.   Many of the luminaries of the field took part: Kapor and Godwin as a matter of course.  Richard Civille and Marc Rotenberg of CPSR.  Jerry Berman of the ACLU. John Quarterman, author of *The Matrix.*  Steven Levy, author of *Hackers.*   George Perry and Sandy Weiss of Prodigy Services, there to network about the civil-liberties troubles their young commercial network was experiencing.  Dr. Dorothy Denning.  Cliff Figallo, manager of the Well.  Steve Jackson was there, having finally found his ideal target audience, and so was Craig Neidorf, "Knight Lightning" himself, with his attorney, Sheldon Zenner.  Katie Hafner, science journalist, and co-author of *Cyberpunk:  Outlaws and Hackers on the Computer Frontier.*  Dave Farber, ARPAnet pioneer and fabled Internet guru.  Janlori Goldman of the ACLU's Project on Privacy and Technology.  John Nagle of Autodesk and the Well.  Don Goldberg of the House Judiciary Committee.  Tom Guidoboni, the defense attorney in the Internet Worm case.  Lance Hoffman, computer-science professor at The George Washington University.  Eli Noam of Columbia.  And a host of others no less distinguished.
+Sixty people attended, myself included — in this instance, not so much as a journalist as a cyberpunk author.   Many of the luminaries of the field took part: Kapor and Godwin as a matter of course.  Richard Civille and Marc Rotenberg of CPSR.  Jerry Berman of the ACLU. John Quarterman, author of *The Matrix.*  Steven Levy, author of *Hackers.*   George Perry and Sandy Weiss of Prodigy Services, there to network about the civil-liberties troubles their young commercial network was experiencing.  Dr. Dorothy Denning.  Cliff Figallo, manager of the Well.  Steve Jackson was there, having finally found his ideal target audience, and so was Craig Neidorf, "Knight Lightning" himself, with his attorney, Sheldon Zenner.  Katie Hafner, science journalist, and co-author of *Cyberpunk:  Outlaws and Hackers on the Computer Frontier.*  Dave Farber, ARPAnet pioneer and fabled Internet guru.  Janlori Goldman of the ACLU's Project on Privacy and Technology.  John Nagle of Autodesk and the Well.  Don Goldberg of the House Judiciary Committee.  Tom Guidoboni, the defense attorney in the Internet Worm case.  Lance Hoffman, computer-science professor at The George Washington University.  Eli Noam of Columbia.  And a host of others no less distinguished.
 
-          Senator Patrick Leahy delivered the keynote address, expressing his determination to keep ahead of the curve on the issue of electronic free speech.  The address was well-received, and the sense of excitement was palpable. Every panel discussion was interesting — some were entirely compelling.  People networked with an almost frantic interest.
+Senator Patrick Leahy delivered the keynote address, expressing his determination to keep ahead of the curve on the issue of electronic free speech.  The address was well-received, and the sense of excitement was palpable. Every panel discussion was interesting — some were entirely compelling.  People networked with an almost frantic interest.
 
-          I myself had a most interesting and cordial lunch discussion with Noel and Jeanne Gayler, Admiral Gayler being a former director of the National Security Agency. As this was the first known encounter between an actual no-kidding cyberpunk and a chief executive of America's largest and best-financed electronic espionage apparat, there was naturally a bit of eyebrow-raising on both sides.
+I myself had a most interesting and cordial lunch discussion with Noel and Jeanne Gayler, Admiral Gayler being a former director of the National Security Agency. As this was the first known encounter between an actual no-kidding cyberpunk and a chief executive of America's largest and best-financed electronic espionage apparat, there was naturally a bit of eyebrow-raising on both sides.
 
-          Unfortunately, our discussion was off-the-record.  In fact all  the discussions at the CPSR were officially off-the-record, the idea being to do some serious networking in an atmosphere of complete frankness, rather than to stage a media circus.
+Unfortunately, our discussion was off-the-record.  In fact all  the discussions at the CPSR were officially off-the-record, the idea being to do some serious networking in an atmosphere of complete frankness, rather than to stage a media circus.
 
-          In any case, CPSR Roundtable, though interesting and intensely valuable, was as nothing compared to the truly mind-boggling event that transpired a mere month later.
+In any case, CPSR Roundtable, though interesting and intensely valuable, was as nothing compared to the truly mind-boggling event that transpired a mere month later.
 
 ---
 
-          "Computers, Freedom and Privacy."  Four hundred people from every conceivable corner of America's electronic community.  As a science fiction writer, I have been to some weird gigs in my day, but this thing is truly *beyond the pale.*   Even "Cyberthon," Point Foundation's "Woodstock of Cyberspace" where Bay Area psychedelia collided headlong with the emergent world of computerized virtual reality, was like a Kiwanis Club gig compared to this astonishing do.
+"Computers, Freedom and Privacy."  Four hundred people from every conceivable corner of America's electronic community.  As a science fiction writer, I have been to some weird gigs in my day, but this thing is truly *beyond the pale.*   Even "Cyberthon," Point Foundation's "Woodstock of Cyberspace" where Bay Area psychedelia collided headlong with the emergent world of computerized virtual reality, was like a Kiwanis Club gig compared to this astonishing do.
 
-          The "electronic community" had reached an apogee. Almost every principal in this book is in attendance.  Civil Libertarians.  Computer Cops.  The Digital Underground. Even a few discreet telco people.   Colorcoded dots for lapel tags are distributed.  Free Expression issues.  Law Enforcement.  Computer Security.  Privacy.  Journalists. Lawyers.  Educators.  Librarians.  Programmers.  Stylish punk-black dots for the hackers and phone phreaks. Almost everyone here seems to wear eight or nine dots, to have six or seven professional hats.
+The "electronic community" had reached an apogee. Almost every principal in this book is in attendance.  Civil Libertarians.  Computer Cops.  The Digital Underground. Even a few discreet telco people.   Colorcoded dots for lapel tags are distributed.  Free Expression issues.  Law Enforcement.  Computer Security.  Privacy.  Journalists. Lawyers.  Educators.  Librarians.  Programmers.  Stylish punk-black dots for the hackers and phone phreaks. Almost everyone here seems to wear eight or nine dots, to have six or seven professional hats.
 
-          It is a community.  Something like Lebanon perhaps, but a digital nation. People who had feuded all year in the national press, people who entertained the deepest suspicions of one another's motives and ethics, are now in each others' laps.   "Computers, Freedom and Privacy" had every reason in the world to turn ugly, and yet except for small irruptions of puzzling nonsense from the convention's token lunatic, a surprising bonhomie reigned.  CFP was like a wedding-party in which two lovers, unstable bride and charlatan groom, tie the knot in a clearly disastrous matrimony.
+It is a community.  Something like Lebanon perhaps, but a digital nation. People who had feuded all year in the national press, people who entertained the deepest suspicions of one another's motives and ethics, are now in each others' laps.   "Computers, Freedom and Privacy" had every reason in the world to turn ugly, and yet except for small irruptions of puzzling nonsense from the convention's token lunatic, a surprising bonhomie reigned.  CFP was like a wedding-party in which two lovers, unstable bride and charlatan groom, tie the knot in a clearly disastrous matrimony.
 
-          It is clear to both families — even to neighbors and random guests — that this is not a workable relationship, and yet the young couple's desperate attraction can brook no further delay.   They simply cannot help themselves. Crockery will fly, shrieks from their newlywed home will wake the city block, divorce waits in the wings like a vulture over the Kalahari, and yet this is a wedding, and there is going to be a child from it.  Tragedies end in death; comedies in marriage.  The Hacker Crackdown is ending in marriage.  And there will be a child.
+It is clear to both families — even to neighbors and random guests — that this is not a workable relationship, and yet the young couple's desperate attraction can brook no further delay.   They simply cannot help themselves. Crockery will fly, shrieks from their newlywed home will wake the city block, divorce waits in the wings like a vulture over the Kalahari, and yet this is a wedding, and there is going to be a child from it.  Tragedies end in death; comedies in marriage.  The Hacker Crackdown is ending in marriage.  And there will be a child.
 
-          From the beginning, anomalies reign.  John Perry Barlow, cyberspace ranger, is here.  His color photo in *The New York Times Magazine,* Barlow scowling in a grim Wyoming snowscape, with long black coat, dark hat, a Macintosh SE30 propped on a fencepost and an awesome frontier rifle tucked under one arm,  will be the single most striking visual image of the Hacker Crackdown.   And he is CFP's guest of honor — along with Gail Thackeray of the FCIC!   What on earth do they expect these dual guests to do with each other?  Waltz?
+From the beginning, anomalies reign.  John Perry Barlow, cyberspace ranger, is here.  His color photo in *The New York Times Magazine,* Barlow scowling in a grim Wyoming snowscape, with long black coat, dark hat, a Macintosh SE30 propped on a fencepost and an awesome frontier rifle tucked under one arm,  will be the single most striking visual image of the Hacker Crackdown.   And he is CFP's guest of honor — along with Gail Thackeray of the FCIC!   What on earth do they expect these dual guests to do with each other?  Waltz?
 
-          Barlow delivers the first address. Uncharacteristically, he is hoarse — the sheer volume of roadwork has worn him down.  He speaks briefly, congenially, in a plea for conciliation, and takes his leave to a storm of applause.
+Barlow delivers the first address. Uncharacteristically, he is hoarse — the sheer volume of roadwork has worn him down.  He speaks briefly, congenially, in a plea for conciliation, and takes his leave to a storm of applause.
 
-          Then Gail Thackeray takes the stage.  She's visibly nervous.  She's been on the Well a lot lately.  Reading those Barlow posts.   Following Barlow is a challenge to anyone.  In honor of the famous lyricist for the Grateful Dead, she announces reedily, she is going to read — *a poem.*  A poem she has composed herself.
+Then Gail Thackeray takes the stage.  She's visibly nervous.  She's been on the Well a lot lately.  Reading those Barlow posts.   Following Barlow is a challenge to anyone.  In honor of the famous lyricist for the Grateful Dead, she announces reedily, she is going to read — *a poem.*  A poem she has composed herself.
 
-          It's an awful poem, doggerel in the rollicking meter of Robert W. Service's *The Cremation of Sam McGee,*  but it is in fact, a poem.  It's the *Ballad of the Electronic Frontier!*  A poem about the Hacker Crackdown and the sheer unlikelihood of CFP.   It's full of in-jokes.  The score or so cops in the audience, who are sitting together in a nervous claque, are absolutely cracking-up.  Gail's poem is the funniest goddamn thing they've ever heard.  The hackers and civil-libs, who had this woman figured for Ilsa She-Wolf of the SS, are staring with their jaws hanging loosely.  Never in the wildest reaches of their imagination had they figured Gail Thackeray was capable of such a totally off-the-wall move.  You can see them punching their mental CONTROL-RESET buttons.   Jesus!  This woman's a hacker weirdo!  She's  *just like us!*    God, this changes everything!
+It's an awful poem, doggerel in the rollicking meter of Robert W. Service's *The Cremation of Sam McGee,*  but it is in fact, a poem.  It's the *Ballad of the Electronic Frontier!*  A poem about the Hacker Crackdown and the sheer unlikelihood of CFP.   It's full of in-jokes.  The score or so cops in the audience, who are sitting together in a nervous claque, are absolutely cracking-up.  Gail's poem is the funniest goddamn thing they've ever heard.  The hackers and civil-libs, who had this woman figured for Ilsa She-Wolf of the SS, are staring with their jaws hanging loosely.  Never in the wildest reaches of their imagination had they figured Gail Thackeray was capable of such a totally off-the-wall move.  You can see them punching their mental CONTROL-RESET buttons.   Jesus!  This woman's a hacker weirdo!  She's  *just like us!*    God, this changes everything!
 
-            Al Bayse, computer technician for the FBI, had been the only cop at the CPSR Roundtable, dragged there with his arm bent by Dorothy Denning.  He was guarded and tightlipped at CPSR Roundtable; a "lion thrown to the Christians."
+  Al Bayse, computer technician for the FBI, had been the only cop at the CPSR Roundtable, dragged there with his arm bent by Dorothy Denning.  He was guarded and tightlipped at CPSR Roundtable; a "lion thrown to the Christians."
 
-          At CFP, backed by a claque of cops, Bayse suddenly waxes eloquent and even droll, describing the FBI's "NCIC 2000", a gigantic digital catalog of criminal records, as if he has suddenly become some weird hybrid of George Orwell and George Gobel.   Tentatively, he makes an arcane joke about statistical analysis.  At least a third of the crowd laughs aloud.
+At CFP, backed by a claque of cops, Bayse suddenly waxes eloquent and even droll, describing the FBI's "NCIC 2000", a gigantic digital catalog of criminal records, as if he has suddenly become some weird hybrid of George Orwell and George Gobel.   Tentatively, he makes an arcane joke about statistical analysis.  At least a third of the crowd laughs aloud.
 
-          "They didn't laugh at that at my last speech,"  Bayse observes.  He had been addressing cops — *straight*  cops, not computer people.  It had been a worthy meeting, useful one supposes, but nothing like *this.*  There has never been *anything*  like this.  Without any prodding, without any preparation, people in the audience simply begin to ask questions.  Longhairs, freaky people, mathematicians.  Bayse is answering, politely, frankly, fully, like a man walking on air.  The ballroom's atmosphere crackles with surreality.   A female lawyer behind me breaks into a sweat and a hot waft of surprisingly potent and musky perfume flows off her pulse-points.
+"They didn't laugh at that at my last speech,"  Bayse observes.  He had been addressing cops — *straight*  cops, not computer people.  It had been a worthy meeting, useful one supposes, but nothing like *this.*  There has never been *anything*  like this.  Without any prodding, without any preparation, people in the audience simply begin to ask questions.  Longhairs, freaky people, mathematicians.  Bayse is answering, politely, frankly, fully, like a man walking on air.  The ballroom's atmosphere crackles with surreality.   A female lawyer behind me breaks into a sweat and a hot waft of surprisingly potent and musky perfume flows off her pulse-points.
 
-          People are giddy with laughter.  People are interested, fascinated, their eyes so wide and dark that they seem eroticized.  Unlikely daisy-chains form in the halls, around the bar, on the escalators:  cops with hackers, civil rights with FBI, Secret Service with phone phreaks.
+People are giddy with laughter.  People are interested, fascinated, their eyes so wide and dark that they seem eroticized.  Unlikely daisy-chains form in the halls, around the bar, on the escalators:  cops with hackers, civil rights with FBI, Secret Service with phone phreaks.
 
-          Gail Thackeray is at her crispest in a white wool sweater with a tiny Secret Service logo.  "I found Phiber Optik at the payphones, and when he saw my sweater, he turned into a *pillar of salt!*" she chortles.
+Gail Thackeray is at her crispest in a white wool sweater with a tiny Secret Service logo.  "I found Phiber Optik at the payphones, and when he saw my sweater, he turned into a *pillar of salt!*" she chortles.
 
-          Phiber discusses his case at much length with his arresting officer, Don Delaney of the New York State Police.  After an hour's chat, the two of them look ready to begin singing "Auld Lang Syne."  Phiber finally finds the courage to get his worst complaint off his chest.  It isn't so much the arrest.  It was the *charge.*  Pirating service off 900 numbers.  I'm a *programmer,* Phiber insists.  This lame charge is going to hurt my reputation.  It would have been cool to be busted for something happening, like Section 1030 computer intrusion.  Maybe some kind of crime that's scarcely been invented yet.  Not lousy phone fraud.  Phooey.
+Phiber discusses his case at much length with his arresting officer, Don Delaney of the New York State Police.  After an hour's chat, the two of them look ready to begin singing "Auld Lang Syne."  Phiber finally finds the courage to get his worst complaint off his chest.  It isn't so much the arrest.  It was the *charge.*  Pirating service off 900 numbers.  I'm a *programmer,* Phiber insists.  This lame charge is going to hurt my reputation.  It would have been cool to be busted for something happening, like Section 1030 computer intrusion.  Maybe some kind of crime that's scarcely been invented yet.  Not lousy phone fraud.  Phooey.
 
-          Delaney seems regretful.  He had a mountain of possible criminal charges against Phiber Optik.  The kid's gonna plead guilty anyway.  He's a first timer, they always plead.  Coulda charged the kid with most anything, and gotten the same result in the end.  Delaney seems genuinely sorry not to have gratified Phiber in this harmless fashion.  Too late now.  Phiber's pled already. All water under the bridge.  Whaddya gonna do?
+Delaney seems regretful.  He had a mountain of possible criminal charges against Phiber Optik.  The kid's gonna plead guilty anyway.  He's a first timer, they always plead.  Coulda charged the kid with most anything, and gotten the same result in the end.  Delaney seems genuinely sorry not to have gratified Phiber in this harmless fashion.  Too late now.  Phiber's pled already. All water under the bridge.  Whaddya gonna do?
 
-          Delaney's got a good grasp on the hacker mentality. He held a press conference after he busted a bunch of Masters of Deception kids.  Some journo had asked him: "Would you describe these people as *geniuses?*" Delaney's deadpan answer, perfect:  "No, I would describe these people as *defendants.*"   Delaney busts a kid for hacking codes with repeated random dialling.  Tells the press that NYNEX can track this stuff in no time flat nowadays, and a kid has to be *stupid*  to do something so easy to catch.   Dead on again:  hackers don't mind being thought of as Genghis Khan by the straights,  but if there's anything that really gets 'em where they live, it's being called *dumb.*
+Delaney's got a good grasp on the hacker mentality. He held a press conference after he busted a bunch of Masters of Deception kids.  Some journo had asked him: "Would you describe these people as *geniuses?*" Delaney's deadpan answer, perfect:  "No, I would describe these people as *defendants.*"   Delaney busts a kid for hacking codes with repeated random dialling.  Tells the press that NYNEX can track this stuff in no time flat nowadays, and a kid has to be *stupid*  to do something so easy to catch.   Dead on again:  hackers don't mind being thought of as Genghis Khan by the straights,  but if there's anything that really gets 'em where they live, it's being called *dumb.*
 
-          Won't be as much fun for Phiber next time around. As a second offender he's gonna see prison.   Hackers break the law.  They're not geniuses, either.  They're gonna be defendants.  And yet, Delaney muses over a drink in the hotel bar, he has found it impossible to treat them as common criminals.   Delaney knows criminals.  These kids, by comparison, are clueless — there is just no crook vibe off of them, they don't smell right, they're just not *bad.*
+Won't be as much fun for Phiber next time around. As a second offender he's gonna see prison.   Hackers break the law.  They're not geniuses, either.  They're gonna be defendants.  And yet, Delaney muses over a drink in the hotel bar, he has found it impossible to treat them as common criminals.   Delaney knows criminals.  These kids, by comparison, are clueless — there is just no crook vibe off of them, they don't smell right, they're just not *bad.*
 
-          Delaney has seen a lot of action.  He did Vietnam. He's been shot at, he has shot people.  He's a homicide cop from New York.  He has the appearance of a man who has not only seen the shit hit the fan but has seen it splattered across whole city blocks and left to ferment for years.  This guy has been around.
+Delaney has seen a lot of action.  He did Vietnam. He's been shot at, he has shot people.  He's a homicide cop from New York.  He has the appearance of a man who has not only seen the shit hit the fan but has seen it splattered across whole city blocks and left to ferment for years.  This guy has been around.
 
-          He listens to Steve Jackson tell his story.  The dreamy game strategist has been dealt a bad hand.  He has played it for all he is worth.  Under his nerdish SF-fan exterior is a core of iron.   Friends of his say Steve Jackson believes in the rules, believes in fair play.  He will never compromise his principles, never give up.  "Steve," Delaney says to Steve Jackson, "they had some balls, whoever busted you. You're all right!"   Jackson, stunned, falls silent and actually blushes with pleasure.
+He listens to Steve Jackson tell his story.  The dreamy game strategist has been dealt a bad hand.  He has played it for all he is worth.  Under his nerdish SF-fan exterior is a core of iron.   Friends of his say Steve Jackson believes in the rules, believes in fair play.  He will never compromise his principles, never give up.  "Steve," Delaney says to Steve Jackson, "they had some balls, whoever busted you. You're all right!"   Jackson, stunned, falls silent and actually blushes with pleasure.
 
-          Neidorf has grown up a lot in the past year.  The kid is a quick study, you gotta give him that.   Dressed by his mom, the fashion manager for a national clothing chain, Missouri college techie-frat Craig Neidorf out-dappers everyone at this gig but the toniest East Coast lawyers. The iron jaws of prison clanged shut without him and now law school beckons for Neidorf.  He looks like a larval Congressman.
+Neidorf has grown up a lot in the past year.  The kid is a quick study, you gotta give him that.   Dressed by his mom, the fashion manager for a national clothing chain, Missouri college techie-frat Craig Neidorf out-dappers everyone at this gig but the toniest East Coast lawyers. The iron jaws of prison clanged shut without him and now law school beckons for Neidorf.  He looks like a larval Congressman.
 
-          Not a "hacker," our Mr. Neidorf.  He's not interested in computer science.  Why should he be?  He's not interested in writing C code the rest of his life, and besides, he's seen where the chips fall.  To the world of computer science he and *Phrack*  were just a curiosity.  But to the world of law....  The kid has learned where the bodies are buried.  He carries his notebook of press clippings wherever he goes.
+Not a "hacker," our Mr. Neidorf.  He's not interested in computer science.  Why should he be?  He's not interested in writing C code the rest of his life, and besides, he's seen where the chips fall.  To the world of computer science he and *Phrack*  were just a curiosity.  But to the world of law....  The kid has learned where the bodies are buried.  He carries his notebook of press clippings wherever he goes.
 
-          Phiber Optik makes fun of Neidorf for a Midwestern geek, for believing that "Acid Phreak" does acid and listens to acid rock.  Hell no.  Acid's never done *acid!* Acid's into *acid house music.*  Jesus.  The very idea of doing LSD.  Our *parents*  did LSD, ya clown.
+Phiber Optik makes fun of Neidorf for a Midwestern geek, for believing that "Acid Phreak" does acid and listens to acid rock.  Hell no.  Acid's never done *acid!* Acid's into *acid house music.*  Jesus.  The very idea of doing LSD.  Our *parents*  did LSD, ya clown.
 
-            Thackeray suddenly turns upon Craig Neidorf the full lighthouse glare of her attention and begins a determined half-hour attempt to *win the boy over.*  The Joan of Arc of Computer Crime is *giving career advice to Knight Lightning!*   "Your experience would be very valuable — a real asset," she tells him with unmistakeable sixty-thousand-watt sincerity.  Neidorf is fascinated.  He listens with unfeigned attention.  He's nodding and saying yes ma'am.  Yes, Craig, you too can forget all about money and enter the glamorous and horribly underpaid world of PROSECUTING COMPUTER CRIME!  You can put your former friends in prison — ooops....
+Thackeray suddenly turns upon Craig Neidorf the full lighthouse glare of her attention and begins a determined half-hour attempt to *win the boy over.*  The Joan of Arc of Computer Crime is *giving career advice to Knight Lightning!*   "Your experience would be very valuable — a real asset," she tells him with unmistakeable sixty-thousand-watt sincerity.  Neidorf is fascinated.  He listens with unfeigned attention.  He's nodding and saying yes ma'am.  Yes, Craig, you too can forget all about money and enter the glamorous and horribly underpaid world of PROSECUTING COMPUTER CRIME!  You can put your former friends in prison — ooops....
 
-          You cannot go on dueling at modem's length indefinitely.   You cannot beat one another senseless with rolled-up press-clippings.  Sooner or later you have to come directly to grips.  And yet the very act of assembling here has changed the entire situation drastically.   John Quarterman, author of *The Matrix,* explains the Internet at his symposium.  It is the largest news network in the world, it is growing by leaps and bounds, and yet you cannot measure Internet because you cannot stop it in place.  It cannot stop, because there is no one anywhere in the world with the authority to stop Internet.  It changes, yes, it grows, it embeds itself across the post-industrial, postmodern world and it generates community wherever it touches, and it is doing this all by itself.
+You cannot go on dueling at modem's length indefinitely.   You cannot beat one another senseless with rolled-up press-clippings.  Sooner or later you have to come directly to grips.  And yet the very act of assembling here has changed the entire situation drastically.   John Quarterman, author of *The Matrix,* explains the Internet at his symposium.  It is the largest news network in the world, it is growing by leaps and bounds, and yet you cannot measure Internet because you cannot stop it in place.  It cannot stop, because there is no one anywhere in the world with the authority to stop Internet.  It changes, yes, it grows, it embeds itself across the post-industrial, postmodern world and it generates community wherever it touches, and it is doing this all by itself.
 
-          Phiber is different.  A very fin de siecle kid, Phiber Optik.  Barlow says he looks like an Edwardian dandy.   He does rather.  Shaven neck, the sides of his skull cropped hip-hop close, unruly tangle of black hair on top that looks pomaded, he stays up till four a.m.  and misses all the sessions, then hangs out in payphone booths with his acoustic coupler gutsily CRACKING SYSTEMS RIGHT IN THE MIDST OF THE HEAVIEST LAW ENFORCEMENT DUDES IN THE U.S., or at least *pretending* to....  Unlike "Frank Drake."  Drake, who wrote Dorothy Denning out of nowhere, and asked for an interview for his cheapo cyberpunk fanzine, and then started grilling her on her ethics.   She was squirmin', too....   Drake, scarecrow-tall with his floppy blond mohawk, rotting tennis shoes and black leather jacket lettered ILLUMINATI in red, gives off an unmistakeable air of the bohemian literatus.  Drake is the kind of guy who reads British industrial design magazines and appreciates William Gibson because the quality of the prose is so tasty.  Drake could never touch a phone or a keyboard again, and he'd still have the nose-ring and the blurry photocopied fanzines and the sampled industrial music.  He's a radical punk with a desktop-publishing rig and an Internet address.  Standing next to Drake, the diminutive Phiber looks like he's been physically coagulated out of phone-lines.  Born to phreak.
+Phiber is different.  A very fin de siecle kid, Phiber Optik.  Barlow says he looks like an Edwardian dandy.   He does rather.  Shaven neck, the sides of his skull cropped hip-hop close, unruly tangle of black hair on top that looks pomaded, he stays up till four a.m.  and misses all the sessions, then hangs out in payphone booths with his acoustic coupler gutsily CRACKING SYSTEMS RIGHT IN THE MIDST OF THE HEAVIEST LAW ENFORCEMENT DUDES IN THE U.S., or at least *pretending* to....  Unlike "Frank Drake."  Drake, who wrote Dorothy Denning out of nowhere, and asked for an interview for his cheapo cyberpunk fanzine, and then started grilling her on her ethics.   She was squirmin', too....   Drake, scarecrow-tall with his floppy blond mohawk, rotting tennis shoes and black leather jacket lettered ILLUMINATI in red, gives off an unmistakeable air of the bohemian literatus.  Drake is the kind of guy who reads British industrial design magazines and appreciates William Gibson because the quality of the prose is so tasty.  Drake could never touch a phone or a keyboard again, and he'd still have the nose-ring and the blurry photocopied fanzines and the sampled industrial music.  He's a radical punk with a desktop-publishing rig and an Internet address.  Standing next to Drake, the diminutive Phiber looks like he's been physically coagulated out of phone-lines.  Born to phreak.
 
-          Dorothy Denning approaches Phiber suddenly.  The two of them are about the same height and body-build. Denning's blue eyes flash behind the round window-frames of her glasses.  "Why did you say I was 'quaint?'" she asks Phiber, quaintly.
+Dorothy Denning approaches Phiber suddenly.  The two of them are about the same height and body-build. Denning's blue eyes flash behind the round window-frames of her glasses.  "Why did you say I was 'quaint?'" she asks Phiber, quaintly.
 
-          It's a perfect description but Phiber is nonplussed... "Well, I uh, you know...."
+It's a perfect description but Phiber is nonplussed... "Well, I uh, you know...."
 
-          "I also think you're quaint, Dorothy," I say, novelist to the rescue, the journo gift of gab...  She is neat and dapper and yet there's an arcane quality to her, something like a Pilgrim Maiden behind leaded glass; if she were six inches high Dorothy Denning would look great inside a china cabinet...  The Cryptographeress....  The Cryptographrix... whatever...   Weirdly, Peter Denning looks just like his wife, you could pick this gentleman out of a thousand guys as the soulmate of Dorothy Denning.  Wearing tailored slacks, a spotless fuzzy varsity sweater, and a neatly knotted academician's tie.... This fineboned, exquisitely polite, utterly civilized and hyperintelligent couple seem to have emerged from some cleaner and finer parallel universe, where humanity exists to do the Brain Teasers column in Scientific American.   Why does this Nice Lady hang out with these unsavory characters?
+"I also think you're quaint, Dorothy," I say, novelist to the rescue, the journo gift of gab...  She is neat and dapper and yet there's an arcane quality to her, something like a Pilgrim Maiden behind leaded glass; if she were six inches high Dorothy Denning would look great inside a china cabinet...  The Cryptographeress....  The Cryptographrix... whatever...   Weirdly, Peter Denning looks just like his wife, you could pick this gentleman out of a thousand guys as the soulmate of Dorothy Denning.  Wearing tailored slacks, a spotless fuzzy varsity sweater, and a neatly knotted academician's tie.... This fineboned, exquisitely polite, utterly civilized and hyperintelligent couple seem to have emerged from some cleaner and finer parallel universe, where humanity exists to do the Brain Teasers column in Scientific American.   Why does this Nice Lady hang out with these unsavory characters?
 
-          Because the time has come for it, that's why. Because she's the best there is at what she does.
+Because the time has come for it, that's why. Because she's the best there is at what she does.
 
-          Donn Parker is here, the Great Bald Eagle of Computer Crime....  With his bald dome, great height, and enormous Lincoln-like hands, the great visionary pioneer of the field plows through the lesser mortals like an icebreaker....  His eyes are fixed on the future with the rigidity of a bronze statue....  Eventually, he tells his audience, all business crime will be computer crime, because businesses will do everything through computers. "Computer crime" as a category will vanish.
+Donn Parker is here, the Great Bald Eagle of Computer Crime....  With his bald dome, great height, and enormous Lincoln-like hands, the great visionary pioneer of the field plows through the lesser mortals like an icebreaker....  His eyes are fixed on the future with the rigidity of a bronze statue....  Eventually, he tells his audience, all business crime will be computer crime, because businesses will do everything through computers. "Computer crime" as a category will vanish.
 
-          In the meantime,  passing fads will flourish and fail and evaporate....  Parker's commanding, resonant voice is sphinxlike, everything is viewed from some eldritch valley of deep historical abstraction...  Yes, they've come and they've gone, these passing flaps in the world of digital computation....  The radio-frequency emanation scandal... KGB and MI5 and CIA do it every day, it's easy, but nobody else ever has....  The salami-slice fraud, mostly mythical...  "Crimoids," he calls them....  Computer viruses are the current crimoid champ, a lot less dangerous than most people let on, but the novelty is fading and there's a crimoid vacuum at the moment, the press is visibly hungering for something more outrageous....  The Great Man shares with us a few speculations on the coming crimoids....  Desktop Forgery!  Wow....  Computers stolen just for the sake of the information within them — data-napping!  Happened in Britain a while ago, could be the coming thing....  Phantom nodes in the Internet!
+In the meantime,  passing fads will flourish and fail and evaporate....  Parker's commanding, resonant voice is sphinxlike, everything is viewed from some eldritch valley of deep historical abstraction...  Yes, they've come and they've gone, these passing flaps in the world of digital computation....  The radio-frequency emanation scandal... KGB and MI5 and CIA do it every day, it's easy, but nobody else ever has....  The salami-slice fraud, mostly mythical...  "Crimoids," he calls them....  Computer viruses are the current crimoid champ, a lot less dangerous than most people let on, but the novelty is fading and there's a crimoid vacuum at the moment, the press is visibly hungering for something more outrageous....  The Great Man shares with us a few speculations on the coming crimoids....  Desktop Forgery!  Wow....  Computers stolen just for the sake of the information within them — data-napping!  Happened in Britain a while ago, could be the coming thing....  Phantom nodes in the Internet!
 
-          Parker handles his overhead projector sheets with an ecclesiastical air...  He wears a grey double-breasted suit, a
+Parker handles his overhead projector sheets with an ecclesiastical air...  He wears a grey double-breasted suit, a
 light blue shirt, and a very quiet tie of understated maroon and blue paisley...  Aphorisms emerge from him with slow, leaden emphasis...  There is no such thing as an adequately secure computer when one faces a sufficiently powerful adversary.... Deterrence is the most socially useful aspect of security...  People are the primary weakness in all information systems...  The entire baseline of computer security must be shifted upward....  Don't ever violate your security by publicly describing your security measures...
 
-          People in the audience are beginning to squirm, and yet there is something about the elemental purity of this guy's philosophy that compels uneasy respect....  Parker sounds like the only sane guy left in the lifeboat, sometimes.  The guy who can prove rigorously, from deep moral principles, that Harvey there, the one with the broken leg and the checkered past, is the one who has to be, err.... that is, Mr. Harvey is best placed to make the necessary sacrifice for the security and indeed the very survival of the rest of this lifeboat's crew....   Computer security, Parker informs us mournfully, is a nasty topic, and we wish we didn't have to have  it...  The security expert, armed with method and logic, must think — imagine — everything that the adversary might do before the adversary might actually do it.   It is as if the criminal's dark brain were an extensive subprogram within the shining cranium of Donn Parker.   He is a Holmes whose Moriarty does not quite yet exist and so must be perfectly simulated.
+People in the audience are beginning to squirm, and yet there is something about the elemental purity of this guy's philosophy that compels uneasy respect....  Parker sounds like the only sane guy left in the lifeboat, sometimes.  The guy who can prove rigorously, from deep moral principles, that Harvey there, the one with the broken leg and the checkered past, is the one who has to be, err.... that is, Mr. Harvey is best placed to make the necessary sacrifice for the security and indeed the very survival of the rest of this lifeboat's crew....   Computer security, Parker informs us mournfully, is a nasty topic, and we wish we didn't have to have  it...  The security expert, armed with method and logic, must think — imagine — everything that the adversary might do before the adversary might actually do it.   It is as if the criminal's dark brain were an extensive subprogram within the shining cranium of Donn Parker.   He is a Holmes whose Moriarty does not quite yet exist and so must be perfectly simulated.
 
-          CFP is a stellar gathering, with the giddiness of a wedding.  It is a happy time, a happy ending, they know their world is changing forever tonight, and they're proud to have been there to see it happen, to talk, to think, to help.
+CFP is a stellar gathering, with the giddiness of a wedding.  It is a happy time, a happy ending, they know their world is changing forever tonight, and they're proud to have been there to see it happen, to talk, to think, to help.
 
-          And yet as night falls, a certain elegiac quality manifests itself, as the crowd gathers beneath the chandeliers with their wineglasses and dessert plates. Something is ending here, gone forever, and it takes a while to pinpoint it.
+And yet as night falls, a certain elegiac quality manifests itself, as the crowd gathers beneath the chandeliers with their wineglasses and dessert plates. Something is ending here, gone forever, and it takes a while to pinpoint it.
 
-          It is the End of the Amateurs.
+It is the End of the Amateurs.
 
 ***********
