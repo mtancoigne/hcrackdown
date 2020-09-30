@@ -1,4 +1,4 @@
-# hcrackdown
+## hcrackdown
 Port of "The Hacker Crackdown" by Bruce Sterling (1994) to markdown
 
 ## What is the "Hacker Crackdown" ?
@@ -11,10 +11,10 @@ It's already available on some websites as [Project Gutemberg](http://www.gutenb
 The port is based on the files found on lib.ru (text files, easy to reuse).
 
 ## Goals of this port
-... So the project behind this port is to create something more complete, in markdown format for easy adaptations. By *more complete*, I mean :
-  - Links to sources/articles, if found on the today's internet
-  - Notes (with links to other mdown files)
-  - Translations (for now, plaintext, but Gettext tools may be really better)
+   So the project behind this port is to create something more complete, in markdown format for easy adaptations. By *more complete*, I mean :
+  - Links to sources/articles, if found on the today's internet.
+  - Notes (with links to other mdown files).
+  - Translations (for now, plaintext, but Gettext tools may be really better).
 
 ## How to help ?
 Fork, commit, make pull requests.
@@ -37,7 +37,7 @@ The work will be organized as follow (feel free to discuss on the issues list fo
 
 
 ## Why ?
-For fun, culture, hapinness.
+For fun, culture, hapinness,learning.
 
 ### And why markdown ?
 Because ...
